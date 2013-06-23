@@ -1,0 +1,68 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 13
+brush
+	name "MainViewIconFleetAsgard0"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 365 , 661 , 32 , 31 ]
+brush
+	name "MainViewIconFleetAsgard1"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 365 , 694 , 32 , 31 ]
+brush
+	name "MainViewIconFleetAsgard2"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 365 , 727 , 32 , 31 ]
+brush
+	name "MainViewIconFleetAsgard3"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 365 , 760 , 32 , 31 ]
+brush
+	name "MainViewIconFleetAsgard4"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 365 , 793 , 32 , 31 ]
+brush
+	name "MainViewIconFleetAsgard5"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 365 , 826 , 32 , 31 ]
+brush
+	name "MainViewIconFleetAsgard6"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 365 , 859 , 32 , 31 ]
+brush
+	name "MainViewIconFleetAsgard7"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 365 , 892 , 32 , 31 ]
+brush
+	name "MainViewIconFleetAsgard8"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 365 , 925 , 32 , 31 ]
+brush
+	name "MainViewIconFleetAsgard9"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 365 , 958 , 32 , 31 ]
+brush
+	name "MainViewIconCannonShellAsgard"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 481 , 31 , 28 , 28 ]
+brush
+	name "MainViewIconStarBaseAsgard"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 42 , 871 , 39 , 39 ]
+brush
+	name "MainViewIconSpaceMineAsgard"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 301 , 31 , 28 , 28 ]

@@ -1,0 +1,35 @@
+TXT
+backdropDimPercentage 0.7
+backdropBrush "DialogBackdrop"
+titleOverlayBrush ""
+size [645 , 870]
+contentRefArea [90, 130, 371, 207]
+titleRefArea [250, 200, 371, 30]
+titleOverlayRefArea [0, 0, 556, 90]
+cancelButton
+	area [263, 600, 170, 46]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 30
+	textOffsetFromLeft 60
+	underlay "TabButtonUnderlayActive"
+	overlay "TabButtonOverlayActive"	
+	icon "DialogScreenCloseButton"
+	text "IDS_DIALOGWINDOW_CANCELBUTTON"
+acceptButton
+	area [465, 600, 170, 46]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 30
+	textOffsetFromLeft 60
+	underlay "TabButtonUnderlayActive"
+	overlay "TabButtonOverlayActive"		
+	icon "DialogScreenAcceptButton"
+	text "IDS_DIALOGWINDOW_ACCEPTBUTTON"
+titleTextId "IDSChangePlayerNameDialogWindowTitle"
+textEntryDef
+	labelFontId "Label"
+	textEntryFontId "TextEntry"
+nameTextEntry
+	area [190, 280, 300, 30]
+	labelWidth 50
+	labelText "IDSChangePlayerNameDialogWindowNameLabel"
+	

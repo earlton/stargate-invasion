@@ -1,0 +1,118 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 23
+brush
+	name "MAINVIEWICON_CAPITALSHIP_GOAULDCOLONY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 1 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_GOAULDCARRIER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 61 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_GOAULDBATTLESHIP"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 31 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_GOAULDSUPPORT"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 121 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_GOAULDSIEGE"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 91 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_GOAULDANTIFIGHTER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 91 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_GOAULDCARRIER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 211 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_GOAULDCOLONY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 1 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_GOAULDSTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 391 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_GOAULDHEAVY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 31 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_GOAULDLIGHT"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 241 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_GOAULDLONGRANGE"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 271 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_GOAULDSCOUT"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 121 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_GOAULDSIEGE"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 61 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_GOAULDUTILITY0"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 331 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_GOAULDUTILITY1"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 361 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_GOAULDSPAWN"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 421 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_GOAULDMINELAYER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 421 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_GOAULDMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 181 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SQUADGOAULDCOMBAT"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 181 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SQUADGOAULDBOMBER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 151 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_TRADESHIP_GOAULD"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 151 , 241 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_REFINERYSHIP_GOAULD"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 301 , 241 , 28 , 28 ]

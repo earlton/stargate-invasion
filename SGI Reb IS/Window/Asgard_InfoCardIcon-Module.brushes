@@ -1,0 +1,78 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 15
+brush
+	name "INFOCARDICON_PLANETMODULE_ASGARDORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 70 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ASGARDORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 93 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ASGARDORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 139 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ASGARDORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 24 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ASGARDORBITALBEAMDEFENSE"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 1 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ASGARDORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 116 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ASGARDORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 162 , 93 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ASGARDORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 162 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ASGARDORBITALANTIMATTERRECHARGER"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 323 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ASGARDORBITALTRADEPORT"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 185 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ASGARDORBITALREFINERY"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 254 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ASGARDORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 277 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ASGARDORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 300 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ASGARDORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 47 , 24 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_ASGARDORBITALCANNON"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 208 , 24 , 22 , 22 ]

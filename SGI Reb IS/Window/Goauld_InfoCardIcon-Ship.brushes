@@ -1,0 +1,123 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 24
+brush
+	name "INFOCARDICON_CAPITALSHIP_GOAULDCOLONY"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 1 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_GOAULDCARRIER"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 47 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_GOAULDBATTLESHIP"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 24 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_GOAULDSUPPORT"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 93 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITALSHIP_GOAULDSIEGE"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 70 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_GOAULDANTIFIGHTER"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 70 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_GOAULDCARRIER"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 162 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_GOAULDCOLONY"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 1 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_GOAULDSTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 300 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_GOAULDHEAVY"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 24 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_GOAULDLIGHT"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 185 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_GOAULDLONGRANGE"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 208 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_GOAULDSCOUT"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 93 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_GOAULDSIEGE"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 47 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_GOAULDUTILITY0"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 254 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_GOAULDUTILITY1"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 277 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_GOAULDSPAWN"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 323 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_GOAULDMINELAYER"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 323 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_GOAULDMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 139 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_TRADESHIP_GOAULD"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 116 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_REFINERYSHIP_GOAULD"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 231 , 185 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SQUADGOAULDCOMBAT"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 139 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_SQUADGOAULDBOMBER"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 116 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_GOAULDENVOY"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 231 , 70 , 22 , 22 ]

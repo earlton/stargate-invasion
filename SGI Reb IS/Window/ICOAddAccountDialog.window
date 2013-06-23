@@ -1,0 +1,48 @@
+TXT
+backdropDimPercentage 0.7
+backdropBrush "DialogBackdrop"
+titleOverlayBrush ""
+size [645 , 870]
+contentRefArea [240, 330, 371, 207]
+titleRefArea [240, 240, 371, 30]
+titleOverlayRefArea [0, 0, 556, 90]
+cancelButton
+	area [243, 600, 170, 46]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 30
+	textOffsetFromLeft 60
+	underlay "TabButtonUnderlayActive"
+	overlay "TabButtonOverlayActive"	
+	icon "DialogScreenCloseButton"
+	text "IDS_DIALOGWINDOW_CANCELBUTTON"
+acceptButton
+	area [445, 600, 170, 46]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 30
+	textOffsetFromLeft 60
+	underlay "TabButtonUnderlayActive"
+	overlay "TabButtonOverlayActive"		
+	icon "DialogScreenAcceptButton"
+	text "IDS_DIALOGWINDOW_ACCEPTBUTTON"
+titleTextId "IDSICOLoginScreenAddAccountDialogWindowTitle"
+nameTextEntry
+	area [0, 0, 380, 30]
+	labelWidth 150
+	labelText "IDSICOLoginScreenAddAccountDialogWindowNameLabel"
+passwordTextEntry
+	area [0, 40, 380, 30]
+	labelWidth 150
+	labelText "IDSICOLoginScreenAddAccountDialogWindowPasswordLabel"
+confirmPasswordTextEntry
+	area [0, 80, 380, 30]
+	labelWidth 150
+	labelText "IDSICOLoginScreenAddAccountDialogWindowConfirmPasswordLabel"
+cdKeyTextEntry
+	area [0, 120, 380, 30]
+	labelWidth 150
+	labelText "IDSICOLoginScreenAddAccountDialogWindowCdKeyLabel"
+emailTextEntry
+	area [0, 160, 380, 30]
+	labelWidth 150
+	labelText "IDSICOLoginScreenAddAccountDialogWindowEmailLabel"
+	

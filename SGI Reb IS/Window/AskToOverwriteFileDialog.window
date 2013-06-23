@@ -1,0 +1,32 @@
+TXT
+backdropDimPercentage 0.7
+backdropBrush "DialogBackdrop"
+titleOverlayBrush ""
+size [660 , 850]
+contentRefArea [90, 130, 371, 207]
+titleRefArea [ 255, 170, 371, 30]
+titleOverlayRefArea [0, 0, 556, 90]
+cancelButton
+	area [263, 600, 170, 46]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 30
+	textOffsetFromLeft 60
+	underlay "TabButtonUnderlayActive"
+	overlay "TabButtonOverlayActive"	
+	icon "DialogScreenCloseButton"
+	text "IDS_DIALOGWINDOW_CANCELBUTTON"
+acceptButton
+	area [465, 600, 170, 46]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 30
+	textOffsetFromLeft 60
+	underlay "TabButtonUnderlayActive"
+	overlay "TabButtonOverlayActive"		
+	icon "DialogScreenAcceptButton"
+	text "IDS_DIALOGWINDOW_ACCEPTBUTTON"
+titleTextId "IDSAskToOverwriteFileDialogTitle"
+label
+	area [160, 165, 300, 200]
+	fontId "Label"
+	text "IDSAskToOverwriteFileDialogContentLabel"
+	

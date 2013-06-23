@@ -1,0 +1,39 @@
+TXT
+backdropDimPercentage 0.7
+backdropBrush "DialogBackdrop"
+titleOverlayBrush ""
+size [645 , 870]
+contentRefArea [90, 130, 371, 207]
+titleRefArea [250, 160, 371, 30]
+titleOverlayRefArea [0, 0, 556, 90]
+cancelButton
+	area [233, 600, 170, 46]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 30
+	textOffsetFromLeft 60
+	underlay "TabButtonUnderlayActive"
+	overlay "TabButtonOverlayActive"	
+	icon "DialogScreenCloseButton"
+	text "IDS_DIALOGWINDOW_CANCELBUTTON"
+acceptButton
+	area [465, 600, 170, 46]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 30
+	textOffsetFromLeft 60
+	underlay "TabButtonUnderlayActive"
+	overlay "TabButtonOverlayActive"		
+	icon "DialogScreenAcceptButton"
+	text "IDS_DIALOGWINDOW_ACCEPTBUTTON"
+titleTextId "IDSICOLobbyScreenChangeChannelDialogWindowTitle"
+channelNameTextEntry
+	area [160, 130, 371, 30]
+	labelWidth 0
+	labelText ""
+visitedChannelNamesTextList
+	area [160, 170, 371, 200]
+	itemGap 3
+defaultChannelNameStringIdCount 4
+channelName "IDSICODefaultChannel0"
+channelName "IDSICODefaultChannel1"
+channelName "IDSICODefaultChannel2"
+channelName "IDSICODefaultChannel3"

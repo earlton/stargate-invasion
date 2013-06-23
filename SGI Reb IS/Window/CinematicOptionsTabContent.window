@@ -1,0 +1,6 @@
+TXT
+tabButtonIcon "CinematicOptionsTabButton"
+tabButtonText "IDSCinematicOptionsTabButton"
+showOpeningCinematicCheckBox
+	area [300, 300, 220, 30]
+	text "IDSCinematicOptionsShowOpeningCinematicCheckBox"	

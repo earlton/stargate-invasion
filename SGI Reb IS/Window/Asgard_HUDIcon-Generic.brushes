@@ -1,0 +1,59 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 6
+brush
+	name "HUDIconCannonShellAsgard"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 447 , 259 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 447 , 259 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 259 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 447 , 259 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 447 , 259 , 47 , 33 ]
+brush
+	name "HUDIconSmallCannonShellAsgard"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 481 , 31 , 28 , 28 ]
+brush
+	name "HUDIconSpaceMineAsgard"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 153 , 49 , 47 , 33 ]
+brush
+	name "HUDIconSmallSpaceMineAsgard"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 301 , 31 , 28 , 28 ]
+brush
+	name "HUDIconOverlayPlanetBuildShipNotEnoughShipSlotsAsgard"
+	content "Simple"
+	fileName "Interface0"
+	pixelBox [ 914 , 351 , 50 , 36 ]
+brush
+	name "HUDIconOverlayPlanetBuildShipNotEnoughCapitalShipSlotsAsgard"
+	content "Simple"
+	fileName "Interface0"
+	pixelBox [ 914 , 388 , 50 , 36 ]

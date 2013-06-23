@@ -1,0 +1,330 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 29
+brush
+	name "HUDICON_PLANETMODULE_ASGARDORBITALFRIGATEFACTORY"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 153 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 153 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 154 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 153 , 154 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 153 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_ASGARDORBITALCAPITALSHIPFACTORY"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 202 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 202 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 202 , 154 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 202 , 154 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 202 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_ASGARDORBITALCULTURECENTER"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 300 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_ASGARDORBITALHANGARDEFENSE"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 55 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_ASGARDORBITALBEAMDEFENSE"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 6 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_ASGARDORBITALREPAIRPLATFORM"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 251 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_ASGARDORBITALCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 349 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_ASGARDORBITALNONCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 349 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_ASGARDORBITALANTIMATTERRECHARGER"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 251 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_ASGARDORBITALTRADEPORT"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 398 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_ASGARDORBITALMETALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 398 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_ASGARDORBITALCRYSTALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 447 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_ASGARDORBITALJUMPBLOCKER"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 104 , 154 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_ASGARDORBITALCANNON"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 447 , 154 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_ASGARDORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 91 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_ASGARDORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 121 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_ASGARDORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 181 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_ASGARDORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 31 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_ASGARDORBITALBEAMDEFENSE"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 1 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_ASGARDORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 151 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_ASGARDORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 211 , 121 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_ASGARDORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 211 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_ASGARDORBITALANTIMATTERRECHARGER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 421 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_ASGARDORBITALTRADEPORT"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 241 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_ASGARDORBITALREFINERY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 331 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_ASGARDORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 361 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_ASGARDORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 391 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_ASGARDORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 61 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_ASGARDORBITALCANNON"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 271 , 31 , 28 , 28 ]

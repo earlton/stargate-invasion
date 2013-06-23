@@ -1,0 +1,78 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 15
+brush
+	name "PLANETMODULEPICTURE_ASGARDORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Races_Unit_Picture"
+	pixelBox [ 512 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ASGARDORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Races_Unit_Picture"
+	pixelBox [ 682 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ASGARDORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Races_Unit_Picture"
+	pixelBox [ 1022 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ASGARDORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Races_Unit_Picture"
+	pixelBox [ 172 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ASGARDORBITALBEAMDEFENSE"
+	content "Simple"
+	fileName "Races_Unit_Picture"
+	pixelBox [ 2 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ASGARDORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Races_Unit_Picture"
+	pixelBox [ 852 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ASGARDORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Races_Unit_Picture"
+	pixelBox [ 1192 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ASGARDORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Races_Unit_Picture"
+	pixelBox [ 1192 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ASGARDORBITALANTIMATTERRECHARGER"
+	content "Simple"
+	fileName "Races_Unit_Picture"
+	pixelBox [ 682 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ASGARDORBITALTRADEPORT"
+	content "Simple"
+	fileName "Races_Unit_Picture"
+	pixelBox [ 1362 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ASGARDORBITALREFINERY"
+	content "Simple"
+	fileName "Races_Unit_Picture"
+	pixelBox [ 172 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ASGARDORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Races_Unit_Picture"
+	pixelBox [ 342 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ASGARDORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Races_Unit_Picture"
+	pixelBox [ 512 , 236 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ASGARDORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Races_Unit_Picture"
+	pixelBox [ 342 , 158 , 167 , 75 ]
+brush
+	name "PLANETMODULEPICTURE_ASGARDORBITALCANNON"
+	content "Simple"
+	fileName "Races_Unit_Picture"
+	pixelBox [ 1532 , 158 , 167 , 75 ]

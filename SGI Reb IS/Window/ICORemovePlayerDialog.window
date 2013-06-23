@@ -1,0 +1,31 @@
+TXT
+backdropDimPercentage 0.7
+backdropBrush "DialogBackdrop"
+titleOverlayBrush ""
+size [645 , 870]
+contentRefArea [90, 130, 371, 207]
+titleRefArea [250, 140, 371, 30]
+titleOverlayRefArea [0, 0, 556, 90]
+cancelButton
+	area [233, 500, 170, 46]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 30
+	textOffsetFromLeft 60
+	underlay "TabButtonUnderlayActive"
+	overlay "TabButtonOverlayActive"	
+	icon "DialogScreenCloseButton"
+	text "IDS_DIALOGWINDOW_CANCELBUTTON"
+acceptButton
+	area [465, 500, 170, 46]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 30
+	textOffsetFromLeft 60
+	underlay "TabButtonUnderlayActive"
+	overlay "TabButtonOverlayActive"		
+	icon "DialogScreenAcceptButton"
+	text "IDS_DIALOGWINDOW_ACCEPTBUTTON"
+titleTextId "IDSICOLoginScreenRemovePlayerDialogWindowTitle"
+confirmNameTextEntry
+	area [185, 180, 300, 30]
+	labelWidth 100
+	labelText "IDSICOLoginScreenRemovePlayerDialogWindowConfirmNameLabel"

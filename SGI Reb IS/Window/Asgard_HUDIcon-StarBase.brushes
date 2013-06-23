@@ -1,0 +1,26 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 2
+brush
+	name "HUDICON_STARBASE_ASGARD"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 349 , 259 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 349 , 259 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 259 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 349 , 259 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 349 , 259 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_STARBASE_ASGARD"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 271 , 121 , 28 , 28 ]

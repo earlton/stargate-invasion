@@ -1,0 +1,43 @@
+TXT
+pictureCount 10
+LargeScreenPicture
+	textureName "player_portrait_large_m0d001.dds"
+	startTopLeft [0,264]
+	width 195
+	height 485
+	rowItemCount 10
+	horizontalStride 198
+	verticalStride 222
+SmallScreenPicture
+	textureName "Player_Portrait_Small.dds"
+	startTopLeft [5,292]
+	width 56
+	height 67
+	rowItemCount 10
+	horizontalStride 61
+	verticalStride 72
+BottomBarPicture
+	textureName "U1-PlayerPicsWindow.tga"
+	startTopLeft [1,463]
+	width 167
+	height 75
+	rowItemCount 5
+	horizontalStride 169
+	verticalStride 77
+ButtonIcon
+	textureName "Player_Portrait_Button.dds"
+	startTopLeft [3,129]
+	width 24
+	height 29
+	rowItemCount 10
+	horizontalStride 27
+	verticalStride 32
+MediumScreenPicture
+	textureName "Player_Portrait_Medium.dds"
+	startTopLeft [0,444]
+	width 98
+	height 109
+	rowItemCount 10
+	horizontalStride 99
+	verticalStride 109
+

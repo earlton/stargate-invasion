@@ -1,0 +1,35 @@
+TXT
+backdropDimPercentage 0.7
+backdropBrush "PlayerThemePickerScreenBackdrop"
+titleOverlayBrush ""
+size [645 , 870]
+contentRefArea [181, 195, 508, 335]
+titleRefArea [180, 170, 508, 30]
+titleOverlayRefArea [0, 0, 693, 90]
+cancelButton
+	area [327, 650, 220, 46]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 22
+	textOffsetFromLeft 70
+	underlay "ScreenButtonUnderlayLarge"
+	overlay "ScreenButtonOverlayLarge"	
+	icon "DialogScreenCloseButton"
+	text "IDS_DIALOGWINDOW_CANCELBUTTON"
+acceptButton
+	area [327, 578, 220, 46]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 22
+	textOffsetFromLeft 70
+	underlay "ScreenButtonUnderlayLarge"
+	overlay "ScreenButtonOverlayLarge"	
+	icon "DialogScreenAcceptButton"
+	text "IDS_DIALOGWINDOW_ACCEPTBUTTON"
+titleTextId "IDS_DIALOGWINDOW_TITLETEXT_PLAYERTHEMEPICKERWINDOW"
+themeButtonSize [56 , 52]
+themeButtonStride [51, 50]
+themeButtonTopLeftOffset [0, 125]
+themeButtonMaxRowCount 10
+colorButtonSize [56 , 52]
+colorButtonStride [51, 50]
+colorButtonTopLeftOffset [ 0 , 50]
+colorButtonMaxRowCount 10
