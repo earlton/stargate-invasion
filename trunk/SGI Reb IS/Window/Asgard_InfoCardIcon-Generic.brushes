@@ -1,0 +1,18 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 3
+brush
+	name "InfoCardIconFleetUpkeepAsgard"
+	content "Simple"
+	fileName "smallicons"
+	pixelBox [ 185 , 121 , 16 , 16 ]
+brush
+	name "INFOCARDICON_STARBASE_ASGARD"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 208 , 93 , 22 , 22 ]
+brush
+	name "InfoCardIconSpaceMineAsgard"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 231 , 24 , 22 , 22 ]

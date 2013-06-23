@@ -1,0 +1,23 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 4
+brush
+	name "PictureCannonShellGoauld"
+	content "Simple"
+	fileName "Races_Unit_Picture"
+	pixelBox [ 1702 , 314 , 167 , 75 ]
+brush
+	name "PICTURE_STARBASEGOAULD"
+	content "Simple"
+	fileName "Races_Unit_Picture"
+	pixelBox [ 1362 , 392 , 167 , 75 ]
+brush
+	name "PictureSpaceMineGoauldExplosive"
+	content "Simple"
+	fileName "Races_Unit_Picture"
+	pixelBox [ 2 , 392 , 167 , 75 ]
+brush
+	name "PictureSpaceMineGoauldGravity"
+	content "Simple"
+	fileName "Races_Unit_Picture"
+	pixelBox [ 1022 , 392 , 167 , 75 ]

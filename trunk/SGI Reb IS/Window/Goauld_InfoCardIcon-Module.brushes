@@ -1,0 +1,83 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 16
+brush
+	name "INFOCARDICON_PLANETMODULE_GOAULDORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 70 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_GOAULDORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 93 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_GOAULDORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 139 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_GOAULDORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 24 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_GOAULDORBITALMISSILEDEFENSE"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 1 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_GOAULDORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 116 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_GOAULDORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 162 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_GOAULDORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 162 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_GOAULDORBITALPHASEGATE"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 323 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_GOAULDORBITALNANOWEAPONJAMMER"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 346 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_GOAULDORBITALTRADEPORT"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 185 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_GOAULDORBITALREFINERY"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 254 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_GOAULDORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 277 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_GOAULDORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 300 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_GOAULDORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 47 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANETMODULE_GOAULDORBITALCANNON"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 208 , 47 , 22 , 22 ]

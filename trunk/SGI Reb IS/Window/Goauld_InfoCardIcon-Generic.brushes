@@ -1,0 +1,23 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 4
+brush
+	name "InfoCardIconFleetUpkeepGoauld"
+	content "Simple"
+	fileName "smallicons"
+	pixelBox [ 203 , 121 , 16 , 16 ]
+brush
+	name "INFOCARDICON_STARBASE_GOAULD"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 208 , 116 , 22 , 22 ]
+brush
+	name "InfoCardIconSpaceMineGoauldExplosive"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 231 , 47 , 22 , 22 ]
+brush
+	name "InfoCardIconSpaceMineGoauldGravity"
+	content "Simple"
+	fileName "Races_Unit_Infocard"
+	pixelBox [ 346 , 185 , 22 , 22 ]

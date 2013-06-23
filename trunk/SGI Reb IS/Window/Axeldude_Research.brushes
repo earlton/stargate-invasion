@@ -1,0 +1,21 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 1
+brush
+	name "AXELDUDE_HUDICON_RESEARCHSUBJECT_PLANETACCESS_GASTECH"
+	content "States"
+	Disabled
+		fileName "Axeldude_ResearchButton_GasGiant_Disabled"
+		pixelBox [ 0 , 0 , 51 , 32 ]
+	Pressed
+		fileName "Axeldude_ResearchButton_GasGiant_Normal"
+		pixelBox [ 0 , 0 , 51 , 32 ]
+	CursorOver
+		fileName "Axeldude_ResearchButton_GasGiant_CursorOver"
+		pixelBox [ 0 , 0 , 51 , 32 ]
+	Focused
+		fileName "Axeldude_ResearchButton_GasGiant_Normal"
+		pixelBox [ 0 , 0 , 51 , 32 ]
+	Normal
+		fileName "Axeldude_ResearchButton_GasGiant_Normal"
+		pixelBox [ 0 , 0 , 51 , 32 ]

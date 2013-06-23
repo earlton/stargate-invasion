@@ -1,0 +1,78 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 15
+brush
+	name "MAINVIEWICON_PLANETMODULE_ASGARDORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 91 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ASGARDORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 121 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ASGARDORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 181 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ASGARDORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 31 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ASGARDORBITALBEAMDEFENSE"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 1 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ASGARDORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 151 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ASGARDORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 211 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ASGARDORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 211 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ASGARDORBITALANTIMATTERRECHARGER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 421 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ASGARDORBITALTRADEPORT"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 241 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ASGARDORBITALREFINERY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 331 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ASGARDORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 361 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ASGARDORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 391 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ASGARDORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 61 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_ASGARDORBITALCANNON"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 271 , 31 , 28 , 28 ]

@@ -1,0 +1,2883 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 160
+brush
+	name "HUDICON_ASGARD_ROW1_COL1"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 5 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW1_COL2"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 56 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW1_COL3"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 107 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW1_COL4"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 158 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW1_COL5"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 209 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW1_COL6"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 260 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW1_COL7"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 311 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW1_COL8"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 362 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW1_COL9"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 413 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW1_COL10"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 464 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW1_COL11"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 515 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW1_COL12"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 566 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW1_COL13"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 617 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW1_COL14"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 668 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW1_COL15"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 719 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW1_COL16"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 770 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW1_COL17"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 821 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW1_COL18"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 872 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW1_COL19"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 923 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW1_COL20"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 974 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW2_COL1"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 5 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW2_COL2"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 56 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW2_COL3"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 107 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW2_COL4"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 158 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW2_COL5"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 209 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW2_COL6"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 260 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW2_COL7"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 311 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW2_COL8"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 362 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW2_COL9"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 413 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW2_COL10"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 464 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW2_COL11"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 515 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW2_COL12"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 566 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW2_COL13"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 617 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW2_COL14"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 668 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW2_COL15"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 719 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW2_COL16"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 770 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW2_COL17"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 821 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW2_COL18"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 872 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 872 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 38 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 872 , 38 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 872 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW2_COL19"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 923 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 923 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 38 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 923 , 38 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 923 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW2_COL20"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 974 , 38 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 974 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 38 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 974 , 38 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 974 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW3_COL21"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 5 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW3_COL22"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 56 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW3_COL23"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 107 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW3_COL24"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 158 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW3_COL25"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 209 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW3_COL26"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 260 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW3_COL27"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 311 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW3_COL28"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 362 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW3_COL29"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 413 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW3_COL30"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 464 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW3_COL31"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 515 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW3_COL32"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 566 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW3_COL33"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 617 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW3_COL34"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 668 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW3_COL35"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 719 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 719 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 75 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 719 , 75 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 719 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW3_COL36"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 770 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW3_COL37"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 821 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 821 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 75 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 821 , 75 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 821 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW3_COL38"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 872 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 872 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 75 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 872 , 75 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 872 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW3_COL39"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 923 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 923 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 75 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 923 , 75 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 923 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW3_COL40"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 974 , 75 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 974 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 75 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 974 , 75 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 974 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW4_COL21"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 5 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW4_COL22"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 56 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW4_COL23"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 107 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW4_COL24"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 158 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW4_COL25"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 209 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW4_COL26"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 260 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW4_COL27"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 311 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW4_COL28"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 362 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW4_COL29"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 413 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW4_COL30"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 464 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW4_COL31"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 515 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW4_COL32"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 566 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW4_COL33"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 617 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW4_COL34"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 668 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 668 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 112 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 668 , 112 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 668 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW4_COL35"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 719 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 719 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 112 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 719 , 112 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 719 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW4_COL36"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 770 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 770 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 112 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 770 , 112 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 770 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW4_COL37"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 821 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW4_COL38"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 872 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW4_COL39"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 923 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW4_COL40"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 974 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW5_COL41"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 5 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW5_COL42"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 56 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW5_COL43"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 107 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW5_COL44"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 158 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW5_COL45"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 209 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW5_COL46"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 260 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW5_COL47"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 311 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW5_COL48"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 362 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW5_COL49"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 413 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW5_COL50"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 464 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW5_COL51"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 515 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW5_COL52"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 566 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 566 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 149 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 566 , 149 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 566 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW5_COL53"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 617 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 617 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 149 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 617 , 149 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 617 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW5_COL54"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 668 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 668 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 149 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 668 , 149 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 668 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW5_COL55"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 719 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 719 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 149 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 719 , 149 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 719 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW5_COL56"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 770 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 770 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 149 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 770 , 149 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 770 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW5_COL57"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 821 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 821 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 149 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 821 , 149 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 821 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW5_COL58"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 872 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 872 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 149 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 872 , 149 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 872 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW5_COL59"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 923 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 923 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 149 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 923 , 149 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 923 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW5_COL60"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 974 , 149 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 974 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 149 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 974 , 149 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 974 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW6_COL41"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 5 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW6_COL42"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 56 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW6_COL43"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 107 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW6_COL44"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 158 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW6_COL45"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 209 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW6_COL46"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 260 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW6_COL47"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 311 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW6_COL48"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 362 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW6_COL49"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 413 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW6_COL50"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 464 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW6_COL51"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 515 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 515 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 186 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 515 , 186 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 515 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW6_COL52"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 566 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 566 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 186 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 566 , 186 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 566 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW6_COL53"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 617 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 617 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 186 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 617 , 186 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 617 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW6_COL54"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 668 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 668 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 186 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 668 , 186 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 668 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW6_COL55"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 719 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 719 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 186 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 719 , 186 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 719 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW6_COL56"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 770 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 770 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 186 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 770 , 186 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 770 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW6_COL57"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 821 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 821 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 186 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 821 , 186 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 821 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW6_COL58"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 872 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 872 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 186 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 872 , 186 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 872 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW6_COL59"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 923 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 923 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 186 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 923 , 186 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 923 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW6_COL60"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 974 , 186 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 974 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 186 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 974 , 186 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 974 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW7_COL61"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 5 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW7_COL62"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 56 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW7_COL63"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 107 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW7_COL64"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 158 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 158 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 223 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 158 , 223 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 158 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW7_COL65"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 209 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 209 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 223 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 209 , 223 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 209 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW7_COL66"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 260 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW7_COL67"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 311 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 311 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 223 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 311 , 223 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 311 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW7_COL68"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 362 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 362 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 223 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 362 , 223 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 362 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW7_COL69"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 413 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 413 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 223 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 413 , 223 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 413 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW7_COL70"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 464 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 464 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 223 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 464 , 223 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 464 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW7_COL71"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 515 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 515 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 223 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 515 , 223 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 515 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW7_COL72"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 566 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 566 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 223 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 566 , 223 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 566 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW7_COL73"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 617 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 617 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 223 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 617 , 223 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 617 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW7_COL74"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 668 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 668 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 223 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 668 , 223 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 668 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW7_COL75"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 719 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 719 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 223 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 719 , 223 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 719 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW7_COL76"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 770 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 770 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 223 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 770 , 223 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 770 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW7_COL77"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 821 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 821 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 223 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 821 , 223 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 821 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW7_COL78"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 872 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 872 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 223 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 872 , 223 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 872 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW7_COL79"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 923 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 923 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 223 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 923 , 223 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 923 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW7_COL80"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 974 , 223 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 974 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 223 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 974 , 223 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 974 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW8_COL61"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 5 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 5 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 5 , 260 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 5 , 260 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 5 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW8_COL62"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 56 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 56 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 56 , 260 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 56 , 260 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 56 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW8_COL63"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 107 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 107 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 107 , 260 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 107 , 260 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 107 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW8_COL64"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 158 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 158 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 158 , 260 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 158 , 260 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 158 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW8_COL65"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 209 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 209 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 209 , 260 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 209 , 260 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 209 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW8_COL66"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 260 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 260 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 260 , 260 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 260 , 260 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 260 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW8_COL67"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 311 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 311 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 311 , 260 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 311 , 260 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 311 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW8_COL68"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 362 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 362 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 362 , 260 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 362 , 260 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 362 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW8_COL69"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 413 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 413 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 413 , 260 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 413 , 260 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 413 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW8_COL70"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 464 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 464 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 464 , 260 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 464 , 260 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 464 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW8_COL71"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 515 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 515 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 515 , 260 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 515 , 260 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 515 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW8_COL72"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 566 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 566 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 566 , 260 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 566 , 260 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 566 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW8_COL73"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 617 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 617 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 617 , 260 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 617 , 260 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 617 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW8_COL74"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 668 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 668 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 668 , 260 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 668 , 260 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 668 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW8_COL75"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 719 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 719 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 719 , 260 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 719 , 260 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 719 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW8_COL76"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 770 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 770 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 770 , 260 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 770 , 260 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 770 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW8_COL77"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 821 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 821 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 821 , 260 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 821 , 260 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 821 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW8_COL78"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 872 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 872 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 872 , 260 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 872 , 260 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 872 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW8_COL79"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 923 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 923 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 923 , 260 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 923 , 260 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 923 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_ASGARD_ROW8_COL80"
+	content "States"
+	Disabled
+		fileName "Asgard_Buttons_Research_Disabled"
+		pixelBox [ 974 , 260 , 47 , 33 ]
+	Pressed
+		fileName "Asgard_Buttons_Research_Pressed"
+		pixelBox [ 974 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "Asgard_Buttons_Research_CursorOver"
+		pixelBox [ 974 , 260 , 47 , 33 ]
+	Focused
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 974 , 260 , 47 , 33 ]
+	Normal
+		fileName "Asgard_Buttons_Research_Normal"
+		pixelBox [ 974 , 260 , 47 , 33 ]

@@ -1,0 +1,73 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 14
+brush
+	name "MainViewIconFleetGoauld0"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 331 , 661 , 32 , 31 ]
+brush
+	name "MainViewIconFleetGoauld1"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 331 , 694 , 32 , 31 ]
+brush
+	name "MainViewIconFleetGoauld2"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 331 , 727 , 32 , 31 ]
+brush
+	name "MainViewIconFleetGoauld3"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 331 , 760 , 32 , 31 ]
+brush
+	name "MainViewIconFleetGoauld4"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 331 , 793 , 32 , 31 ]
+brush
+	name "MainViewIconFleetGoauld5"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 331 , 826 , 32 , 31 ]
+brush
+	name "MainViewIconFleetGoauld6"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 331 , 859 , 32 , 31 ]
+brush
+	name "MainViewIconFleetGoauld7"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 331 , 892 , 32 , 31 ]
+brush
+	name "MainViewIconFleetGoauld8"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 331 , 925 , 32 , 31 ]
+brush
+	name "MainViewIconFleetGoauld9"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 331 , 958 , 32 , 31 ]
+brush
+	name "MainViewIconCannonShellGoauld"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 481 , 61 , 28 , 28 ]
+brush
+	name "MainViewIconStarBaseGoauld"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 83 , 871 , 39 , 39 ]
+brush
+	name "MainViewIconSpaceMineGoauldExplosive"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 301 , 61 , 28 , 28 ]
+brush
+	name "MainViewIconSpaceMineGoauldGravity"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 451 , 241 , 28 , 28 ]

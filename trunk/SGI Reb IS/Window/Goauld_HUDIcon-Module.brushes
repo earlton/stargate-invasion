@@ -1,0 +1,371 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 32
+brush
+	name "HUDICON_PLANETMODULE_GOAULDORBITALFRIGATEFACTORY"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 153 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_GOAULDORBITALCAPITALSHIPFACTORY"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 202 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_GOAULDORBITALCULTURECENTER"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 300 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_GOAULDORBITALHANGARDEFENSE"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 55 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 55 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 55 , 189 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 55 , 189 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 55 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_GOAULDORBITALMISSILEDEFENSE"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 6 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_GOAULDORBITALREPAIRPLATFORM"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 251 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_GOAULDORBITALCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 349 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_GOAULDORBITALNONCOMBATLABORATORY"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 349 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 349 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 189 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 349 , 189 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 349 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_GOAULDORBITALPHASEGATE"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 251 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_GOAULDORBITALNANOWEAPONJAMMER"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 300 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_GOAULDORBITALTRADEPORT"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 398 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 398 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 398 , 189 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 398 , 189 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 398 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_GOAULDORBITALREFINERY"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 202 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_GOAULDORBITALMETALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 398 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_GOAULDORBITALCRYSTALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 447 , 84 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_GOAULDORBITALJUMPBLOCKER"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 104 , 189 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_GOAULDORBITALCANNON"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 447 , 189 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_GOAULDORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 91 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_GOAULDORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 121 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_GOAULDORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 181 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_GOAULDORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 31 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_GOAULDORBITALMISSILEDEFENSE"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 1 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_GOAULDORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 151 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_GOAULDORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 211 , 151 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_GOAULDORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 211 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_GOAULDORBITALPHASEGATE"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 421 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_GOAULDORBITALNANOWEAPONJAMMER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 451 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_GOAULDORBITALTRADEPORT"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 241 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_GOAULDORBITALREFINERY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 331 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_GOAULDORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 361 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_GOAULDORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 391 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_GOAULDORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 61 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_GOAULDORBITALCANNON"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 271 , 61 , 28 , 28 ]

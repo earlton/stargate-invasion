@@ -1,0 +1,663 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 54
+brush
+	name "HUDICON_CAPITALSHIP_ASGARDCOLONY"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 6 , 259 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 6 , 259 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 259 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 6 , 259 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 6 , 259 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_ASGARDCARRIER"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 104 , 259 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 104 , 259 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 104 , 259 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 104 , 259 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 104 , 259 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_ASGARDBATTLESHIP"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 55 , 259 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 55 , 259 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 55 , 259 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 55 , 259 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 55 , 259 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_ASGARDSUPPORT"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 153 , 259 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 153 , 259 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 259 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 153 , 259 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 153 , 259 , 47 , 33 ]
+brush
+	name "HUDICON_CAPITALSHIP_ASGARDSIEGE"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 202 , 259 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 202 , 259 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 202 , 259 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 202 , 259 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 202 , 259 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_ASGARDCOLONY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 1 , 121 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_ASGARDCARRIER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 61 , 121 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_ASGARDBATTLESHIP"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 31 , 121 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_ASGARDSUPPORT"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 91 , 121 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_ASGARDSIEGE"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 121 , 121 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_ASGARDANTIFIGHTER"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 153 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 153 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 153 , 364 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 153 , 364 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 153 , 364 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ASGARDANTIMODULE"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 202 , 469 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 202 , 469 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 202 , 469 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 202 , 469 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 202 , 469 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ASGARDCARRIER"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 349 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 349 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 364 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 349 , 364 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 349 , 364 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ASGARDCOLONY"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 6 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 6 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 364 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 6 , 364 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 6 , 364 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ASGARDHEAVY"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 55 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 55 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 55 , 364 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 55 , 364 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 55 , 364 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ASGARDLIGHT"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 398 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 398 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 398 , 364 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 398 , 364 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 398 , 364 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ASGARDLONGRANGE"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 447 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 447 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 447 , 364 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 447 , 364 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 447 , 364 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ASGARDSCOUT"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 202 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 202 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 202 , 364 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 202 , 364 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 202 , 364 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ASGARDSIEGE"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 104 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 104 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 104 , 364 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 104 , 364 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 104 , 364 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ASGARDSTARBASECONSTRUCTOR"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 55 , 469 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 55 , 469 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 55 , 469 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 55 , 469 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 55 , 469 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ASGARDUTILITY0"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 55 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ASGARDUTILITY1"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 104 , 49 , 47 , 33 ]
+brush
+	name "HUDICON_FRIGATE_ASGARDMODULECONSTRUCTOR"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 300 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 300 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 364 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 300 , 364 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 300 , 364 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ASGARDANTIFIGHTER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 91 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ASGARDANTIMODULE"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 421 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ASGARDCARRIER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 211 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ASGARDCOLONY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 1 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ASGARDHEAVY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 31 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ASGARDLIGHT"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 241 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ASGARDLONGRANGE"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 271 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ASGARDSCOUT"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 121 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ASGARDSIEGE"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 61 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ASGARDSTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 391 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ASGARDUTILITY0"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 331 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ASGARDUTILITY1"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 361 , 211 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ASGARDMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 181 , 211 , 28 , 28 ]
+brush
+	name "HUDICON_SQUADASGARDCOMBAT"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 300 , 259 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 300 , 259 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 259 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 300 , 259 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 300 , 259 , 47 , 33 ]
+brush
+	name "HUDICON_SQUADASGARDBOMBER"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 251 , 259 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 251 , 259 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 259 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 251 , 259 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 251 , 259 , 47 , 33 ]
+brush
+	name "HUDICON_SQUADASGARDMINELAYER"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 300 , 49 , 47 , 33 ]
+brush
+	name "HUDICONLAUNCH_SQUADASGARDCOMBAT"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled"
+		pixelBox [ 260 , 105 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed"
+		pixelBox [ 260 , 105 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver"
+		pixelBox [ 260 , 105 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 260 , 105 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 260 , 105 , 47 , 33 ]
+brush
+	name "HUDICONLAUNCH_SQUADASGARDBOMBER"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled"
+		pixelBox [ 260 , 142 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed"
+		pixelBox [ 260 , 142 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver"
+		pixelBox [ 260 , 142 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 260 , 142 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 260 , 142 , 47 , 33 ]
+brush
+	name "HUDICONLAUNCH_SQUADASGARDMINELAYER"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled"
+		pixelBox [ 362 , 216 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed"
+		pixelBox [ 362 , 216 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver"
+		pixelBox [ 362 , 216 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 362 , 216 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 362 , 216 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADASGARDCOMBAT"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled"
+		pixelBox [ 311 , 105 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed"
+		pixelBox [ 311 , 105 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver"
+		pixelBox [ 311 , 105 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 311 , 105 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 311 , 105 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADASGARDBOMBER"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled"
+		pixelBox [ 311 , 142 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed"
+		pixelBox [ 311 , 142 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver"
+		pixelBox [ 311 , 142 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 311 , 142 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 311 , 142 , 47 , 33 ]
+brush
+	name "HUDICONDOCK_SQUADASGARDMINELAYER"
+	content "States"
+	Disabled
+		fileName "Buttons_Main_Disabled"
+		pixelBox [ 413 , 216 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Main_Pressed"
+		pixelBox [ 413 , 216 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Main_CursorOver"
+		pixelBox [ 413 , 216 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 413 , 216 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Main_Normal"
+		pixelBox [ 413 , 216 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_SQUADASGARDCOMBAT"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 181 , 121 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_SQUADASGARDBOMBER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 151 , 121 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_SQUADASGARDMINELAYER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 451 , 31 , 28 , 28 ]
+brush
+	name "HUDICON_TRADESHIP_ASGARD"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 251 , 364 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 251 , 364 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 251 , 364 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 251 , 364 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 251 , 364 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_TRADESHIP_ASGARD"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 151 , 211 , 28 , 28 ]
+brush
+	name "HUDICON_REFINERYSHIP_ASGARD"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 6 , 49 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_REFINERYSHIP_ASGARD"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 301 , 211 , 28 , 28 ]
+brush
+	name "HUDICON_FRIGATE_ASGARDENVOY"
+	content "States"
+	Disabled
+		fileName "Races_Unit_Hud_Disabled"
+		pixelBox [ 349 , 469 , 47 , 33 ]
+	Pressed
+		fileName "Races_Unit_Hud_Pressed"
+		pixelBox [ 349 , 469 , 47 , 33 ]
+	CursorOver
+		fileName "Races_Unit_Hud_CursorOver"
+		pixelBox [ 349 , 469 , 47 , 33 ]
+	Focused
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 349 , 469 , 47 , 33 ]
+	Normal
+		fileName "Races_Unit_Hud_Normal"
+		pixelBox [ 349 , 469 , 47 , 33 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ASGARDENVOY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 331 , 91 , 28 , 28 ]

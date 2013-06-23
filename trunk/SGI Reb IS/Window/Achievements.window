@@ -1,0 +1,30 @@
+TXT
+achievementsList
+	area [120, 364, 455, 260]
+	itemGap 3
+percCompleteLabel
+	area [180, 62 , 250, 30]
+	fontId "WindowSubTitle"
+	text "IDSAchievementsWindowPercCompleteLabel"
+percCompleteValue	
+	area [430, 62 , 40, 30]
+	fontId "WindowSubTitle"
+selectedName
+	area [180, 104, 220, 30]
+	fontId "WindowSubTitle2"
+selectedIsCompletedLabel
+	area [325, 150, 75, 30]
+	fontId "Label"
+selectedIsCompletedValue
+	area [415, 150, 220, 30]
+	fontId "Label"
+selectedDesc
+	area [325, 190, 310, 30]
+	font "Label"
+selectedIsCompletedLabelString "IDSAchievementsWindowIsCompletedLabel"
+isCompletedString "IDSAchievementsWindowIsCompleted"
+isNotCompletedString "IDSAchievementsWindowIsNotCompleted"
+iconBackdrop "AchievementIconBackdrop"
+notCompletedIcon "AchievementIconNotCompleted"
+iconArea [194, 223, 101, 99]
+iconBackdropArea [168, 135, 165 , 225]

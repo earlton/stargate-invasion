@@ -1,0 +1,83 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 16
+brush
+	name "MAINVIEWICON_PLANETMODULE_GOAULDORBITALFRIGATEFACTORY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 91 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_GOAULDORBITALCAPITALSHIPFACTORY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 121 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_GOAULDORBITALCULTURECENTER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 181 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_GOAULDORBITALHANGARDEFENSE"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 31 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_GOAULDORBITALMISSILEDEFENSE"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 1 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_GOAULDORBITALREPAIRPLATFORM"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 151 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_GOAULDORBITALCOMBATLABORATORY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 211 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_GOAULDORBITALNONCOMBATLABORATORY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 211 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_GOAULDORBITALPHASEGATE"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 421 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_GOAULDORBITALNANOWEAPONJAMMER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 451 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_GOAULDORBITALTRADEPORT"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 241 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_GOAULDORBITALREFINERY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 331 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_GOAULDORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 361 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_GOAULDORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 391 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_GOAULDORBITALJUMPBLOCKER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 61 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_GOAULDORBITALCANNON"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 271 , 61 , 28 , 28 ]
