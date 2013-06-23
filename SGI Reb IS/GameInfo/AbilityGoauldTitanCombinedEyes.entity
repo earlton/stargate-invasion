@@ -1,0 +1,84 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTargetWithTravel"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffGoauldTitanCombinedEyes"
+targetFilter
+	numOwnerships 1
+	ownership "Enemy"
+	numObjects 5
+	object "CapitalShip"
+	object "Frigate"
+	object "StarBase"
+	object "Titan"
+	object "PlanetModule"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+range
+	Level:0 4000.000000
+	Level:1	4500.000000
+	Level:2	5000.000000
+	Level:3	5500.000000
+travelSpeed 2250.000000
+hasWeaponEffects TRUE
+weaponEffectOriginType "Targetter"
+weaponEffectAttachInfo
+	attachType "Ability"
+	abilityIndex 0
+weaponEffectImpactOffsetType "RandomMesh"
+canWeaponEffectHitHull TRUE
+canWeaponEffectHitShields TRUE
+weaponEffectsDef
+	weaponType "Projectile"
+	burstCount 1
+	burstDelay 0.100000
+	fireDelay 0.000000
+	muzzleEffectName "Weapon_PsiCapitalBeamHeavy_Muzzle"
+	muzzleSoundMinRespawnTime 0.100000
+	muzzleSounds
+		soundCount 1
+		sound "WEAPON_ASGARDBEAMS_MUZZLE"
+	hitEffectName "CapitalAbility_BeamBlastImpact"
+	hitHullEffectSounds
+		soundCount 1
+		sound "WEAPON_ASGARDBEAMS_MUZZLE"
+	hitShieldsEffectSounds
+		soundCount 1
+		sound "WEAPON_ASGARDBEAMS_MUZZLE"
+	projectileTravelEffectName "Weapon_AsgardBeam_Travel"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "TitanUpgradeLevel"
+sourcePropertyType "AbilityDLevel"
+aiUseTime "OnlyInCombat"
+aiUseTargetCondition "Invalid"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+	antiMatterCost 
+		Level:0 150.000000
+		Level:1 200.000000
+		Level:2 250.000000
+		Level:3 300.000000
+	cooldownTime
+		Level:0	180.000000
+		Level:1 200.000000
+		Level:2 220.000000
+		Level:3 240.000000
+	orderAcknowledgementType "ONATTACKORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_GOAULDCOMBINEDEYES_NAME"
+descStringID "IDS_ABILITY_GOAULDCOMBINEDEYES_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_DISRUPTIVESTRIKES"
+smallHudIcon "HUDICON_ABILITY_DISRUPTIVESTRIKES"
+infoCardIcon ""

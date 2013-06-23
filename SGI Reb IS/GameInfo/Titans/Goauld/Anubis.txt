@@ -1,0 +1,9 @@
+
+Anubis:
+
+Abilities:
+ability:0 "AbilityGoauldPowerSurge"
+ability:1 "AbilityGoauldWeaponJam"
+ability:2 "AbilityGoauldDisruptiveStrikes"
+ability:3 "AbilityGoauldVolatileNanites"
+ability:4 ""

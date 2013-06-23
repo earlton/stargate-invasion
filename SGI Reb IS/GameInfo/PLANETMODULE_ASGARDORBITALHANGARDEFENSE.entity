@@ -1,0 +1,106 @@
+﻿TXT
+entityType "PlanetModuleHangarDefense"
+minZoomDistanceMult 0.800000
+ability:0 "AbilityAsgardGiveModuleShields"
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""
+MaxAntiMatter 350.000000
+AntiMatterRestoreRate 0.350000
+numRandomDebrisLarge 3
+numRandomDebrisSmall 13
+numSpecificDebris 0
+armorType "Module"
+hudIcon "HUDICON_PLANETMODULE_ASGARDORBITALHANGARDEFENSE"
+smallHudIcon "HUDICONSMALL_PLANETMODULE_ASGARDORBITALHANGARDEFENSE"
+infoCardIcon "INFOCARDICON_PLANETMODULE_ASGARDORBITALHANGARDEFENSE"
+planetUpgradeSlotType "Tactical"
+planetUpgradeSlotCount 6.000000
+basePrice
+	credits 950.000000
+	metal 200.000000
+	crystal 110.000000
+NameStringID "IDS_PLANETMODULE_ASGARDORBITALHANGARDEFENSE_NAME"
+DescriptionStringID "IDS_PLANETMODULE_ASGARDORBITALHANGARDEFENSE_DESCRIPTION"
+planetModuleRoleType "HANGARDEFENSE"
+statCountType "ModuleHangarDefense"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_ASGARD_PLANETMODULEACCESS_HANGARDEFENSE"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MaxHullPoints 6000.000000
+HullPointRestoreRate 2.000000
+BaseArmorPoints 8.000000
+MaxShieldPoints 0.000000
+ShieldPointRestoreRate 0.000000
+maxShieldMitigation 0.600000
+ExperiencePointsForDestroying 100.000000
+resourceExtractionType "Invalid"
+cultureSpreadRate 0.000000
+isAffectedBySimilarModuleCostResearch FALSE
+placementRadius 1150.000000
+nearPlacementDistOffset 0.000000
+farPlacementDistOffset 9000.000000
+spawnCount 1
+swapMineType ""
+angularSpeed 0.000000
+rotateSoundName ""
+rotateFacingType "None"
+rotateConstantly FALSE
+ShieldMeshName ""
+renderShield TRUE
+NumSoundsFor:ONATTACKORDERISSUED 0
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 1
+SoundID "PLANETMODULE_ASGARDORBITALHANGARDEFENSE_ONSELECTION_0"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+MeshNameInfoCount 2
+MeshNameInfo
+	meshName "PlanetModule_AsgardOrbitalHangarDefense"
+	criteriaType "None"
+MeshNameInfo
+	meshName "PlanetModule_AsgardOrbitalHangarDefenseUpgrade"
+	criteriaType "Research"
+	prerequisites
+		NumResearchPrerequisites 1
+		ResearchPrerequisite
+			Subject "RESEARCHSUBJECT_ASGARD_ABILITYACCESS_GIVEMODULESHIELDS"
+			Level 1
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExplosionName "PlanetModuleSmall"
+mainViewIcon "MAINVIEWICON_PLANETMODULE_ASGARDORBITALHANGARDEFENSE"
+picture "PLANETMODULEPICTURE_ASGARDORBITALHANGARDEFENSE"
+minShadow 0.000000
+maxShadow 0.300000
+formationRank 3
+baseBuildTime 65.000000
+buildEffectName ""
+squadTypeEntityDef:0 "SquadAsgardCombat"
+squadAntiMatterCost:0 75.000000
+squadTypeEntityDef:1 "SquadAsgardBomber"
+squadAntiMatterCost:1 125.000000
+squadTypeEntityDef:2 "SquadAsgardMineLayer"
+squadAntiMatterCost:2 50.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+NumWeapons 0
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 0
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+baseCommandPoints 3
+defaultAutoAttackRange "None"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack FALSE

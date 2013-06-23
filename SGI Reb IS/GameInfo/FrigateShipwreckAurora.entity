@@ -1,0 +1,225 @@
+﻿TXT
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack TRUE
+autoJoinFleetDefault TRUE
+canBomb TRUE
+hasBombingLevels FALSE
+baseDamage 45.000000
+basePopulationKilled 1.750000
+bombingFreqTime 10.000000
+baseRange 5000.000000
+bombTransitTime 10.000000
+bombEffectCount 1
+bombEffectAngleVariance 2.500000
+bombEffectsDef
+	weaponType "Projectile"
+	burstCount 1
+	burstDelay 0.000000
+	fireDelay 0.000000
+	muzzleEffectName "Weapon_TechCapitalPlanetBombing_Muzzle"
+	muzzleSoundMinRespawnTime 0.100000
+	muzzleSounds
+		soundCount 1
+		sound ""
+	hitEffectName "Weapon_TechFrigatePlanetBombing_Hit"
+	hitHullEffectSounds
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
+	hitShieldsEffectSounds
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
+	projectileTravelEffectName "Weapon_AsuranCapitalDroneUltra_Travel"
+typeCount 2
+frigateRoleType "Carrier"
+frigateRoleType "Heavy"
+statCountType "FrigateHeavy"
+mainViewIcon "MAINVIEWICON_CAPITALSHIP_PHASEBATTLESHIP"
+picture "CAPITALSHIPPICTURE_PHASEBATTLESHIP"
+NameStringID "IDS_CAPITALSHIP_ASURANBATTLESHIP_NAME"
+DescriptionStringID "IDS_CAPITALSHIP_ASURANBATTLESHIP_DESCRIPTION"
+counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_HEAVY"
+basePrice
+	credits 625.000000
+	metal 150.000000
+	crystal 110.000000
+slotCount 5.000000
+BuildTime 72.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 100.000000
+MaxHullPoints 15000.000000
+MaxShieldPoints 15000.000000
+HullPointRestoreRate 1.500000
+ShieldPointRestoreRate 3.000000
+BaseArmorPoints 4.500000
+maxMitigation 0.600000
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 1
+numRandomDebrisSmall 10
+numSpecificDebris 0
+armorType "VeryHeavy"
+hudIcon "HUDICON_CAPITALSHIP_PHASEBATTLESHIP"
+smallHudIcon "HUDICONSMALL_CAPITALSHIP_PHASEBATTLESHIP"
+infoCardIcon "INFOCARDICON_CAPITALSHIP_PHASEBATTLESHIP"
+minZoomDistanceMult 1.500000
+NumWeapons 2
+Weapon
+	WeaponType "Missile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "PHASEMISSILE"
+	DamagePerBank:FRONT 800.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 5500.000000
+	PreBuffCooldownTime 2.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.080000
+	TravelSpeed 1000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Missile"
+		burstCount 5
+		burstDelay 0.020000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PhaseCapitalMissileHeavy_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 2
+			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE_ALT1"
+		hitEffectName "Weapon_PhaseCapitalMissileHeavy_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHASEMISSILEHEAVY_HITGENERIC"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHASEMISSILEHEAVY_HITGENERIC"
+		missileTravelEffectName "Weapon_AsuranCapitalDroneUltra_Travel"
+		missileStartTurningDistance 0.100000
+		missileSlowTurnRate 0.708997
+		missileMaxSlowTurnTime 3.000000
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "LASERTECH"
+	DamagePerBank:FRONT 400.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 400.000000
+	DamagePerBank:RIGHT 400.000000
+	Range 6000.000000
+	PreBuffCooldownTime 3.000000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.300000
+	TravelSpeed 900.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.350000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Human_Muzzle"
+		muzzleSoundMinRespawnTime 0.770000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_TECHCAPITALAUTOCANNONHEAVY_MUZZLE"
+			sound "WEAPON_TECHCAPITALAUTOCANNONHEAVY_MUZZLE_ALT1"
+			sound "WEAPON_TECHCAPITALAUTOCANNONHEAVY_MUZZLE_ALT2"
+		hitEffectName "Weapon_HumanRailguns_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
+		projectileTravelEffectName "Weapon_AsuranCapitalLaserLight_Travel"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 2
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 2
+TargetCountPerBank:RIGHT 2
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 2135.000000
+ShieldMeshName "Shield_Asuran_Captial_Aurora"
+renderShield TRUE
+maxAccelerationLinear 207.000000
+maxAccelerationStrafe 130.000000
+maxDecelerationLinear 250.000000
+maxAccelerationAngular 15.000000
+maxDecelerationAngular 31.999998
+maxSpeedLinear 375.000000
+maxRollRate 15.000000
+maxRollAngle 65.000000
+squadTypeEntityDef:0 "SquadAsuranCombat"
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 "SquadAsuranBomber"
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 5
+NumSoundsFor:ONATTACKORDERISSUED 4
+SoundID "CAPITALSHIP_PHASEBATTLESHIP_ONATTACKORDERISSUED_0"
+SoundID "CAPITALSHIP_PHASEBATTLESHIP_ONATTACKORDERISSUED_1"
+SoundID "CAPITALSHIP_PHASEBATTLESHIP_ONATTACKORDERISSUED_2"
+SoundID "CAPITALSHIP_PHASEBATTLESHIP_ONATTACKORDERISSUED_3"
+NumSoundsFor:ONCREATION 1
+SoundID "CAPITALSHIP_PHASEBATTLESHIP_ONCREATION"
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "CAPITALSHIP_PHASEBATTLESHIP_ONGENERALORDERISSUED_0"
+SoundID "CAPITALSHIP_PHASEBATTLESHIP_ONGENERALORDERISSUED_1"
+SoundID "CAPITALSHIP_PHASEBATTLESHIP_ONGENERALORDERISSUED_2"
+NumSoundsFor:ONSELECTED 3
+SoundID "CAPITALSHIP_PHASEBATTLESHIP_ONSELECTED_0"
+SoundID "CAPITALSHIP_PHASEBATTLESHIP_ONSELECTED_1"
+SoundID "CAPITALSHIP_PHASEBATTLESHIP_ONSELECTED_2"
+NumSoundsFor:ONSTARTPHASEJUMP 1
+SoundID "CAPITALSHIP_PHASEBATTLESHIP_ONSTARTPHASEJUMP_0"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "CapitalShip_Asuran_Aurora"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_PhaseBattleship"
+ExplosionName "Frigate0"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_PHASECAPITALSHIP"
+ability:0 "AbilityTractorBeam"
+ability:1 ""
+ability:2 "AbilityAsuranCapitalDroneFrenzy"
+ability:3 "AbilityAsuranReplicateForces"
+ability:4 "AbilityCloakCommon"
+MaxAntiMatter 800.000000
+AntiMatterRestoreRate 1.000000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 0
+minShadow 0.000000
+maxShadow 0.800000
+allegianceDecreasePerRoundtrip 0.000000

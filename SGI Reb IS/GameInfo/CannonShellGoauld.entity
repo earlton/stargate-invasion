@@ -1,0 +1,25 @@
+﻿TXT
+entityType "CannonShell"
+acceleration 400.000000
+startingSpeed 400.000000
+maxSpeed 10000.000000
+buffToApplyOnImpact "BuffGoauldCannonShellSpawn"
+planetImpactEffectName "Ability_OrbitalCannonPhaseSurfaceImpact"
+planetImpactSounds
+	soundCount 1
+	sound "EXPLOSION_CANNONSHELLGOAULD"
+planetImpactCameraShakeMaxSize 38000.000000
+planetImpactCameraShakeStrength 1.000000
+planetImpactCameraShakeDuration 0.000000
+meshName "CannonShellGoauld"
+mainViewIcon "MainViewIconCannonShellGoauld"
+picture "PictureCannonShellGoauld"
+nameStringID "IDS_CANNONSHELLGOAULD_NAME"
+descStringID "IDS_CANNONSHELLGOAULD_DESC"
+renderMesh TRUE
+minZoomDistanceMult 4.500000
+hudIcon "HUDIconCannonShellGoauld"
+smallHudIcon "HUDIconSmallCannonShellGoauld"
+infoCardIcon "HUDIconSmallCannonShellGoauld"
+minShadow 0.500000
+maxShadow 0.500000

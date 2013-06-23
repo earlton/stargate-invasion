@@ -1,0 +1,192 @@
+﻿TXT
+entityType "CapitalShip"
+ability:0 "AbilityGoauldCapitalShipColonize"
+ability:1 "AbilityGoauldGravityWarhead"
+ability:2 "AbilityGoauldNanoDisassembler"
+ability:3 "AbilityGoauldResourceDrain"
+ability:4 ""
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire FALSE
+usesFighterAttack TRUE
+autoJoinFleetDefault TRUE
+canBomb TRUE
+hasBombingLevels FALSE
+baseDamage 40.000000
+basePopulationKilled 1.550000
+bombingFreqTime 10.000000
+baseRange 3000.000000
+bombTransitTime 12.000000
+bombEffectCount 3
+bombEffectAngleVariance 15.000000
+bombEffectsDef
+	weaponType "Projectile"
+	burstCount 1
+	burstDelay 0.000000
+	fireDelay 0.000000
+	muzzleEffectName "Weapon_TechCapitalPlanetBombing_Muzzle"
+	muzzleSoundMinRespawnTime 0.100000
+	muzzleSounds
+		soundCount 1
+		sound "WEAPON_TECH_PLANETBOMB_MUZZLE"
+	hitEffectName "Weapon_TechCapitalPlanetBombing_Hit"
+	hitHullEffectSounds
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
+	hitShieldsEffectSounds
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
+	projectileTravelEffectName "Weapon_GoauldPlasmaCapital_Travel"
+mainViewIcon "MAINVIEWICON_CAPITALSHIP_GOAULDCOLONY"
+basePrice
+	credits 2600.000000
+	metal 300.000000
+	crystal 225.000000
+slotCount 42.000000
+BuildTime 85.000000
+MaxHullPoints
+	StartValue 3500.000000
+	ValueIncreasePerLevel 105.000000
+MaxShieldPoints
+	StartValue 4100.000000
+	ValueIncreasePerLevel 150.000000
+HullPointRestoreRate
+	StartValue 3.500000
+	ValueIncreasePerLevel 1.050000
+ShieldPointRestoreRate
+	StartValue 4.100000
+	ValueIncreasePerLevel 1.500000
+ArmorPointsFromExperience
+	StartValue 3.000000
+	ValueIncreasePerLevel 0.334000
+maxMitigation
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.0000000
+MaxAntiMatter
+	StartValue 350.000000
+	ValueIncreasePerLevel 35.000000
+AntiMatterRestoreRate
+	StartValue 0.850000
+	ValueIncreasePerLevel 0.100000
+CultureProtectRate
+	StartValue 0.300000
+	ValueIncreasePerLevel 0.050000
+NameStringID "IDS_CAPITALSHIP_GOAULDCOLONY_NAME"
+DescriptionStringID "IDS_CAPITALSHIP_GOAULDCOLONY_DESCRIPTION"
+picture "CAPITALSHIPPICTURE_GOAULDCOLONY"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+roleType "Invalid"
+statCountType "CapitalShipUtility2"
+numRandomDebrisLarge 5
+numRandomDebrisSmall 19
+numSpecificDebris 0
+armorType "CapitalShip"
+hudIcon "HUDICON_CAPITALSHIP_GOAULDCOLONY"
+smallHudIcon "HUDICONSMALL_CAPITALSHIP_GOAULDCOLONY"
+infoCardIcon "INFOCARDICON_CAPITALSHIP_GOAULDCOLONY"
+minZoomDistanceMult 1.250000
+NumWeapons 1
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "PLASMA"
+	DamagePerBank:FRONT 175.000000
+	DamagePerBank:BACK 175.000000
+	DamagePerBank:LEFT 175.000000
+	DamagePerBank:RIGHT 175.000000
+	Range 5000.000000
+	PreBuffCooldownTime 6.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.400000
+	TravelSpeed 900.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 3
+		burstDelay 0.900000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PsiCapitalPlasmaHeavy_Muzzle"
+		muzzleSoundMinRespawnTime 1.000000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_WRAITHCAPITALPLASMA_MUZZLE"
+		hitEffectName "Weapon_TechCapitalAutoCannonHeavy_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_GoauldPlasmaCapital_Travel"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 1
+TargetCountPerBank:LEFT 1
+TargetCountPerBank:RIGHT 1
+canOnlyTargetStructures FALSE
+mass 2590.000000
+ShieldMeshName "Shield_Capital_Anubis"
+renderShield TRUE
+maxAccelerationLinear 232.000000
+maxAccelerationStrafe 160.000000
+maxDecelerationLinear 163.000000
+maxAccelerationAngular 15.000000
+maxDecelerationAngular 24.000000
+maxSpeedLinear 465.000000
+maxRollRate 15.000000
+maxRollAngle 35.000000
+squadTypeEntityDef:0 "SquadGoauldCombat"
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 "SquadGoauldBomber"
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+NumSoundsFor:ONATTACKORDERISSUED 1
+SoundID "CAPITALSHIP_GOAULDCOLONY_ONATTACKORDERISSUED_0"
+NumSoundsFor:ONCREATION 1
+SoundID "CAPITALSHIP_GOAULDCOLONY_ONCREATION"
+NumSoundsFor:ONGENERALORDERISSUED 1
+SoundID "CAPITALSHIP_GOAULDCOLONY_ONGENERALORDERISSUED_0"
+NumSoundsFor:ONSELECTED 1
+SoundID "CAPITALSHIP_GOAULDCOLONY_ONSELECTED_0"
+NumSoundsFor:ONSTARTPHASEJUMP 1
+SoundID "CAPITALSHIP_GOAULDCOLONY_ONSTARTPHASEJUMP_0"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "CapitalShip_Goauld_Ra"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_GoauldColony"
+ExplosionName "CapitalShip0"
+CommandPoints
+	StartValue 2.250000
+	ValueIncreasePerLevel 0.250000
+weaponCooldownDecreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.020000
+weaponDamageIncreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.060000
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_GOAULDCAPITALSHIP"
+formationRank 2
+minShadow 0.000000
+maxShadow 0.500000

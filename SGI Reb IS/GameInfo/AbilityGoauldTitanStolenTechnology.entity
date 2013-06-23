@@ -1,0 +1,53 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffGoauldTitanStolenTechnologySelf"
+effectInfo
+	effectAttachInfo
+		attachType "Ability"
+		abilityIndex 0
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 4
+levelSourceType "TitanUpgradeLevel"
+sourcePropertyType "AbilityCLevel"
+aiUseTime "OnlyWhenHullDamageExceeds"
+onlyAutoCastWhenTotalHullDamageExceedsAmount
+	Level:0 540.000000
+	Level:1 1035.000000
+	Level:2 1585.000000
+	Level:3 2100.000000
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 100.000000
+	Level:1 80.000000
+	Level:2 65.000000
+	Level:3 58.000000
+cooldownTime
+	Level:0 120.000000
+	Level:1 120.000000
+	Level:2 90.000000
+	Level:3 90.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_GOAULDSTOLENTECHNOLOGY_NAME"
+descStringID "IDS_ABILITY_GOAULDSTOLENTECHNOLOGY_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_FURIOUSDEFENSE"
+smallHudIcon "HUDICON_ABILITY_FURIOUSDEFENSE"
+infoCardIcon ""

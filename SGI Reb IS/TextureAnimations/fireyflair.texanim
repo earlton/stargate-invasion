@@ -1,0 +1,7 @@
+TXT
+textureFileName "fireyflair.dds"
+numFrames 14
+numFramesPerRow 14
+startTopLeft [0, 0]
+frameSize [17, 64]
+frameStride [36, 0]

@@ -1,0 +1,42 @@
+﻿TXT
+entityType "Squad"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+hudIcon "HUDICON_SQUADGOAULDBOMBER"
+smallHudIcon "HUDICONSMALL_SQUADGOAULDBOMBER"
+infoCardIcon "INFOCARDICON_SQUADGOAULDBOMBER"
+fighterEntityDef "FighterGoauldBomber"
+fighterIllusionEntityDef ""
+scuttleTime 15.000000
+fighterConstructionTime 33.000000
+decayWithoutOwnerRate 1.010000
+baseMaxNumFighters 3
+role "Bomber"
+statCountType "SquadBomber"
+mainViewIcon "MAINVIEWICON_SQUADGOAULDBOMBER"
+picture "PICTURE_SQUADGOAULDBOMBER"
+launchIcon "HUDICONLAUNCH_SQUADGOAULDBOMBER"
+dockIcon "HUDICONDOCK_SQUADGOAULDBOMBER"
+nameStringID "IDS_SQUADGOAULDBOMBER_NAME"
+descriptionStringID "IDS_SQUADGOAULDBOMBER_DESC"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+NumSoundsFor:ONATTACKORDERISSUED 1
+SoundID "SQUAD_GOAULDBOMBER_ONATTACKORDERISSUED_0"
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 1
+SoundID "SQUAD_GOAULDBOMBER_ONGENERALORDERISSUED_0"
+NumSoundsFor:ONSELECTED 1
+SoundID "SQUAD_GOAULDBOMBER_ONSELECTED_0"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+minShadow 0.000000
+maxShadow 0.000000
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""

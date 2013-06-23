@@ -1,0 +1,45 @@
+﻿TXT
+entityType "Squad"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+hudIcon "HUDICON_SQUADASGARDMINELAYER"
+smallHudIcon "HUDICONSMALL_SQUADASGARDMINELAYER"
+infoCardIcon "INFOCARDICON_SQUADASGARDMINELAYER"
+fighterEntityDef "FighterAsgardMineLayer"
+fighterIllusionEntityDef "FighterAsgardMineLayer"
+scuttleTime 8.000000
+fighterConstructionTime 5.000000
+decayWithoutOwnerRate 1.010000
+baseMaxNumFighters 5
+role "MineLayer"
+statCountType "SquadMineLayer"
+mainViewIcon "MAINVIEWICON_SQUADASGARDMINELAYER"
+picture "PICTURE_SQUADASGARDMINELAYER"
+launchIcon "HUDICONLAUNCH_SQUADASGARDMINELAYER"
+dockIcon "HUDICONDOCK_SQUADASGARDMINELAYER"
+nameStringID "IDS_SQUADASGARDMINELAYER_NAME"
+descriptionStringID "IDS_SQUADASGARDMINELAYER_DESC"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_ASGARD_SQUADACCESS_MINELAYER"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+NumSoundsFor:ONATTACKORDERISSUED 1
+SoundID "SQUAD_ASGARDCOMBAT_ONATTACKORDERISSUED_0"
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 1
+SoundID "SQUAD_ASGARDCOMBAT_ONGENERALORDERISSUED_0"
+NumSoundsFor:ONSELECTED 1
+SoundID "MINE_ASGARD_ONSELECTED"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+minShadow 0.000000
+maxShadow 0.000000
+ability:0 "AbilityAsgardConvertFightersToMines"
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""
