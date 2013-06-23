@@ -1,29 +1,5 @@
 TXT
-NumStrings 7580
-StringInfo
-	ID "IDS_ABILITY_GOAULDEYEOFRA_NAME"
-	Value "Eye of Ra"
-StringInfo
-	ID "IDS_ABILITY_GOAULDEYEOFRA_DESCRIPTION"
-	Value "Unleashes the mighty power of the Eye of Ra, which deals great damage to enemy ships"
-StringInfo
-	ID "IDS_ABILITY_GOAULDEYEOFTITAMAT_NAME"
-	Value "Eye of Titamat"
-StringInfo
-	ID "IDS_ABILITY_GOAULDEYEOFTITAMAT_DESCRIPTION"
-	Value "Unleashes the mighty power of the Eye of Titamat, which deals great damage to enemy ships"
-StringInfo
-	ID "IDS_ABILITY_GOAULDCOMBATTACTICS_NAME"
-	Value "Genetic Combat Experience"
-StringInfo
-	ID "IDS_ABILITY_GOAULDCOMBATTACTICS_DESCRIPTION"
-	Value "The genetic memories of the Goauld give them an advantage in combat movement"
-StringInfo
-	ID "IDS_ABILITY_GOAULDCOMBINEDEYES_NAME"
-	Value "Eyes of the Gods"
-StringInfo
-	ID "IDS_ABILITY_GOAULDCOMBINEDEYES_DESCRIPTION"
-	Value "Unleashes the mighty power of the Combined Eyes of the Gods"
+NumStrings 7598
 StringInfo
 	ID "IDS_ABILITY_WORTHYCAUSE_NAME"
 	Value "Worthy Cause"
@@ -5274,6 +5250,54 @@ StringInfo
 StringInfo
 	ID "IDS_GameStatGroup_Empire"
 	Value "Empire"
+StringInfo
+	ID "IDS_ABILITY_GOAULDTITANFLEETREPAIRS_NAME"
+	Value "Fleet Repairs"
+StringInfo
+	ID "IDS_ABILITY_GOAULDTITANFLEETREPAIRS_DESCRIPTION"
+	Value "External repair bays allow friendly ships to repair their hull whilst they are not in combat"
+StringInfo
+	ID "IDS_ABILITY_GOAULDTITANSTOLENTECHNOLOGY_NAME"
+	Value "Death Glider Reserves"
+StringInfo
+	ID "IDS_ABILITY_GOAULDTITANSTOLENTECHNOLOGY_DESCRIPTION"
+	Value "Unleashes the mighty power of the Eye of Ra, which deals great damage to enemy ships"
+StringInfo
+	ID "IDS_ABILITY_GOAULDTITANSOKARSWRATH_NAME"
+	Value "Sokar's Wrath"
+StringInfo
+	ID "IDS_ABILITY_GOAULDTITANSOKARSWRATH_DESCRIPTION"
+	Value "Cloaks nearby Capitalships"
+StringInfo
+	ID "IDS_ABILITY_GOAULDTITANFIGHTERSUPPORT_NAME"
+	Value "Death Glider Reserves"
+StringInfo
+	ID "IDS_ABILITY_GOAULDTITANFIGHTERSUPPORT_DESCRIPTION"
+	Value "Unleashes the mighty power of the Eye of Ra, which deals great damage to enemy ships"
+StringInfo
+	ID "IDS_ABILITY_GOAULDTITANEYEOFRA_NAME"
+	Value "Eye of Ra"
+StringInfo
+	ID "IDS_ABILITY_GOAULDTITANEYEOFRA_DESCRIPTION"
+	Value "Unleashes the mighty power of the Eye of Ra, which deals great damage to enemy ships"
+StringInfo
+	ID "IDS_ABILITY_GOAULDTITANEYEOFTITAMAT_NAME"
+	Value "Eye of Titamat"
+StringInfo
+	ID "IDS_ABILITY_GOAULDTITANEYEOFTITAMAT_DESCRIPTION"
+	Value "Unleashes the mighty power of the Eye of Titamat, which deals great damage to enemy ships"
+StringInfo
+	ID "IDS_ABILITY_GOAULDTITANCOMBATTACTICS_NAME"
+	Value "Genetic Combat Experience"
+StringInfo
+	ID "IDS_ABILITY_GOAULDTITANCOMBATTACTICS_DESCRIPTION"
+	Value "The genetic memories of the Goauld give them an advantage in combat movement"
+StringInfo
+	ID "IDS_ABILITY_GOAULDTITANCOMBINEDEYES_NAME"
+	Value "Eyes of the Gods"
+StringInfo
+	ID "IDS_ABILITY_GOAULDTITANCOMBINEDEYES_DESCRIPTION"
+	Value "Unleashes the mighty power of the Combined Eyes of the Gods"
 StringInfo
 	ID "IDS_CAPITALSHIP_GOAULDBATTLESHIP_NAME"
 	Value "Anubis Mothership"
@@ -12414,6 +12438,36 @@ StringInfo
 StringInfo
 	ID "IDSPlanetBonusValueModuleConstructors"
 	Value "Extra Constructors"
+StringInfo
+	ID "IDS_PLANETMODULE_TAURIORBITALTITANFACTORY_NAME"
+	Value "Titan Foundry"
+StringInfo
+	ID "IDS_PLANETMODULE_TAURIORBITALTITANFACTORY_DESCRIPTION"
+	Value "TBA"
+StringInfo
+	ID "IDS_PLANETMODULE_ASURANORBITALTITANFACTORY_NAME"
+	Value "Titan Foundry"
+StringInfo
+	ID "IDS_PLANETMODULE_ASURANORBITALTITANFACTORY_DESCRIPTION"
+	Value "TBA"
+StringInfo
+	ID "IDS_PLANETMODULE_WRAITHORBITALTITANFACTORY_NAME"
+	Value "Titan Foundry"
+StringInfo
+	ID "IDS_PLANETMODULE_WRAITHORBITALTITANFACTORY_DESCRIPTION"
+	Value "TBA"
+StringInfo
+	ID "IDS_PLANETMODULE_GOAULDORBITALTITANFACTORY_NAME"
+	Value "Titan Foundry"
+StringInfo
+	ID "IDS_PLANETMODULE_GOAULDORBITALTITANFACTORY_DESCRIPTION"
+	Value "TBA"
+StringInfo
+	ID "IDS_PLANETMODULE_ASGARDORBITALTITANFACTORY_NAME"
+	Value "Titan Foundry"
+StringInfo
+	ID "IDS_PLANETMODULE_ASGARDORBITALTITANFACTORY_DESCRIPTION"
+	Value "TBA"
 StringInfo
 	ID "IDS_CANNONSHELLASGARD_NAME"
 	Value "Deliverance Signal"
