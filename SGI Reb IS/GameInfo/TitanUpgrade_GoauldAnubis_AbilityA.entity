@@ -53,7 +53,7 @@ stage
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
-	levelRequirement 2
+	levelRequirement 4
 	hudIcon "HUDICON_ABILITY_POWERSURGE"
 	smallHudIcon "HUDICON_ABILITY_POWERSURGE"
 	infoCardIcon ""

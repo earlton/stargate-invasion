@@ -28,13 +28,13 @@ stage
 	upgradePropertyCount 3
 	upgradeProperty
 		propertyType "MaxAntiMatterPoints"
-		value 57.000000
+		value 75.000000
 	upgradeProperty
 		propertyType "AntiMatterRestoreRate"
-		value 0.150000
+		value 0.050000
 	upgradeProperty
 		propertyType "AbilityCooldownRate"
-		value 0.100000
+		value 0.050000
 	upgradeBoolPropertyCount 0
 stage
 	nameStringID "IDS_TITANUPGRADE_PHASELOYALIST_ABILITIES_NAME"
@@ -50,13 +50,13 @@ stage
 	upgradePropertyCount 3
 	upgradeProperty
 		propertyType "MaxAntiMatterPoints"
-		value 85.500000
+		value 75.000000
 	upgradeProperty
 		propertyType "AntiMatterRestoreRate"
-		value 0.225000
+		value 0.100000
 	upgradeProperty
 		propertyType "AbilityCooldownRate"
-		value 0.150000
+		value 0.100000
 	upgradeBoolPropertyCount 0
 stage
 	nameStringID "IDS_TITANUPGRADE_PHASELOYALIST_ABILITIES_NAME"
@@ -72,13 +72,13 @@ stage
 	upgradePropertyCount 3
 	upgradeProperty
 		propertyType "MaxAntiMatterPoints"
-		value 114.000000
+		value 75.000000
 	upgradeProperty
 		propertyType "AntiMatterRestoreRate"
-		value 0.300000
+		value 0.150000
 	upgradeProperty
 		propertyType "AbilityCooldownRate"
-		value 0.200000
+		value 0.150000
 	upgradeBoolPropertyCount 0
 stage
 	nameStringID "IDS_TITANUPGRADE_PHASELOYALIST_ABILITIES_NAME"
@@ -94,11 +94,11 @@ stage
 	upgradePropertyCount 3
 	upgradeProperty
 		propertyType "MaxAntiMatterPoints"
-		value 142.500000
+		value 75.000000
 	upgradeProperty
 		propertyType "AntiMatterRestoreRate"
-		value 0.375000
+		value 0.200000
 	upgradeProperty
 		propertyType "AbilityCooldownRate"
-		value 0.250000
+		value 0.200000
 	upgradeBoolPropertyCount 0

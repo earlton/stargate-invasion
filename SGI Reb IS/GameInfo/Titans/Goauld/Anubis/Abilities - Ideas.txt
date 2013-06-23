@@ -31,9 +31,9 @@ Anubis Assault  Titan
 
 	Turning Rate increase:      
 		lvl1: + 5%
-       		lvl2: +10%  
-	      	lvl3: +15%         
-	      	lvl4: +20%  
+       	lvl2: +10%  
+	    lvl3: +15%         
+	    lvl4: +20%  
 
 4. Eyes of the Gods     (Titan bombards planet in 1 shot 1 kill, can only target planets types, no ships)
 
