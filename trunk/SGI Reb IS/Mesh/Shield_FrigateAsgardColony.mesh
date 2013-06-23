@@ -1,0 +1,2445 @@
+﻿TXT
+MeshData
+	maxDiffuseMipLevel 0
+	hasValidTangents TRUE
+	BoundingRadius 181.837448
+	MaxBoundingExtents [ 40.029068 71.735580 148.042267 ]
+	MinBoundingExtents [ -40.029076 -81.303337 -174.206787 ]
+	NumMaterials 1
+	Material
+		DiffuseTextureFileName ""
+		SelfIlluminationTextureFileName ""
+		NormalTextureFileName ""
+		DisplacementTextureFileName ""
+		TeamColorTextureFileName ""
+		Diffuse ffffffff
+		Ambient ffffffff
+		Specular ffffffff
+		Emissive ffffffff
+		Glossiness 50.000000
+	NumPoints 0
+	NumVertices 128
+	Vertex
+		Position [ 25.848249 -55.309620 -103.589256 ]
+		Normal [ 0.813404 -0.325911 -0.481826 ]
+		Tangent [ -0.231373 0.800000 0.800000 ]
+		Color 0
+		U0 0.551128
+		V0 0.378627
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 25.380642 -21.888798 -108.396179 ]
+		Normal [ 0.818481 -0.124004 -0.560992 ]
+		Tangent [ -0.282353 0.839216 0.792157 ]
+		Color 0
+		U0 0.596194
+		V0 0.329686
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 9.582385 -24.756470 -118.288284 ]
+		Normal [ 0.308381 -0.243947 -0.919451 ]
+		Tangent [ -0.039216 0.647059 0.639216 ]
+		Color 0
+		U0 0.535737
+		V0 0.322335
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 9.453902 -71.453339 -110.546883 ]
+		Normal [ 0.373516 -0.597840 -0.709277 ]
+		Tangent [ -0.039216 0.647059 0.639216 ]
+		Color 0
+		U0 0.515157
+		V0 0.389281
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 9.296381 -76.378342 -91.174057 ]
+		Normal [ 0.353469 -0.912402 -0.206354 ]
+		Tangent [ -0.039216 0.666667 0.619608 ]
+		Color 0
+		U0 0.514494
+		V0 0.415712
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 27.877052 -60.864445 -86.045334 ]
+		Normal [ 0.874900 -0.442528 -0.196773 ]
+		Tangent [ -0.258824 0.847059 0.764706 ]
+		Color 0
+		U0 0.552260
+		V0 0.406468
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 31.446867 -23.014814 -88.553886 ]
+		Normal [ 0.971790 -0.078851 -0.222275 ]
+		Tangent [ -0.356863 0.886275 0.756863 ]
+		Color 0
+		U0 0.615635
+		V0 0.354168
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -25.848269 -55.309620 -103.589256 ]
+		Normal [ -0.813404 -0.325911 -0.481826 ]
+		Tangent [ -0.231373 0.192157 0.192157 ]
+		Color 0
+		U0 0.448872
+		V0 0.378627
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -25.380661 -21.888798 -108.396179 ]
+		Normal [ -0.818481 -0.124004 -0.560992 ]
+		Tangent [ -0.282353 0.156863 0.203922 ]
+		Color 0
+		U0 0.403806
+		V0 0.329686
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -31.446882 -23.014814 -88.553886 ]
+		Normal [ -0.971790 -0.078851 -0.222275 ]
+		Tangent [ -0.356863 0.109804 0.231373 ]
+		Color 0
+		U0 0.384365
+		V0 0.354168
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -27.877068 -60.864445 -86.045334 ]
+		Normal [ -0.874900 -0.442528 -0.196773 ]
+		Tangent [ -0.258824 0.149020 0.231373 ]
+		Color 0
+		U0 0.447740
+		V0 0.406468
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 16.490294 47.910583 -139.270279 ]
+		Normal [ 0.943919 0.188139 -0.271333 ]
+		Tangent [ -0.658824 0.768627 0.113725 ]
+		Color 0
+		U0 0.944433
+		V0 0.314897
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 19.720909 53.612000 -112.374512 ]
+		Normal [ 0.885262 0.428815 -0.180081 ]
+		Tangent [ -0.701961 0.811765 0.184314 ]
+		Color 0
+		U0 0.946443
+		V0 0.343361
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 7.315898 65.683647 -141.052475 ]
+		Normal [ 0.458467 0.860559 -0.221914 ]
+		Tangent [ -0.921569 0.674510 0.313726 ]
+		Color 0
+		U0 0.981013
+		V0 0.336919
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 5.435181 51.839310 -174.206787 ]
+		Normal [ 0.939015 0.177723 -0.294390 ]
+		Tangent [ -0.886275 0.682353 0.247059 ]
+		Color 0
+		U0 0.980639
+		V0 0.302692
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 21.166801 -50.589397 109.965019 ]
+		Normal [ 0.735696 -0.547664 0.398518 ]
+		Tangent [ -0.192157 0.839216 0.301961 ]
+		Color 0
+		U0 0.583278
+		V0 0.728854
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 10.006392 -52.254623 114.951317 ]
+		Normal [ 0.277288 -0.786896 0.551276 ]
+		Tangent [ -0.027451 0.658824 0.447059 ]
+		Color 0
+		U0 0.541030
+		V0 0.732978
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 8.773846 -23.103348 141.057297 ]
+		Normal [ 0.367885 -0.399458 0.839699 ]
+		Tangent [ -0.458824 0.949020 0.694118 ]
+		Color 0
+		U0 0.797921
+		V0 0.761099
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 25.507523 -18.987444 124.272591 ]
+		Normal [ 0.880909 -0.206500 0.425860 ]
+		Tangent [ -0.466667 0.972549 0.647059 ]
+		Color 0
+		U0 0.781430
+		V0 0.745488
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -21.166782 -50.589397 109.965019 ]
+		Normal [ -0.735696 -0.547664 0.398518 ]
+		Tangent [ -0.192157 0.149020 0.694118 ]
+		Color 0
+		U0 0.416722
+		V0 0.728854
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -10.006371 -52.254623 114.951317 ]
+		Normal [ -0.277288 -0.786896 0.551276 ]
+		Tangent [ -0.027451 0.329412 0.549020 ]
+		Color 0
+		U0 0.458970
+		V0 0.732978
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -9.267138 -68.915787 72.542404 ]
+		Normal [ -0.261361 -0.930004 0.258422 ]
+		Tangent [ -0.019608 0.356863 0.576471 ]
+		Color 0
+		U0 0.477703
+		V0 0.689856
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -26.901701 -58.615005 70.563416 ]
+		Normal [ -0.825147 -0.541302 0.161631 ]
+		Tangent [ -0.254902 0.141176 0.756863 ]
+		Color 0
+		U0 0.425468
+		V0 0.694616
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 31.707504 -20.113180 75.944473 ]
+		Normal [ 0.994482 -0.075760 0.072569 ]
+		Tangent [ -0.466667 0.992157 0.513726 ]
+		Color 0
+		U0 0.728830
+		V0 0.726787
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 26.901712 -58.615005 70.563416 ]
+		Normal [ 0.825147 -0.541302 0.161631 ]
+		Tangent [ -0.254902 0.847059 0.231373 ]
+		Color 0
+		U0 0.574532
+		V0 0.694616
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -17.737541 55.507355 112.780441 ]
+		Normal [ -0.725127 0.622226 0.295001 ]
+		Tangent [ -0.768627 0.274510 0.141176 ]
+		Color 0
+		U0 0.029020
+		V0 0.677934
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -24.964262 35.180828 123.502220 ]
+		Normal [ -0.863581 0.312704 0.395530 ]
+		Tangent [ -0.709804 0.294118 0.094118 ]
+		Color 0
+		U0 0.052720
+		V0 0.700839
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -31.702641 34.953049 76.707878 ]
+		Normal [ -0.978245 0.194556 0.072009 ]
+		Tangent [ -0.564706 0.219608 0.086275 ]
+		Color 0
+		U0 0.072596
+		V0 0.677189
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -22.132427 59.369347 72.981956 ]
+		Normal [ -0.771386 0.629643 0.092262 ]
+		Tangent [ -0.729412 0.200000 0.168627 ]
+		Color 0
+		U0 0.036624
+		V0 0.648047
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 17.737560 55.507355 112.780441 ]
+		Normal [ 0.725127 0.622226 0.295001 ]
+		Tangent [ -0.768627 0.721569 0.847059 ]
+		Color 0
+		U0 0.970980
+		V0 0.677934
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 9.513400 59.749805 116.585136 ]
+		Normal [ 0.314470 0.846111 0.430354 ]
+		Tangent [ -0.949020 0.611765 0.666667 ]
+		Color 0
+		U0 0.985216
+		V0 0.676394
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 9.326629 67.560791 74.164429 ]
+		Normal [ 0.283316 0.951616 0.118993 ]
+		Tangent [ -0.956863 0.639216 0.631373 ]
+		Color 0
+		U0 0.985886
+		V0 0.641638
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 22.132439 59.369347 72.981956 ]
+		Normal [ 0.771386 0.629643 0.092262 ]
+		Tangent [ -0.729412 0.792157 0.819608 ]
+		Color 0
+		U0 0.963376
+		V0 0.648047
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 8.506482 30.379309 -155.986984 ]
+		Normal [ 0.516487 -0.522392 -0.678490 ]
+		Tangent [ -0.627451 0.792157 0.113725 ]
+		Color 0
+		U0 0.944176
+		V0 0.293014
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 21.829739 29.888947 -125.287773 ]
+		Normal [ 0.934193 -0.056285 -0.352301 ]
+		Tangent [ -0.592157 0.827451 0.137255 ]
+		Color 0
+		U0 0.886075
+		V0 0.305559
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 22.951508 59.313396 -72.329781 ]
+		Normal [ 0.806373 0.585079 -0.086291 ]
+		Tangent [ -0.741176 0.858824 0.254902 ]
+		Color 0
+		U0 0.948453
+		V0 0.371826
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 29.008999 32.019245 -101.245430 ]
+		Normal [ 0.960084 0.158762 -0.230288 ]
+		Tangent [ -0.592157 0.882353 0.211765 ]
+		Color 0
+		U0 0.882814
+		V0 0.333144
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 36.188278 34.149540 -64.054085 ]
+		Normal [ 0.963328 0.252744 -0.090105 ]
+		Tangent [ -0.592157 0.937255 0.282353 ]
+		Color 0
+		U0 0.879552
+		V0 0.360729
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -16.490316 47.910583 -139.270279 ]
+		Normal [ -0.943919 0.188139 -0.271333 ]
+		Tangent [ -0.658824 0.219608 0.882353 ]
+		Color 0
+		U0 0.055567
+		V0 0.314897
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -19.720928 53.612000 -112.374512 ]
+		Normal [ -0.885262 0.428815 -0.180081 ]
+		Tangent [ -0.701961 0.184314 0.811765 ]
+		Color 0
+		U0 0.053557
+		V0 0.343361
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -29.009018 32.019245 -101.245430 ]
+		Normal [ -0.960084 0.158762 -0.230288 ]
+		Tangent [ -0.592157 0.109804 0.784314 ]
+		Color 0
+		U0 0.117186
+		V0 0.333144
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -21.829762 29.888947 -125.287773 ]
+		Normal [ -0.934193 -0.056285 -0.352301 ]
+		Tangent [ -0.592157 0.164706 0.858824 ]
+		Color 0
+		U0 0.113925
+		V0 0.305559
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -9.513379 59.749805 116.585136 ]
+		Normal [ -0.314470 0.846111 0.430354 ]
+		Tangent [ -0.949020 0.376471 0.329412 ]
+		Color 0
+		U0 0.014784
+		V0 0.676394
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -9.119437 39.269279 138.241806 ]
+		Normal [ -0.368740 0.501591 0.782583 ]
+		Tangent [ -0.949020 0.403922 0.309804 ]
+		Color 0
+		U0 0.018039
+		V0 0.703775
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 31.702656 34.953049 76.707878 ]
+		Normal [ 0.978245 0.194556 0.072009 ]
+		Tangent [ -0.564706 0.768627 0.909804 ]
+		Color 0
+		U0 0.927404
+		V0 0.677189
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 24.964285 35.180828 123.502220 ]
+		Normal [ 0.863581 0.312704 0.395530 ]
+		Tangent [ -0.709804 0.694118 0.901961 ]
+		Color 0
+		U0 0.947280
+		V0 0.700839
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -31.707493 -20.113180 75.944473 ]
+		Normal [ -0.994482 -0.075760 0.072569 ]
+		Tangent [ -0.466667 0.000000 0.482353 ]
+		Color 0
+		U0 0.271170
+		V0 0.726787
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -25.507500 -18.987444 124.272591 ]
+		Normal [ -0.880909 -0.206500 0.425860 ]
+		Tangent [ -0.458824 0.019608 0.349020 ]
+		Color 0
+		U0 0.218570
+		V0 0.745488
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 29.905857 -66.419281 -55.352455 ]
+		Normal [ 0.858627 -0.509041 -0.060306 ]
+		Tangent [ -0.286275 0.886275 0.729412 ]
+		Color 0
+		U0 0.553392
+		V0 0.434309
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 9.138861 -81.303337 -58.652275 ]
+		Normal [ 0.321792 -0.944045 -0.072314 ]
+		Tangent [ -0.039216 0.674510 0.592157 ]
+		Color 0
+		U0 0.513831
+		V0 0.442144
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 9.373040 -80.942909 -22.974945 ]
+		Normal [ 0.318569 -0.947502 0.027456 ]
+		Tangent [ -0.031373 0.682353 0.513726 ]
+		Color 0
+		U0 0.515423
+		V0 0.528562
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 28.592497 -66.516678 -22.562414 ]
+		Normal [ 0.858083 -0.511508 0.045322 ]
+		Tangent [ -0.274510 0.941176 0.549020 ]
+		Color 0
+		U0 0.555692
+		V0 0.526679
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 40.029068 8.302606 -57.676437 ]
+		Normal [ 0.996848 0.014323 -0.078029 ]
+		Tangent [ -0.494118 0.992157 0.501961 ]
+		Color 0
+		U0 0.777966
+		V0 0.353941
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 37.513111 -24.140827 -55.562607 ]
+		Normal [ 0.992015 -0.112058 -0.057874 ]
+		Tangent [ -0.439216 0.937255 0.729412 ]
+		Color 0
+		U0 0.635077
+		V0 0.378649
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 35.497887 -24.176489 -22.546097 ]
+		Normal [ 0.992382 -0.101791 0.069404 ]
+		Tangent [ -0.458824 0.992157 0.576471 ]
+		Color 0
+		U0 0.650860
+		V0 0.509006
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 37.634174 8.680207 -22.721058 ]
+		Normal [ 0.996935 0.016672 0.076441 ]
+		Tangent [ -0.501961 0.992157 0.556863 ]
+		Color 0
+		U0 0.812118
+		V0 0.486755
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -40.029076 8.302606 -57.676430 ]
+		Normal [ -0.996848 0.014323 -0.078029 ]
+		Tangent [ -0.494118 0.000000 0.494118 ]
+		Color 0
+		U0 0.222034
+		V0 0.353941
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -36.188286 34.149540 -64.054085 ]
+		Normal [ -0.963328 0.252744 -0.090105 ]
+		Tangent [ -0.592157 0.058824 0.713726 ]
+		Color 0
+		U0 0.120448
+		V0 0.360729
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -35.313869 35.945358 -24.751362 ]
+		Normal [ -0.968828 0.244446 0.040218 ]
+		Tangent [ -0.592157 0.003922 0.494118 ]
+		Color 0
+		U0 0.099111
+		V0 0.479202
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -37.634182 8.680207 -22.721050 ]
+		Normal [ -0.996935 0.016672 0.076441 ]
+		Tangent [ -0.501961 0.003922 0.431373 ]
+		Color 0
+		U0 0.187882
+		V0 0.486755
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -22.951519 59.313396 -72.329781 ]
+		Normal [ -0.806373 0.585079 -0.086291 ]
+		Tangent [ -0.741176 0.137255 0.741176 ]
+		Color 0
+		U0 0.051547
+		V0 0.371826
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -9.196632 70.321228 -78.970421 ]
+		Normal [ -0.355302 0.932277 -0.067972 ]
+		Tangent [ -0.949020 0.329412 0.627451 ]
+		Color 0
+		U0 0.018613
+		V0 0.371145
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -9.425137 71.735580 -28.431795 ]
+		Normal [ -0.299683 0.953947 -0.013242 ]
+		Tangent [ -0.964706 0.329412 0.513726 ]
+		Color 0
+		U0 0.016032
+		V0 0.475794
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -23.635548 62.716209 -27.050785 ]
+		Normal [ -0.774144 0.633005 -0.002331 ]
+		Tangent [ -0.776471 0.086275 0.521569 ]
+		Color 0
+		U0 0.044552
+		V0 0.477470
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 35.313862 35.945358 -24.751369 ]
+		Normal [ 0.968828 0.244446 0.040218 ]
+		Tangent [ -0.592157 0.984314 0.501961 ]
+		Color 0
+		U0 0.900889
+		V0 0.479202
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 23.635544 62.716209 -27.050789 ]
+		Normal [ 0.774144 0.633005 -0.002331 ]
+		Tangent [ -0.776471 0.909804 0.466667 ]
+		Color 0
+		U0 0.955448
+		V0 0.477470
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -29.905869 -66.419281 -55.352448 ]
+		Normal [ -0.858627 -0.509041 -0.060306 ]
+		Tangent [ -0.286275 0.101961 0.266667 ]
+		Color 0
+		U0 0.446608
+		V0 0.434309
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -37.513119 -24.140827 -55.562599 ]
+		Normal [ -0.992015 -0.112058 -0.057874 ]
+		Tangent [ -0.439216 0.058824 0.266667 ]
+		Color 0
+		U0 0.364923
+		V0 0.378649
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -35.497894 -24.176489 -22.546089 ]
+		Normal [ -0.992382 -0.101791 0.069404 ]
+		Tangent [ -0.458824 0.003922 0.419608 ]
+		Color 0
+		U0 0.349140
+		V0 0.509006
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -28.592501 -66.516678 -22.562410 ]
+		Normal [ -0.858083 -0.511508 0.045322 ]
+		Tangent [ -0.274510 0.047059 0.447059 ]
+		Color 0
+		U0 0.444308
+		V0 0.526679
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -23.419001 8.028440 -116.356140 ]
+		Normal [ -0.865531 -0.157495 -0.475449 ]
+		Tangent [ -0.439216 0.003922 0.529412 ]
+		Color 0
+		U0 0.248359
+		V0 0.299620
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -9.582406 -24.756470 -118.288284 ]
+		Normal [ -0.308381 -0.243947 -0.919451 ]
+		Tangent [ -0.039216 0.341176 0.356863 ]
+		Color 0
+		U0 0.464263
+		V0 0.322335
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -8.993121 7.246325 -132.189575 ]
+		Normal [ -0.407532 -0.462604 -0.787347 ]
+		Tangent [ -0.094118 0.211765 0.431373 ]
+		Color 0
+		U0 0.290317
+		V0 0.279737
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -9.296396 -76.378342 -91.174057 ]
+		Normal [ -0.353469 -0.912402 -0.206354 ]
+		Tangent [ -0.039216 0.329412 0.376471 ]
+		Color 0
+		U0 0.485506
+		V0 0.415712
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -9.453921 -71.453339 -110.546883 ]
+		Normal [ -0.373516 -0.597840 -0.709277 ]
+		Tangent [ -0.039216 0.341176 0.349020 ]
+		Color 0
+		U0 0.484843
+		V0 0.389281
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -7.315923 65.683647 -141.052475 ]
+		Normal [ -0.458467 0.860559 -0.221914 ]
+		Tangent [ -0.921569 0.321569 0.686275 ]
+		Color 0
+		U0 0.018987
+		V0 0.336919
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -8.773821 -23.103348 141.057297 ]
+		Normal [ -0.367885 -0.399458 0.839699 ]
+		Tangent [ -0.458824 0.039216 0.294118 ]
+		Color 0
+		U0 0.202079
+		V0 0.761099
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 9.267151 -68.915787 72.542404 ]
+		Normal [ 0.261361 -0.930004 0.258422 ]
+		Tangent [ -0.019608 0.639216 0.419608 ]
+		Color 0
+		U0 0.522297
+		V0 0.689856
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -9.326615 67.560791 74.164429 ]
+		Normal [ -0.283316 0.951616 0.118993 ]
+		Tangent [ -0.956863 0.349020 0.356863 ]
+		Color 0
+		U0 0.014114
+		V0 0.641638
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -8.506509 30.379309 -155.986984 ]
+		Normal [ -0.516487 -0.522392 -0.678490 ]
+		Tangent [ -0.619608 0.200000 0.874510 ]
+		Color 0
+		U0 0.055824
+		V0 0.293014
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -5.435211 51.839310 -174.206787 ]
+		Normal [ -0.939015 0.177723 -0.294390 ]
+		Tangent [ -0.886275 0.313726 0.749020 ]
+		Color 0
+		U0 0.019361
+		V0 0.302692
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 9.119462 39.269279 138.241806 ]
+		Normal [ 0.368740 0.501591 0.782583 ]
+		Tangent [ -0.949020 0.592157 0.686275 ]
+		Color 0
+		U0 0.981961
+		V0 0.703775
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -9.373044 -80.942909 -22.974945 ]
+		Normal [ -0.318569 -0.947502 0.027456 ]
+		Tangent [ -0.031373 0.313726 0.486275 ]
+		Color 0
+		U0 0.484577
+		V0 0.528562
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -9.138870 -81.303337 -58.652275 ]
+		Normal [ -0.321792 -0.944045 -0.072314 ]
+		Tangent [ -0.039216 0.313726 0.403922 ]
+		Color 0
+		U0 0.486169
+		V0 0.442144
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 9.425131 71.735580 -28.431795 ]
+		Normal [ 0.299683 0.953947 -0.013242 ]
+		Tangent [ -0.964706 0.666667 0.482353 ]
+		Color 0
+		U0 0.983968
+		V0 0.475794
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 9.196619 70.321228 -78.970421 ]
+		Normal [ 0.355302 0.932277 -0.067972 ]
+		Tangent [ -0.949020 0.666667 0.368627 ]
+		Color 0
+		U0 0.981387
+		V0 0.371145
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -8.909086 -79.266586 23.965225 ]
+		Normal [ -0.315699 -0.942246 0.111837 ]
+		Tangent [ -0.031373 0.313726 0.549020 ]
+		Color 0
+		U0 0.483687
+		V0 0.619865
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -27.252131 -64.203545 23.064064 ]
+		Normal [ -0.863145 -0.500263 0.068688 ]
+		Tangent [ -0.274510 0.074510 0.647059 ]
+		Color 0
+		U0 0.439306
+		V0 0.628816
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 31.710054 9.115961 25.260382 ]
+		Normal [ 0.998740 0.003466 0.050054 ]
+		Tangent [ -0.509804 0.937255 0.729412 ]
+		Color 0
+		U0 0.852829
+		V0 0.663995
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 31.709888 -22.782743 24.278591 ]
+		Normal [ 0.996464 -0.071516 0.044109 ]
+		Tangent [ -0.466667 0.992157 0.494118 ]
+		Color 0
+		U0 0.675368
+		V0 0.677878
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 31.709911 10.071379 78.978279 ]
+		Normal [ 0.997907 0.004050 0.064534 ]
+		Tangent [ -0.521569 0.784314 0.901961 ]
+		Color 0
+		U0 0.880383
+		V0 0.708915
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -31.710051 9.115961 25.260386 ]
+		Normal [ -0.998740 0.003466 0.050054 ]
+		Tangent [ -0.509804 0.054902 0.258824 ]
+		Color 0
+		U0 0.147171
+		V0 0.663995
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -31.709808 35.806709 24.486290 ]
+		Normal [ -0.980381 0.192884 0.040613 ]
+		Tangent [ -0.568627 0.074510 0.239216 ]
+		Color 0
+		U0 0.080683
+		V0 0.616462
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -31.709896 10.071379 78.978279 ]
+		Normal [ -0.997907 0.004050 0.064534 ]
+		Tangent [ -0.521569 0.203922 0.094118 ]
+		Color 0
+		U0 0.119617
+		V0 0.708915
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 9.164828 71.343918 23.417381 ]
+		Normal [ 0.289863 0.956237 0.039883 ]
+		Tangent [ -0.964706 0.666667 0.564706 ]
+		Color 0
+		U0 0.985637
+		V0 0.576778
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 22.742870 61.902069 23.408127 ]
+		Normal [ 0.781350 0.623110 0.035001 ]
+		Tangent [ -0.756863 0.886275 0.674510 ]
+		Color 0
+		U0 0.960392
+		V0 0.584345
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 31.709812 35.806709 24.486286 ]
+		Normal [ 0.980381 0.192884 0.040613 ]
+		Tangent [ -0.568627 0.921569 0.749020 ]
+		Color 0
+		U0 0.919317
+		V0 0.616462
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -31.709885 -22.782743 24.278595 ]
+		Normal [ -0.996464 -0.071516 0.044109 ]
+		Tangent [ -0.466667 0.000000 0.494118 ]
+		Color 0
+		U0 0.324632
+		V0 0.677878
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 27.252134 -64.203545 23.064060 ]
+		Normal [ 0.863145 -0.500263 0.068688 ]
+		Tangent [ -0.274510 0.921569 0.349020 ]
+		Color 0
+		U0 0.560694
+		V0 0.628816
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 8.909090 -79.266586 23.965225 ]
+		Normal [ 0.315699 -0.942246 0.111837 ]
+		Tangent [ -0.031373 0.674510 0.439216 ]
+		Color 0
+		U0 0.516313
+		V0 0.619865
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -22.742867 61.902069 23.408131 ]
+		Normal [ -0.781351 0.623110 0.035001 ]
+		Tangent [ -0.756863 0.109804 0.321569 ]
+		Color 0
+		U0 0.039608
+		V0 0.584345
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -9.164824 71.343918 23.417381 ]
+		Normal [ -0.289863 0.956237 0.039883 ]
+		Tangent [ -0.964706 0.329412 0.427451 ]
+		Color 0
+		U0 0.014363
+		V0 0.576778
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -25.471338 11.271718 129.262253 ]
+		Normal [ -0.907302 0.026322 0.419655 ]
+		Tangent [ -0.658824 0.282353 0.074510 ]
+		Color 0
+		U0 0.084003
+		V0 0.725007
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 8.993098 7.246325 -132.189575 ]
+		Normal [ 0.407532 -0.462604 -0.787347 ]
+		Tangent [ -0.094118 0.784314 0.556863 ]
+		Color 0
+		U0 0.709683
+		V0 0.279737
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 23.418982 8.028440 -116.356140 ]
+		Normal [ 0.865531 -0.157495 -0.475449 ]
+		Tangent [ -0.439216 0.992157 0.458824 ]
+		Color 0
+		U0 0.751641
+		V0 0.299620
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 31.724033 8.165524 -93.590775 ]
+		Normal [ 0.964832 -0.015622 -0.262403 ]
+		Tangent [ -0.466667 0.992157 0.482353 ]
+		Color 0
+		U0 0.764804
+		V0 0.326781
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -31.724049 8.165524 -93.590775 ]
+		Normal [ -0.964832 -0.015622 -0.262403 ]
+		Tangent [ -0.466667 0.003922 0.513726 ]
+		Color 0
+		U0 0.235196
+		V0 0.326781
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -9.088457 12.302970 148.042267 ]
+		Normal [ -0.406861 0.064893 0.911182 ]
+		Tangent [ -0.929412 0.384314 0.282353 ]
+		Color 0
+		U0 0.029743
+		V0 0.730959
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 25.471361 11.271718 129.262253 ]
+		Normal [ 0.907302 0.026322 0.419655 ]
+		Tangent [ -0.658824 0.701961 0.921569 ]
+		Color 0
+		U0 0.915997
+		V0 0.725007
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 9.088484 12.302970 148.042267 ]
+		Normal [ 0.406861 0.064893 0.911182 ]
+		Tangent [ -0.929412 0.603922 0.713726 ]
+		Color 0
+		U0 0.970257
+		V0 0.730959
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 7.315898 65.683647 -141.052475 ]
+		Normal [ 0.458467 0.860559 -0.221914 ]
+		Tangent [ -0.921569 0.674510 0.313726 ]
+		Color 0
+		U0 -0.018987
+		V0 0.336919
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 9.196619 70.321228 -78.970421 ]
+		Normal [ 0.355302 0.932277 -0.067972 ]
+		Tangent [ -0.949020 0.666667 0.368627 ]
+		Color 0
+		U0 -0.018613
+		V0 0.371145
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 9.326629 67.560791 74.164429 ]
+		Normal [ 0.283316 0.951616 0.118993 ]
+		Tangent [ -0.956863 0.639216 0.631373 ]
+		Color 0
+		U0 -0.014114
+		V0 0.641638
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 9.513400 59.749805 116.585136 ]
+		Normal [ 0.314470 0.846111 0.430354 ]
+		Tangent [ -0.949020 0.611765 0.666667 ]
+		Color 0
+		U0 -0.014784
+		V0 0.676394
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -5.435211 51.839310 -174.206787 ]
+		Normal [ -0.000000 -0.647211 -0.762311 ]
+		Tangent [ -0.886275 0.313726 0.749020 ]
+		Color 0
+		U0 1.019361
+		V0 0.302692
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -8.506509 30.379309 -155.986984 ]
+		Normal [ -0.516487 -0.522392 -0.678490 ]
+		Tangent [ -0.619608 0.200000 0.874510 ]
+		Color 0
+		U0 1.055824
+		V0 0.293014
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 5.435181 51.839310 -174.206787 ]
+		Normal [ -0.000000 -0.647211 -0.762311 ]
+		Tangent [ -0.886275 0.682353 0.247059 ]
+		Color 0
+		U0 0.980639
+		V0 0.302692
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 9.119462 39.269279 138.241806 ]
+		Normal [ 0.368740 0.501591 0.782583 ]
+		Tangent [ -0.949020 0.592157 0.686275 ]
+		Color 0
+		U0 -0.018039
+		V0 0.703775
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 9.425131 71.735580 -28.431795 ]
+		Normal [ 0.299683 0.953947 -0.013242 ]
+		Tangent [ -0.964706 0.666667 0.482353 ]
+		Color 0
+		U0 -0.016032
+		V0 0.475794
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -9.326615 67.560791 74.164429 ]
+		Normal [ -0.283316 0.951616 0.118993 ]
+		Tangent [ -0.956863 0.349020 0.356863 ]
+		Color 0
+		U0 1.014114
+		V0 0.641638
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -9.164824 71.343918 23.417381 ]
+		Normal [ -0.289863 0.956237 0.039883 ]
+		Tangent [ -0.964706 0.329412 0.427451 ]
+		Color 0
+		U0 1.014363
+		V0 0.576778
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 9.164828 71.343918 23.417381 ]
+		Normal [ 0.289863 0.956237 0.039883 ]
+		Tangent [ -0.964706 0.666667 0.564706 ]
+		Color 0
+		U0 -0.014363
+		V0 0.576778
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -9.088457 12.302970 148.042267 ]
+		Normal [ -0.406861 0.064893 0.911182 ]
+		Tangent [ -0.929412 0.384314 0.282353 ]
+		Color 0
+		U0 1.029743
+		V0 0.730959
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -9.119437 39.269279 138.241806 ]
+		Normal [ -0.368740 0.501591 0.782583 ]
+		Tangent [ -0.949020 0.403922 0.309804 ]
+		Color 0
+		U0 1.018039
+		V0 0.703775
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 9.088484 12.302970 148.042267 ]
+		Normal [ 0.406861 0.064893 0.911182 ]
+		Tangent [ -0.929412 0.603922 0.713726 ]
+		Color 0
+		U0 -0.029743
+		V0 0.730959
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 8.773846 -23.103348 141.057297 ]
+		Normal [ 0.367885 -0.399458 0.839699 ]
+		Tangent [ -0.458824 0.949020 0.694118 ]
+		Color 0
+		U0 -0.202079
+		V0 0.761099
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ -5.435211 51.839310 -174.206787 ]
+		Normal [ -0.000000 0.922780 -0.385328 ]
+		Tangent [ -0.886275 0.313726 0.749020 ]
+		Color 0
+		U0 0.019361
+		V0 0.302692
+		U1 0.000000
+		V1 0.000000
+	Vertex
+		Position [ 5.435181 51.839310 -174.206787 ]
+		Normal [ -0.000000 0.922780 -0.385328 ]
+		Tangent [ -0.886275 0.682353 0.247059 ]
+		Color 0
+		U0 -0.019361
+		V0 0.302692
+		U1 0.000000
+		V1 0.000000
+	NumTriangles 216
+	Triangle
+		iVertex0 0
+		iVertex1 2
+		iVertex2 1
+		iMaterial 0
+	Triangle
+		iVertex0 0
+		iVertex1 3
+		iVertex2 2
+		iMaterial 0
+	Triangle
+		iVertex0 0
+		iVertex1 4
+		iVertex2 3
+		iMaterial 0
+	Triangle
+		iVertex0 0
+		iVertex1 5
+		iVertex2 4
+		iMaterial 0
+	Triangle
+		iVertex0 0
+		iVertex1 6
+		iVertex2 5
+		iMaterial 0
+	Triangle
+		iVertex0 0
+		iVertex1 1
+		iVertex2 6
+		iMaterial 0
+	Triangle
+		iVertex0 7
+		iVertex1 9
+		iVertex2 8
+		iMaterial 0
+	Triangle
+		iVertex0 7
+		iVertex1 10
+		iVertex2 9
+		iMaterial 0
+	Triangle
+		iVertex0 11
+		iVertex1 13
+		iVertex2 12
+		iMaterial 0
+	Triangle
+		iVertex0 11
+		iVertex1 14
+		iVertex2 13
+		iMaterial 0
+	Triangle
+		iVertex0 15
+		iVertex1 17
+		iVertex2 16
+		iMaterial 0
+	Triangle
+		iVertex0 15
+		iVertex1 18
+		iVertex2 17
+		iMaterial 0
+	Triangle
+		iVertex0 19
+		iVertex1 21
+		iVertex2 20
+		iMaterial 0
+	Triangle
+		iVertex0 19
+		iVertex1 22
+		iVertex2 21
+		iMaterial 0
+	Triangle
+		iVertex0 15
+		iVertex1 23
+		iVertex2 18
+		iMaterial 0
+	Triangle
+		iVertex0 15
+		iVertex1 24
+		iVertex2 23
+		iMaterial 0
+	Triangle
+		iVertex0 25
+		iVertex1 27
+		iVertex2 26
+		iMaterial 0
+	Triangle
+		iVertex0 25
+		iVertex1 28
+		iVertex2 27
+		iMaterial 0
+	Triangle
+		iVertex0 29
+		iVertex1 31
+		iVertex2 30
+		iMaterial 0
+	Triangle
+		iVertex0 29
+		iVertex1 32
+		iVertex2 31
+		iMaterial 0
+	Triangle
+		iVertex0 11
+		iVertex1 33
+		iVertex2 14
+		iMaterial 0
+	Triangle
+		iVertex0 11
+		iVertex1 34
+		iVertex2 33
+		iMaterial 0
+	Triangle
+		iVertex0 35
+		iVertex1 36
+		iVertex2 12
+		iMaterial 0
+	Triangle
+		iVertex0 35
+		iVertex1 37
+		iVertex2 36
+		iMaterial 0
+	Triangle
+		iVertex0 38
+		iVertex1 40
+		iVertex2 39
+		iMaterial 0
+	Triangle
+		iVertex0 38
+		iVertex1 41
+		iVertex2 40
+		iMaterial 0
+	Triangle
+		iVertex0 25
+		iVertex1 43
+		iVertex2 42
+		iMaterial 0
+	Triangle
+		iVertex0 25
+		iVertex1 26
+		iVertex2 43
+		iMaterial 0
+	Triangle
+		iVertex0 29
+		iVertex1 44
+		iVertex2 32
+		iMaterial 0
+	Triangle
+		iVertex0 29
+		iVertex1 45
+		iVertex2 44
+		iMaterial 0
+	Triangle
+		iVertex0 19
+		iVertex1 46
+		iVertex2 22
+		iMaterial 0
+	Triangle
+		iVertex0 19
+		iVertex1 47
+		iVertex2 46
+		iMaterial 0
+	Triangle
+		iVertex0 48
+		iVertex1 50
+		iVertex2 49
+		iMaterial 0
+	Triangle
+		iVertex0 48
+		iVertex1 51
+		iVertex2 50
+		iMaterial 0
+	Triangle
+		iVertex0 52
+		iVertex1 54
+		iVertex2 53
+		iMaterial 0
+	Triangle
+		iVertex0 52
+		iVertex1 55
+		iVertex2 54
+		iMaterial 0
+	Triangle
+		iVertex0 56
+		iVertex1 58
+		iVertex2 57
+		iMaterial 0
+	Triangle
+		iVertex0 56
+		iVertex1 59
+		iVertex2 58
+		iMaterial 0
+	Triangle
+		iVertex0 60
+		iVertex1 62
+		iVertex2 61
+		iMaterial 0
+	Triangle
+		iVertex0 60
+		iVertex1 63
+		iVertex2 62
+		iMaterial 0
+	Triangle
+		iVertex0 35
+		iVertex1 64
+		iVertex2 37
+		iMaterial 0
+	Triangle
+		iVertex0 35
+		iVertex1 65
+		iVertex2 64
+		iMaterial 0
+	Triangle
+		iVertex0 66
+		iVertex1 68
+		iVertex2 67
+		iMaterial 0
+	Triangle
+		iVertex0 66
+		iVertex1 69
+		iVertex2 68
+		iMaterial 0
+	Triangle
+		iVertex0 70
+		iVertex1 71
+		iVertex2 8
+		iMaterial 0
+	Triangle
+		iVertex0 70
+		iVertex1 72
+		iVertex2 71
+		iMaterial 0
+	Triangle
+		iVertex0 7
+		iVertex1 73
+		iVertex2 10
+		iMaterial 0
+	Triangle
+		iVertex0 7
+		iVertex1 74
+		iVertex2 73
+		iMaterial 0
+	Triangle
+		iVertex0 60
+		iVertex1 75
+		iVertex2 39
+		iMaterial 0
+	Triangle
+		iVertex0 60
+		iVertex1 61
+		iVertex2 75
+		iMaterial 0
+	Triangle
+		iVertex0 19
+		iVertex1 76
+		iVertex2 47
+		iMaterial 0
+	Triangle
+		iVertex0 19
+		iVertex1 20
+		iVertex2 76
+		iMaterial 0
+	Triangle
+		iVertex0 15
+		iVertex1 77
+		iVertex2 24
+		iMaterial 0
+	Triangle
+		iVertex0 15
+		iVertex1 16
+		iVertex2 77
+		iMaterial 0
+	Triangle
+		iVertex0 25
+		iVertex1 78
+		iVertex2 28
+		iMaterial 0
+	Triangle
+		iVertex0 25
+		iVertex1 42
+		iVertex2 78
+		iMaterial 0
+	Triangle
+		iVertex0 38
+		iVertex1 79
+		iVertex2 41
+		iMaterial 0
+	Triangle
+		iVertex0 38
+		iVertex1 80
+		iVertex2 79
+		iMaterial 0
+	Triangle
+		iVertex0 29
+		iVertex1 81
+		iVertex2 45
+		iMaterial 0
+	Triangle
+		iVertex0 29
+		iVertex1 30
+		iVertex2 81
+		iMaterial 0
+	Triangle
+		iVertex0 66
+		iVertex1 82
+		iVertex2 69
+		iMaterial 0
+	Triangle
+		iVertex0 66
+		iVertex1 83
+		iVertex2 82
+		iMaterial 0
+	Triangle
+		iVertex0 35
+		iVertex1 84
+		iVertex2 65
+		iMaterial 0
+	Triangle
+		iVertex0 35
+		iVertex1 85
+		iVertex2 84
+		iMaterial 0
+	Triangle
+		iVertex0 86
+		iVertex1 22
+		iVertex2 87
+		iMaterial 0
+	Triangle
+		iVertex0 86
+		iVertex1 21
+		iVertex2 22
+		iMaterial 0
+	Triangle
+		iVertex0 88
+		iVertex1 23
+		iVertex2 89
+		iMaterial 0
+	Triangle
+		iVertex0 88
+		iVertex1 90
+		iVertex2 23
+		iMaterial 0
+	Triangle
+		iVertex0 91
+		iVertex1 27
+		iVertex2 92
+		iMaterial 0
+	Triangle
+		iVertex0 91
+		iVertex1 93
+		iVertex2 27
+		iMaterial 0
+	Triangle
+		iVertex0 94
+		iVertex1 32
+		iVertex2 95
+		iMaterial 0
+	Triangle
+		iVertex0 94
+		iVertex1 31
+		iVertex2 32
+		iMaterial 0
+	Triangle
+		iVertex0 95
+		iVertex1 44
+		iVertex2 96
+		iMaterial 0
+	Triangle
+		iVertex0 95
+		iVertex1 32
+		iVertex2 44
+		iMaterial 0
+	Triangle
+		iVertex0 87
+		iVertex1 46
+		iVertex2 97
+		iMaterial 0
+	Triangle
+		iVertex0 87
+		iVertex1 22
+		iVertex2 46
+		iMaterial 0
+	Triangle
+		iVertex0 98
+		iVertex1 77
+		iVertex2 99
+		iMaterial 0
+	Triangle
+		iVertex0 98
+		iVertex1 24
+		iVertex2 77
+		iMaterial 0
+	Triangle
+		iVertex0 100
+		iVertex1 78
+		iVertex2 101
+		iMaterial 0
+	Triangle
+		iVertex0 100
+		iVertex1 28
+		iVertex2 78
+		iMaterial 0
+	Triangle
+		iVertex0 99
+		iVertex1 51
+		iVertex2 98
+		iMaterial 0
+	Triangle
+		iVertex0 99
+		iVertex1 50
+		iVertex2 51
+		iMaterial 0
+	Triangle
+		iVertex0 98
+		iVertex1 54
+		iVertex2 89
+		iMaterial 0
+	Triangle
+		iVertex0 98
+		iVertex1 51
+		iVertex2 54
+		iMaterial 0
+	Triangle
+		iVertex0 100
+		iVertex1 58
+		iVertex2 92
+		iMaterial 0
+	Triangle
+		iVertex0 100
+		iVertex1 63
+		iVertex2 58
+		iMaterial 0
+	Triangle
+		iVertex0 101
+		iVertex1 63
+		iVertex2 100
+		iMaterial 0
+	Triangle
+		iVertex0 101
+		iVertex1 62
+		iVertex2 63
+		iMaterial 0
+	Triangle
+		iVertex0 88
+		iVertex1 64
+		iVertex2 96
+		iMaterial 0
+	Triangle
+		iVertex0 88
+		iVertex1 55
+		iVertex2 64
+		iMaterial 0
+	Triangle
+		iVertex0 91
+		iVertex1 68
+		iVertex2 97
+		iMaterial 0
+	Triangle
+		iVertex0 91
+		iVertex1 59
+		iVertex2 68
+		iMaterial 0
+	Triangle
+		iVertex0 87
+		iVertex1 82
+		iVertex2 86
+		iMaterial 0
+	Triangle
+		iVertex0 87
+		iVertex1 69
+		iVertex2 82
+		iMaterial 0
+	Triangle
+		iVertex0 95
+		iVertex1 84
+		iVertex2 94
+		iMaterial 0
+	Triangle
+		iVertex0 95
+		iVertex1 65
+		iVertex2 84
+		iMaterial 0
+	Triangle
+		iVertex0 102
+		iVertex1 27
+		iVertex2 93
+		iMaterial 0
+	Triangle
+		iVertex0 102
+		iVertex1 26
+		iVertex2 27
+		iMaterial 0
+	Triangle
+		iVertex0 103
+		iVertex1 34
+		iVertex2 104
+		iMaterial 0
+	Triangle
+		iVertex0 103
+		iVertex1 33
+		iVertex2 34
+		iMaterial 0
+	Triangle
+		iVertex0 104
+		iVertex1 36
+		iVertex2 105
+		iMaterial 0
+	Triangle
+		iVertex0 104
+		iVertex1 34
+		iVertex2 36
+		iMaterial 0
+	Triangle
+		iVertex0 56
+		iVertex1 40
+		iVertex2 106
+		iMaterial 0
+	Triangle
+		iVertex0 56
+		iVertex1 57
+		iVertex2 40
+		iMaterial 0
+	Triangle
+		iVertex0 107
+		iVertex1 26
+		iVertex2 102
+		iMaterial 0
+	Triangle
+		iVertex0 107
+		iVertex1 43
+		iVertex2 26
+		iMaterial 0
+	Triangle
+		iVertex0 90
+		iVertex1 45
+		iVertex2 108
+		iMaterial 0
+	Triangle
+		iVertex0 90
+		iVertex1 44
+		iVertex2 45
+		iMaterial 0
+	Triangle
+		iVertex0 60
+		iVertex1 58
+		iVertex2 63
+		iMaterial 0
+	Triangle
+		iVertex0 60
+		iVertex1 57
+		iVertex2 58
+		iMaterial 0
+	Triangle
+		iVertex0 52
+		iVertex1 64
+		iVertex2 55
+		iMaterial 0
+	Triangle
+		iVertex0 52
+		iVertex1 37
+		iVertex2 64
+		iMaterial 0
+	Triangle
+		iVertex0 70
+		iVertex1 79
+		iVertex2 72
+		iMaterial 0
+	Triangle
+		iVertex0 70
+		iVertex1 41
+		iVertex2 79
+		iMaterial 0
+	Triangle
+		iVertex0 108
+		iVertex1 81
+		iVertex2 109
+		iMaterial 0
+	Triangle
+		iVertex0 108
+		iVertex1 45
+		iVertex2 81
+		iMaterial 0
+	Triangle
+		iVertex0 100
+		iVertex1 27
+		iVertex2 28
+		iMaterial 0
+	Triangle
+		iVertex0 100
+		iVertex1 92
+		iVertex2 27
+		iMaterial 0
+	Triangle
+		iVertex0 88
+		iVertex1 44
+		iVertex2 90
+		iMaterial 0
+	Triangle
+		iVertex0 88
+		iVertex1 96
+		iVertex2 44
+		iMaterial 0
+	Triangle
+		iVertex0 91
+		iVertex1 58
+		iVertex2 59
+		iMaterial 0
+	Triangle
+		iVertex0 91
+		iVertex1 92
+		iVertex2 58
+		iMaterial 0
+	Triangle
+		iVertex0 95
+		iVertex1 64
+		iVertex2 65
+		iMaterial 0
+	Triangle
+		iVertex0 95
+		iVertex1 96
+		iVertex2 64
+		iMaterial 0
+	Triangle
+		iVertex0 104
+		iVertex1 2
+		iVertex2 103
+		iMaterial 0
+	Triangle
+		iVertex0 104
+		iVertex1 1
+		iVertex2 2
+		iMaterial 0
+	Triangle
+		iVertex0 52
+		iVertex1 6
+		iVertex2 105
+		iMaterial 0
+	Triangle
+		iVertex0 52
+		iVertex1 53
+		iVertex2 6
+		iMaterial 0
+	Triangle
+		iVertex0 70
+		iVertex1 9
+		iVertex2 106
+		iMaterial 0
+	Triangle
+		iVertex0 70
+		iVertex1 8
+		iVertex2 9
+		iMaterial 0
+	Triangle
+		iVertex0 109
+		iVertex1 18
+		iVertex2 108
+		iMaterial 0
+	Triangle
+		iVertex0 109
+		iVertex1 17
+		iVertex2 18
+		iMaterial 0
+	Triangle
+		iVertex0 108
+		iVertex1 23
+		iVertex2 90
+		iMaterial 0
+	Triangle
+		iVertex0 108
+		iVertex1 18
+		iVertex2 23
+		iMaterial 0
+	Triangle
+		iVertex0 93
+		iVertex1 47
+		iVertex2 102
+		iMaterial 0
+	Triangle
+		iVertex0 93
+		iVertex1 46
+		iVertex2 47
+		iMaterial 0
+	Triangle
+		iVertex0 48
+		iVertex1 54
+		iVertex2 51
+		iMaterial 0
+	Triangle
+		iVertex0 48
+		iVertex1 53
+		iVertex2 54
+		iMaterial 0
+	Triangle
+		iVertex0 56
+		iVertex1 68
+		iVertex2 59
+		iMaterial 0
+	Triangle
+		iVertex0 56
+		iVertex1 67
+		iVertex2 68
+		iMaterial 0
+	Triangle
+		iVertex0 7
+		iVertex1 71
+		iVertex2 74
+		iMaterial 0
+	Triangle
+		iVertex0 7
+		iVertex1 8
+		iVertex2 71
+		iMaterial 0
+	Triangle
+		iVertex0 102
+		iVertex1 76
+		iVertex2 107
+		iMaterial 0
+	Triangle
+		iVertex0 102
+		iVertex1 47
+		iVertex2 76
+		iMaterial 0
+	Triangle
+		iVertex0 98
+		iVertex1 23
+		iVertex2 24
+		iMaterial 0
+	Triangle
+		iVertex0 98
+		iVertex1 89
+		iVertex2 23
+		iMaterial 0
+	Triangle
+		iVertex0 91
+		iVertex1 46
+		iVertex2 93
+		iMaterial 0
+	Triangle
+		iVertex0 91
+		iVertex1 97
+		iVertex2 46
+		iMaterial 0
+	Triangle
+		iVertex0 88
+		iVertex1 54
+		iVertex2 55
+		iMaterial 0
+	Triangle
+		iVertex0 88
+		iVertex1 89
+		iVertex2 54
+		iMaterial 0
+	Triangle
+		iVertex0 87
+		iVertex1 68
+		iVertex2 69
+		iMaterial 0
+	Triangle
+		iVertex0 87
+		iVertex1 97
+		iVertex2 68
+		iMaterial 0
+	Triangle
+		iVertex0 72
+		iVertex1 2
+		iVertex2 71
+		iMaterial 0
+	Triangle
+		iVertex0 72
+		iVertex1 103
+		iVertex2 2
+		iMaterial 0
+	Triangle
+		iVertex0 74
+		iVertex1 4
+		iVertex2 73
+		iMaterial 0
+	Triangle
+		iVertex0 74
+		iVertex1 3
+		iVertex2 4
+		iMaterial 0
+	Triangle
+		iVertex0 61
+		iVertex1 110
+		iVertex2 75
+		iMaterial 0
+	Triangle
+		iVertex0 61
+		iVertex1 111
+		iVertex2 110
+		iMaterial 0
+	Triangle
+		iVertex0 20
+		iVertex1 17
+		iVertex2 76
+		iMaterial 0
+	Triangle
+		iVertex0 20
+		iVertex1 16
+		iVertex2 17
+		iMaterial 0
+	Triangle
+		iVertex0 16
+		iVertex1 21
+		iVertex2 77
+		iMaterial 0
+	Triangle
+		iVertex0 16
+		iVertex1 20
+		iVertex2 21
+		iMaterial 0
+	Triangle
+		iVertex0 42
+		iVertex1 112
+		iVertex2 78
+		iMaterial 0
+	Triangle
+		iVertex0 42
+		iVertex1 113
+		iVertex2 112
+		iMaterial 0
+	Triangle
+		iVertex0 114
+		iVertex1 33
+		iVertex2 115
+		iMaterial 0
+	Triangle
+		iVertex0 114
+		iVertex1 116
+		iVertex2 33
+		iMaterial 0
+	Triangle
+		iVertex0 113
+		iVertex1 43
+		iVertex2 117
+		iMaterial 0
+	Triangle
+		iVertex0 113
+		iVertex1 42
+		iVertex2 43
+		iMaterial 0
+	Triangle
+		iVertex0 83
+		iVertex1 50
+		iVertex2 82
+		iMaterial 0
+	Triangle
+		iVertex0 83
+		iVertex1 49
+		iVertex2 50
+		iMaterial 0
+	Triangle
+		iVertex0 111
+		iVertex1 62
+		iVertex2 118
+		iMaterial 0
+	Triangle
+		iVertex0 111
+		iVertex1 61
+		iVertex2 62
+		iMaterial 0
+	Triangle
+		iVertex0 77
+		iVertex1 86
+		iVertex2 99
+		iMaterial 0
+	Triangle
+		iVertex0 77
+		iVertex1 21
+		iVertex2 86
+		iMaterial 0
+	Triangle
+		iVertex0 119
+		iVertex1 94
+		iVertex2 120
+		iMaterial 0
+	Triangle
+		iVertex0 119
+		iVertex1 31
+		iVertex2 94
+		iMaterial 0
+	Triangle
+		iVertex0 82
+		iVertex1 99
+		iVertex2 86
+		iMaterial 0
+	Triangle
+		iVertex0 82
+		iVertex1 50
+		iVertex2 99
+		iMaterial 0
+	Triangle
+		iVertex0 118
+		iVertex1 101
+		iVertex2 121
+		iMaterial 0
+	Triangle
+		iVertex0 118
+		iVertex1 62
+		iVertex2 101
+		iMaterial 0
+	Triangle
+		iVertex0 79
+		iVertex1 103
+		iVertex2 72
+		iMaterial 0
+	Triangle
+		iVertex0 79
+		iVertex1 33
+		iVertex2 103
+		iMaterial 0
+	Triangle
+		iVertex0 81
+		iVertex1 122
+		iVertex2 109
+		iMaterial 0
+	Triangle
+		iVertex0 81
+		iVertex1 123
+		iVertex2 122
+		iMaterial 0
+	Triangle
+		iVertex0 71
+		iVertex1 3
+		iVertex2 74
+		iMaterial 0
+	Triangle
+		iVertex0 71
+		iVertex1 2
+		iVertex2 3
+		iMaterial 0
+	Triangle
+		iVertex0 76
+		iVertex1 124
+		iVertex2 107
+		iMaterial 0
+	Triangle
+		iVertex0 76
+		iVertex1 125
+		iVertex2 124
+		iMaterial 0
+	Triangle
+		iVertex0 49
+		iVertex1 5
+		iVertex2 48
+		iMaterial 0
+	Triangle
+		iVertex0 49
+		iVertex1 4
+		iVertex2 5
+		iMaterial 0
+	Triangle
+		iVertex0 48
+		iVertex1 6
+		iVertex2 53
+		iMaterial 0
+	Triangle
+		iVertex0 48
+		iVertex1 5
+		iVertex2 6
+		iMaterial 0
+	Triangle
+		iVertex0 67
+		iVertex1 10
+		iVertex2 66
+		iMaterial 0
+	Triangle
+		iVertex0 67
+		iVertex1 9
+		iVertex2 10
+		iMaterial 0
+	Triangle
+		iVertex0 35
+		iVertex1 13
+		iVertex2 85
+		iMaterial 0
+	Triangle
+		iVertex0 35
+		iVertex1 12
+		iVertex2 13
+		iMaterial 0
+	Triangle
+		iVertex0 11
+		iVertex1 36
+		iVertex2 34
+		iMaterial 0
+	Triangle
+		iVertex0 11
+		iVertex1 12
+		iVertex2 36
+		iMaterial 0
+	Triangle
+		iVertex0 60
+		iVertex1 40
+		iVertex2 57
+		iMaterial 0
+	Triangle
+		iVertex0 60
+		iVertex1 39
+		iVertex2 40
+		iMaterial 0
+	Triangle
+		iVertex0 66
+		iVertex1 73
+		iVertex2 83
+		iMaterial 0
+	Triangle
+		iVertex0 66
+		iVertex1 10
+		iVertex2 73
+		iMaterial 0
+	Triangle
+		iVertex0 38
+		iVertex1 75
+		iVertex2 80
+		iMaterial 0
+	Triangle
+		iVertex0 38
+		iVertex1 39
+		iVertex2 75
+		iMaterial 0
+	Triangle
+		iVertex0 52
+		iVertex1 36
+		iVertex2 37
+		iMaterial 0
+	Triangle
+		iVertex0 52
+		iVertex1 105
+		iVertex2 36
+		iMaterial 0
+	Triangle
+		iVertex0 70
+		iVertex1 40
+		iVertex2 41
+		iMaterial 0
+	Triangle
+		iVertex0 70
+		iVertex1 106
+		iVertex2 40
+		iMaterial 0
+	Triangle
+		iVertex0 104
+		iVertex1 6
+		iVertex2 1
+		iMaterial 0
+	Triangle
+		iVertex0 104
+		iVertex1 105
+		iVertex2 6
+		iMaterial 0
+	Triangle
+		iVertex0 56
+		iVertex1 9
+		iVertex2 67
+		iMaterial 0
+	Triangle
+		iVertex0 56
+		iVertex1 106
+		iVertex2 9
+		iMaterial 0
+	Triangle
+		iVertex0 83
+		iVertex1 4
+		iVertex2 49
+		iMaterial 0
+	Triangle
+		iVertex0 83
+		iVertex1 73
+		iVertex2 4
+		iMaterial 0
+	Triangle
+		iVertex0 126
+		iVertex1 110
+		iVertex2 127
+		iMaterial 0
+	Triangle
+		iVertex0 126
+		iVertex1 75
+		iVertex2 110
+		iMaterial 0
+	NumCachedVertexIndicesInDirection:UP 35
+	Index 81
+	Index 43
+	Index 117
+	Index 123
+	Index 30
+	Index 42
+	Index 113
+	Index 25
+	Index 29
+	Index 31
+	Index 78
+	Index 112
+	Index 119
+	Index 28
+	Index 32
+	Index 94
+	Index 101
+	Index 121
+	Index 95
+	Index 100
+	Index 63
+	Index 65
+	Index 62
+	Index 84
+	Index 35
+	Index 60
+	Index 85
+	Index 61
+	Index 111
+	Index 12
+	Index 39
+	Index 75
+	Index 13
+	Index 126
+	Index 127
+	NumCachedVertexIndicesInDirection:DOWN 36
+	Index 125
+	Index 76
+	Index 17
+	Index 16
+	Index 20
+	Index 15
+	Index 19
+	Index 77
+	Index 21
+	Index 22
+	Index 24
+	Index 99
+	Index 86
+	Index 87
+	Index 98
+	Index 51
+	Index 69
+	Index 50
+	Index 82
+	Index 66
+	Index 48
+	Index 83
+	Index 49
+	Index 5
+	Index 10
+	Index 4
+	Index 73
+	Index 74
+	Index 3
+	Index 72
+	Index 103
+	Index 79
+	Index 33
+	Index 115
+	Index 114
+	Index 116
+	NumCachedVertexIndicesInDirection:LEFT 40
+	Index 122
+	Index 102
+	Index 47
+	Index 26
+	Index 25
+	Index 19
+	Index 93
+	Index 27
+	Index 46
+	Index 28
+	Index 22
+	Index 91
+	Index 92
+	Index 97
+	Index 100
+	Index 87
+	Index 68
+	Index 69
+	Index 59
+	Index 58
+	Index 63
+	Index 66
+	Index 67
+	Index 56
+	Index 57
+	Index 60
+	Index 10
+	Index 9
+	Index 106
+	Index 40
+	Index 7
+	Index 8
+	Index 39
+	Index 70
+	Index 41
+	Index 72
+	Index 38
+	Index 75
+	Index 79
+	Index 80
+	NumCachedVertexIndicesInDirection:RIGHT 40
+	Index 124
+	Index 108
+	Index 18
+	Index 45
+	Index 29
+	Index 15
+	Index 90
+	Index 44
+	Index 23
+	Index 32
+	Index 24
+	Index 88
+	Index 96
+	Index 89
+	Index 95
+	Index 98
+	Index 54
+	Index 51
+	Index 55
+	Index 64
+	Index 65
+	Index 48
+	Index 53
+	Index 52
+	Index 37
+	Index 35
+	Index 5
+	Index 6
+	Index 105
+	Index 36
+	Index 0
+	Index 1
+	Index 12
+	Index 104
+	Index 34
+	Index 103
+	Index 11
+	Index 13
+	Index 33
+	Index 14
+	NumCachedVertexIndicesInDirection:FRONT 18
+	Index 18
+	Index 108
+	Index 45
+	Index 15
+	Index 16
+	Index 30
+	Index 81
+	Index 109
+	Index 17
+	Index 76
+	Index 107
+	Index 43
+	Index 42
+	Index 20
+	Index 19
+	Index 26
+	Index 102
+	Index 47
+	NumCachedVertexIndicesInDirection:BACK 16
+	Index 0
+	Index 1
+	Index 104
+	Index 2
+	Index 3
+	Index 103
+	Index 33
+	Index 116
+	Index 114
+	Index 79
+	Index 72
+	Index 74
+	Index 71
+	Index 70
+	Index 8
+	Index 7
