@@ -1,0 +1,105 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTargetsInRadiusWithTravel"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffAsgardShieldShockwave"
+targetFilter
+	numOwnerships 1
+	ownership "Enemy"
+	numObjects 4
+	object "CapitalShip"
+	object "Frigate"
+	object "PlanetModule"
+	object "StarBase"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+range
+	Level:0 7500.000000
+	Level:1 9000.000000
+	Level:2 12000.000000
+	Level:3 0.000000
+maxTargetCount
+	Level:0 12.000000
+	Level:1 15.000000
+	Level:2 20.000000
+	Level:3 0.000000
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+travelSpeed 1000.000000
+effectStaggerDelay 0.500000
+hasWeaponEffects TRUE
+weaponEffectOriginType "Targetter"
+weaponEffectAttachInfo
+	attachType "Ability"
+	abilityIndex 0
+weaponEffectImpactOffsetType "RandomMesh"
+canWeaponEffectHitHull TRUE
+canWeaponEffectHitShields TRUE
+weaponEffectsDef
+	weaponType "Projectile"
+	burstCount 20
+	burstDelay 0.500000
+	fireDelay 0.000000
+	muzzleEffectName "Weapon_PsiCapitalBeamHeavy_Muzzle"
+	muzzleSoundMinRespawnTime 0.100000
+	muzzleSounds
+		soundCount 1
+		sound "WEAPON_ASGARDBEAMS_MUZZLE"
+	hitEffectName "CapitalAbility_BeamBlastImpact"
+	hitHullEffectSounds
+		soundCount 1
+		sound "WEAPON_ASGARDBEAMS_MUZZLE"
+	hitShieldsEffectSounds
+		soundCount 1
+		sound "WEAPON_ASGARDBEAMS_MUZZLE"
+	projectileTravelEffectName "AsgardIonBlastTravel"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 1.000000
+	Level:1 2.000000
+	Level:2 3.000000
+	Level:3 0.000000
+aiUseTime "OnlyWhenManyTargetsInRange"
+onlyAutoCastWhenTargetCountExceedsAmount
+	Level:0 3.000000
+	Level:1 5.000000
+	Level:2 7.000000
+	Level:3 0.000000
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 3.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 175.000000
+	Level:1 200.000000
+	Level:2 250.000000
+	Level:3 0.000000
+cooldownTime
+	Level:0 45.000000
+	Level:1 40.000000
+	Level:2 35.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_ASGARDSHIELDSHOCKWAVE_NAME"
+descStringID "IDS_ABILITY_ASGARDSHIELDSHOCKWAVE_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_NANODISRUPTOR"
+smallHudIcon "HUDICON_ABILITY_NANODISRUPTOR"
+infoCardIcon ""

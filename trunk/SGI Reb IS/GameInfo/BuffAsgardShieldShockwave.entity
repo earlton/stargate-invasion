@@ -1,0 +1,51 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit -1
+buffExclusivityForAIType "NotExclusive"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 4
+instantAction
+	buffInstantActionType "DoInterrupt"
+	instantActionTriggerType "OnDelay"
+	delayTime 1.000000
+instantAction
+	buffInstantActionType "InitializeRandomMotion"
+	instantActionTriggerType "OnDelay"
+	delayTime 2.000000
+	minRandomAngularSpeed 45.000000
+	maxRandomAngularSpeed 95.000000
+	minRandomLinearSpeed 390.000000
+	maxRandomLinearSpeed 695.000000
+instantAction
+	buffInstantActionType "DoDamage"
+	instantActionTriggerType "OnDelay"
+	delayTime 4.000000
+	damage
+		Level:0 9000.000000
+		Level:1 12500.000000
+		Level:2 17000.000000
+		Level:3 0.000000
+	damageAffectType "AFFECTS_ONLY_SHIELDS"
+	damageType "ENERGY"
+	isDamageShared FALSE
+instantAction
+	buffInstantActionType "ResetPhysicsState"
+	instantActionTriggerType "OnBuffFinish"
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 8
+entityBoolModifier "DisableAbilities"
+entityBoolModifier "DisableConstruction"
+entityBoolModifier "DisableModuleFunctionality"
+entityBoolModifier "DisablePhaseJump"
+entityBoolModifier "DisableLinearEngines"
+entityBoolModifier "DisableAngularEngines"
+entityBoolModifier "DisableRegeneration"
+entityBoolModifier "DisableWeapons"
+numFinishConditions 1
+finishCondition
+	finishConditionType "AllOnDelayInstantActionsDone"

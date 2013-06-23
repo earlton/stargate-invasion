@@ -1,0 +1,7 @@
+TXT
+textureFileName "planetmania.tga"
+numFrames 12
+numFramesPerRow 4
+startTopLeft [0, 0]
+frameSize [64, 64]
+frameStride [64, 64]

@@ -1,0 +1,181 @@
+
+##########################################################################################################
+
+i am introducing the new format system we will be using from now on for the mods current version.
+the format will look like this:
+SGI v0.1.0
+
+first number = huge update/change
+second number = medium update/change
+third number = minor update/change
+
+Each number will be counted upwards.
+(The name of the folder will be changed with every huge and medium update.)
+
+Michael
+
+##########################################################################################################
+
+
+##########################################################################################################
+
+UPDATE:
+
+After the first time changing the folders name and the following updating process, 
+I decided that it is better to keep the current mod version listed in this file and only change it on an seperate copy for a release.
+
+I am sorry for the huge trouble.
+
+##########################################################################################################
+
+Below listed are all changes + the new version number + author
+
+v0.3.4	Asgard Research
+
+v0.3.3	Goauld Research
+
+v0.3.2	Wraith Research
+
+v0.3.1	Asuran Research
+
+v0.3.0	Human Research
+
+v0.2.10	Asgard Carrier Titan
+
+v0.2.9	Asgard Assault Titan
+
+v0.2.8	Wraith Carrier Titan
+
+v0.2.7	Human Carrier Titan
+
+v0.2.6	Human Assault Titan
+
+v0.2.5	Epheus (Titan)
+
+v0.2.4	Atlantis (Titan)
+
+v0.2.3	Wraith Superhive (Titan)
+
+v0.2.2	Apophis Titan
+
+v0.2.1	Anubis titan
+
+2.6.13 v0.2
+- finished the integration of the Infinite Space planets
+
+03.18.13 v0.1.9
+- rebalanced the volume of the atlantis theme in the main menu. should be a bit less dusturbing
+
+01.29.13 (Sam) v0.1.8
+-New Shield Colors
+-No Wraith Super Hive Shield
+
+01.20.13
+Pipeline Effect
+- Changed Shield Effect
+
+Gaminfo
+- Changed PlayerAsuran Shield Color
+
+01.19.13 v0.1.7
+Mesh
+- Superhive
+- Apophis
+
+Textures
+- Superhive
+- Apophis
+- Jumpers
+
+Gameinfo
+- Superhive
+- Apohpis
+
+01.01.13 v0.1.6(Sam)
+Mesh:
+- Added Epheus
+
+Textures:
+- Added Epheus Textures
+
+GameInfo:
+- Added Epheus
+- fixed PlanetOcean
+
+30.12.12 v0.1.5 (David)
+
+Mesh:
+- Added new version of Asuran Extractor mesh
+
+Textures:
+- Added new Asuran Extractor textures
+
+
+25.12.12 v0.1.4 (Michael)
+
+GameInfo:
+- added missing lines in Gameplay.constants
+
+Textures:
+- Updated Icons_Planets
+
+Brushes:
+- updated MainViewIcon-Planet
+- HUD.brushes updated
+
+24.12.12 v0.1.3 (David)
+GameInfo:
+- Removed Terran Moon mesh from the Resource Asteroid Crystal
+- Removed Dwarf Moon mesh from the Resource Asteroid Metal
+
+Textures:
+- Tweak colour texture for Crystal Asteroid (now green tinted glow) to represent Liquid Naquadah
+- New normal map for Crystal Asteroid
+- Tweaked -da texture  for Crystal Asteroid with added specular and glows
+- Tweak colour texture for Metal Asteroid (now orange tinted metalic) to represent Trinium
+- New normal map for Metal Asteroid
+- Tweaked -da texture  for Metal Asteroid with added specular and chrome effect
+- Updated unit infocard textures so they so green and orange asteroid textures accordingly
+
+22.12.12 v0.1.2
+GameInfo:
+- updated asuran player for Romulus
+- Added Romulus
+
+Mesh:
+- updated Stargate
+- updated figaro
+- updated destiny
+- updated nemesis
+- updated Romulus
+- updated human shieldgen
+- updated Destiny
+
+textures:
+- stargate
+- destiny
+- added nemesis textures
+- romulus textures
+- added human shieldgen textures
+- updated Atlantis textures (David)
+
+21.12.12 v0.1.1 (Michael)
+Mesh:
+- updated claudius mesh (frig)
+- updated zephyr mesh (frig)
+- updated figaro mesh (frig)
+- added new alkesh mesh (frig)
+- added new hatak mesh (frig)
+- added romulus mesh (cap)
+
+Textures:
+- readded claudius textures
+- readded zephyr textures
+- added figaro textures
+- added alkesh textures
+- added hatak meshes
+
+GameInfo:
+
+
+Brushes:

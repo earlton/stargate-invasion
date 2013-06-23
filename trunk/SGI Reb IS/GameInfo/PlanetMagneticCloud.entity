@@ -1,0 +1,159 @@
+﻿TXT
+entityType "Planet"
+meshInfoCount 1
+meshInfo
+	typeNameStringID "IDS_PLANETTYPE_MAGNETICCLOUD"
+	asteroidTemplate "Empty"
+	dustCloudTemplate "Empty"
+	meshName ""
+	cloudColor ffdafcff
+	nullMeshRadius 1400.000000
+	nullMeshParticleEffect "PlanetMagneticCloud"
+	hudIcon "HUDICON_PLANET_MAGNETICCLOUD"
+	smallHudIcon "HUDICONSMALL_PLANET_MAGNETICCLOUD"
+	infoCardIcon "INFOCARDICON_PLANET_MAGNETICCLOUD"
+	mainViewIcon "MAINVIEWICON_PLANET_MAGNETICCLOUD"
+	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_PLANET_MAGNETICCLOUD"
+	picture "PICTURE_PLANET_MAGNETICCLOUD"
+	shouldPrefer FALSE
+minZoomDistanceMult 1.250000
+glowColor 7f52afe1
+ringColor ffdafcff
+cloudLayerTextureName "PlanetCloudLayer"
+planetResourceSetupInfo
+	asteroidSpawnAngleVariance 3.141593
+	totalMaxResourceAsteroids 0
+	metalResourceAsteroidSetup
+		minCount 0
+		maxCount 0
+		extractionRate 0.000000
+		refineryRate 0.000000
+		maxRefineryCount 0
+	crystalResourceAsteroidSetup
+		minCount 0
+		maxCount 0
+		extractionRate 0.000000
+		refineryRate 0.000000
+		maxRefineryCount 0
+	neutralMetalResourceAsteroidSetup
+		minCount 0
+		maxCount 0
+		extractionRate 0.000000
+		refineryRate 0.000000
+		maxRefineryCount 0
+	neutralCrystalResourceAsteroidSetup
+		minCount 0
+		maxCount 0
+		extractionRate 0.000000
+		refineryRate 0.000000
+		maxRefineryCount 0
+isAsteroid FALSE
+healthRegenRate 6.000000
+planetUpgradeDef
+	path:Population
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxPopulation 0.000000
+			populationGrowthRate 0.000000
+			developmentTaxPenalty 0.000000
+	path:CivilianModules
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxModuleSlotCount:Civilian 0.000000
+			maxModuleConstructorCount 0
+	path:TacticalModules
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxModuleSlotCount:Tactical 0.000000
+			maxModuleConstructorCount 0
+	path:Home
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			isHomePlanet FALSE
+			homePlanetTaxRateBonus 0.000000
+			homePlanetMetalIncomeBonus 0.000000
+			homePlanetCrystalIncomeBonus 0.000000
+	path:ArtifactLevel
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+	path:Infrastructure
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxHealth 1.000000
+ringsChance 0.000000
+isColonizable FALSE
+planetTypeForResearch "Uncolonizable"
+skyboxScalarsCount 5
+skyboxScalars
+	diffuseScalar 0.910000
+	ambientScalar 0.150000
+skyboxScalars
+	diffuseScalar 0.670000
+	ambientScalar 0.400000
+skyboxScalars
+	diffuseScalar 0.800000
+	ambientScalar 0.400000
+skyboxScalars
+	diffuseScalar 0.550000
+	ambientScalar 0.600000
+skyboxScalars
+	diffuseScalar 0.720000
+	ambientScalar 0.800000
+requiredPlanetBonusesCount 0
+possibleRandomPlanetBonusesCount 0
+ambienceSoundID "EFFECT_MAGNETICCLOUDAMBIENCE_LOOP"
+renderAsVolcanic FALSE
+planetRuinDef
+	ruinPlanetType "PlanetDeadAsteroid"
+	attachType "Center"
+	effectName "StripToTheCore_Planet_TerranHome"
+	startTime 9.000000
+	soundID ""
+	creditsOnStrippedToTheCore 0.000000
+	metalOnStrippedToTheCore 0.000000
+	crystalOnStrippedToTheCore 0.000000
+	extraScuttleTimeOnStrip 60.000000
+ShieldMeshName "Shield_PlanetSmall"
+renderShield TRUE
+moveAreaRadius 35000.000000
+hyperspaceExitRadius 25000.000000
+isWormhole FALSE
+maxStarBaseCountPerPlayer 1
+maxSpaceMineCountPerPlayer 150
+minShadow 0.000000
+maxShadow 0.000000
+ability:0 "AbilityMagneticCloud"
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""

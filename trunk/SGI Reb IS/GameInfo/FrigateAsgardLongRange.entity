@@ -1,0 +1,148 @@
+﻿TXT
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb FALSE
+typeCount 1
+frigateRoleType "Lrm"
+statCountType "FrigateLongRange"
+mainViewIcon "MAINVIEWICON_FRIGATE_ASGARDLONGRANGE"
+picture "PICTURE_FRIGATE_ASGARDLONGRANGE"
+NameStringID "IDS_FRIGATE_ASGARDLONGRANGE_NAME"
+DescriptionStringID "IDS_FRIGATE_ASGARDLONGRANGE_DESCRIPTION"
+counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_LONGRANGE"
+basePrice
+	credits 850.000000
+	metal 175.000000
+	crystal 200.000000
+slotCount 20.000000
+BuildTime 55.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 13.000000
+MaxHullPoints 1750.000000
+MaxShieldPoints 2700.000000
+HullPointRestoreRate 1.750000
+ShieldPointRestoreRate 2.700000
+BaseArmorPoints 4.000000
+maxMitigation 0.000000
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_ASGARD_FRIGATEACCESS_LONGRANGE"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 0
+numRandomDebrisSmall 7
+numSpecificDebris 0
+armorType "Medium"
+hudIcon "HUDICON_FRIGATE_ASGARDLONGRANGE"
+smallHudIcon "HUDICONSMALL_FRIGATE_ASGARDLONGRANGE"
+infoCardIcon "INFOCARDICON_FRIGATE_ASGARDLONGRANGE"
+minZoomDistanceMult 2.000000
+NumWeapons 1
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTIHEAVY"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "PLASMA"
+	DamagePerBank:FRONT 90.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 50.000000
+	DamagePerBank:RIGHT 50.000000
+	Range 6500.000000
+	PreBuffCooldownTime 5.000000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.150000
+	TravelSpeed 2500.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 3
+		burstDelay 0.500000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_AsgardPulse_Muzzle"
+		muzzleSoundMinRespawnTime 0.300000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_PSICAPITALPLASMAMEDIUM_MUZZLE"
+			sound "WEAPON_PSICAPITALPLASMAMEDIUM_MUZZLE_ALT1"
+			sound "WEAPON_PSICAPITALPLASMAMEDIUM_MUZZLE_ALT2"
+		hitEffectName "Weapon_PsiCapitalPlasmaMedium_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYMEDIUM_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICMEDIUM_HITSHIELDS"
+		projectileTravelEffectName "Weapon_AsgardPulseMedium_Travel"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 1
+TargetCountPerBank:RIGHT 1
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 2000.000000
+ShieldMeshName "Shield_FrigateAsgardLongRange"
+renderShield TRUE
+maxAccelerationLinear 150.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 3.300000
+maxDecelerationAngular 9.999996
+maxSpeedLinear 500.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 1
+SoundID "FRIGATE_ASGARDLONGRANGE_ONATTACKORDERISSUED_0"
+NumSoundsFor:ONCREATION 1
+SoundID "FRIGATE_ASGARDLONGRANGE_ONCREATION"
+NumSoundsFor:ONGENERALORDERISSUED 1
+SoundID "FRIGATE_ASGARDLONGRANGE_ONGENERALORDERISSUED_0"
+NumSoundsFor:ONSELECTED 1
+SoundID "FRIGATE_ASGARDLONGRANGE_ONSELECTED_0"
+NumSoundsFor:ONSTARTPHASEJUMP 1
+SoundID "FRIGATE_ASGARDLONGRANGE_ONSTARTPHASEJUMP_0"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Frigate_AsgardLongRange"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_FrigateAsgardLongRange"
+ExplosionName "Frigate1"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_ASGARDCAPITALSHIP"
+ability:0 "AbilityAsgardIllusionSelfCopy"
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""
+MaxAntiMatter 125.000000
+AntiMatterRestoreRate 0.900000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 2
+minShadow 0.000000
+maxShadow 0.600000
+allegianceDecreasePerRoundtrip 0.000000

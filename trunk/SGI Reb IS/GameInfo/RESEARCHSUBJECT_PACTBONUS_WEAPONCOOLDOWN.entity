@@ -1,0 +1,114 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon ""
+smallHudIcon ""
+infoCardIcon ""
+NameStringID ""
+DescriptionStringID ""
+researchWindowLocation
+	block 0
+	pos [ 2 , 3 ]
+ResearchField "PactBonus"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 50.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 800.000000
+	metal 100.000000
+	crystal 175.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 2
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 16
+researchModifier
+	modifierType "WeaponRateOfFireAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.200000
+	linkedWeaponClass "AUTOCANNON"
+researchModifier
+	modifierType "WeaponRateOfFireAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.200000
+	linkedWeaponClass "BEAM"
+researchModifier
+	modifierType "WeaponRateOfFireAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.200000
+	linkedWeaponClass "CHAOSBOLT"
+researchModifier
+	modifierType "WeaponRateOfFireAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.200000
+	linkedWeaponClass "DART"
+researchModifier
+	modifierType "WeaponRateOfFireAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.200000
+	linkedWeaponClass "FLASHBEAM"
+researchModifier
+	modifierType "WeaponRateOfFireAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.200000
+	linkedWeaponClass "GAUSS"
+researchModifier
+	modifierType "WeaponRateOfFireAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.200000
+	linkedWeaponClass "ION"
+researchModifier
+	modifierType "WeaponRateOfFireAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.200000
+	linkedWeaponClass "LASERTECH"
+researchModifier
+	modifierType "WeaponRateOfFireAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.200000
+	linkedWeaponClass "LASERPSI"
+researchModifier
+	modifierType "WeaponRateOfFireAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.200000
+	linkedWeaponClass "MISSILE"
+researchModifier
+	modifierType "WeaponRateOfFireAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.200000
+	linkedWeaponClass "PHASEMISSILE"
+researchModifier
+	modifierType "WeaponRateOfFireAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.200000
+	linkedWeaponClass "PLANETBOMBARDMENT"
+researchModifier
+	modifierType "WeaponRateOfFireAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.200000
+	linkedWeaponClass "PLASMA"
+researchModifier
+	modifierType "WeaponRateOfFireAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.200000
+	linkedWeaponClass "PULSEGUN"
+researchModifier
+	modifierType "WeaponRateOfFireAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.200000
+	linkedWeaponClass "SPIRITBLADE"
+researchModifier
+	modifierType "WeaponRateOfFireAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.200000
+	linkedWeaponClass "WAVE"
+artifactPicture ""
+uniqueOverlayBrush ""

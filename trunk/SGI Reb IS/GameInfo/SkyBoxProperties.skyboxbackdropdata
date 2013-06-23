@@ -1,0 +1,93 @@
+TXT
+numProperties 7
+properties
+	meshName "SkyboxBackdrop2"
+	diffuseLiteColor ffe7e3d6
+	diffuseDarkColor ffd9ce9f
+	ambientLiteColor ff29699c
+	ambientDarkColor ff143f62
+	specularColor ffffffff
+	dustCloudColor ff3c7da8
+	numFarStarIconCloudTextureNames 3
+	textureName "galaxyspiral"
+	textureName "galaxyspiral2"
+	textureName "galaxyspiral3"
+	environmentMapName "skybox02environmentcube.dds"
+properties
+	meshName "SkyboxBackdrop3"
+	diffuseLiteColor ffffdd8b
+	diffuseDarkColor ffedbb5b
+	ambientLiteColor ffd78a23
+	ambientDarkColor ffb14807
+	specularColor ffffffff
+	dustCloudColor d98f29
+	numFarStarIconCloudTextureNames 3
+	textureName "galaxyspiral_orange3"
+	textureName "galaxyspiral_orange2"
+	textureName "galaxyspiral_orange"
+	environmentMapName "skybox03environmentcube.dds"
+properties
+	meshName "SkyboxBackdrop4"
+	diffuseLiteColor ffebf1c8
+	diffuseDarkColor ffbecd67
+	ambientLiteColor ff9eb241
+	ambientDarkColor ff3b5107
+	specularColor fff6ffc9
+	dustCloudColor ff4b6313
+	numFarStarIconCloudTextureNames 3
+	textureName "galaxyspiral_green"
+	textureName "galaxyspiral_green2"
+	textureName "galaxyspiral_green3"
+	environmentMapName "skybox04environmentcube.dds"
+properties
+	meshName "SkyboxBackdrop5"
+	diffuseLiteColor fff8bc8c
+	diffuseDarkColor ffd97b3e
+	ambientLiteColor ffae3d19
+	ambientDarkColor ff611309
+	specularColor ffffffff
+	dustCloudColor ffbd5d39
+	numFarStarIconCloudTextureNames 3
+	textureName "galaxyspiral_red"
+	textureName "galaxyspiral_red2"
+	textureName "galaxyspiral_red3"
+	environmentMapName "skybox05environmentcube.dds"
+properties
+	meshName "SkyboxBackdrop6"
+	diffuseLiteColor fff2efe3
+	diffuseDarkColor ffc7cd9d
+	ambientLiteColor ff415a7a
+	ambientDarkColor ff29384a
+	specularColor ffffffff
+	dustCloudColor ff1b2b3c
+	numFarStarIconCloudTextureNames 3
+	textureName "galaxyspiral"
+	textureName "galaxyspiral2"
+	textureName "galaxyspiral3"
+	environmentMapName "skybox06environmentcube.dds"
+properties
+	meshName "SkyboxBackdrop7"
+	diffuseLiteColor ffb6eaf9
+	diffuseDarkColor ff508796
+	ambientLiteColor ff215469
+	ambientDarkColor ff0e3146
+	specularColor ffffffff
+	dustCloudColor ff1b2b3c
+	numFarStarIconCloudTextureNames 3
+	textureName "galaxyspiral"
+	textureName "galaxyspiral2"
+	textureName "galaxyspiral3"
+	environmentMapName "skybox07environmentcube.dds"
+properties
+	meshName "SkyboxBackdrop8"
+	diffuseLiteColor fff2bcd3
+	diffuseDarkColor fff2bcd3
+	ambientLiteColor ff7e4e6e
+	ambientDarkColor ff472747
+	specularColor ffffffff
+	dustCloudColor ff8c5e7d
+	numFarStarIconCloudTextureNames 3
+	textureName "galaxyspiral"
+	textureName "galaxyspiral2"
+	textureName "galaxyspiral3"
+	environmentMapName "skybox08environmentcube.dds"

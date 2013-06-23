@@ -1,0 +1,71 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTargetsInRadius"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffAntiMatterShieldRechargeModule"
+targetFilter
+	numOwnerships 1
+	ownership "Friendly"
+	numObjects 2
+	object "CapitalShip"
+	object "Frigate"
+	numSpaces 1
+	space "Normal"
+	numConstraints 3
+	constraint "HasShieldDamage"
+	constraint "HasAntiMatterShortage"
+	constraint "NotSelf"
+range
+	Level:0 25000.000000
+	Level:1 25000.000000
+	Level:2 25000.000000
+	Level:3 0.000000
+maxTargetCount
+	Level:0 2.000000
+	Level:1 4.000000
+	Level:2 6.000000
+	Level:3 0.000000
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName "CapitalAbility_AntiMatterRechargeModuleActivate"
+	mediumEffectName "CapitalAbility_AntiMatterRechargeModuleActivate"
+	largeEffectName "CapitalAbility_AntiMatterRechargeModuleActivate"
+	soundID "EFFECT_ANTIMATTERRECHARGE"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "FixedLevel0"
+aiUseTime "OnlyWhenManyTargetsHaveShieldDamage"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget FALSE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 40.000000
+	Level:1 35.000000
+	Level:2 30.000000
+	Level:3 0.000000
+cooldownTime
+	Level:0 15.000000
+	Level:1 13.000000
+	Level:2 10.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_PLANETMODULEIMPROVEMENT_TAURIREPAIRPLATFORM"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_ANTIMATTERRECHARGEMODULE_NAME"
+descStringID "IDS_ABILITY_ANTIMATTERRECHARGEMODULE_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_ANTIMATTERRECHARGEMODULE"
+smallHudIcon "HUDICON_ABILITY_ANTIMATTERRECHARGEMODULE"
+infoCardIcon ""

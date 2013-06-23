@@ -1,0 +1,188 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "PlayAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Ability"
+			abilityIndex 1
+		smallEffectName "Ability_DirectionalShield-Buff"
+		mediumEffectName "Ability_DirectionalShield-Buff"
+		largeEffectName "Ability_DirectionalShield-Buff"
+		soundID "EFFECT_BEAMBLAST_CHARGING"
+numPeriodicActions 2
+periodicAction
+	actionCountType "Finite"
+	actionCount
+		Level:0 3.000000
+		Level:1 4.000000
+		Level:2 5.000000
+		Level:3 0.000000
+	actionIntervalTime
+		Level:0 2.250000
+		Level:1 1.500000
+		Level:2 0.900000
+		Level:3 0.000000
+	buffInstantActionType "ApplyBuffToTargetsInRadiusWithTravel"
+	instantActionTriggerType "AlwaysPerform"
+	buffType "BuffAsgardBeamVolleyDamage"
+	targetFilter
+		numOwnerships 1
+		ownership "Enemy"
+		numObjects 4
+		object "CapitalShip"
+		object "Frigate"
+		object "PlanetModule"
+		object "StarBase"
+		numSpaces 1
+		space "Normal"
+		numConstraints 0
+	range
+		Level:0 8000.000000
+		Level:1 9500.000000
+		Level:2 12000.000000
+		Level:3 0.000000
+	maxTargetCount
+		Level:0 3.000000
+		Level:1 4.000000
+		Level:2 5.000000
+		Level:3 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID "EFFECT_DETONATEANTIMATTER"
+	travelSpeed 1550.000000
+	effectStaggerDelay 1.400000
+	hasWeaponEffects TRUE
+	weaponEffectOriginType "Targetter"
+	weaponEffectAttachInfo
+		attachType "Ability"
+		abilityIndex 2
+	weaponEffectImpactOffsetType "RandomMesh"
+	canWeaponEffectHitHull TRUE
+	canWeaponEffectHitShields TRUE
+	weaponEffectsDef
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 1.500000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PsiCapitalBeamHeavy_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_ASGARDBEAMS_MUZZLE"
+		hitEffectName "CapitalAbility_BeamBlastImpact"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPON_ASGARDBEAMS_MUZZLE"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPON_ASGARDBEAMS_MUZZLE"
+		projectileTravelEffectName "AsgardBeam1Travel"
+periodicAction
+	actionCountType "Finite"
+	actionCount
+		Level:0 3.000000
+		Level:1 4.000000
+		Level:2 5.000000
+		Level:3 0.000000
+	actionIntervalTime
+		Level:0 2.250000
+		Level:1 1.500000
+		Level:2 0.900000
+		Level:3 0.000000
+	buffInstantActionType "ApplyBuffToTargetsInRadiusWithTravel"
+	instantActionTriggerType "AlwaysPerform"
+	buffType "BuffAsgardBeamVolleyDamage"
+	targetFilter
+		numOwnerships 1
+		ownership "Enemy"
+		numObjects 4
+		object "CapitalShip"
+		object "Frigate"
+		object "PlanetModule"
+		object "StarBase"
+		numSpaces 1
+		space "Normal"
+		numConstraints 0
+	range
+		Level:0 8000.000000
+		Level:1 9500.000000
+		Level:2 12000.000000
+		Level:3 0.000000
+	maxTargetCount
+		Level:0 3.000000
+		Level:1 4.000000
+		Level:2 5.000000
+		Level:3 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+	travelSpeed 1450.000000
+	effectStaggerDelay 0.400000
+	hasWeaponEffects TRUE
+	weaponEffectOriginType "Targetter"
+	weaponEffectAttachInfo
+		attachType "Ability"
+		abilityIndex 3
+	weaponEffectImpactOffsetType "RandomMesh"
+	canWeaponEffectHitHull TRUE
+	canWeaponEffectHitShields TRUE
+	weaponEffectsDef
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 1.500000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PsiCapitalBeamHeavy_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_ASGARDBEAMS_MUZZLE"
+		hitEffectName "CapitalAbility_BeamBlastImpact"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPON_ASGARDBEAMS_MUZZLE"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPON_ASGARDBEAMS_MUZZLE"
+		projectileTravelEffectName "AsgardBeam1Travel"
+numOverTimeActions 1
+overTimeAction
+	buffOverTimeActionType "DrainAntiMatter"
+	drainAntiMatterRate
+		Level:0 55.000000
+		Level:1 45.000000
+		Level:2 40.000000
+		Level:3 0.000000
+numEntityModifiers 0
+numEntityBoolModifiers 3
+entityBoolModifier "ImmuneToNonUltimateDisable"
+entityBoolModifier "CannotBeDamaged"
+entityBoolModifier "DisableRegeneration"
+numFinishConditions 2
+finishCondition
+	finishConditionType "OwnerChanged"
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 11.000000
+		Level:1 12.000000
+		Level:2 14.000000
+		Level:3 0.000000

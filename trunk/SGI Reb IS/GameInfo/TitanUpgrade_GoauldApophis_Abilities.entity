@@ -1,0 +1,92 @@
+﻿TXT
+entityType "TitanUpgrade"
+stageCount 5
+stage
+	nameStringID "IDS_TITANUPGRADE_PHASEREBEL_ABILITIES_NAME"
+	descStringID "IDS_TITANUPGRADE_PHASEREBEL_ABILITIES_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement -1
+	hudIcon "HUDIconTitanPhaseRebelAbilityUpgrade0"
+	smallHudIcon "HUDIconTitanPhaseRebelAbilityUpgrade0"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_PHASEREBEL_ABILITIES_NAME"
+	descStringID "IDS_TITANUPGRADE_PHASEREBEL_ABILITIES_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 0
+	hudIcon "HUDIconTitanPhaseRebelAbilityUpgrade0"
+	smallHudIcon "HUDIconTitanPhaseRebelAbilityUpgrade0"
+	infoCardIcon ""
+	upgradePropertyCount 2
+	upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 100.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 0.100000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_PHASEREBEL_ABILITIES_NAME"
+	descStringID "IDS_TITANUPGRADE_PHASEREBEL_ABILITIES_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 2
+	hudIcon "HUDIconTitanPhaseRebelAbilityUpgrade1"
+	smallHudIcon "HUDIconTitanPhaseRebelAbilityUpgrade1"
+	infoCardIcon ""
+	upgradePropertyCount 2
+	upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 100.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 0.100000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_PHASEREBEL_ABILITIES_NAME"
+	descStringID "IDS_TITANUPGRADE_PHASEREBEL_ABILITIES_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 4
+	hudIcon "HUDIconTitanPhaseRebelAbilityUpgrade2"
+	smallHudIcon "HUDIconTitanPhaseRebelAbilityUpgrade2"
+	infoCardIcon ""
+	upgradePropertyCount 2
+	upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 100.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 0.150000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_PHASEREBEL_ABILITIES_NAME"
+	descStringID "IDS_TITANUPGRADE_PHASEREBEL_ABILITIES_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 6
+	hudIcon "HUDIconTitanPhaseRebelAbilityUpgrade3"
+	smallHudIcon "HUDIconTitanPhaseRebelAbilityUpgrade3"
+	infoCardIcon ""
+	upgradePropertyCount 2
+	upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 100.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 0.150000
+	upgradeBoolPropertyCount 0

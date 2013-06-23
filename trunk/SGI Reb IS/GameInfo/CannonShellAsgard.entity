@@ -1,0 +1,25 @@
+﻿TXT
+entityType "CannonShell"
+acceleration 300.000000
+startingSpeed 300.000000
+maxSpeed 12000.000000
+buffToApplyOnImpact "BuffAsgardCannonShell"
+planetImpactEffectName "Ability_OrbitalCannonPsiSurfaceImpact"
+planetImpactSounds
+	soundCount 1
+	sound "EXPLOSION_CANNONSHELLASGARD"
+planetImpactCameraShakeMaxSize 38000.000000
+planetImpactCameraShakeStrength 1.000000
+planetImpactCameraShakeDuration 0.000000
+meshName "CannonShellAsgard"
+mainViewIcon "MainViewIconCannonShellAsgard"
+picture "PictureCannonShellAsgard"
+nameStringID "IDS_CANNONSHELLASGARD_NAME"
+descStringID "IDS_CANNONSHELLASGARD_DESC"
+renderMesh FALSE
+minZoomDistanceMult 4.500000
+hudIcon "HUDIconCannonShellAsgard"
+smallHudIcon "HUDIconSmallCannonShellAsgard"
+infoCardIcon "HUDIconSmallCannonShellAsgard"
+minShadow 0.000000
+maxShadow 0.500000

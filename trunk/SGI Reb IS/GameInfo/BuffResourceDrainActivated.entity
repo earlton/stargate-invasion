@@ -1,0 +1,57 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable TRUE
+isChannelling TRUE
+numInstantActions 1
+instantAction
+	buffInstantActionType "PlayPersistantAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Ability"
+			abilityIndex 1
+		smallEffectName "CapitalAbility_ResourceDrainActivate"
+		mediumEffectName "CapitalAbility_ResourceDrainActivate"
+		largeEffectName "CapitalAbility_ResourceDrainActivate"
+		soundID "EFFECT_RESOURCEDRAIN_LOOP"
+numPeriodicActions 0
+numOverTimeActions 2
+overTimeAction
+	buffOverTimeActionType "DoDamageToPlanet"
+	damageRate
+		Level:0 75.000000
+		Level:1 80.000000
+		Level:2 90.000000
+		Level:3 0.000000
+	populationKillRate
+		Level:0 10.000000
+		Level:1 13.000000
+		Level:2 17.000000
+		Level:3 0.000000
+overTimeAction
+	buffOverTimeActionType "EarnResources"
+	earnRate
+		Level:0 55.000000
+		Level:1 75.000000
+		Level:2 100.000000
+		Level:3 0.000000
+numEntityModifiers 0
+numEntityBoolModifiers 0
+numFinishConditions 3
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 35.000000
+		Level:1 45.000000
+		Level:2 55.000000
+		Level:3 0.000000
+finishCondition
+	finishConditionType "OwnerChanged"
+finishCondition
+	finishConditionType "TargetOwnerIsFriendly"

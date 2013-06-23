@@ -1,0 +1,27 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 0
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 10
+entityBoolModifier "DisableRegeneration"
+entityBoolModifier "DisableFighterLaunch"
+entityBoolModifier "DisableConstruction"
+entityBoolModifier "DisablePhaseJump"
+entityBoolModifier "DisableLinearEngines"
+entityBoolModifier "DisableAngularEngines"
+entityBoolModifier "DisableWeapons"
+entityBoolModifier "DisableWeaponsUltimate"
+entityBoolModifier "DisableAbilitiesUltimate"
+entityBoolModifier "CanBeCaptured"
+numFinishConditions 1
+finishCondition
+	finishConditionType "OwnerChanged"

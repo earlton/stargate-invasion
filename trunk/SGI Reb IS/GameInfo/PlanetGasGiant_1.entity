@@ -1,0 +1,314 @@
+﻿TXT
+entityType "Planet"
+meshInfoCount 4
+meshInfo
+	typeNameStringID "IDS_PLANETTYPE_ICEGIANT"
+	asteroidTemplate "Empty"
+	dustCloudTemplate "Empty"
+	meshName "Planet_IceGiant_0"
+	cloudColor 0
+	nullMeshRadius 0.000000
+	nullMeshParticleEffect ""
+	hudIcon "Axeldude_PLANET_IceGiant_0"
+	smallHudIcon "Axeldude_PLANET_IceGiant_0"
+	infoCardIcon "Axeldude_PLANET_IceGiant_0"
+	mainViewIcon "Axeldude_PLANET_IceGiant_0"
+	undetectedMainViewIcon "Axeldude_PLANET_IceGiant_0_Unknown"
+	picture ""
+	shouldPrefer FALSE
+meshInfo
+	typeNameStringID "IDS_PLANETTYPE_ICEGIANT"
+	asteroidTemplate "Empty"
+	dustCloudTemplate "Empty"
+	meshName "Planet_IceGiant_1"
+	cloudColor 0
+	nullMeshRadius 0.000000
+	nullMeshParticleEffect ""
+	hudIcon "Axeldude_PLANET_IceGiant_1"
+	smallHudIcon "Axeldude_PLANET_IceGiant_1"
+	infoCardIcon "Axeldude_PLANET_IceGiant_1"
+	mainViewIcon "Axeldude_PLANET_IceGiant_1"
+	undetectedMainViewIcon "Axeldude_PLANET_IceGiant_1_Unknown"
+	picture ""
+	shouldPrefer FALSE
+meshInfo
+	typeNameStringID "IDS_PLANETTYPE_ICEGIANT"
+	asteroidTemplate "Empty"
+	dustCloudTemplate "Empty"
+	meshName "Planet_Neptune"
+	cloudColor ffffffff
+	nullMeshRadius 0.000000
+	nullMeshParticleEffect ""
+	hudIcon "Axeldude_SOL_System_Neptune"
+	smallHudIcon "Axeldude_SOL_System_Neptune"
+	infoCardIcon "Axeldude_SOL_System_Neptune"
+	mainViewIcon "Axeldude_SOL_System_Neptune"
+	undetectedMainViewIcon "Axeldude_SOL_System_Neptune_Unknown"
+	picture ""
+	shouldPrefer FALSE
+meshInfo
+	typeNameStringID "IDS_PLANETTYPE_ICEGIANT"
+	asteroidTemplate "Empty"
+	dustCloudTemplate "Empty"
+	meshName "Planet_Uranus"
+	cloudColor ffffffff
+	nullMeshRadius 0.000000
+	nullMeshParticleEffect ""
+	hudIcon "Axeldude_SOL_System_Uranus"
+	smallHudIcon "Axeldude_SOL_System_Uranus"
+	infoCardIcon "Axeldude_SOL_System_Uranus"
+	mainViewIcon "Axeldude_SOL_System_Uranus"
+	undetectedMainViewIcon "Axeldude_SOL_System_Uranus_Unknown"
+	picture ""
+	shouldPrefer FALSE
+minZoomDistanceMult 2.000000
+glowColor 55ffffff
+ringColor ffffffff
+cloudLayerTextureName ""
+planetResourceSetupInfo
+	asteroidSpawnAngleVariance 3.141593
+	totalMaxResourceAsteroids 5
+	metalResourceAsteroidSetup
+		minCount 1
+		maxCount 2
+		extractionRate 0.540000
+		refineryRate 0.078000
+		maxRefineryCount 3
+	crystalResourceAsteroidSetup
+		minCount 1
+		maxCount 3
+		extractionRate 0.460000
+		refineryRate 0.066000
+		maxRefineryCount 3
+	neutralMetalResourceAsteroidSetup
+		minCount 0
+		maxCount 0
+		extractionRate 0.000000
+		refineryRate 0.000000
+		maxRefineryCount 0
+	neutralCrystalResourceAsteroidSetup
+		minCount 0
+		maxCount 0
+		extractionRate 0.000000
+		refineryRate 0.000000
+		maxRefineryCount 0
+isAsteroid FALSE
+healthRegenRate 6.000000
+planetUpgradeDef
+	path:Population
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxPopulation 10.000000
+			populationGrowthRate 0.125000
+			developmentTaxPenalty 0.000000
+	path:CivilianModules
+		stageCount 7
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxModuleSlotCount:Civilian 12.000000
+			maxModuleConstructorCount 0
+		stage
+			price
+				credits 450.000000
+				metal 150.000000
+				crystal 75.000000
+			upgradeTime 45.000000
+			maxModuleSlotCount:Civilian 18.000000
+			maxModuleConstructorCount 1
+		stage
+			price
+				credits 550.000000
+				metal 175.000000
+				crystal 125.000000
+			upgradeTime 60.000000
+			maxModuleSlotCount:Civilian 24.000000
+			maxModuleConstructorCount 1
+		stage
+			price
+				credits 650.000000
+				metal 200.000000
+				crystal 175.000000
+			upgradeTime 75.000000
+			maxModuleSlotCount:Civilian 30.000000
+			maxModuleConstructorCount 1
+		stage
+			price
+				credits 750.000000
+				metal 225.000000
+				crystal 225.000000
+			upgradeTime 90.000000
+			maxModuleSlotCount:Civilian 36.000000
+			maxModuleConstructorCount 1
+		stage
+			price
+				credits 850.000000
+				metal 250.000000
+				crystal 275.000000
+			upgradeTime 105.000000
+			maxModuleSlotCount:Civilian 42.000000
+			maxModuleConstructorCount 1
+		stage
+			price
+				credits 950.000000
+				metal 275.000000
+				crystal 325.000000
+			upgradeTime 120.000000
+			maxModuleSlotCount:Civilian 48.000000
+			maxModuleConstructorCount 1
+	path:TacticalModules
+		stageCount 6
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxModuleSlotCount:Tactical 5.000000
+			maxModuleConstructorCount 1
+		stage
+			price
+				credits 450.000000
+				metal 150.000000
+				crystal 75.000000
+			upgradeTime 45.000000
+			maxModuleSlotCount:Tactical 15.000000
+			maxModuleConstructorCount 2
+		stage
+			price
+				credits 550.000000
+				metal 175.000000
+				crystal 125.000000
+			upgradeTime 60.000000
+			maxModuleSlotCount:Tactical 25.000000
+			maxModuleConstructorCount 3
+		stage
+			price
+				credits 650.000000
+				metal 200.000000
+				crystal 175.000000
+			upgradeTime 75.000000
+			maxModuleSlotCount:Tactical 35.000000
+			maxModuleConstructorCount 3
+		stage
+			price
+				credits 750.000000
+				metal 225.000000
+				crystal 225.000000
+			upgradeTime 90.000000
+			maxModuleSlotCount:Tactical 45.000000
+			maxModuleConstructorCount 4
+		stage
+			price
+				credits 850.000000
+				metal 250.000000
+				crystal 275.000000
+			upgradeTime 105.000000
+			maxModuleSlotCount:Tactical 55.000000
+			maxModuleConstructorCount 5
+	path:Home
+		stageCount 2
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			isHomePlanet FALSE
+			homePlanetTaxRateBonus 0.000000
+			homePlanetMetalIncomeBonus 0.000000
+			homePlanetCrystalIncomeBonus 0.000000
+		stage
+			price
+				credits 2000.000000
+				metal 300.000000
+				crystal 200.000000
+			upgradeTime 75.000000
+			isHomePlanet TRUE
+			homePlanetTaxRateBonus 4.000000
+			homePlanetMetalIncomeBonus 0.400000
+			homePlanetCrystalIncomeBonus 0.400000
+	path:ArtifactLevel
+		stageCount 3
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+		stage
+			price
+				credits 1450.000000
+				metal 475.000000
+				crystal 275.000000
+			upgradeTime 90.000000
+		stage
+			price
+				credits 1550.000000
+				metal 500.000000
+				crystal 350.000000
+			upgradeTime 105.000000
+	path:Infrastructure
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxHealth 1500.000000
+ringsChance 0.100000
+isColonizable TRUE
+planetTypeForResearch "Invalid"
+skyboxScalarsCount 5
+skyboxScalars
+	diffuseScalar 0.910000
+	ambientScalar 0.150000
+skyboxScalars
+	diffuseScalar 0.670000
+	ambientScalar 0.400000
+skyboxScalars
+	diffuseScalar 0.800000
+	ambientScalar 0.400000
+skyboxScalars
+	diffuseScalar 0.550000
+	ambientScalar 0.600000
+skyboxScalars
+	diffuseScalar 0.720000
+	ambientScalar 0.800000
+requiredPlanetBonusesCount 0
+possibleRandomPlanetBonusesCount 0
+ambienceSoundID ""
+renderAsVolcanic FALSE
+planetRuinDef
+	ruinPlanetType "PlanetDeadAsteroid"
+	attachType "Center"
+	effectName "StripToTheCore_Planet_TerranHome"
+	startTime 9.000000
+	soundID ""
+	creditsOnStrippedToTheCore 0.000000
+	metalOnStrippedToTheCore 0.000000
+	crystalOnStrippedToTheCore 0.000000
+	extraScuttleTimeOnStrip 30.000000
+ShieldMeshName "Shield_PlanetSmall"
+renderShield TRUE
+moveAreaRadius 48000.000000
+hyperspaceExitRadius 40000.000000
+isWormhole FALSE
+maxStarBaseCountPerPlayer 2
+maxSpaceMineCountPerPlayer 0
+minShadow 0.000000
+maxShadow 0.000000
+ability:0 "AbilityUnstableGas"
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""

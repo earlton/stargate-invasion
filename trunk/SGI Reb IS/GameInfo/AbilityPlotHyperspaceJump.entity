@@ -1,0 +1,62 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyTargettedBuffToSelfNoRange"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffPlotHyperspaceJumpCaster"
+targetFilter
+		numOwnerships 3
+		ownership "Friendly"
+		ownership "Enemy"
+		ownership "NoOwner"
+		numObjects 2
+		object "Planet"
+		object "Star"
+		numSpaces 1
+		space "Normal"
+		numConstraints 0
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName "Ability_DominationActivate"
+	mediumEffectName "Ability_DominationActivate"
+	largeEffectName "Ability_DominationActivate"
+	soundID "EFFECT_DOMINATION"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 1.000000
+	Level:1 2.000000
+	Level:2 3.000000
+	Level:3 0.000000
+aiUseTime "Anytime"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 100.000000
+	Level:1 95.000000
+	Level:2 90.000000
+	Level:3 0.000000
+cooldownTime
+	Level:0 120.000000
+	Level:1 110.000000
+	Level:2 100.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONATTACKORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_PHASEGATE_NAME"
+descStringID "IDS_ABILITY_PHASEGATE_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_PHASEGATE"
+smallHudIcon "HUDICON_ABILITY_PHASEGATE"
+infoCardIcon ""

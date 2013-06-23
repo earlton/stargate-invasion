@@ -1,0 +1,195 @@
+﻿TXT
+entityType "Titan"
+ability:0 "AbilityGoauldTitanFleetRepairs"
+ability:1 "AbilityGoauldTitanFighterSupport"
+ability:2 "AbilityGoauldTitanStolenTechnology"
+ability:3 "AbilityGoauldTitanSokarsWrath"
+ability:4 ""
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb TRUE
+hasBombingLevels FALSE
+baseDamage 90.000000
+basePopulationKilled 2.000000
+bombingFreqTime 10.000000
+baseRange 3000.000000
+bombTransitTime 12.000000
+bombEffectCount 3
+bombEffectAngleVariance 15.000000
+bombEffectsDef
+	weaponType "Projectile"
+	burstCount 1
+	burstDelay 0.500000
+	fireDelay 0.000000
+	muzzleEffectName "Weapon_GoauldCapitalPlasma_Muzzle"
+	muzzleSoundMinRespawnTime 0.500000
+	muzzleSounds
+		soundCount 1
+		sound "Weapon_Goa'uld_Capital"
+	hitEffectName "Weapon_GoauldCapitalPlasma_Hit"
+	hitHullEffectSounds
+		soundCount 1
+		sound "WEAPONIMPACT_ENERGYMEDIUM_HITHULL"
+	hitShieldsEffectSounds
+		soundCount 1
+		sound "WEAPONIMPACT_GENERICMEDIUM_HITSHIELDS"
+	projectileTravelEffectName "Weapon_GoauldCapitalPlasma_Travel"
+mainViewIcon "MAINVIEWICON_CAPITALSHIP_GOAULDSEIGE"
+basePrice
+	credits 5800.000000
+	metal 1200.000000
+	crystal 1200.000000
+slotCount 150.000000
+BuildTime 450.000000
+MaxHullPoints
+	StartValue 5500.000000
+	ValueIncreasePerLevel 220.000000
+MaxShieldPoints
+	StartValue 7500.000000
+	ValueIncreasePerLevel 300.000000
+HullPointRestoreRate
+	StartValue 7.500000
+	ValueIncreasePerLevel 2.200000
+ShieldPointRestoreRate
+	StartValue 11.500000
+	ValueIncreasePerLevel 3.000000
+ArmorPointsFromExperience
+	StartValue 9.500000
+	ValueIncreasePerLevel 0.583330
+maxMitigation
+	StartValue 0.0650000
+	ValueIncreasePerLevel 0.011110
+MaxAntiMatter
+	StartValue 535.000000
+	ValueIncreasePerLevel 25.000000
+AntiMatterRestoreRate
+	StartValue 0.800000
+	ValueIncreasePerLevel 0.100000
+CultureProtectRate
+	StartValue 0.300000
+	ValueIncreasePerLevel 0.050000
+NameStringID "IDS_CAPITALSHIP_GOAULDSIEGE_NAME"
+DescriptionStringID "IDS_CAPITALSHIP_GOAULDSIEGE_DESCRIPTION"
+picture "CAPITALSHIPPICTURE_GOAULDSIEGE"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+statCountType "Titan"
+UpgradeTypeCount 7
+UpgradeType "TitanUpgrade_GoauldApophis_AbilityA"
+UpgradeType "TitanUpgrade_GoauldApophis_AbilityB"
+UpgradeType "TitanUpgrade_GoauldApophis_AbilityC"
+UpgradeType "TitanUpgrade_GoauldApophis_AbilityD"
+UpgradeType "TitanUpgrade_GoauldApophis_Durability"
+UpgradeType "TitanUpgrade_GoauldApophis_Weapons"
+UpgradeType "TitanUpgrade_GoauldApophis_Abilities"
+numRandomDebrisLarge 80
+numRandomDebrisSmall 30
+numSpecificDebris 0
+armorType "Titan"
+hudIcon "HUDICON_CAPITALSHIP_GOAULDSIEGE"
+smallHudIcon "HUDICONSMALL_CAPITALSHIP_GOAULDSIEGE"
+infoCardIcon "INFOCARDICON_CAPITALSHIP_GOAULDSIEGE"
+minZoomDistanceMult 0.750000
+NumWeapons 1
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "PLASMA"
+	DamagePerBank:FRONT 650.000000
+	DamagePerBank:BACK 650.000000
+	DamagePerBank:LEFT 650.000000
+	DamagePerBank:RIGHT 650.000000
+	Range 4500.000000
+	PreBuffCooldownTime 4.000000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 1.000000
+	TravelSpeed 4000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.00000
+		fireDelay 1.00000
+		muzzleEffectName "Weapon_GoauldCapitalPlasma_Muzzle"
+		muzzleSoundMinRespawnTime 0.500000
+		muzzleSounds
+			soundCount 1
+			sound "Weapon_Goa'uld_Capital"
+		hitEffectName "Weapon_GoauldCapitalPlasma_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYMEDIUM_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICMEDIUM_HITSHIELDS"
+		projectileTravelEffectName "Weapon_GoauldCapitalPlasma_Travel"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 2
+TargetCountPerBank:BACK 2
+TargetCountPerBank:LEFT 2
+TargetCountPerBank:RIGHT 2
+canOnlyTargetStructures FALSE
+mass 10000.000000
+ShieldMeshName "Shield_GoauldSiege"
+renderShield TRUE
+maxAccelerationLinear 150.000000
+maxAccelerationStrafe 150.000000
+maxDecelerationLinear 150.000000
+maxAccelerationAngular 5.000000
+maxDecelerationAngular 5.000000
+maxSpeedLinear 600.000000
+maxRollRate 5.000000
+maxRollAngle 30.000000
+squadTypeEntityDef:0 "SquadGoauldCombat"
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 "SquadGoauldBomber"
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+NumSoundsFor:ONATTACKORDERISSUED 1
+SoundID "CAPITALSHIP_GOAULDSIEGE_ONATTACKORDERISSUED_0"
+NumSoundsFor:ONCREATION 1
+SoundID "CAPITALSHIP_GOAULDSIEGE_ONCREATION"
+NumSoundsFor:ONGENERALORDERISSUED 1
+SoundID "CAPITALSHIP_GOAULDSIEGE_ONGENERALORDERISSUED_0"
+NumSoundsFor:ONSELECTED 1
+SoundID "CAPITALSHIP_GOAULDSIEGE_ONSELECTED_0"
+NumSoundsFor:ONSTARTPHASEJUMP 1
+SoundID "CAPITALSHIP_GOAULDSIEGE_ONSTARTPHASEJUMP_0"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "CapitalShip_Goauld_Apophis"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName ""
+ExplosionName "CapitalShip0"
+CommandPoints
+	StartValue 4.000000
+	ValueIncreasePerLevel 0.700000
+weaponCooldownDecreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.030000
+weaponDamageIncreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.050000
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_GOAULDCAPITALSHIP"
+formationRank 0
+minShadow 0.000000
+maxShadow 1.000000

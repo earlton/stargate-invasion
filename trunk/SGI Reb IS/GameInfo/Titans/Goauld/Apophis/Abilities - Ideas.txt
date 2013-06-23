@@ -1,0 +1,72 @@
+Apophis Mothership:
+
+3. "Defense Positions"
+	-> -40% movement speed
+	-> +15% damage output
+	-> +10% shield mitigation
+	-> +8% strikecraft build rate
+
+4. "Cloaking"
+
+
+
+5. Increased Integrity
+	-> increased Hull/hull restore rate
+	-> stronger shields/ shield recharge rate
+
+
+6. Weapon Upgrades
+	-> +8% weapon damage / level
+	-> -5% cooldown	?
+	-> +2% strike craft build rate ?
+
+
+7. Advanced Energy Generators
+	-> +4% Antimatter recharge
+	-> +50 Antimatter / level
+
+Apophis Defense Titan
+
+1. External Repair bays
+                                            lvl 1=    +10  Hull repair points per second for ships
+                                            lvl 2=   +15  Hull repair points per second for ships
+                                            lvl 3=    +20  Hull repair points per second for ships
+                                            lvl 4=    +25  Hull repair points per second for ships
+
+2.  Goa’uld  death glider  bays
+                                            lvl 1=  +10    death glider fighters
+                                            lvl 2=  +15    death glider fighters
+                                            lvl 3=  +10    death glider fighters
+                                            lvl 4=  +25    death glider fighters
+
+3.   Goa’uld Stolen technology     (Furious Defense)
+                                            lvl 1=   +5% hull and shield points
+                                            lvl 2= +10% hull and shield points
+                                            lvl 3= +15% hull and shield points         
+                                            lvl 4=  +20% hull and shield points
+
+4. Sokar’s Wrath        (Titan cloaks nearby capital ships but not itself)
+
+Cloaks nearby ships:  lvl 4  => Capital ships are   1 min cloaked,          Cool down: lvl 4 = 10 min
+Cloaks nearby ships:  lvl 8  => Capital ships are   3 min cloaked,          Cool down: lvl 8 = 10 min
+
+5. Goa’uld scavenged metals
+         stronger shields/ shield recharge rate  
+                                            lvl 1=   +5% hull and shield points
+                                            lvl 2= +10% hull and shield points
+                                            lvl 3= +15% hull and shield points          
+                                            lvl 4=  +20% hull and shield points
+
+6 scavenged weapon technolgy
+    more weapon damage                
+                                            lvl 1=   +5% weapon damage
+                                            lvl 2= +10 weapon damage
+                                            lvl 3= +15% weapon damage
+                                            lvl 4=  +20% weapon damage
+
+7. Sokar’s soul  Energy Generators
+Antimatter recharge
+                              lvl 1=   +5% Antimatter recharge       +100 Antimatter points
+                              lvl 2= +10% Antimatter recharge      +100 Antimatter points
+                              lvl 3= +15% Antimatter recharge      +100 Antimatter points
+                              lvl 4=  +20% Antimatter recharge     +100 Antimatter points

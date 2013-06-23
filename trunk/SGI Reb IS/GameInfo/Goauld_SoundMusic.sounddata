@@ -1,0 +1,90 @@
+TXT
+numMusic 11
+music
+	name "MUSIC_GOAULD_TROUBLE_1"
+	fileName "Goauld Trouble.ogg"
+	isLooping FALSE
+	actionLevel 0.15
+	actionRange 0.2
+	emotionLevel -0.4
+	emotionRange 0.6
+music
+	name "MUSIC_GOAULD_THEME_1"
+	fileName "Goauld Theme.ogg"
+	isLooping FALSE
+	actionLevel 0.4
+	actionRange 0.4
+	emotionLevel 0.2
+	emotionRange 0.8
+music
+	name "MUSIC_GOAULD_ANNOUNCEMENT"
+	fileName "Goauld Announcement.ogg"
+	isLooping FALSE
+	actionLevel 0.0
+	actionRange 1.0
+	emotionLevel -0.3
+	emotionRange 0.7	
+music
+	name "MUSIC_GOAULD_BATTLE_1"
+	fileName "Goauld Battle.ogg"
+	isLooping FALSE
+	actionLevel 0.7
+	actionRange 0.3
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_GOAULD_MISC_1"
+	fileName "Goauld 1.ogg"
+	isLooping FALSE
+	actionLevel 0.6
+	actionRange 0.4
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_GOAULD_MISC_2"
+	fileName "Goauld 2.ogg"
+	isLooping FALSE
+	actionLevel 0.6
+	actionRange 0.4
+	emotionLevel 0.0
+	emotionRange 0.8
+music
+	name "MUSIC_GOAULD_MISC_3"
+	fileName "Goauld 3.ogg"
+	isLooping FALSE
+	actionLevel 0.1
+	actionRange 0.1
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_GOAULD_MISC_4"
+	fileName "Goauld 4.ogg"
+	isLooping FALSE
+	actionLevel 0.15
+	actionRange 0.15
+	emotionLevel 0.0
+	emotionRange 1.0
+music
+	name "MUSIC_GOAULD_MISC_5"
+	fileName "Goauld 5.ogg"
+	isLooping FALSE
+	actionLevel 0.2
+	actionRange 0.2
+	emotionLevel 0.0
+	emotionRange 1.0	
+music
+	name "MUSIC_GOAULD_MISC_6"
+	fileName "Goauld 6.ogg"
+	isLooping FALSE
+	actionLevel 0.2
+	actionRange 0.2
+	emotionLevel -0.5
+	emotionRange 0.7
+music
+	name "MUSIC_GOAULD_SAD_1"
+	fileName "Goauld Sad.ogg"
+	isLooping FALSE
+	actionLevel 0.1
+	actionRange 0.1
+	emotionLevel -0.6
+	emotionRange 0.4	
