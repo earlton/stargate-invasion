@@ -38,3 +38,4 @@ researchModifier
 	perLevelValue -0.300000
 artifactPicture "ArtifactPictureWormHoleTravel"
 uniqueOverlayBrush ""
+dlcId 204880

@@ -27,6 +27,7 @@ intBonus:MaxSpaceMines 0
 intBonus:MaxStarbases 0
 intBonus:ModuleConstructors 0
 intBonus:SpacePonies 0
+dlcId 204880
 hudIcon "HUDICON_PLANETBONUS_GEOTHERMALHEATSOURCE"
 smallHudIcon "HUDICON_PLANETBONUS_GEOTHERMALHEATSOURCE"
 infoCardIcon "HUDICON_PLANETBONUS_GEOTHERMALHEATSOURCE"

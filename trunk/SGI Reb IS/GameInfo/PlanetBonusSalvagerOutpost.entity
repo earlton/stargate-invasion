@@ -27,6 +27,7 @@ intBonus:MaxSpaceMines 0
 intBonus:MaxStarbases 0
 intBonus:ModuleConstructors 1
 intBonus:SpacePonies 0
+dlcId 204880
 hudIcon "HUDICON_PLANETBONUS_SALVAGEROUTPOST"
 smallHudIcon "HUDICON_PLANETBONUS_SALVAGEROUTPOST"
 infoCardIcon "HUDICON_PLANETBONUS_SALVAGEROUTPOST"

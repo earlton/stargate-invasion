@@ -330,6 +330,7 @@ planetRuinDef
 	metalOnStrippedToTheCore 6700.000000
 	crystalOnStrippedToTheCore 3350.000000
 	extraScuttleTimeOnStrip 240.000000
+dlcId 204880
 ShieldMeshName "Shield_PlanetSmall"
 renderShield TRUE
 moveAreaRadius 40000.000000
