@@ -1,6 +1,6 @@
 ﻿TXT
 entityType "Titan"
-ability:0 "AbilityAsuranCapitalShipColonize"
+ability:0 ""
 ability:1 "AbilityAsuranCapitalDroneFrenzy"
 ability:2 "AbilityNanoDisassembler"
 ability:3 "AbilityAtlantisZpm"

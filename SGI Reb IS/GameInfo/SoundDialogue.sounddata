@@ -1,5 +1,362 @@
 TXT
-numEffects 1297
+numEffects 1416
+effect
+	name "EVENTPHASE_BUYNOTITANFACTORY"
+	fileName "EventPhase_TitanFactoryNotFound.ogg"
+effect
+	name "EVENTPHASE_RESEARCHVICTORYCOMPLETE"
+	fileName "EventPhase_OnResearchVictoryWin.ogg"
+effect
+	name "EVENTPHASE_RESEARCHVICTORYHALFWAY"
+	fileName "EventPhase_OnResearchVictoryNear.ogg"
+effect
+	name "EVENTPHASE_OCCUPATIONVICTORYCOMPLETE"
+	fileName "EventPhase_OnOccupationPlanetVictoryWin.ogg"
+effect
+	name "EVENTPHASE_OCCUPATIONVICTORYHALFWAY"
+	fileName "EventPhase_OnOccupationPlanetVictoryNear.ogg"
+effect
+	name "EVENTPHASE_GAMEWIN"
+	fileName "EventPhase_OnGameWin.ogg"
+effect
+	name "EVENTPHASE_PLAYERFLAGSHIPDESTROYED"
+	fileName "EventPhase_OnFlagshipVictoryLost.ogg"
+effect
+	name "EVENTPHASE_PLAYERFLAGSHIPUNDERATTACK"
+	fileName "EventPhase_OnFlagshipUnderAttack.ogg"
+effect
+	name "EVENTPHASE_PLAYERFLAGSHIPSHIELDSDOWN"
+	fileName "EventPhase_OnFlagshipShieldsFail.ogg"
+effect
+	name "EVENTPHASE_PLAYERFLAGSHIPHULLSEVERELYDAMAGED"
+	fileName "EventPhase_OnFlagshipHullDamaged.ogg"
+effect
+	name "EVENTPHASE_ENEMYRESEARCHVICTORYCOMPLETE"
+	fileName "EventPhase_OnEnemyResearchVictoryWin.ogg"
+effect
+	name "EVENTPHASE_ENEMYRESEARCHVICTORYHALFWAY"
+	fileName "EventPhase_OnEnemyResearchVictoryNear.ogg"
+effect
+	name "EVENTPHASE_ENEMYRESEARCHVICTORYSTARTED"
+	fileName "EventPhase_OnEnemyResearchVictoryStart.ogg"
+effect
+	name "EVENTPHASE_ENEMYOCCUPATIONVICTORYCOMPLETE"
+	fileName "EventPhase_OnEnemyOccupationPlanetVictoryWin.ogg"
+effect
+	name "EVENTPHASE_ENEMYOCCUPATIONVICTORYHALFWAY"
+	fileName "EventPhase_OnEnemyOccupationPlanetVictoryNearWin.ogg"
+effect
+	name "EVENTPHASE_ENEMYOCCUPATIONVICTORYSTARTED"
+	fileName "EventPhase_OnEnemyOccupationPlanetColonized.ogg"
+effect
+	name "EVENTPHASE_ENEMYFLAGSHIPDESTROYED"
+	fileName "EventPhase_OnEnemyFlagshipLost.ogg"
+effect
+	name "EVENTPHASE_ENEMYDIPLOMATICVICTORYCOMPLETE"
+	fileName "EventPhase_OnEnemyDiplomaticVictoryWin.ogg"
+effect
+	name "EVENTPHASE_ENEMYDIPLOMATICVICTORYHALFWAY"
+	fileName "EventPhase_OnEnemyDiplomaticVictoryNear.ogg"
+effect
+	name "EVENTPHASE_ENEMYCAPITALPLANETDESTROYED"
+	fileName "EventPhase_OnEnemyCapitalPlanetLost.ogg"
+effect
+	name "EVENTPHASE_DIPLOMATICVICTORYCOMPLETE"
+	fileName "EventPhase_OnDiplomaticVictoryWin.ogg"
+effect
+	name "EVENTPHASE_DIPLOMATICVICTORYHALFWAY"
+	fileName "EventPhase_OnDiplomaticVictoryNear.ogg"
+effect
+	name "EVENTPHASE_PLAYERCAPITALPLANETDESTROYED"
+	fileName "EventPhase_OnCapitalPlanetVictoryLost.ogg"
+effect
+	name "EVENTPHASE_ALLYCAPITALPLANETDESTROYED"
+	fileName "EventPhase_OnAllyCapitalPlanetLost.ogg"
+effect
+	name "EVENTPHASE_ENEMYCAPITALPLANETSEVERELYDAMAGED"
+	fileName "EventPhase_OnEnemyCapitalPlanetLost.ogg"
+effect
+	name "EVENTPHASE_PLAYERCAPITALPLANETSEVERELYDAMAGED"
+	fileName "EventPhase_OnCapitalPlanetNearlyDestroyed.ogg"
+effect
+	name "EVENTPHASE_PLAYERCAPITALPLANETUNDERATTACK"
+	fileName "EventPhase_OnCapitalPlanetUnderAttack.ogg"
+effect
+	name "EVENTPHASE_ALLYRESEARCHVICTORYCOMPLETE"
+	fileName "EventPhase_OnAllyResearchVictoryWin.ogg"
+effect
+	name "EVENTPHASE_ALLYRESEARCHVICTORYHALFWAY"
+	fileName "EventPhase_OnAllyResearchVictoryNear.ogg"
+effect
+	name "EVENTPHASE_ALLYRESEARCHVICTORYSTARTED"
+	fileName "EventPhase_OnAllyResearchVictoryStart.ogg"
+effect
+	name "EVENTPHASE_ALLYOCCUPATIONVICTORYCOMPLETE"
+	fileName "EventPhase_OnAllyOccupationPlanetVictoryWin.ogg"
+effect
+	name "EVENTPHASE_ALLYOCCUPATIONVICTORYHALFWAY"
+	fileName "EventPhase_OnAllyOccupationPlanetVictoryNearWin.ogg"
+effect
+	name "EVENTPHASE_ALLYOCCUPATIONPLANETUNDERATTACK"
+	fileName "EventPhase_OnAllyOccupationPlanetUnderAttack.ogg"
+effect
+	name "EVENTPHASE_ALLYOCCUPATIONVICTORYSTARTED"
+	fileName "EventPhase_OnAllyOccupationPlanetColonized.ogg"
+effect
+	name "EVENTPHASE_ALLYFLAGSHIPDESTROYED"
+	fileName "EventPhase_OnAllyDiplomaticVictoryWin.ogg"
+effect
+	name "EVENTPHASE_ALLYDIPLOMATICVICTORYCOMPLETE"
+	fileName "EventPhase_OnAllyDiplomaticVictoryWin.ogg"
+effect
+	name "EVENTPHASE_ALLYDIPLOMATICVICTORYHALFWAY"
+	fileName "EventPhase_OnAllyDiplomaticVictoryNear.ogg"
+effect
+	name "EVENTPHASE_ALLYCAPITALPLANETUNDERATTACK"
+	fileName "EventPhase_OnAllyCapitalPlanetUnderAttack.ogg"
+effect
+	name "EVENTPHASE_ALLYCAPITALPLANETDESTROYED"
+	fileName "EventPhase_OnAllyCapitalPlanetLost.ogg"
+effect
+	name "EVENTPHASE_ALLIEDGAMEWIN"
+	fileName "EventPhase_OnAlliedGameWin.ogg"
+effect
+	name "EVENTPSI_BUYNOTITANFACTORY"
+	fileName "EventPsi_TitanFactoryNotFound.ogg"
+effect
+	name "EVENTPSI_RESEARCHVICTORYCOMPLETE"
+	fileName "EventPsi_OnResearchVictoryWin.ogg"
+effect
+	name "EVENTPSI_RESEARCHVICTORYHALFWAY"
+	fileName "EventPsi_OnResearchVictoryNear.ogg"
+effect
+	name "EVENTPSI_OCCUPATIONVICTORYCOMPLETE"
+	fileName "EventPsi_OnOccupationPlanetVictoryWin.ogg"
+effect
+	name "EVENTPSI_OCCUPATIONVICTORYHALFWAY"
+	fileName "EventPsi_OnOccupationPlanetVictoryNear.ogg"
+effect
+	name "EVENTPSI_GAMEWIN"
+	fileName "EventPsi_OnGameWin.ogg"
+effect
+	name "EVENTPSI_PLAYERFLAGSHIPDESTROYED"
+	fileName "EventPsi_OnFlagshipVictoryLost.ogg"
+effect
+	name "EVENTPSI_PLAYERFLAGSHIPUNDERATTACK"
+	fileName "EventPsi_OnFlagshipUnderAttack.ogg"
+effect
+	name "EVENTPSI_PLAYERFLAGSHIPSHIELDSDOWN"
+	fileName "EventPsi_OnFlagshipShieldsFail.ogg"
+effect
+	name "EVENTPSI_PLAYERFLAGSHIPHULLSEVERELYDAMAGED"
+	fileName "EventPsi_OnFlagshipHullDamaged.ogg"
+effect
+	name "EVENTPSI_ENEMYRESEARCHVICTORYCOMPLETE"
+	fileName "EventPsi_OnEnemyResearchVictoryWin.ogg"
+effect
+	name "EVENTPSI_ENEMYRESEARCHVICTORYHALFWAY"
+	fileName "EventPsi_OnEnemyResearchVictoryNear.ogg"
+effect
+	name "EVENTPSI_ENEMYRESEARCHVICTORYSTARTED"
+	fileName "EventPsi_OnEnemyResearchVictoryStart.ogg"
+effect
+	name "EVENTPSI_ENEMYOCCUPATIONVICTORYCOMPLETE"
+	fileName "EventPsi_OnEnemyOccupationPlanetVictoryWin.ogg"
+effect
+	name "EVENTPSI_ENEMYOCCUPATIONVICTORYHALFWAY"
+	fileName "EventPsi_OnEnemyOccupationPlanetVictoryNear.ogg"
+effect
+	name "EVENTPSI_ENEMYOCCUPATIONVICTORYSTARTED"
+	fileName "EventPsi_OnEnemyOccupationPlanetColonized.ogg"
+effect
+	name "EVENTPSI_ENEMYFLAGSHIPDESTROYED"
+	fileName "EventPsi_OnEnemyFlagshipLost.ogg"
+effect
+	name "EVENTPSI_ENEMYDIPLOMATICVICTORYCOMPLETE"
+	fileName "EventPsi_OnEnemyDiplomaticVictoryWin.ogg"
+effect
+	name "EVENTPSI_ENEMYDIPLOMATICVICTORYHALFWAY"
+	fileName "EventPsi_OnEnemyDiplomaticVictoryNear.ogg"
+effect
+	name "EVENTPSI_ENEMYCAPITALPLANETDESTROYED"
+	fileName "EventPsi_OnEnemyCapitalPlanetLost.ogg"
+effect
+	name "EVENTPSI_DIPLOMATICVICTORYCOMPLETE"
+	fileName "EventPsi_OnDiplomaticVictoryWin.ogg"
+effect
+	name "EVENTPSI_DIPLOMATICVICTORYHALFWAY"
+	fileName "EventPsi_OnDiplomaticVictoryNear.ogg"
+effect
+	name "EVENTPSI_PLAYERCAPITALPLANETDESTROYED"
+	fileName "EventPsi_OnCapitalPlanetVictoryLost.ogg"
+effect
+	name "EVENTPSI_ALLYCAPITALPLANETDESTROYED"
+	fileName "EventPsi_OnAllyCapitalPlanetLost.ogg"
+effect
+	name "EVENTPSI_ENEMYCAPITALPLANETSEVERELYDAMAGED"
+	fileName "EventPsi_OnEnemyCapitalPlanetLost.ogg"
+effect
+	name "EVENTPSI_PLAYERCAPITALPLANETSEVERELYDAMAGED"
+	fileName "EventPsi_OnCapitalPlanetNearlyDestroyed.ogg"
+effect
+	name "EVENTPSI_PLAYERCAPITALPLANETUNDERATTACK"
+	fileName "EventPsi_OnCapitalPlanetUnderAttack.ogg"
+effect
+	name "EVENTPSI_ALLYRESEARCHVICTORYCOMPLETE"
+	fileName "EventPsi_OnAllyResearchVictoryWin.ogg"
+effect
+	name "EVENTPSI_ALLYRESEARCHVICTORYHALFWAY"
+	fileName "EventPsi_OnAllyResearchVictoryNear.ogg"
+effect
+	name "EVENTPSI_ALLYRESEARCHVICTORYSTARTED"
+	fileName "EventPsi_OnAllyResearchVictoryStart.ogg"
+effect
+	name "EVENTPSI_ALLYOCCUPATIONVICTORYCOMPLETE"
+	fileName "EventPsi_OnAllyOccupationPlanetVictoryWin.ogg"
+effect
+	name "EVENTPSI_ALLYOCCUPATIONVICTORYHALFWAY"
+	fileName "EventPsi_OnAllyOccupationPlanetVictoryNear.ogg"
+effect
+	name "EVENTPSI_ALLYOCCUPATIONPLANETUNDERATTACK"
+	fileName "EventPsi_OnAllyOccupationPlanetUnderAttack.ogg"
+effect
+	name "EVENTPSI_ALLYOCCUPATIONVICTORYSTARTED"
+	fileName "EventPsi_OnAllyOccupationPlanetColonized.ogg"
+effect
+	name "EVENTPSI_ALLYFLAGSHIPDESTROYED"
+	fileName "EventPsi_OnAllyDiplomaticVictoryWin.ogg"
+effect
+	name "EVENTPSI_ALLYDIPLOMATICVICTORYCOMPLETE"
+	fileName "EventPsi_OnAllyDiplomaticVictoryWin.ogg"
+effect
+	name "EVENTPSI_ALLYDIPLOMATICVICTORYHALFWAY"
+	fileName "EventPsi_OnAllyDiplomaticVictoryNear.ogg"
+effect
+	name "EVENTPSI_ALLYCAPITALPLANETUNDERATTACK"
+	fileName "EventPsi_OnAllyCapitalPlanetUnderAttack.ogg"
+effect
+	name "EVENTPSI_ALLYCAPITALPLANETDESTROYED"
+	fileName "EventPsi_OnAllyCapitalPlanetLost.ogg"
+effect
+	name "EVENTPSI_ALLIEDGAMEWIN"
+	fileName "EventPsi_OnAlliedGameWin.ogg"
+effect
+	name "EVENTTECH_BUYNOTITANFACTORY"
+	fileName "EventTech_TitanFactoryNotFound.ogg"
+effect
+	name "EVENTTECH_RESEARCHVICTORYCOMPLETE"
+	fileName "EventTech_OnResearchVictoryWin.ogg"
+effect
+	name "EVENTTECH_RESEARCHVICTORYHALFWAY"
+	fileName "EventTech_OnResearchVictoryNear.ogg"
+effect
+	name "EVENTTECH_OCCUPATIONVICTORYCOMPLETE"
+	fileName "EventTech_OnOccupationPlanetVictoryWin.ogg"
+effect
+	name "EVENTTECH_OCCUPATIONVICTORYHALFWAY"
+	fileName "EventTech_OnOccupationPlanetVictoryNear.ogg"
+effect
+	name "EVENTTECH_GAMEWIN"
+	fileName "EventTech_OnGameWin.ogg"
+effect
+	name "EVENTTECH_PLAYERFLAGSHIPDESTROYED"
+	fileName "EventTech_OnFlagshipVictoryLost.ogg"
+effect
+	name "EVENTTECH_PLAYERFLAGSHIPUNDERATTACK"
+	fileName "EventTech_OnFlagshipUnderAttack.ogg"
+effect
+	name "EVENTTECH_PLAYERFLAGSHIPSHIELDSDOWN"
+	fileName "EventTech_OnFlagshipShieldsFail.ogg"
+effect
+	name "EVENTTECH_PLAYERFLAGSHIPHULLSEVERELYDAMAGED"
+	fileName "EventTech_OnFlagshipHullDamaged.ogg"
+effect
+	name "EVENTTECH_ENEMYRESEARCHVICTORYCOMPLETE"
+	fileName "EventTech_OnEnemyResearchVictoryWin.ogg"
+effect
+	name "EVENTTECH_ENEMYRESEARCHVICTORYHALFWAY"
+	fileName "EventTech_OnEnemyResearchVictoryNear.ogg"
+effect
+	name "EVENTTECH_ENEMYRESEARCHVICTORYSTARTED"
+	fileName "EventTech_OnEnemyResearchVictoryStart.ogg"
+effect
+	name "EVENTTECH_ENEMYOCCUPATIONVICTORYCOMPLETE"
+	fileName "EventTech_OnEnemyOccupationPlanetVictoryWin.ogg"
+effect
+	name "EVENTTECH_ENEMYOCCUPATIONVICTORYHALFWAY"
+	fileName "EventTech_OnEnemyOccupationPlanetVictoryNear.ogg"
+effect
+	name "EVENTTECH_ENEMYOCCUPATIONVICTORYSTARTED"
+	fileName "EventTech_OnEnemyOccupationPlanetColonized.ogg"
+effect
+	name "EVENTTECH_ENEMYFLAGSHIPDESTROYED"
+	fileName "EventTech_OnEnemyFlagshipLost.ogg"
+effect
+	name "EVENTTECH_ENEMYDIPLOMATICVICTORYCOMPLETE"
+	fileName "EventTech_OnEnemyDiplomaticVictoryWin.ogg"
+effect
+	name "EVENTTECH_ENEMYDIPLOMATICVICTORYHALFWAY"
+	fileName "EventTech_OnEnemyDiplomaticVictoryNear.ogg"
+effect
+	name "EVENTTECH_ENEMYCAPITALPLANETDESTROYED"
+	fileName "EventTech_OnEnemyCapitalPlanetLost.ogg"
+effect
+	name "EVENTTECH_DIPLOMATICVICTORYCOMPLETE"
+	fileName "EventTech_OnDiplomaticVictoryWin.ogg"
+effect
+	name "EVENTTECH_DIPLOMATICVICTORYHALFWAY"
+	fileName "EventTech_OnDiplomaticVictoryNear.ogg"
+effect
+	name "EVENTTECH_PLAYERCAPITALPLANETDESTROYED"
+	fileName "EventTech_OnCapitalPlanetVictoryLost.ogg"
+effect
+	name "EVENTTECH_ALLYCAPITALPLANETDESTROYED"
+	fileName "EventTech_OnAllyCapitalPlanetLost.ogg"
+effect
+	name "EVENTTECH_ENEMYCAPITALPLANETSEVERELYDAMAGED"
+	fileName "EventTech_OnEnemyCapitalPlanetLost.ogg"
+effect
+	name "EVENTTECH_PLAYERCAPITALPLANETUNDERATTACK"
+	fileName "EventTech_OnCapitalPlanetUnderAttack.ogg"
+effect
+	name "EVENTTECH_ALLYRESEARCHVICTORYCOMPLETE"
+	fileName "EventTech_OnAllyResearchVictoryWin.ogg"
+effect
+	name "EVENTTECH_ALLYRESEARCHVICTORYHALFWAY"
+	fileName "EventTech_OnAllyResearchVictoryNear.ogg"
+effect
+	name "EVENTTECH_ALLYRESEARCHVICTORYSTARTED"
+	fileName "EventTech_OnAllyResearchVictoryStart.ogg"
+effect
+	name "EVENTTECH_ALLYOCCUPATIONVICTORYCOMPLETE"
+	fileName "EventTech_OnAllyOccupationPlanetVictoryWin.ogg"
+effect
+	name "EVENTTECH_ALLYOCCUPATIONVICTORYHALFWAY"
+	fileName "EventTech_OnAllyOccupationPlanetVictoryNear.ogg"
+effect
+	name "EVENTTECH_ALLYOCCUPATIONPLANETUNDERATTACK"
+	fileName "EventTech_OnAllyOccupationPlanetUnderAttack.ogg"
+effect
+	name "EVENTTECH_ALLYOCCUPATIONVICTORYSTARTED"
+	fileName "EventTech_OnAllyOccupationPlanetColonized.ogg"
+effect
+	name "EVENTTECH_ALLYFLAGSHIPDESTROYED"
+	fileName "EventTech_OnAllyFlagshipLostGeneral.ogg"
+effect
+	name "EVENTTECH_ALLYDIPLOMATICVICTORYCOMPLETE"
+	fileName "EventTech_OnAllyDiplomaticVictoryWin.ogg"
+effect
+	name "EVENTTECH_ALLYDIPLOMATICVICTORYHALFWAY"
+	fileName "EventTech_OnAllyDiplomaticVictoryNear.ogg"
+effect
+	name "EVENTTECH_ALLYCAPITALPLANETUNDERATTACK"
+	fileName "EventTech_OnAllyCapitalPlanetUnderAttack.ogg"
+effect
+	name "EVENTTECH_ALLYCAPITALPLANETDESTROYED"
+	fileName "EventTech_OnAllyCapitalPlanetLost.ogg"
+effect
+	name "EVENTTECH_ALLIEDGAMEWIN"
+	fileName "EventTech_OnAlliedGameWin.ogg"
 effect
 	name "MINE_ASGARD_ONSELECTED"
 	fileName "Mine_Asgard_OnSelected.ogg"
