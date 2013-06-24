@@ -27,6 +27,7 @@ intBonus:MaxSpaceMines 0
 intBonus:MaxStarbases 0
 intBonus:ModuleConstructors 0
 intBonus:SpacePonies 0
+dlcId 204880
 hudIcon "HUDICON_PLANETBONUS_THERMALLIFT"
 smallHudIcon "HUDICON_PLANETBONUS_THERMALLIFT"
 infoCardIcon "HUDICON_PLANETBONUS_THERMALLIFT"

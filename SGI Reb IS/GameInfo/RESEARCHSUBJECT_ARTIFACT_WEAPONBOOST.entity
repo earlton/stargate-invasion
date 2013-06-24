@@ -37,3 +37,4 @@ researchModifier
 	linkedWeaponClass "Invalid"
 artifactPicture "ArtifactPictureWeaponBoost"
 uniqueOverlayBrush ""
+dlcId 204880

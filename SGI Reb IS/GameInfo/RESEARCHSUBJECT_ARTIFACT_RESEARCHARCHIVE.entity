@@ -36,3 +36,4 @@ researchModifier
 	perLevelValue -0.250000
 artifactPicture "ArtifactPictureResearchArchive"
 uniqueOverlayBrush ""
+dlcId 204880

@@ -36,3 +36,4 @@ researchModifier
 	perLevelValue 0.150000
 artifactPicture "ArtifactPictureHullRepairOverTimeIncrease"
 uniqueOverlayBrush ""
+dlcId 204880
