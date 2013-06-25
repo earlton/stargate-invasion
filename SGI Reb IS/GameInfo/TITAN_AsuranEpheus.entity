@@ -79,8 +79,8 @@ AntiMatterRestoreRate
 CultureProtectRate
 	StartValue 0.300000
 	ValueIncreasePerLevel 0.050000
-NameStringID "IDS_TITAN_EPHEUS_NAME"
-DescriptionStringID "IDS_TITAN_EPHEUS_DESCRIPTION"
+NameStringID "IDS_TITAN_ASURANEPHEUS_NAME"
+DescriptionStringID "IDS_TITAN_ASURANEPHEUS_DESCRIPTION"
 picture "TITANPICTURE_EPHEUS"
 Prerequisites
 	NumResearchPrerequisites 1
