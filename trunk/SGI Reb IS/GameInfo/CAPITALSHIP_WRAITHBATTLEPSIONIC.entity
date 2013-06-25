@@ -216,7 +216,7 @@ NumSoundsFor:ONSTARTPHASEJUMP 1
 SoundID "CAPITALSHIP_PSIBATTLEPSIONIC_ONSTARTPHASEJUMP_0"
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "CapitalShip_WraithHive"
+	meshName "CapitalShip_Wraith_Carrier"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""

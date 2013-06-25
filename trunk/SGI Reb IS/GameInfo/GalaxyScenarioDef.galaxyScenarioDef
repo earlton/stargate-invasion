@@ -552,7 +552,7 @@ planetType
 	orbitBodyTypeCount 3
 	orbitBodyType "GasGiantFair"
 	orbitBodyType "PlasmaStormFair"
-	orbitBodyType "MagneticCloudFair"
+	orbitBodyType "MagneticCloud"
 planetType
 	designName "RandomUncolonizable"
 	designStringId "IDSGalaxyScenarioTypePlanetRandomUncolonizable"
