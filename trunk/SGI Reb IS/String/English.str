@@ -1,5 +1,5 @@
 TXT
-NumStrings 7598
+NumStrings 7767
 StringInfo
 	ID "IDS_ABILITY_WORTHYCAUSE_NAME"
 	Value "Worthy Cause"
@@ -3277,7 +3277,7 @@ StringInfo
 	ID "IDS_FRIGATE_PIRATEHEAVY_NAME"
 	Value "Lucian Alliance Corsair"
 StringInfo
-	ID "IDS_FRIGATE_PIRATEHEAVY_NAME"
+	ID "IDS_FRIGATE_PIRATEHEAVY_DESCRIPTION"
 	Value "A heavy frigate with many anti-ship weapons"
 StringInfo
 	ID "IDS_FRIGATE_PIRATEMEDIUM_NAME"
@@ -3576,6 +3576,60 @@ StringInfo
 StringInfo
 	ID "IDSGalaxyScenarioTypePlanetBarrenSpace"
 	Value "Empty Barren Space"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetAsteroidOrDeadFair"
+	Value "Random - Asteroid Fair"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetAsteroidSpaceJunkFair"
+	Value "Space Junk Fair"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetDesertFair"
+	Value "Desert Fair"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetGasGiantFair"
+	Value "Gas Giant Fair"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetIceFair"
+	Value "Ice Fair"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetOccupied"
+	Value "Occupied"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetPlasmaStormFair"
+	Value "Plasma Storm Fair"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetRandomFair"
+	Value "Random - Any Fair"	
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetRandomSpecialFair"
+	Value "Random - Special Fair"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetRandomTrueFair"
+	Value "Random - Planet Fair"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetRandomTrueNonIceFair"
+	Value "Random - Non Ice Fair"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetRandomTrueNonTerranFair"
+	Value "Random - Non Terran Planet Fair"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetRandomUncolonizableFair"
+	Value "Random - Uncolonizable Fair"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetTerranFair"
+	Value "Terran Fair"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetVolcanicFair"
+	Value "Volcanic Fair"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetWeightedColonizableFair"
+	Value "Random - Colonizable Fair"
+StringInfo
+	ID "IDSGalaxyScenarioTypeRandomIceVolcanicFair"
+	Value "Random Ice or Volcanic Fair"
+StringInfo
+	ID "IDSGalaxyScenarioTypeRandomUncolonizalbeNonMagnetic"
+	Value "Random Uncolonizable Non-Magnetic"
 StringInfo
 	ID "IDSGalaxySetupWindowChangeMapTypeButton"
 	Value "Change Maps"
@@ -4761,6 +4815,150 @@ StringInfo
 StringInfo
 	ID "IDSGameOverDialogHasLostPhrasePhase"
 	Value "Our ten millenia journey has ended in disaster."
+StringInfo
+	ID "IDSGameOverDialogFlagshipVictory"
+	Value "FLAGSHIP VICTORY!"
+StringInfo
+	ID "IDSGameOverDialogFlagshipDefeat"
+	Value "FLAGSHIP DEFEAT!"
+StringInfo
+	ID "IDSGameOverDialogHomeworldVictory"
+	Value "CAPITAL VICTORY!"
+StringInfo
+	ID "IDSGameOverDialogHomeworldDefeat"
+	Value "CAPITAL DEFEAT!"
+StringInfo
+	ID "IDSGameOverDialogResearchVictory"
+	Value "RESEARCH VICTORY!"
+StringInfo
+	ID "IDSGameOverDialogResearchDefeat"
+	Value "RESEARCH DEFEAT!"
+StringInfo
+	ID "IDSGameOverDialogOccupationVictory"
+	Value "OCCUPATION VICTORY!"
+StringInfo
+	ID "IDSGameOverDialogOccupationDefeat"
+	Value "OCCUPATION DEFEAT!"
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseAsuranFlagship"
+	Value "The Unity's Flagship has prevailed!"
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseAsuranFlagship"
+	Value "The Unity's voice cries in agony at the loss of our Flagship."
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseAsuranHomeworld"
+	Value "We have cleansed the unbelievers. Our war is won!"
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseAsuranHomeworld"
+	Value "Our voices have fallen silent. The Unity has found its end."
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseAsuranResearch"
+	Value "The Unity's wisdom is now known to all."
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseAsuranResearch"
+	Value "Another empire has shown themselves to be wiser than us."
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseAsuranOccupation"
+	Value "The Unity has guided us to the secrets of the universe."
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseAsuranOccupation"
+	Value "The Unity has been denied access to the secrets of the universe."
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseTauriFlagship"
+	Value "The Unity's Flagship has prevailed!"
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseTauriFlagship"
+	Value "The Unity's voice cries in agony at the loss of our Flagship."
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseTauriHomeworld"
+	Value "We have cleansed the unbelievers. Our war is won!"
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseTauriHomeworld"
+	Value "Our voices have fallen silent. The Unity has found its end."
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseTauriResearch"
+	Value "The Unity's wisdom is now known to all."
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseTauriResearch"
+	Value "Another empire has shown themselves to be wiser than us."
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseTauriOccupation"
+	Value "The Unity has guided us to the secrets of the universe."
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseTauriOccupation"
+	Value "The Unity has been denied access to the secrets of the universe."
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseAsgardFlagship"
+	Value "The Unity's Flagship has prevailed!"
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseAsgardFlagship"
+	Value "The Unity's voice cries in agony at the loss of our Flagship."
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseAsgardHomeworld"
+	Value "We have cleansed the unbelievers. Our war is won!"
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseAsgardHomeworld"
+	Value "Our voices have fallen silent. The Unity has found its end."
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseAsgardResearch"
+	Value "The Unity's wisdom is now known to all."
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseAsgardResearch"
+	Value "Another empire has shown themselves to be wiser than us."
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseAsgardOccupation"
+	Value "The Unity has guided us to the secrets of the universe."
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseAsgardOccupation"
+	Value "The Unity has been denied access to the secrets of the universe."
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseWraithFlagship"
+	Value "The Unity's Flagship has prevailed!"
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseWraithFlagship"
+	Value "The Unity's voice cries in agony at the loss of our Flagship."
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseWraithHomeworld"
+	Value "We have cleansed the unbelievers. Our war is won!"
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseWraithHomeworld"
+	Value "Our voices have fallen silent. The Unity has found its end."
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseWraithResearch"
+	Value "The Unity's wisdom is now known to all."
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseWraithResearch"
+	Value "Another empire has shown themselves to be wiser than us."
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseWraithOccupation"
+	Value "The Unity has guided us to the secrets of the universe."
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseWraithOccupation"
+	Value "The Unity has been denied access to the secrets of the universe."
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseGoauldFlagship"
+	Value "The Unity's Flagship has prevailed!"
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseGoauldFlagship"
+	Value "The Unity's voice cries in agony at the loss of our Flagship."
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseGoauldHomeworld"
+	Value "We have cleansed the unbelievers. Our war is won!"
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseGoauldHomeworld"
+	Value "Our voices have fallen silent. The Unity has found its end."
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseGoauldResearch"
+	Value "The Unity's wisdom is now known to all."
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseGoauldResearch"
+	Value "Another empire has shown themselves to be wiser than us."
+StringInfo
+	ID "IDSGameOverDialogHasWonPhraseGoauldOccupation"
+	Value "The Unity has guided us to the secrets of the universe."
+StringInfo
+	ID "IDSGameOverDialogHasLostPhraseGoauldOccupation"
+	Value "The Unity has been denied access to the secrets of the universe."
 StringInfo
     ID "IDS_GameStat_FrigateEnvoyBuilt"
     Value "Number of Envoys built"
@@ -6168,7 +6366,7 @@ StringInfo
 StringInfo
 	ID "IDS_PLANETDETAILSINFOCARD_RELATIONSHIPBONUS"
 	Value "Relationship Bonus:*SPACING130* *VALUE0*"
-	StringInfo
+StringInfo
 	ID "IDS_INFOCARD_BUFFADJUSTMENT_CULTURESPREADRATEFOROWNER"
 	Value "Culture spread rate"
 StringInfo
@@ -7686,6 +7884,18 @@ StringInfo
 StringInfo
 	ID "IDS_INFOCARD_PLANETCLOSEUPGRADEMANAGEMENT_NAME"
 	Value "Return to Main"
+StringInfo
+	ID "IDS_INFOCARD_PLANETUPGRADESOCIAL_NAME"
+	Value "Social Specialization"
+StringInfo
+	ID "IDS_INFOCARD_PLANETUPGRADESOCIAL_DESC"
+	Value "Dedicate this planet towards greater population and cultural influence at the cost of trade and industry. Choosing this path locks out Industry Specialization."
+StringInfo
+	ID "IDS_INFOCARD_PLANETUPGRADEINDUSTRY_NAME"
+	Value "Industry Specialization"
+StringInfo
+	ID "IDS_INFOCARD_PLANETUPGRADEINDUSTRY_DESC"
+	Value "Dedicate this planet towards trade income and ship building at the cost of culture and population. Choosing this path locks out Social Specialization."
 StringInfo
 	ID "IDS_INFOCARD_PLANETCLOSEUPGRADEMANAGEMENT_DESC"
 	Value "Return to the main menu."
@@ -12187,6 +12397,246 @@ StringInfo
 	ID "IDSPirateScreenChangeBountyButtonTextFormat"
 	Value "%d"
 StringInfo
+	ID "IDS_PLANETBONUS_VIRTUALREALITYPARK_NAME"
+	Value "Virtual Reality Park"
+StringInfo
+	ID "IDS_PLANETBONUS_VIRTUALREALITYPARK_DESC"
+	Value "A vast entertainment center is established allowing tourists to experience anything they can imagine. Tax income and allegiance are increased."
+StringInfo
+	ID "IDS_PLANETBONUS_VIRULENTPLAGUE_NAME"
+	Value "Virulent Plague"
+StringInfo
+	ID "IDS_PLANETBONUS_VIRULENTPLAGUE_DESC"
+	Value "Orbital beacons warn that this planet is threatened by a lethal plague. Exploration teams discover mass graves of ancient human remains; many of the bodies show evidence of massive artificial reconstruction or manipulation."
+StringInfo
+	ID "IDS_PLANETBONUS_UNDERSEACAVERNS_NAME"
+	Value "Undersea Caverns"
+StringInfo
+	ID "IDS_PLANETBONUS_UNDERSEACAVERNS_DESC"
+	Value "Buried deep below the ocean's surface are vast caverns containing the timeworn remains of hundreds of phase inhibitors. Removing them frees up room for vast cities."
+StringInfo
+	ID "IDS_PLANETBONUS_UNITYNOMADS_NAME"
+	Value "Unity Nomads"
+StringInfo
+	ID "IDS_PLANETBONUS_UNITYNOMADS_DESC"
+	Value "The ruins of Advent like temples that far pre-date their arrival in Trader space are found. More significantly, culture from this planet is dramatically more influential with no clear explanation for the effect. Investigation into the temples is ongoing."
+StringInfo
+	ID "IDS_PLANETBONUS_TRADERMINING_NAME"
+	Value "Trader Mining Operation"
+StringInfo
+	ID "IDS_PLANETBONUS_TRADERMINING_DESC"
+	Value "An abandoned Trade Order metal mine is located, bringing online an additional constructor and increased metal extractor yields."
+StringInfo
+	ID "IDS_PLANETBONUS_TRAININGACADEMY_NAME"
+	Value "Training Academy"
+StringInfo
+	ID "IDS_PLANETBONUS_TRAININGACADEMY_DESC"
+	Value "A military training academy is established, allowing for increased tactical defenses around this planet."
+StringInfo
+	ID "IDS_PLANETBONUS_TROPICALPARADISE_NAME"
+	Value "Tropical Paradise"
+StringInfo
+	ID "IDS_PLANETBONUS_TROPICALPARADISE_DESC"
+	Value "This world's unique axial tilt makes it a tropical garden, bringing in increased tourist trade income."
+StringInfo
+	ID "IDS_PLANETBONUS_STRONGMAGFIELD_NAME"
+	Value "Strong Magnetic Field"
+StringInfo
+	ID "IDS_PLANETBONUS_STRONGMAGFIELD_DESC"
+	Value "A powerful magnetic field surrounds this world, making it more resistent to planetary bombardment."
+StringInfo
+	ID "IDS_PLANETBONUS_SUBSURFACECRYSTAL_NAME"
+	Value "Subsurface Crystal Deposits"
+StringInfo
+	ID "IDS_PLANETBONUS_SUBSURFACECRYSTAL_DESC"
+	Value "High quantities of crystal have been located in this system, boost the amount that crystal miners are able to extract."
+StringInfo
+	ID "IDS_PLANETBONUS_SUBSURFACEMETAL_NAME"
+	Value "Subsurface Metal Deposits"
+StringInfo
+	ID "IDS_PLANETBONUS_SUBSURFACEMETAL_DESC"
+	Value "High quantities of valuable ore have been located in this system, boosting the amount that metal miners are able to extract."
+StringInfo
+	ID "IDS_PLANETBONUS_SUBZEROTWISTERS_NAME"
+	Value "Subzero Twisters"
+StringInfo
+	ID "IDS_PLANETBONUS_SUBZEROTWISTERS_DESC"
+	Value "This planet's atmosphere generates deadly tornadoes of ice and snow. Populations are limited and construction costs increased."
+StringInfo
+	ID "IDS_PLANETBONUS_SHIPFACTORIES_NAME"
+	Value "Efficient Ship Factories"
+StringInfo
+	ID "IDS_PLANETBONUS_SHIPFACTORIES_DESC"
+	Value "Miles upon miles of hastily constructed ship ports of unknown origin are located. Restoring them greatly improves the ability to construct new vessels here."
+StringInfo
+	ID "IDS_PLANETBONUS_RUSTEDCORE_NAME"
+	Value "Rusted Core"
+StringInfo
+	ID "IDS_PLANETBONUS_RUSTEDCORE_DESC"
+	Value "The core of this world has all but rotted away, reducing its gravity well and limiting the amount of metal left for extraction."
+StringInfo
+	ID "IDS_PLANETBONUS_PLANETARYCORRUPTION_NAME"
+	Value "Planetary Corruption"
+StringInfo
+	ID "IDS_PLANETBONUS_PLANETARYCORRUPTION_DESC"
+	Value "Corrupt officials and black market traders have gained a foothold here, leading to reduced tax and trade income."
+StringInfo
+	ID "IDS_PLANETBONUS_POLLUTEDENVIRONMENT_NAME"
+	Value "Polluted Environment"
+StringInfo
+	ID "IDS_PLANETBONUS_POLLUTEDENVIRONMENT_DESC"
+	Value "Surface scans show this world to be heavily polluted by what could have been ancient weapons of war. Population and allegiance are reduced while trade income is increased."
+StringInfo
+	ID "IDS_PLANETBONUS_POPULATIONBOOM_NAME"
+	Value "Population Boom"
+StringInfo
+	ID "IDS_PLANETBONUS_POPULATIONBOOM_DESC"
+	Value "A baby boom begins on the planet, resulting in a huge increase to population growth."
+StringInfo
+	ID "IDS_PLANETBONUS_QUANTUMCOMMHUB_NAME"
+	Value "Quantum Communications Hub"
+StringInfo
+	ID "IDS_PLANETBONUS_QUANTUMCOMMHUB_DESC"
+	Value "A quantum communications system is discovered, boosting the spread of culture from this world."
+StringInfo
+	ID "IDS_PLANETBONUS_MODERNSOCIETY_NAME"
+	Value "Modern Society"
+StringInfo
+	ID "IDS_PLANETBONUS_MODERNSOCIETY_DESC"
+	Value "This planet is ruled by the intellectual elite and is highly organized, increasing the number of orbital structures that can be maintained."
+StringInfo
+	ID "IDS_PLANETBONUS_OCEANICENERGYCONVERTER_NAME"
+	Value "Oceanic Energy Converter"
+StringInfo
+	ID "IDS_PLANETBONUS_OCEANICENERGYCONVERTER_DESC"
+	Value "Underwater surveys reveal a conversion system that translates ocean waves into power, boosting trade income."
+StringInfo
+	ID "IDS_PLANETBONUS_ORDEREDSOCIETY_NAME"
+	Value "Ordered Society"
+StringInfo
+	ID "IDS_PLANETBONUS_ORDEREDSOCIETY_DESC"
+	Value "This world operates under a tight set of laws where freedoms are curtailed. Culture spread is reduced and resource extraction rates increased."
+StringInfo
+	ID "IDS_PLANETBONUS_PACIFISTSOCIETY_NAME"
+	Value "Pacifist Society"
+StringInfo
+	ID "IDS_PLANETBONUS_PACIFISTSOCIETY_DESC"
+	Value "The inhabitants of this world have rejected all forms of violence, making them more vulnerable to hostile empires and more open to friendly ones."
+StringInfo
+	ID "IDS_PLANETBONUS_INTERSTELLAREXCHANGE_NAME"
+	Value "Interstellar Exchange"
+StringInfo
+	ID "IDS_PLANETBONUS_INTERSTELLAREXCHANGE_DESC"
+	Value "A commerce hub is established on this planet, generating increased trade and tax revenues."
+StringInfo
+	ID "IDS_PLANETBONUS_INTGRAVITYFIELD_NAME"
+	Value "Intense Gravity Field"
+StringInfo
+	ID "IDS_PLANETBONUS_INTGRAVITYFIELD_DESC"
+	Value "This planet has a higher gravitational field than its size would suggest, requiring ships to travel further out to perform a phase jump."
+StringInfo
+	ID "IDS_PLANETBONUS_HEALINGNANITES_NAME"
+	Value "Healing Nanites"
+StringInfo
+	ID "IDS_PLANETBONUS_HEALINGNANITES_DESC"
+	Value "A Vasari medical facility is discovered, improving population growth."
+StringInfo
+	ID "IDS_PLANETBONUS_FEUDALSOCIETY_NAME"
+	Value "Feudal Society"
+StringInfo
+	ID "IDS_PLANETBONUS_FEUDALSOCIETY_DESC"
+	Value "An aristocracy rules this planet making profitability difficult and labor cheap, if slow."
+StringInfo
+	ID "IDS_PLANETBONUS_FORTRESSWORLD_NAME"
+	Value "Fortress World"
+StringInfo
+	ID "IDS_PLANETBONUS_FORTRESSWORLD_DESC"
+	Value "Remains of cities that match early Aluxi Dynasty design patterns are found across the long deserted planet. These bastions are restored once again, turning this planet into a fortress. Defenses are increased and infrastructure added to host an additional starbase."
+StringInfo
+	ID "IDS_PLANETBONUS_FREEMARKETSOCIETY_NAME"
+	Value "Free Market Society"
+StringInfo
+	ID "IDS_PLANETBONUS_FREEMARKETSOCIETY_DESC"
+	Value "Megacorporations operate this planet, making the populace open to new cultures, trade, and cheap labor."
+StringInfo
+	ID "IDS_PLANETBONUS_FREQUENTRAIDERS_NAME"
+	Value "Frequent Raiders"
+StringInfo
+	ID "IDS_PLANETBONUS_FREQUENTRAIDERS_DESC"
+	Value "This world becomes the frequent destination for pirate raids, substantially reducing trade income."
+StringInfo
+	ID "IDS_PLANETBONUS_FUSIONPOWERCORE_NAME"
+	Value "Fusion Power Core"
+StringInfo
+	ID "IDS_PLANETBONUS_FUSIONPOWERCORE_DESC"
+	Value "A fusion power core facility is discovered, allowing for faster construction of orbital facilities."
+StringInfo
+	ID "IDS_PLANETBONUS_DEATHWORLD_NAME"
+	Value "Death World"
+StringInfo
+	ID "IDS_PLANETBONUS_DEATHWORLD_DESC"
+	Value "The atmosphere on this world contains strange, artificial biological molecules which threaten both the surface and near orbit. Population infrastructure and civilian orbital stations are limited, while build costs are increased."
+StringInfo
+	ID "IDS_PLANETBONUS_DENSEATMOSPHERE_NAME"
+	Value "Dense Atmosphere"
+StringInfo
+	ID "IDS_PLANETBONUS_DENSEATMOSPHERE_DESC"
+	Value "The atmosphere surround this world is extremely dense, limiting population due to the higher pressure. However, it also makes planetary bombardment difficult."
+StringInfo
+	ID "IDS_PLANETBONUS_DENSECORE_NAME"
+	Value "Dense Core"
+StringInfo
+	ID "IDS_PLANETBONUS_DENSECORE_DESC"
+	Value "The dense, iron core at the center of this planet vastly expands its gravity well."
+StringInfo
+	ID "IDS_PLANETBONUS_CHAOTICSOCIETY_NAME"
+	Value "Anarchic Society"
+StringInfo
+	ID "IDS_PLANETBONUS_CHAOTICSOCIETY_DESC"
+	Value "All order has broken down on this world. Trade income is reduced and construction costs are increased."
+StringInfo
+	ID "IDS_PLANETBONUS_ANCIENTARCOLOGY_NAME"
+	Value "Ancient Arcology"
+StringInfo
+	ID "IDS_PLANETBONUS_ANCIENTARCOLOGY_DESC"
+	Value "A massive hive complex is located, vastly expanding the potential population of the planet."
+StringInfo
+	ID "IDS_PLANETBONUS_ANCIENTMINEFACTORY_NAME"
+	Value "Ancient Mine Factory"
+StringInfo
+	ID "IDS_PLANETBONUS_ANCIENTMINEFACTORY_DESC"
+	Value "A long abandoned factory is located which contains distinctive elements of both modern Trader and Advent architecture, yet is clearly neither. The number of space mines this planet can field is increased."
+StringInfo
+	ID "IDS_PLANETBONUS_ANTIMATTERCORES_NAME"
+	Value "Energized Space"
+StringInfo
+	ID "IDS_PLANETBONUS_ANTIMATTERCORES_DESC"
+	Value "High energy particles are saturated around this planet, causing all weapons to do increased damage."
+StringInfo
+	ID "IDS_PLANETBONUS_AUTOMATEDFACTORIES_NAME"
+	Value "Automated Factories"
+StringInfo
+	ID "IDS_PLANETBONUS_AUTOMATEDFACTORIES_DESC"
+	Value "Explorers discover an automated factory complex run by a sophisticated AI. Module and ship costs are reduced and an extra constructor ship deployed."
+StringInfo
+	ID "IDS_PLANETBONUS_BOMBARDMENTSHELTERS_NAME"
+	Value "Bombardment Shelters"
+StringInfo
+	ID "IDS_PLANETBONUS_BOMBARDMENTSHELTERS_DESC"
+	Value "Explorers locate a system of shelters buried deep under the planet's surface, the walls of which contain a number of strange symbols that Traders find implicitly offensive. Damage sustained from bombardment is greatly reduced."
+StringInfo
+	ID "IDS_PLANETBONUS_ABANDNANITEFACTORY_NAME"
+	Value "Abandoned Nanite Factory"
+StringInfo
+	ID "IDS_PLANETBONUS_ABANDNANITEFACTORY_DESC"
+	Value "Exploration teams locate an old nanite factory from a prior Vasari occupation, making it cheaper to construct ships at this planet."
+StringInfo
+	ID "IDS_PLANETBONUS_ABLATIVECRUST_NAME"
+	Value "Ablative Crust"
+StringInfo
+	ID "IDS_PLANETBONUS_ABLATIVECRUST_DESC"
+	Value "The surface of this world is pockmarked by evidence of devastating battles from the distant past. The only reason why the planet itself wasn't shattered is due to its unique crust which is highly resistant to bombardment."
+StringInfo
 	ID "IDS_PLANETBONUS_ACIDATMOSPHERE_NAME"
 	Value "Caustic Atmosphere"
 StringInfo
@@ -12960,6 +13410,9 @@ StringInfo
 StringInfo
 	ID "IDS_PLANETMODULE_PHASEORBITALCANNON_DESC"
 	Value "A powerful weapon capable of launching a massive energy shockwave at nearby planets."
+StringInfo
+	ID "IDS_PLANETTYPE_OCEAN"
+	Value "Ocean Planet"
 StringInfo
 	ID "IDS_PLANETTYPE_DESERT"
 	Value "Desert Planet"
@@ -13869,6 +14322,60 @@ StringInfo
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_VOLCANICPHASE_DESCRIPTION"
 	Value "Allows colonization of Volcanic Planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPHASE_NAME"
+	Value "Greenhouse Occupation"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPHASE_DESCRIPTION"
+	Value "Allows colonization of Greenhouse planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPSI_NAME"
+	Value "Greenhouse Evangelism"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPSI_DESCRIPTION"
+	Value "Allows colonization of Greenhouse planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSETECH_NAME"
+	Value "Greenhouse Exploitation"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSETECH_DESCRIPTION"
+	Value "Allows colonization of Greenhouse planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_IRONPHASE_NAME"
+	Value "Ferrous Occupation"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_IRONPHASE_DESCRIPTION"
+	Value "Allows colonization of Ferrous planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_IRONPSI_NAME"
+	Value "Ferrous Evangelism"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_IRONPSI_DESCRIPTION"
+	Value "Allows colonization of Ferrous planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_IRONTECH_NAME"
+	Value "Ferrous Exploitation"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_IRONTECH_DESCRIPTION"
+	Value "Allows colonization of Ferrous planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICPHASE_NAME"
+	Value "Oceanic Occupation"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICPHASE_DESCRIPTION"
+	Value "Allows colonization of Oceanic planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICPSI_NAME"
+	Value "Oceanic Evangelism"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICPSI_DESCRIPTION"
+	Value "Allows colonization of Oceanic planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICTECH_NAME"
+	Value "Oceanic Exploitation"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICTECH_DESCRIPTION"
+	Value "Allows colonization of Oceanic planets."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETMODULEACCESS_CULTURECENTERTECH_NAME"
 	Value "Interstellar Networks"

@@ -157,7 +157,7 @@ squadTypeEntityDef:3 ""
 squadAntiMatterCost:3 0.000000
 mainViewIcon "MainViewIconStarBasePsi"
 experiencePointsForDestroying 400.000000
-nameStringID "IDS_STARBASEPSI_NAME"
+nameStringID "IDS_STARBASEWRAITH_NAME"
 picture "PICTURE_STARBASEPSI"
 statCountType "StarBase"
 creationSourceAbility "AbilityDeployStarBaseWraith"

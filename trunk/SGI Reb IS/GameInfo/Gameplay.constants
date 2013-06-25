@@ -662,6 +662,8 @@ GameplayConstants
 			UpgradePlanetArtifactLevel 1
 			UpgradePlanetPopulation 1
 			UpgradePlanetInfastructure 1
+			UpgradePlanetSocial 0
+			UpgradePlanetIndustry 0
 			MaxBountyBidCount 5
 			UpgradeStarBase 1
 			BuildMines 0
@@ -674,6 +676,8 @@ GameplayConstants
 			UpgradePlanetArtifactLevel 1
 			UpgradePlanetPopulation 1
 			UpgradePlanetInfastructure 3
+			UpgradePlanetSocial 0
+			UpgradePlanetIndustry 0
 			MaxBountyBidCount 5
 			UpgradeStarBase 3
 			BuildMines 2
@@ -686,6 +690,8 @@ GameplayConstants
 			UpgradePlanetArtifactLevel 2
 			UpgradePlanetPopulation 1
 			UpgradePlanetInfastructure 2
+			UpgradePlanetSocial 0
+			UpgradePlanetIndustry 0
 			MaxBountyBidCount 10
 			UpgradeStarBase 2
 			BuildMines 1
@@ -698,6 +704,8 @@ GameplayConstants
 			UpgradePlanetArtifactLevel 2
 			UpgradePlanetPopulation 5
 			UpgradePlanetInfastructure 2
+			UpgradePlanetSocial 0
+			UpgradePlanetIndustry 0
 			MaxBountyBidCount 15
 			UpgradeStarBase 1
 			BuildMines 1

@@ -2,7 +2,7 @@
 entityType "TitanUpgrade"
 stageCount 3
 stage
-	nameStringID "IDS_ABILITY_GOAULDTITANSOKARSWRATHE_NAME"
+	nameStringID "IDS_ABILITY_GOAULDTITANSOKARSWRATH_NAME"
 	descStringID "IDS_ABILITY_GOAULDTITANSOKARSWRATH_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0

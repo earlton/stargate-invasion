@@ -266,6 +266,124 @@ planetUpgradeDef
 				crystal 175.000000
 			upgradeTime 75.000000
 			maxHealth 6000.000000
+	path:Social
+		stageCount 4
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxPopulation 0.000000
+			populationGrowthRate 0.000000
+			tradeIncomeModifier 0.000000
+			shipBuildRateModifier 0.000000
+			cultureSpreadRateModifier 0.000000
+		stage
+			price
+				credits 450.000000
+				metal 150.000000
+				crystal 75.000000
+			upgradeTime 45.000000
+			maxPopulation 10.000000
+			populationGrowthRate 0.125000
+			tradeIncomeModifier -0.300000
+			shipBuildRateModifier -0.166667
+			cultureSpreadRateModifier 0.060000
+		stage
+			price
+				credits 550.000000
+				metal 175.000000
+				crystal 125.000000
+			upgradeTime 60.000000
+			maxPopulation 45.000000
+			populationGrowthRate 0.138000
+			tradeIncomeModifier -0.400000
+			shipBuildRateModifier -0.333334
+			cultureSpreadRateModifier 0.090000
+		stage
+			price
+				credits 650.000000
+				metal 200.000000
+				crystal 175.000000
+			upgradeTime 75.000000
+			maxPopulation 90.000000
+			populationGrowthRate 0.151000
+			tradeIncomeModifier -0.500000
+			shipBuildRateModifier -0.500001
+			cultureSpreadRateModifier 0.120000
+	path:Industry
+		stageCount 7
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxPopulation 0.000000
+			tradeIncomeModifier 0.000000
+			shipBuildRateModifier 0.000000
+			cultureSpreadRateModifier 0.000000
+		stage
+			price
+				credits 450.000000
+				metal 150.000000
+				crystal 75.000000
+			upgradeTime 45.000000
+			maxPopulation -4.500000
+			tradeIncomeModifier 0.330000
+			shipBuildRateModifier 0.166667
+			cultureSpreadRateModifier -0.166667
+		stage
+			price
+				credits 550.000000
+				metal 175.000000
+				crystal 125.000000
+			upgradeTime 60.000000
+			maxPopulation -15.000000
+			tradeIncomeModifier 0.440000
+			shipBuildRateModifier 0.333334
+			cultureSpreadRateModifier -0.333334
+		stage
+			price
+				credits 650.000000
+				metal 200.000000
+				crystal 175.000000
+			upgradeTime 75.000000
+			maxPopulation -39.000000
+			tradeIncomeModifier 0.550000
+			shipBuildRateModifier 0.500001
+			cultureSpreadRateModifier -0.500001
+		stage
+			price
+				credits 750.000000
+				metal 225.000000
+				crystal 225.000000
+			upgradeTime 90.000000
+			maxPopulation -51.000000
+			tradeIncomeModifier 0.660000
+			shipBuildRateModifier 0.666680
+			cultureSpreadRateModifier -0.666680
+		stage
+			price
+				credits 850.000000
+				metal 250.000000
+				crystal 250.000000
+			upgradeTime 275.000000
+			maxPopulation -66.000000
+			tradeIncomeModifier 0.770000
+			shipBuildRateModifier 0.833335
+			cultureSpreadRateModifier -0.833335
+		stage
+			price
+				credits 950.000000
+				metal 275.000000
+				crystal 325.000000
+			upgradeTime 120.000000
+			maxPopulation -86.000000
+			tradeIncomeModifier 0.880000
+			shipBuildRateModifier 1.000000
+			cultureSpreadRateModifier -1.000000
 ringsChance 0.000000
 isColonizable TRUE
 planetTypeForResearch "Terran"

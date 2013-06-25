@@ -31,7 +31,7 @@ stage
 		value 1.000000
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_ABILITY_GOAULDTITANCOMBINEDEYESS_NAME"
+	nameStringID "IDS_ABILITY_GOAULDTITANCOMBINEDEYES_NAME"
 	descStringID "IDS_ABILITY_GOAULDTITANCOMBINEDEYES_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0

@@ -79,8 +79,8 @@ AntiMatterRestoreRate
 CultureProtectRate
 	StartValue 0.300000
 	ValueIncreasePerLevel 0.050000
-NameStringID "IDS_TITAN_PHASELOYALIST_NAME"
-DescriptionStringID "IDS_TITAN_PHASELOYALIST_DESCRIPTION"
+NameStringID "IDS_TITAN_ASURANATLANTIS_NAME"
+DescriptionStringID "IDS_TITAN_ASURANATLANTIS_DESCRIPTION"
 picture "TITANPICTURE_ATLANTIS"
 Prerequisites
 	NumResearchPrerequisites 1
