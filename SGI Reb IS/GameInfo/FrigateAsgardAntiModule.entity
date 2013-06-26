@@ -126,7 +126,7 @@ NumSoundsFor:ONSTARTPHASEJUMP 1
 SoundID "FRIGATE_ASGARDANTIMODULE_ONSTARTPHASEJUMP_0"
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "Frigate_AsgardAntiModule"
+	meshName "Frigate_AsgardSiege"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
