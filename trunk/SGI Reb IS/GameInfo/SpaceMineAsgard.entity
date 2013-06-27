@@ -15,7 +15,7 @@ infoCardIcon "InfoCardIconSpaceMineAsgard"
 picture "PictureSpaceMineAsgard"
 mainViewIcon "MainViewIconSpaceMineAsgard"
 minZoomDistanceMult 1.000000
-MeshName "SupportShip_AsgardMine"
+MeshName "SupportShip_PsiMine"
 spawnActivationDelay 30.000000
 targetStartFollowRange 4500.000000
 targetMaxFollowRange 6000.000000

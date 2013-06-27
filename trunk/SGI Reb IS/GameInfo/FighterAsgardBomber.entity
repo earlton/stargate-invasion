@@ -79,7 +79,7 @@ TargetCountPerBank:BACK 0
 TargetCountPerBank:LEFT 0
 TargetCountPerBank:RIGHT 0
 canOnlyTargetStructures FALSE
-meshName "SupportShip_AsgardBomber"
+meshName "SupportShip_PsiBomber"
 exhaustParticleSystemName "ExhaustSmall"
 ExplosionName "Fighter0"
 exhaustTrailTextureName "ExhaustTrail"
