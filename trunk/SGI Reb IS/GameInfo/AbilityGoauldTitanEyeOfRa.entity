@@ -36,7 +36,7 @@ maxNumLevels 3
 levelSourceType "TitanUpgradeLevel"
 sourcePropertyType "AbilityALevel"
 aiUseTime "OnlyInCombat"
-aiUseTargetCondition "Invalid"
+aiUseTargetCondition "Any"
 isAutoCastAvailable TRUE
 isAutoCastOnByDefault FALSE
 pickRandomPlanetToExploreForAutoCastTarget FALSE
