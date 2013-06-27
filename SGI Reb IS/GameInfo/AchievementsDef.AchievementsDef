@@ -252,4 +252,23 @@ uiInfo
 		name "IDSAchievementNameHasPreviewedRandomGalaxy"
 		desc "IDSAchievementDescHasPreviewedRandomGalaxy"
 		icon "AchievementIconHasPreviewedRandomGalaxy"
-	
+	HasAllPlanetTypes
+		name "IDSAchievementNameHasAllPlanetTypes"
+		desc "IDSAchievementDescHasAllPlanetTypes"
+		icon "AchievementIconHasPreviewedRandomGalaxy"
+	HasFerrusPlanetWithFullIndustry
+		name "IDSAchievementNameHasFerrusPlanetWithFullIndustry"
+		desc "IDSAchievementDescHasFerrusPlanetWithFullIndustry"
+		icon "AchievementIconHasPreviewedRandomGalaxy"
+	HasOceanicPlanetWithFullSocial
+		name "IDSAchievementNameHasOceanicPlanetWithFullSocial"
+		desc "IDSAchievementDescHasOceanicPlanetWithFullSocial"
+		icon "AchievementIconHasPreviewedRandomGalaxy"
+	HasDestroyedPlanets
+		name "IDSAchievementNameHasDestroyedPlanets"
+		desc "IDSAchievementDescHasDestroyedPlanets"
+		icon "AchievementIconHasPreviewedRandomGalaxy"
+	HasDifferentPlanetBonuses
+		name "IDSAchievementNameHasDifferentPlanetBonuses"
+		desc "IDSAchievementDescHasDifferentPlanetBonuses"
+		icon "AchievementIconHasPreviewedRandomGalaxy"

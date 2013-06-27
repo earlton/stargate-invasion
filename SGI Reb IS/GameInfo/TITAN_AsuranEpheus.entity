@@ -228,7 +228,7 @@ NumSoundsFor:ONSTARTPHASEJUMP 1
 SoundID "TITAN_PHASELOYALIST_ONSTARTPHASEJUMP_0"
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "Capitalship_Asuran_Epheus"
+	meshName "Titan_AsuranEpheus"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""

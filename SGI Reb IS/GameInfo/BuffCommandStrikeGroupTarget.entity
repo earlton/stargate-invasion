@@ -33,7 +33,7 @@ instantAction
 	isDamageShared TRUE
 instantAction
 	buffInstantActionType "ApplyBuffToTargetsInRadius"
-	instantActionTriggerType "AlwaysPerform"
+	instantActionTriggerType "OnAbilityUsed"
 	buffType "BuffCommandStrikeGroupTaunt"
 	targetFilter
 		numOwnerships 1

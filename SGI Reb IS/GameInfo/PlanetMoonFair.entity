@@ -339,7 +339,7 @@ skyboxScalars
 	diffuseScalar 1.000000
 	ambientScalar 1.000000
 requiredPlanetBonusesCount 0
-possibleRandomPlanetBonusesCount 29
+possibleRandomPlanetBonusesCount 9
 bonus "PlanetBonusCrystalMiners"
 bonus "PlanetBonusIndustrialWasteland"
 bonus "PlanetBonusLowGravity"
@@ -349,26 +349,6 @@ bonus "PlanetBonusPenalColony"
 bonus "PlanetBonusRareMetalDeposits0"
 bonus "PlanetBonusSalvagerOutpost"
 bonus "PlanetBonusSignalAbsorption"
-bonus "PlanetBonusStrongMagneticField"
-bonus "PlanetBonusBombardmentShelters"
-bonus "PlanetBonusSubsurfaceMetalDeposits"
-bonus "PlanetBonusSubsurfaceCrystalDeposits"
-bonus "PlanetBonusFusionPowerCore"
-bonus "PlanetBonusAutomatedFactories"
-bonus "PlanetBonusQuantumCommHub"
-bonus "PlanetBonusIntenseGravityField"
-bonus "PlanetBonusFrequentRaiders"
-bonus "PlanetBonusShipFactories"
-bonus "PlanetBonusTraderMining"
-bonus "PlanetBonusPlanetaryCorruption"
-bonus "PlanetBonusAblativeCrust"
-bonus "PlanetBonusIntenseGravityField"
-bonus "PlanetBonusOrderedSociety"
-bonus "PlanetBonusFeudalSociety"
-bonus "PlanetBonusFreeMarketSociety"
-bonus "PlanetBonusChaoticSociety"
-bonus "PlanetBonusModernSociety"
-bonus "PlanetBonusPacifistSociety"
 ambienceSoundID ""
 renderAsVolcanic FALSE
 planetRuinDef

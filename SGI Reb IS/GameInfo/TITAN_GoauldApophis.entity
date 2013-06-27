@@ -37,7 +37,7 @@ bombEffectsDef
 		soundCount 1
 		sound "WEAPONIMPACT_GENERICMEDIUM_HITSHIELDS"
 	projectileTravelEffectName "Weapon_GoauldCapitalPlasma_Travel"
-mainViewIcon "MAINVIEWICON_CAPITALSHIP_GOAULDSEIGE"
+mainViewIcon "MAINVIEWICON_TITAN_GOAULDAPOPHIS"
 basePrice
 	credits 5800.000000
 	metal 1200.000000
@@ -172,7 +172,7 @@ NumSoundsFor:ONSTARTPHASEJUMP 1
 SoundID "CAPITALSHIP_GOAULDSIEGE_ONSTARTPHASEJUMP_0"
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "CapitalShip_Goauld_Apophis"
+	meshName "Titan_GoauldApophis"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
