@@ -1,6 +1,29 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 209
+brushCount 211
+brush
+	name "DLCButtonBackground"
+	content "Simple"
+	fileName ""
+	pixelBox [ 0 , 0 , 0 , 0 ]
+brush
+	name "DLCButtonStates"
+	content "States"
+	Disabled
+		fileName ""
+		pixelBox [ 50 , 259 , 182 , 33 ]
+	Pressed
+		fileName ""
+		pixelBox [ 50 , 374 , 182 , 33 ]
+	CursorOver
+		fileName ""
+		pixelBox [ 50 , 315 , 182 , 33 ]
+	Focused
+		fileName ""
+		pixelBox [ 50 , 259 , 182 , 33 ]
+	Normal
+		fileName ""
+		pixelBox [ 50 , 259 , 182 , 33 ]
 brush
 	name "RaceSelectRandom"
 	content "States"
