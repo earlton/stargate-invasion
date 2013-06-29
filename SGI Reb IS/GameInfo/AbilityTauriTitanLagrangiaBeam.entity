@@ -2,7 +2,7 @@
 entityType "Ability"
 buffInstantActionType "ApplyTargettedBuffToSelf"
 instantActionTriggerType "AlwaysPerform"
-buffType "BuffLagrangiaBeamCharge"
+buffType "BuffTauriTitanLagrangiaBeamCharge"
 targetFilter
 	numOwnerships 1
 	ownership "Enemy"
@@ -32,12 +32,8 @@ canCollideWithTarget TRUE
 moveThruTarget FALSE
 isUltimateAbility FALSE
 maxNumLevels 3
-levelSourceType "Intrinsic"
-minExperienceLevelRequired
-	Level:0 1.000000
-	Level:1 2.000000
-	Level:2 3.000000
-	Level:3 0.000000
+levelSourceType "TitanUpgradeLevel"
+sourcePropertyType "AbilityCLevel"
 aiUseTime "OnlyInCombat"
 aiUseTargetCondition "Any"
 isAutoCastAvailable TRUE
@@ -64,8 +60,8 @@ researchPrerequisites
 		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-nameStringID "IDS_ABILITY_LAGRANGIA_NAME"
-descStringID "IDS_ABILITY_LAGRANGIA_DESCRIPTION"
+nameStringID "IDS_ABILITY_TAURITITANLAGRANGIA_NAME"
+descStringID "IDS_ABILITY_TAURITITANLAGRANGIA_DESCRIPTION"
 hudIcon "HUDICON_ABILITY_BEAMBLAST"
 smallHudIcon "HUDICON_ABILITY_BEAMBLAST"
 infoCardIcon ""

@@ -1,0 +1,45 @@
+Human assault  Titan
+
+1. Advanced Asgard beam   (Snipe)
+    Damage:                  lvl 1=   5.000                 Cool down:   2 min
+                                    lvl 2=10.000                   Cool down:   2 min
+                                    lvl 3=20.000                   Cool down:   2 min
+                                    lvl 4=25.000                   Cool down:   2 min
+   
+2. Secondary Asgard beams   (Scattershot)          
+
+Damage:                   lvl 1=1.000            cool down:   2 min
+                                 lvl 2=2.000            cool down:   2 min
+                                 lvl 3=3.500            cool down:   2 min
+                                 lvl 4=5.000            cool down:   2 min
+
+3. Asgard tactics  (Enhanced maneuverings)
+Maneuvering:                 lvl 1=   +5% turning speed 
+                                       lvl 2= +10% turning speed  
+                                       lvl 3= +15% turning speed          
+                                       lvl 4=  +20% turning speed  
+
+4. Asgard core overload    (Overcharge)
+                    Damage:            lvl 4 snipe    =>50.000               Cool down:       lvl 4 = 10 min
+                    Damage             lvl 8 snipe   => 100.000             Cool down:       lvl 8  =  5 min    
+                                                                            
+5. Trinium Alloys
+         stronger shields/ shield recharge rate  
+                                         lvl 1=   +5% hull and shield points
+                                         lvl 2= +10% hull and shield points
+                                         lvl 3= +15% hull and shield points          
+                                         lvl 4=  +20% hull and shield points
+
+6 scavenged Tollan weapons
+    more weapon damage                
+                                         lvl 1=   +5% weapon damage
+                                         lvl 2= +10 weapon damage
+                                         lvl 3= +15% weapon damage
+                                         lvl 4=  +20% weapon damage
+
+7. ZPM Energy Generators
+Antimatter recharge
+                                   lvl 1=   +5% Antimatter recharge      +50 Antimatter
+                                   lvl 2= +10% Antimatter recharge      +50 Antimatter
+                                   lvl 3= +15% Antimatter recharge      +50 Antimatter        
+                                   lvl 4=  +20% Antimatter recharge     +50 Antimatter

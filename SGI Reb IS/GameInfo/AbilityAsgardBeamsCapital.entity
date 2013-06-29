@@ -6,7 +6,8 @@ buffType "BuffAsgardBeamsCapital"
 targetFilter
 	numOwnerships 1
 	ownership "Enemy"
-	numObjects 4
+	numObjects 5
+	object "Titan"
 	object "CapitalShip"
 	object "Frigate"
 	object "PlanetModule"
