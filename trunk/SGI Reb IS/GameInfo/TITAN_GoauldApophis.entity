@@ -39,8 +39,8 @@ bombEffectsDef
 	projectileTravelEffectName "Weapon_GoauldCapitalPlasma_Travel"
 mainViewIcon "MAINVIEWICON_TITAN_GOAULDAPOPHIS"
 basePrice
-	credits 5800.000000
-	metal 1200.000000
+	credits 9000.000000
+	metal 2500.000000
 	crystal 1200.000000
 slotCount 150.000000
 BuildTime 450.000000
@@ -48,7 +48,7 @@ MaxHullPoints
 	StartValue 5500.000000
 	ValueIncreasePerLevel 220.000000
 MaxShieldPoints
-	StartValue 7500.000000
+	StartValue 7000.000000
 	ValueIncreasePerLevel 300.000000
 HullPointRestoreRate
 	StartValue 7.500000

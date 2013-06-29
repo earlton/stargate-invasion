@@ -20,43 +20,42 @@ bombTransitTime 4.000000
 bombEffectCount 2
 bombEffectAngleVariance 2.500000
 bombEffectsDef
-	weaponType "Beam"
-	burstCount 1
+	weaponType "Missile"
+	burstCount 5
 	burstDelay 0.000000
 	fireDelay 0.000000
-	muzzleEffectName "Weapon_PhaseCapitalPlanetBombing_Muzzle"
+	muzzleEffectName "Weapon_TechCapitalPlanetBombing_Muzzle"
 	muzzleSoundMinRespawnTime 0.100000
 	muzzleSounds
 		soundCount 1
-		sound ""
-	hitEffectName "Weapon_PhaseCapitalPlanetBombing_Hit"
+		sound "WEAPON_TECH_PLANETBOMB_MUZZLE"
+	hitEffectName "Weapon_TechCapitalPlanetBombing_Hit"
 	hitHullEffectSounds
-		soundCount 1
-		sound ""
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
 	hitShieldsEffectSounds
-		soundCount 1
-		sound ""
-	beamEffectSounds
-		soundCount 1
-		sound "WEAPON_PHASEPLANETBOMB_LOOP"
-	beamGlowTextureName "PhaseCapitalBombingBeam_Glow"
-	beamCoreTextureName "PhaseCapitalBombingBeam_Core"
-	beamWidth 30.000000
-	beamGlowColor ffffffff
-	beamCoreColor ffffffff
-	beamTilingRate 3.000000
-mainViewIcon "MAINVIEWICON_TITAN_EPHEUS"
+		soundCount 3
+		sound "EXPLOSION_SUB4"
+		sound "EXPLOSION_SUB4_ALT1"
+		sound "EXPLOSION_SUB4_ALT2"
+	missileTravelEffectName "Weapon_HumanMissileHeavy_Travel"
+	missileStartTurningDistance 0.005000
+	missileSlowTurnRate 3.708997
+	missileMaxSlowTurnTime 12.000000"
+mainViewIcon "MAINVIEWICON_TITAN_TAURITARTARUS"
 basePrice
-	credits 15000.000000
-	metal 1900.000000
-	crystal 1200.000000
+	credits 9500.000000
+	metal 1200.000000
+	crystal 750.000000
 slotCount 150.000000
 BuildTime 450.000000
 MaxHullPoints
-	StartValue 8000.180176
+	StartValue 7000.180176
 	ValueIncreasePerLevel 436.406311
 MaxShieldPoints
-	StartValue 12000.819092
+	StartValue 9000.819092
 	ValueIncreasePerLevel 506.531250
 HullPointRestoreRate
 	StartValue 2.700000
@@ -68,7 +67,7 @@ ArmorPointsFromExperience
 	StartValue 9.500000
 	ValueIncreasePerLevel 0.510000
 maxMitigation
-	StartValue 0.650000
+	StartValue 0.350000
 	ValueIncreasePerLevel 0.011110
 MaxAntiMatter
 	StartValue 285.000000
@@ -79,14 +78,11 @@ AntiMatterRestoreRate
 CultureProtectRate
 	StartValue 0.300000
 	ValueIncreasePerLevel 0.050000
-NameStringID "IDS_TITAN_ASURANEPHEUS_NAME"
-DescriptionStringID "IDS_TITAN_ASURANEPHEUS_DESCRIPTION"
-picture "TITANPICTURE_EPHEUS"
+NameStringID "IDS_TITAN_TAURITARTARUS_NAME"
+DescriptionStringID "IDS_TITAN_TAURITARTARUS_DESCRIPTION"
+picture "TITANPICTURE_TAURITARTARUS"
 Prerequisites
-	NumResearchPrerequisites 1
-		ResearchPrerequisite
-		Subject "RESEARCHSUBJECT_CAPITALSHIPACCESS_ASURAN_ATLANTIS"
-		Level 1
+	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 statCountType "Titan"
@@ -96,77 +92,35 @@ numRandomDebrisSmall 30
 numSpecificDebris 1
 specificDebrisMeshName "DebrisPhaseCapitalShipBattleship"
 armorType "Titan"
-hudIcon "HUDICON_RESEARCHSUBJECT_TITAN_EPHEUS"
-smallHudIcon "HUDICONSMALL_TITAN_EPHEUS"
-infoCardIcon "INFOCARDICON_TITAN_EPHEUS"
+hudIcon "HUDICON_RESEARCHSUBJECT_TITAN_TAURITARTARUS"
+smallHudIcon "HUDICONSMALL_TITAN_TAURITARTARUS"
+infoCardIcon "INFOCARDICON_TITAN_TAURITARTARUS"
 minZoomDistanceMult 1.100000
-NumWeapons 2
-Weapon
-	WeaponType "Missile"
-	damageEnums
-		AttackType "CAPITALSHIP"
-		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
-		DamageApplyType "BACKLOADED"
-		DamageType "PHYSICAL"
-		WeaponClassType "PHASEMISSILE"
-	DamagePerBank:FRONT 100.000000
-	DamagePerBank:BACK 100.000000
-	DamagePerBank:LEFT 100.000000
-	DamagePerBank:RIGHT 100.000000
-	Range 5500.000000
-	PreBuffCooldownTime 5.500000
-	CanFireAtFighter FALSE
-	SynchronizedTargeting FALSE
-	PointStaggerDelay 0.080000
-	TravelSpeed 900.000000
-	Duration 0.000000
-	fireConstraintType "CanAlwaysFire"
-	WeaponEffects
-		weaponType "Missile"
-		burstCount 15
-		burstDelay 0.200000
-		fireDelay 0.000000
-		muzzleEffectName "Weapon_PhaseCapitalMissileHeavy_Muzzle"
-		muzzleSoundMinRespawnTime 0.100000
-		muzzleSounds
-			soundCount 2
-			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE"
-			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE_ALT1"
-		hitEffectName "Weapon_PhaseCapitalMissileHeavy_Hit"
-		hitHullEffectSounds
-			soundCount 1
-			sound "WEAPONIMPACT_PHASEMISSILEHEAVY_HITGENERIC"
-		hitShieldsEffectSounds
-			soundCount 1
-			sound "WEAPONIMPACT_PHASEMISSILEHEAVY_HITGENERIC"
-		missileTravelEffectName "Weapon_AsuranCapitalDroneUltra_Travel"
-		missileStartTurningDistance 3.000000
-		missileSlowTurnRate 0.708997
-		missileMaxSlowTurnTime 3.000000
+NumWeapons 3
 Weapon
 	WeaponType "Projectile"
 	damageEnums
 		AttackType "CAPITALSHIP"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
-		DamageType "ENERGY"
-		WeaponClassType "WAVE"
-	DamagePerBank:FRONT 75.000000
-	DamagePerBank:BACK 75.000000
-	DamagePerBank:LEFT 75.000000
-	DamagePerBank:RIGHT 75.000000
+		DamageType "PHYSICAL"
+		WeaponClassType "AUTOCANNON"
+	DamagePerBank:FRONT 300.000000
+	DamagePerBank:BACK 100.000000
+	DamagePerBank:LEFT 200.000000
+	DamagePerBank:RIGHT 200.000000
 	Range 5000.000000
-	PreBuffCooldownTime 5.500000
+	PreBuffCooldownTime 3.500000
 	CanFireAtFighter TRUE
 	SynchronizedTargeting FALSE
-	PointStaggerDelay 0.300000
-	TravelSpeed 1200.000000
+	PointStaggerDelay 1.000000
+	TravelSpeed 1275.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
 	WeaponEffects
 		weaponType "Projectile"
-		burstCount 1
-		burstDelay 0.350000
+		burstCount 3
+		burstDelay 0.060000
 		fireDelay 0.000000
 		muzzleEffectName "Weapon_Human_Muzzle"
 		muzzleSoundMinRespawnTime 0.770000
@@ -178,11 +132,103 @@ Weapon
 		hitEffectName "Weapon_HumanRailguns_Hit"
 		hitHullEffectSounds
 			soundCount 1
-			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL"
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
 		hitShieldsEffectSounds
 			soundCount 1
-			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
-		projectileTravelEffectName "Weapon_AsuranCapitalLaserLight_Travel"
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_HumanRailgunGold_Travel"
+Weapon
+	WeaponType "Missile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "MISSILE"
+	DamagePerBank:FRONT 750.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 5000.000000
+	PreBuffCooldownTime 6.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 1.000000
+	TravelSpeed 1050.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Missile"
+		burstCount 3
+		burstDelay 0.250000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_TechCapitalPlanetBombing_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_TECH_PLANETBOMB_MUZZLE"
+		hitEffectName "Weapon_HumanRailguns_Hit"
+		hitHullEffectSounds
+			soundCount 3
+			sound "EXPLOSION_SUB4"
+			sound "EXPLOSION_SUB4_ALT1"
+			sound "EXPLOSION_SUB4_ALT2"
+		hitShieldsEffectSounds
+			soundCount 3
+			sound "EXPLOSION_SUB4"
+			sound "EXPLOSION_SUB4_ALT1"
+			sound "EXPLOSION_SUB4_ALT2"
+		missileTravelEffectName "Weapon_HumanMissileHeavy_Travel"
+		missileStartTurningDistance 0.005000
+		missileSlowTurnRate 0.708997
+		missileMaxSlowTurnTime 12.000000
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "PLASMA"
+	DamagePerBank:FRONT 500.000000
+	DamagePerBank:BACK 200.000000
+	DamagePerBank:LEFT 300.000000
+	DamagePerBank:RIGHT 300.000000
+	Range 4500.000000
+	PreBuffCooldownTime 6.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 1.500000
+	TravelSpeed 1275.000000
+	Duration 0.000000
+	fireConstraintType "Research"
+	researchPrerequisites
+		NumResearchPrerequisites 1
+		ResearchPrerequisite
+			Subject "RESEARCHSUBJECT_WEAPONACCESS_ASGARDPLASMAPULSETAURI"
+			Level 1
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 5
+		burstDelay 0.300000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_AsgardPulse_Muzzle"
+		muzzleSoundMinRespawnTime 0.210000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_PSICAPITALPLASMAMEDIUM_MUZZLE"
+			sound "WEAPON_PSICAPITALPLASMAMEDIUM_MUZZLE_ALT1"
+			sound "WEAPON_PSICAPITALPLASMAMEDIUM_MUZZLE_ALT2"
+		hitEffectName "Weapon_PsiCapitalPlasmaMedium_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYMEDIUM_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICMEDIUM_HITSHIELDS"
+		projectileTravelEffectName "Weapon_AsgardPulseCapitalHeavy_Travel"
 m_weaponIndexForRange 0
 firingAlignmentType "Default"
 TargetCountPerBank:FRONT 4
@@ -190,8 +236,8 @@ TargetCountPerBank:BACK 2
 TargetCountPerBank:LEFT 3
 TargetCountPerBank:RIGHT 3
 canOnlyTargetStructures FALSE
-mass 100000.000000
-ShieldMeshName "Shield_Capitalship_Asuran_Epheus"
+mass 10000.000000
+ShieldMeshName ""
 renderShield TRUE
 maxAccelerationLinear 80.000000
 maxAccelerationStrafe 10.000000
@@ -201,9 +247,9 @@ maxDecelerationAngular 9.999996
 maxSpeedLinear 450.000000
 maxRollRate 0.0000065000
 maxRollAngle 0.00012000
-squadTypeEntityDef:0 "SquadAsuranCombat"
+squadTypeEntityDef:0 "SquadTauri302"
 squadAntiMatterCost:0 0.000000
-squadTypeEntityDef:1 "SquadAsuranBomber"
+squadTypeEntityDef:1 "SquadTauriBomber"
 squadAntiMatterCost:1 0.000000
 squadTypeEntityDef:2 ""
 squadAntiMatterCost:2 0.000000
@@ -228,14 +274,14 @@ NumSoundsFor:ONSTARTPHASEJUMP 1
 SoundID "TITAN_PHASELOYALIST_ONSTARTPHASEJUMP_0"
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "Titan_AsuranEpheus"
+	meshName "Titan_TauriCarrier"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExhaustParticleSystemName "Exhaust_PhaseBattleship"
 ExplosionName "StarBase1"
 CommandPoints
-	StartValue 5.600000
+	StartValue 2.600000
 	ValueIncreasePerLevel 0.200000
 weaponCooldownDecreasePerc
 	StartValue 0.000000

@@ -25,14 +25,14 @@ instantAction
 	delayTime 1.500000
 	squadType "SquadGoauldCombat"
 	numSquads
-		Level:0 8.000000
-		Level:1 12.000000
-		Level:2 16.000000
-		Level:3 20.000000
+		Level:0 4.000000
+		Level:1 8.000000
+		Level:2 8.000000
+		Level:3 8.000000
 	expiryTime
-		Level:0 75.000000
-		Level:1 100.000000
-		Level:2 125.000000
+		Level:0 45.000000
+		Level:1 60.000000
+		Level:2 75.000000
 		Level:3 0.000000
 	spawnSquadSoundID ""
 instantAction
@@ -50,4 +50,4 @@ finishCondition
 		Level:0 5.000000
 		Level:1 7.000000
 		Level:2 9.000000
-		Level:3 0.000000
+		Level:3 11.000000

@@ -32,9 +32,7 @@ entities
 			entityDefName "PLANETMODULE_ASURANLOYALISTORBITALTITANFACTORY"
 	titanInfo
 		Page:0
-			count 2
-			entityDefName "TITAN_AsuranAtlantis"
-			entityDefName "TITAN_AsuranEpheus"
+			count 0
 	capitalShipInfo
 		Page:0
 			count 6
