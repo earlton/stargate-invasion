@@ -16,7 +16,7 @@ targetFilter
 	space "Normal"
 	numConstraints 0
 range
-	Level:0 9000.000000
+	Level:0 8000.000000
 	Level:1 9000.000000
 	Level:2 0.000000										
 	Level:3 0.000000

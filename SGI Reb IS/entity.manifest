@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2160
+entityNameCount 2161
 entityName "PLANETMODULE_TAURILOYALISTORBITALTITANFACTORY.entity"
 entityName "PLANETMODULE_TAURIREBELORBITALTITANFACTORY.entity"
 entityName "PLANETMODULE_ASURANLOYALISTORBITALTITANFACTORY.entity"
@@ -7,6 +7,7 @@ entityName "PLANETMODULE_WRAITHTITANFACTORY.entity"
 entityName "PLANETMODULE_GOAULDTITANFACTORY.entity"
 entityName "RESEARCHSUBJECT_CAPITALSHIPACCESS_ASURAN_ATLANTIS.entity"
 entityName "CAPITALSHIP_ASURANROMULUS.entity"
+entityName "TITAN_TauriCarrier.entity"
 entityName "TITAN_AsuranAtlantis.entity"
 entityName "TITAN_AsuranEpheus.entity"
 entityName "TITAN_GoauldAnubis.entity"
