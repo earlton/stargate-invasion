@@ -2,39 +2,39 @@
 entityType "TitanUpgrade"
 stageCount 5
 stage
-	nameStringID "IDS_TITANUPGRADE_GOAULDAPOPHIS_DURABILITY_NAME"
-	descStringID "IDS_TITANUPGRADE_GOAULDAPOPHIS_DURABILITY_DESCRIPTION"
+	nameStringID "IDS_TITANUPGRADE_TAURITARTARUS_DURABILITY_NAME"
+	descStringID "IDS_TITANUPGRADE_TAURITARTARUS_DURABILITY_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement -1
-	hudIcon "HUDIconTitanPhaseRebelDurabilityUpgrade0"
-	smallHudIcon "HUDIconTitanPhaseRebelDurabilityUpgrade0"
+	hudIcon "HUDIconTitanTechRebelDurabilityUpgrade0"
+	smallHudIcon "HUDIconTitanTechRebelDurabilityUpgrade0"
 	infoCardIcon ""
 	upgradePropertyCount 0
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_TITANUPGRADE_GOAULDAPOPHIS_DURABILITY_NAME"
-	descStringID "IDS_TITANUPGRADE_GOAULDAPOPHIS_DURABILITY_DESCRIPTION"
+	nameStringID "IDS_TITANUPGRADE_TAURITARTARUS_DURABILITY_NAME"
+	descStringID "IDS_TITANUPGRADE_TAURITARTARUS_DURABILITY_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 0
-	hudIcon "HUDIconTitanPhaseRebelDurabilityUpgrade0"
-	smallHudIcon "HUDIconTitanPhaseRebelDurabilityUpgrade0"
+	hudIcon "HUDIconTitanTechRebelDurabilityUpgrade0"
+	smallHudIcon "HUDIconTitanTechRebelDurabilityUpgrade0"
 	infoCardIcon ""
 	upgradePropertyCount 5
 	upgradeProperty
 		propertyType "MaxHullPoints"
-		value 919.435791
+		value 960.415344
 	upgradeProperty
 		propertyType "HullPointRestoreRate"
 		value 0.540000
 	upgradeProperty
 		propertyType "MaxShieldPoints"
-		value 487.679077
+		value 513.489380
 	upgradeProperty
 		propertyType "ShieldPointRestoreRate"
 		value 0.860000
@@ -43,26 +43,26 @@ stage
 		value 1.900000
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_TITANUPGRADE_GOAULDAPOPHIS_DURABILITY_NAME"
-	descStringID "IDS_TITANUPGRADE_GOAULDAPOPHIS_DURABILITY_DESCRIPTION"
+	nameStringID "IDS_TITANUPGRADE_TAURITARTARUS_DURABILITY_NAME"
+	descStringID "IDS_TITANUPGRADE_TAURITARTARUS_DURABILITY_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 2
-	hudIcon "HUDIconTitanPhaseRebelDurabilityUpgrade1"
-	smallHudIcon "HUDIconTitanPhaseRebelDurabilityUpgrade1"
+	hudIcon "HUDIconTitanTechRebelDurabilityUpgrade1"
+	smallHudIcon "HUDIconTitanTechRebelDurabilityUpgrade1"
 	infoCardIcon ""
 	upgradePropertyCount 5
 	upgradeProperty
 		propertyType "MaxHullPoints"
-		value 1838.871582
+		value 1920.830688
 	upgradeProperty
 		propertyType "HullPointRestoreRate"
 		value 1.080000
 	upgradeProperty
 		propertyType "MaxShieldPoints"
-		value 975.358154
+		value 1026.879761
 	upgradeProperty
 		propertyType "ShieldPointRestoreRate"
 		value 1.720000
@@ -71,54 +71,54 @@ stage
 		value 3.800000
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_TITANUPGRADE_GOAULDAPOPHIS_DURABILITY_NAME"
-	descStringID "IDS_TITANUPGRADE_GOAULDAPOPHIS_DURABILITY_DESCRIPTION"
+	nameStringID "IDS_TITANUPGRADE_TAURITARTARUS_DURABILITY_NAME"
+	descStringID "IDS_TITANUPGRADE_TAURITARTARUS_DURABILITY_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 4
-	hudIcon "HUDIconTitanPhaseRebelDurabilityUpgrade2"
-	smallHudIcon "HUDIconTitanPhaseRebelDurabilityUpgrade2"
+	hudIcon "HUDIconTitanTechRebelDurabilityUpgrade2"
+	smallHudIcon "HUDIconTitanTechRebelDurabilityUpgrade2"
 	infoCardIcon ""
 	upgradePropertyCount 5
 	upgradeProperty
 		propertyType "MaxHullPoints"
-		value 2758.307373
+		value 2881.245850
 	upgradeProperty
 		propertyType "HullPointRestoreRate"
 		value 1.620000
 	upgradeProperty
 		propertyType "MaxShieldPoints"
-		value 1463.037231
+		value 1540.468140
 	upgradeProperty
 		propertyType "ShieldPointRestoreRate"
 		value 2.580000
 	upgradeProperty
 		propertyType "BaseArmorPoints"
-		value 5.700000
+		value 3.800000
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_TITANUPGRADE_GOAULDAPOPHIS_DURABILITY_NAME"
-	descStringID "IDS_TITANUPGRADE_GOAULDAPOPHIS_DURABILITY_DESCRIPTION"
+	nameStringID "IDS_TITANUPGRADE_TAURITARTARUS_DURABILITY_NAME"
+	descStringID "IDS_TITANUPGRADE_TAURITARTARUS_DURABILITY_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 6
-	hudIcon "HUDIconTitanPhaseRebelDurabilityUpgrade3"
-	smallHudIcon "HUDIconTitanPhaseRebelDurabilityUpgrade3"
+	hudIcon "HUDIconTitanTechRebelDurabilityUpgrade3"
+	smallHudIcon "HUDIconTitanTechRebelDurabilityUpgrade3"
 	infoCardIcon ""
 	upgradePropertyCount 5
 	upgradeProperty
 		propertyType "MaxHullPoints"
-		value 3677.743164
+		value 3841.661377
 	upgradeProperty
 		propertyType "HullPointRestoreRate"
 		value 2.160000
 	upgradeProperty
 		propertyType "MaxShieldPoints"
-		value 1950.716309
+		value 2053.957520
 	upgradeProperty
 		propertyType "ShieldPointRestoreRate"
 		value 3.440000

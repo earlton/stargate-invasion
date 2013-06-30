@@ -1,5 +1,77 @@
 TXT
-numEffects 1416
+numEffects 1440
+effect
+	name "TITAN_TAURICARRIER_ONATTACKORDERISSUED_0"
+	fileName "Titan_TechRebel_OnAttackOrderIssued_0.ogg"
+effect
+	name "TITAN_TAURICARRIER_ONATTACKORDERISSUED_1"
+	fileName "Titan_TechRebel_OnAttackOrderIssued_1.ogg"
+effect
+	name "TITAN_TAURICARRIER_ONATTACKORDERISSUED_2"
+	fileName "Titan_TechRebel_OnAttackOrderIssued_2.ogg"
+effect
+	name "TITAN_TAURICARRIER_ONATTACKORDERISSUED_3"
+	fileName "Titan_TechRebel_OnAttackOrderIssued_3.ogg"
+effect
+	name "TITAN_TAURICARRIER_ONCREATION_0"
+	fileName "Titan_TechRebel_OnCreation_0.ogg"
+effect
+	name "TITAN_TAURICARRIER_ONGENERALORDERISSUED_0"
+	fileName "Titan_TechRebel_OnGeneralOrderIssued_0.ogg"
+effect
+	name "TITAN_TAURICARRIER_ONGENERALORDERISSUED_1"
+	fileName "Titan_TechRebel_OnGeneralOrderIssued_1.ogg"
+effect
+	name "TITAN_TAURICARRIER_ONGENERALORDERISSUED_2"
+	fileName "Titan_TechRebel_OnGeneralOrderIssued_2.ogg"
+effect
+	name "TITAN_TAURICARRIER_ONSELECTED_0"
+	fileName "Titan_TechRebel_OnSelected_0.ogg"
+effect
+	name "TITAN_TAURICARRIER_ONSELECTED_1"
+	fileName "Titan_TechRebel_OnSelected_1.ogg"
+effect
+	name "TITAN_TAURICARRIER_ONSELECTED_2"
+	fileName "Titan_TechRebel_OnSelected_2.ogg"
+effect
+	name "TITAN_TAURICARRIER_ONSTARTPHASEJUMP_0"
+	fileName "Titan_TechRebel_OnStartPhaseJump_0.ogg"
+effect
+	name "TITAN_TAURITARTARUS_ONATTACKORDERISSUED_0"
+	fileName "Titan_TechRebel_OnAttackOrderIssued_0.ogg"
+effect
+	name "TITAN_TAURITARTARUS_ONATTACKORDERISSUED_1"
+	fileName "Titan_TechRebel_OnAttackOrderIssued_1.ogg"
+effect
+	name "TITAN_TAURITARTARUS_ONATTACKORDERISSUED_2"
+	fileName "Titan_TechRebel_OnAttackOrderIssued_2.ogg"
+effect
+	name "TITAN_TAURITARTARUS_ONATTACKORDERISSUED_3"
+	fileName "Titan_TechRebel_OnAttackOrderIssued_3.ogg"
+effect
+	name "TITAN_TAURITARTARUS_ONCREATION_0"
+	fileName "Titan_TechRebel_OnCreation_0.ogg"
+effect
+	name "TITAN_TAURITARTARUS_ONGENERALORDERISSUED_0"
+	fileName "Titan_TechRebel_OnGeneralOrderIssued_0.ogg"
+effect
+	name "TITAN_TAURITARTARUS_ONGENERALORDERISSUED_1"
+	fileName "Titan_TechRebel_OnGeneralOrderIssued_1.ogg"
+effect
+	name "TITAN_TAURITARTARUS_ONGENERALORDERISSUED_2"
+	fileName "Titan_TechRebel_OnGeneralOrderIssued_2.ogg"
+effect
+	name "TITAN_TAURITARTARUS_ONSELECTED_0"
+	fileName "Titan_TechRebel_OnSelected_0.ogg"
+effect
+	name "TITAN_TAURITARTARUS_ONSELECTED_1"
+	fileName "Titan_TechRebel_OnSelected_1.ogg"
+effect
+	name "TITAN_TAURITARTARUS_ONSELECTED_2"
+	fileName "Titan_TechRebel_OnSelected_2.ogg"
+effect
+	name "TITAN_TAURITARTARUS_ONSTARTPHASEJUMP_0"
+	fileName "Titan_TechRebel_OnStartPhaseJump_0.ogg"
 effect
 	name "EVENTPHASE_BUYNOTITANFACTORY"
 	fileName "EventPhase_TitanFactoryNotFound.ogg"
