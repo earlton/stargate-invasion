@@ -2,21 +2,21 @@
 entityType "TitanUpgrade"
 stageCount 5
 stage
-	nameStringID "IDS_TITANUPGRADE_GOAULDANUBIS_WEAPONS_NAME"
-	descStringID "IDS_TITANUPGRADE_GOAULDANUBIS_WEAPONS_DESCRIPTION"
+	nameStringID "IDS_TITANUPGRADE_TAURITARTARUS_WEAPONS_NAME"
+	descStringID "IDS_TITANUPGRADE_TAURITARTARUS_WEAPONS_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement -1
-	hudIcon "HUDIconTitanPhaseLoyalistWeaponUpgrade0"
-	smallHudIcon "HUDIconTitanPhaseLoyalistWeaponUpgrade0"
+	hudIcon "HUDIconTitanTechRebelWeaponUpgrade0"
+	smallHudIcon "HUDIconTitanTechRebelWeaponUpgrade0"
 	infoCardIcon ""
 	upgradePropertyCount 0
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_TITANUPGRADE_GOAULDANUBIS_WEAPONS_NAME"
-	descStringID "IDS_TITANUPGRADE_GOAULDANUBIS_WEAPONS_DESCRIPTION"
+	nameStringID "IDS_TITANUPGRADE_TAURITARTARUS_WEAPONS_NAME"
+	descStringID "IDS_TITANUPGRADE_TAURITARTARUS_WEAPONS_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
@@ -34,15 +34,15 @@ stage
 		value -0.015000
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_TITANUPGRADE_GOAULDANUBIS_WEAPONS_NAME"
-	descStringID "IDS_TITANUPGRADE_GOAULDANUBIS_WEAPONS_DESCRIPTION"
+	nameStringID "IDS_TITANUPGRADE_TAURITARTARUS_WEAPONS_NAME"
+	descStringID "IDS_TITANUPGRADE_TAURITARTARUS_WEAPONS_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 2
-	hudIcon "HUDIconTitanPhaseLoyalistWeaponUpgrade1"
-	smallHudIcon "HUDIconTitanPhaseLoyalistWeaponUpgrade1"
+	hudIcon "HUDIconTitanTechRebelWeaponUpgrade1"
+	smallHudIcon "HUDIconTitanTechRebelWeaponUpgrade1"
 	infoCardIcon ""
 	upgradePropertyCount 2
 	upgradeProperty
@@ -53,15 +53,15 @@ stage
 		value -0.025000
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_TITANUPGRADE_GOAULDANUBIS_WEAPONS_NAME"
-	descStringID "IDS_TITANUPGRADE_GOAULDANUBIS_WEAPONS_DESCRIPTION"
+	nameStringID "IDS_TITANUPGRADE_TAURITARTARUS_WEAPONS_NAME"
+	descStringID "IDS_TITANUPGRADE_TAURITARTARUS_WEAPONS_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 4
-	hudIcon "HUDIconTitanPhaseLoyalistWeaponUpgrade2"
-	smallHudIcon "HUDIconTitanPhaseLoyalistWeaponUpgrade2"
+	hudIcon "HUDIconTitanTechRebelWeaponUpgrade2"
+	smallHudIcon "HUDIconTitanTechRebelWeaponUpgrade2"
 	infoCardIcon ""
 	upgradePropertyCount 2
 	upgradeProperty
@@ -72,15 +72,15 @@ stage
 		value -0.035000
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_TITANUPGRADE_GOAULDANUBIS_WEAPONS_NAME"
-	descStringID "IDS_TITANUPGRADE_GOAULDANUBIS_WEAPONS_DESCRIPTION"
+	nameStringID "IDS_TITANUPGRADE_TAURITARTARUS_WEAPONS_NAME"
+	descStringID "IDS_TITANUPGRADE_TAURITARTARUS_WEAPONS_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 6
-	hudIcon "HUDIconTitanPhaseLoyalistWeaponUpgrade3"
-	smallHudIcon "HUDIconTitanPhaseLoyalistWeaponUpgrade3"
+	hudIcon "HUDIconTitanTechRebelWeaponUpgrade3"
+	smallHudIcon "HUDIconTitanTechRebelWeaponUpgrade3"
 	infoCardIcon ""
 	upgradePropertyCount 2
 	upgradeProperty

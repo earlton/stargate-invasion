@@ -2,8 +2,8 @@
 entityType "TitanUpgrade"
 stageCount 5
 stage
-	nameStringID "IDS_TITANUPGRADE_PHASEREBEL_ABILITIES_NAME"
-	descStringID "IDS_TITANUPGRADE_PHASEREBEL_ABILITIES_DESCRIPTION"
+	nameStringID "IDS_TITANUPGRADE_GOAULDAPOPHIS_ABILITIES_NAME"
+	descStringID "IDS_TITANUPGRADE_GOAULDAPOPHIS_ABILITIES_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
@@ -15,8 +15,8 @@ stage
 	upgradePropertyCount 0
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_TITANUPGRADE_PHASEREBEL_ABILITIES_NAME"
-	descStringID "IDS_TITANUPGRADE_PHASEREBEL_ABILITIES_DESCRIPTION"
+	nameStringID "IDS_TITANUPGRADE_GOAULDAPOPHIS_ABILITIES_NAME"
+	descStringID "IDS_TITANUPGRADE_GOAULDAPOPHIS_ABILITIES_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
@@ -34,8 +34,8 @@ stage
 		value 0.100000
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_TITANUPGRADE_PHASEREBEL_ABILITIES_NAME"
-	descStringID "IDS_TITANUPGRADE_PHASEREBEL_ABILITIES_DESCRIPTION"
+	nameStringID "IDS_TITANUPGRADE_GOAULDAPOPHIS_ABILITIES_NAME"
+	descStringID "IDS_TITANUPGRADE_GOAULDAPOPHIS_ABILITIES_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
@@ -53,8 +53,8 @@ stage
 		value 0.100000
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_TITANUPGRADE_PHASEREBEL_ABILITIES_NAME"
-	descStringID "IDS_TITANUPGRADE_PHASEREBEL_ABILITIES_DESCRIPTION"
+	nameStringID "IDS_TITANUPGRADE_GOAULDAPOPHIS_ABILITIES_NAME"
+	descStringID "IDS_TITANUPGRADE_GOAULDAPOPHIS_ABILITIES_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
@@ -72,8 +72,8 @@ stage
 		value 0.150000
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_TITANUPGRADE_PHASEREBEL_ABILITIES_NAME"
-	descStringID "IDS_TITANUPGRADE_PHASEREBEL_ABILITIES_DESCRIPTION"
+	nameStringID "IDS_TITANUPGRADE_GOAULDAPOPHIS_ABILITIES_NAME"
+	descStringID "IDS_TITANUPGRADE_GOAULDAPOPHIS_ABILITIES_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""

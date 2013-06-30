@@ -1,5 +1,8 @@
 Human assault  Titan
 
+AbilityTauriTitanHumanDrones
+AbilityTauriTitanTartarusCannon
+
 1. Advanced Asgard beam   (Snipe)
     Damage:                  lvl 1=   5.000                 Cool down:   2 min
                                     lvl 2=10.000                   Cool down:   2 min
@@ -21,7 +24,9 @@ Maneuvering:                 lvl 1=   +5% turning speed
 
 4. Asgard core overload    (Overcharge)
                     Damage:            lvl 4 snipe    =>50.000               Cool down:       lvl 4 = 10 min
-                    Damage             lvl 8 snipe   => 100.000             Cool down:       lvl 8  =  5 min    
+                    Damage             lvl 8 snipe   => 100.000             Cool down:       lvl 8  =  5 min   
+                    
+ 
                                                                             
 5. Trinium Alloys
          stronger shields/ shield recharge rate  

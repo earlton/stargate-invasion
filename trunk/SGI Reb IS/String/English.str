@@ -1,5 +1,5 @@
 TXT
-NumStrings 7767
+NumStrings 7796
 StringInfo
 	ID "IDS_ABILITY_WORTHYCAUSE_NAME"
 	Value "Worthy Cause"
@@ -2341,53 +2341,59 @@ StringInfo
 	ID "IDS_STARBASEUPGRADEPHASEDIRECTIONALSHIELD_DESC"
 	Value "Grants the Frontal Deflector Shield ability to the star base, allowing it to activate a protective shield that greatly reduces damage directed at its forward surfaces."
 StringInfo
-	ID "IDS_TITANUPGRADE_PHASELOYALIST_ABILITIES_NAME"
-	Value "Quantum Containment"
-StringInfo
-	ID "IDS_TITANUPGRADE_PHASELOYALIST_ABILITIES_DESCRIPTION"
-	Value "Recent technology acquired by the Vorastra allows its crew to significantly enhance its use of antimatter."
-StringInfo
-	ID "IDS_TITANUPGRADE_PHASELOYALIST_DURABILITY_NAME"
-	Value "Dense Composites"
-StringInfo
-	ID "IDS_TITANUPGRADE_PHASELOYALIST_DURABILITY_DESCRIPTION"
-	Value "The Vorastra uses new denser composite materials to fortify its hull from assaults."
-StringInfo
-	ID "IDS_TITANUPGRADE_PHASELOYALIST_WEAPONS_NAME"
-	Value "Nano Enhancement"
-StringInfo
-	ID "IDS_TITANUPGRADE_PHASELOYALIST_WEAPONS_DESCRIPTION"
-	Value "Payloads of destructive nanites are added to the Vorastra's weapons, substantially enhancing overall damage."
-StringInfo
-	ID "IDS_TITANUPGRADE_PHASEREBEL_ABILITIES_NAME"
-	Value "Harmonic Containment"
-StringInfo
-	ID "IDS_TITANUPGRADE_PHASEREBEL_ABILITIES_DESCRIPTION"
-	Value "Joint efforts with Advent scientists grant the Kultorask greatly improved antimatter generation."
-StringInfo
-	ID "IDS_TITANUPGRADE_PHASEREBEL_DURABILITY_NAME"
-	Value "Nano Fibers"
-StringInfo
-	ID "IDS_TITANUPGRADE_PHASEREBEL_DURABILITY_DESCRIPTION"
-	Value "Super strong nano fibers are woven around the Kultorask's hull, substantially increasing its ability to take damage."
-StringInfo
-	ID "IDS_TITANUPGRADE_PHASEREBEL_WEAPONS_NAME"
-	Value "Advanced Targeting"
-StringInfo
-	ID "IDS_TITANUPGRADE_PHASEREBEL_WEAPONS_DESCRIPTION"
-	Value "The Kultorask's targeting systems are improved, allowing the ship's gunners to pinpoint the weakest sections on enemy vessels."
-StringInfo
-	ID "IDS_TITAN_PSILOYALIST_NAME"
+	ID "IDS_TITAN_ASURANATLANTIS_NAME"
 	Value "Coronata Titan"
 StringInfo
-	ID "IDS_TITAN_PSILOYALIST_DESCRIPTION"
+	ID "IDS_TITAN_ASURANATLANTIS_DESCRIPTION"
 	Value "An extremely powerful support ship that can manipulate the tide of battle and turn enemies against themselves."
 StringInfo
-	ID "IDS_TITAN_PSIREBEL_NAME"
+	ID "IDS_TITAN_ASURANEPHEUS_NAME"
 	Value "Eradica Titan"
 StringInfo
-	ID "IDS_TITAN_PSIREBEL_DESCRIPTION"
+	ID "IDS_TITAN_ASURANEPHEUS_DESCRIPTION"
 	Value "A mighty warship which is capable of dealing massive damage to enemy ships and healing itself with the sacrifice of friendly vessels."
+StringInfo
+	ID "IDS_TITANUPGRADE_ASURANATLANTIS_ABILITIES_NAME"
+	Value "Ship improvements"
+StringInfo
+	ID "IDS_TITANUPGRADE_ASURANATLANTIS_ABILITIES_DESCRIPTION"
+	Value ""
+StringInfo
+	ID "IDS_TITANUPGRADE_ASURANATLANTIS_DURABILITY_NAME"
+	Value "System Enhacements"
+StringInfo
+	ID "IDS_TITANUPGRADE_ASURANATLANTIS_DURABILITY_DESCRIPTION"
+	Value ""
+StringInfo
+	ID "IDS_TITANUPGRADE_ASURANATLANTIS_WEAPONS_NAME"
+	Value "Weapon Upgrades"
+StringInfo
+	ID "IDS_TITANUPGRADE_ASURANATLANTIS_WEAPONS_DESCRIPTION"
+	Value ""
+StringInfo
+	ID "IDS_TITANUPGRADE_ASURANEPHEUS_ABILITIES_NAME"
+	Value "Ship improvements"
+StringInfo
+	ID "IDS_TITANUPGRADE_ASURANEPHEUS_ABILITIES_DESCRIPTION"
+	Value ""
+StringInfo
+	ID "IDS_TITANUPGRADE_ASURANEPHEUS_DURABILITY_NAME"
+	Value "System Enhacements"
+StringInfo
+	ID "IDS_TITANUPGRADE_ASURANEPHEUS_DURABILITY_DESCRIPTION"
+	Value ""
+StringInfo
+	ID "IDS_TITANUPGRADE_ASURANEPHEUS_WEAPONS_NAME"
+	Value "Weapon Upgrades"
+StringInfo
+	ID "IDS_TITANUPGRADE_ASURANEPHEUS_WEAPONS_DESCRIPTION"
+	Value ""
+StringInfo
+	ID "IDS_ABILITY_ASURANTITAN_NAME"
+	Value "Advanced Asgard Beam Weapons"
+StringInfo
+	ID "IDS_ABILITY_ASURANTITAN_DESCRIPTION"
+	Value ""
 StringInfo
 	ID "Axeldude_PLANETACCES_Gas_Name"
 	Value "Gas Giant Colonization"
@@ -21112,53 +21118,131 @@ StringInfo
 	ID "IDS_STARBASEUPGRADETECHSELFDESTRUCT_DESC"
 	Value "Grants the star base the Last Resort ability, which allows to crew to overload the star base's main reactor and self-destruct, damaging all units and structures within a large area."
 StringInfo
-	ID "IDS_TITANUPGRADE_TECHLOYALIST_ABILITIES_NAME"
+	ID "IDS_TITANUPGRADE_TAURICARRIER_ABILITIES_NAME"
 	Value "Antimatter Funnelling"
 StringInfo
-	ID "IDS_TITANUPGRADE_TECHLOYALIST_ABILITIES_DESCRIPTION"
+	ID "IDS_TITANUPGRADE_TAURICARRIER_ABILITIES_DESCRIPTION"
 	Value "Refinements to the Ankylon's antimatter storage unit grant the ship superior antimatter capacity and use."
 StringInfo
-	ID "IDS_TITANUPGRADE_TECHLOYALIST_DURABILITY_NAME"
+	ID "IDS_TITANUPGRADE_TAURICARRIER_DURABILITY_NAME"
 	Value "Fortified Superstructure"
 StringInfo
-	ID "IDS_TITANUPGRADE_TECHLOYALIST_DURABILITY_DESCRIPTION"
+	ID "IDS_TITANUPGRADE_TAURICARRIER_DURABILITY_DESCRIPTION"
 	Value "Improves the Ankylon's superstructure, greatly adding to the survivability of the ship."
 StringInfo
-	ID "IDS_TITANUPGRADE_TECHLOYALIST_WEAPONS_NAME"
+	ID "IDS_TITANUPGRADE_TAURICARRIER_WEAPONS_NAME"
 	Value "Superior Gunnery"
 StringInfo
-	ID "IDS_TITANUPGRADE_TECHLOYALIST_WEAPONS_DESCRIPTION"
+	ID "IDS_TITANUPGRADE_TAURICARRIER_WEAPONS_DESCRIPTION"
 	Value "Gun crews aboard the Ankylon go through combat drills, improving the ship's weapon damage."
 StringInfo
-	ID "IDS_TITANUPGRADE_TECHREBEL_ABILITIES_NAME"
+	ID "IDS_TITANUPGRADE_TAURITARTARUS_ABILITIES_NAME"
 	Value "Magnetic Containment"
 StringInfo
-	ID "IDS_TITANUPGRADE_TECHREBEL_ABILITIES_DESCRIPTION"
+	ID "IDS_TITANUPGRADE_TAURITARTARUS_ABILITIES_DESCRIPTION"
 	Value "Advances in the Ragnarov's magnetic containment system give it improved antimatter capacity and regeneration."
 StringInfo
-	ID "IDS_TITANUPGRADE_TECHREBEL_DURABILITY_NAME"
+	ID "IDS_TITANUPGRADE_TAURITARTARUS_DURABILITY_NAME"
 	Value "High-Stress Alloys"
 StringInfo
-	ID "IDS_TITANUPGRADE_TECHREBEL_DURABILITY_DESCRIPTION"
+	ID "IDS_TITANUPGRADE_TAURITARTARUS_DURABILITY_DESCRIPTION"
 	Value "The alloys used in the hull of the Ragnarov are improved to take higher loads before failure."
 StringInfo
-	ID "IDS_TITANUPGRADE_TECHREBEL_WEAPONS_NAME"
+	ID "IDS_TITANUPGRADE_TAURITARTARUS_WEAPONS_NAME"
 	Value "Composite Mounts"
 StringInfo
-	ID "IDS_TITANUPGRADE_TECHREBEL_WEAPONS_DESCRIPTION"
+	ID "IDS_TITANUPGRADE_TAURITARTARUS_WEAPONS_DESCRIPTION"
 	Value "The Ragnarov's weapon mounts are upgraded with superior composite alloys, greatly improving their firepower."
 StringInfo
-	ID "IDS_TITAN_TECHLOYALIST_NAME"
-	Value "Ankylon Titan"
+	ID "IDS_TITAN_TAURICARRIER_NAME"
+	Value "Carrier Titan"
 StringInfo
-	ID "IDS_TITAN_TECHLOYALIST_DESCRIPTION"
+	ID "IDS_TITAN_TAURICARRIER_DESCRIPTION"
 	Value "A mighty warship that specializes in supporting friendly fleets with many defensive abilities."
 StringInfo
-	ID "IDS_TITAN_TECHREBEL_NAME"
-	Value "Ragnarov Titan"
+	ID "IDS_TITAN_TAURITARTARUS_NAME"
+	Value "Tartarus Warship"
 StringInfo
-	ID "IDS_TITAN_TECHREBEL_DESCRIPTION"
+	ID "IDS_TITAN_TAURITARTARUS_DESCRIPTION"
 	Value "An extremely powerful, long-range warship with a superb offense centered around its powerful rail gun."
+StringInfo
+	ID "IDS_ABILITY_TAURITITANADVANCEDASGARDBEAMS_NAME"
+	Value "Advanced Asgard Beam Weapons"
+StringInfo
+	ID "IDS_ABILITY_TAURITITANADVANCEDASGARDBEAMS_DESCRIPTION"
+	Value ""
+StringInfo
+	ID "IDS_ABILITY_TAURITITANASGARDBEAMS_NAME"
+	Value "Asgard Beam Weapons"
+StringInfo
+	ID "IDS_ABILITY_TAURITITANASGARDBEAMS_DESCRIPTION"
+	Value ""
+StringInfo
+	ID "IDS_ABILITY_TAURITITANCLAUDIUSSUPPORT_NAME"
+	Value "Claudius Takeoff"
+StringInfo
+	ID "IDS_ABILITY_TAURITITANCLAUDIUSSUPPORT_DESCRIPTION"
+	Value "Launches its own Claudius class frigates from its hangars."
+StringInfo
+	ID "IDS_ABILITY_TAURITITANHUMANDRONES_NAME"
+	Value "Human developed drones"
+StringInfo
+	ID "IDS_ABILITY_TAURITITANHUMANDRONES_DESCRIPTION"
+	Value "Powerful Weapons built in the shape of their origin"
+StringInfo
+	ID "IDS_ABILITY_TAURITITANLAGRANGIANBEAM_NAME"
+	Value "Lagrangian Beam Weapons"
+StringInfo
+	ID "IDS_ABILITY_TAURITITANLAGRANGIANBEAM_DESCRIPTION"
+	Value ""
+StringInfo
+	ID "IDS_ABILITY_TAURITITANTARTARUSCANNON_NAME"
+	Value "Tartarus Main Cannon"
+StringInfo
+	ID "IDS_ABILITY_TAURITITANTARTARUSCANNON_DESCRIPTION"
+	Value ""
+StringInfo
+	ID "IDS_ABILITY_TAURITITANZPMCLOAKING_NAME"
+	Value "ZPM Cloaking"
+StringInfo
+	ID "IDS_ABILITY_TAURITITANZPMCLOAKING_DESCRIPTION"
+	Value "Allows the Titan to cloak itself for a limited amount of time."
+StringInfo
+	ID "IDS_TITANUPGRADE_TAURICARRIER_ABILITIES_NAME"
+	Value "Ship improvements"
+StringInfo
+	ID "IDS_TITANUPGRADE_TAURICARRIER_ABILITIES_DESCRIPTION"
+	Value ""
+StringInfo
+	ID "IDS_TITANUPGRADE_TAURICARRIER_DURABILITY_NAME"
+	Value "System Enhacements"
+StringInfo
+	ID "IDS_TITANUPGRADE_TAURICARRIER_DURABILITY_DESCRIPTION"
+	Value ""
+StringInfo
+	ID "IDS_TITANUPGRADE_TAURICARRIER_WEAPONS_NAME"
+	Value "Weapon Upgrades"
+StringInfo
+	ID "IDS_TITANUPGRADE_TAURICARRIER_WEAPONS_DESCRIPTION"
+	Value ""
+StringInfo
+	ID "IDS_TITANUPGRADE_TAURITARTARUS_ABILITIES_NAME"
+	Value "Ship improvements"
+StringInfo
+	ID "IDS_TITANUPGRADE_TAURITARTARUS_ABILITIES_DESCRIPTION"
+	Value ""
+StringInfo
+	ID "IDS_TITANUPGRADE_TAURITARTARUS_DURABILITY_NAME"
+	Value "System Enhacements"
+StringInfo
+	ID "IDS_TITANUPGRADE_TAURITARTARUS_DURABILITY_DESCRIPTION"
+	Value ""
+StringInfo
+	ID "IDS_TITANUPGRADE_TAURITARTARUS_WEAPONS_NAME"
+	Value "Weapon Upgrades"
+StringInfo
+	ID "IDS_TITANUPGRADE_TAURITARTARUS_WEAPONS_DESCRIPTION"
+	Value ""
 StringInfo
 	ID "IDS_TITANUPGRADEPROPERTYTYPE_WEAPONDAMAGE"
 	Value "Weapon Damage"
@@ -23196,6 +23280,9 @@ StringInfo
 StringInfo
 	ID "IDS_TRADESHIP_WRAITH_DESCRIPTION"
 	Value "A small commercial vessel that carries merchant cargo between distant worlds."
+StringInfo
+	ID "IDS_STARBASEWRAITH_NAME"
+	Value "Wraith Starbase"
 StringInfo
 	ID "IDS_STARBASEUPGRADEWRAITHWEAPONS_NAME"
 	Value "Punitive Measures"
