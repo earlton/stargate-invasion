@@ -6,7 +6,7 @@ Human assault  Titan
                                     lvl 3=20.000                   Cool down:   2 min
                                     lvl 4=25.000                   Cool down:   2 min
    
-2. Secondary Asgard beams   (Scattershot)          
+2. Human Drones   (Scattershot)          
 
 Damage:                   lvl 1=1.000            cool down:   2 min
                                  lvl 2=2.000            cool down:   2 min
