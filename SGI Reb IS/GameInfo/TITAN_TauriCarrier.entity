@@ -52,10 +52,10 @@ basePrice
 slotCount 150.000000
 BuildTime 450.000000
 MaxHullPoints
-	StartValue 7000.180176
+	StartValue 6000.180176
 	ValueIncreasePerLevel 436.406311
 MaxShieldPoints
-	StartValue 9000.819092
+	StartValue 8000.819092
 	ValueIncreasePerLevel 506.531250
 HullPointRestoreRate
 	StartValue 2.700000
@@ -78,15 +78,22 @@ AntiMatterRestoreRate
 CultureProtectRate
 	StartValue 0.300000
 	ValueIncreasePerLevel 0.050000
-NameStringID "IDS_TITAN_TAURITARTARUS_NAME"
-DescriptionStringID "IDS_TITAN_TAURITARTARUS_DESCRIPTION"
-picture "TITANPICTURE_TAURITARTARUS"
+NameStringID "IDS_TITAN_TAURICARRIER_NAME"
+DescriptionStringID "IDS_TITAN_TAURICARRIER_DESCRIPTION"
+picture "TITANPICTURE_TAURICARRIER"
 Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 statCountType "Titan"
-UpgradeTypeCount 0
+UpgradeTypeCount 7
+UpgradeType "TitanUpgrade_TauriCarrier_AbilityA"
+UpgradeType "TitanUpgrade_TauriCarrier_AbilityB"
+UpgradeType "TitanUpgrade_TauriCarrier_AbilityC"
+UpgradeType "TitanUpgrade_TauriCarrier_AbilityD"
+UpgradeType "TitanUpgrade_TauriCarrier_Durability"
+UpgradeType "TitanUpgrade_TauriCarrier_Weapons"
+UpgradeType "TitanUpgrade_TauriCarrier_Abilities"
 numRandomDebrisLarge 80
 numRandomDebrisSmall 30
 numSpecificDebris 1
@@ -236,7 +243,7 @@ TargetCountPerBank:BACK 2
 TargetCountPerBank:LEFT 3
 TargetCountPerBank:RIGHT 3
 canOnlyTargetStructures FALSE
-mass 10000.000000
+mass 80000.000000
 ShieldMeshName ""
 renderShield TRUE
 maxAccelerationLinear 80.000000
