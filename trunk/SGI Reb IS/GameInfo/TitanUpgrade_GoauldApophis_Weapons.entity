@@ -9,8 +9,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement -1
-	hudIcon "HUDIconTitanPhaseRebelWeaponUpgrade0"
-	smallHudIcon "HUDIconTitanPhaseRebelWeaponUpgrade0"
+	hudIcon "HUDIconTitanGoauldApophisWeaponUpgrade0"
+	smallHudIcon "HUDIconTitanGoauldApophisWeaponUpgrade0"
 	infoCardIcon ""
 	upgradePropertyCount 0
 	upgradeBoolPropertyCount 0
@@ -22,8 +22,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 0
-	hudIcon "HUDIconTitanPhaseRebelWeaponUpgrade0"
-	smallHudIcon "HUDIconTitanPhaseRebelWeaponUpgrade0"
+	hudIcon "HUDIconTitanGoauldApophisWeaponUpgrade0"
+	smallHudIcon "HUDIconTitanGoauldApophisWeaponUpgrade0"
 	infoCardIcon ""
 	upgradePropertyCount 1
 	upgradeProperty
@@ -38,8 +38,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 2
-	hudIcon "HUDIconTitanPhaseRebelWeaponUpgrade1"
-	smallHudIcon "HUDIconTitanPhaseRebelWeaponUpgrade1"
+	hudIcon "HUDIconTitanGoauldApophisWeaponUpgrade1"
+	smallHudIcon "HUDIconTitanGoauldApophisWeaponUpgrade1"
 	infoCardIcon ""
 	upgradePropertyCount 1
 	upgradeProperty
@@ -54,8 +54,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 4
-	hudIcon "HUDIconTitanPhaseRebelWeaponUpgrade2"
-	smallHudIcon "HUDIconTitanPhaseRebelWeaponUpgrade2"
+	hudIcon "HUDIconTitanGoauldApophisWeaponUpgrade2"
+	smallHudIcon "HUDIconTitanGoauldApophisWeaponUpgrade2"
 	infoCardIcon ""
 	upgradePropertyCount 1
 	upgradeProperty
@@ -70,8 +70,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 6
-	hudIcon "HUDIconTitanPhaseRebelWeaponUpgrade3"
-	smallHudIcon "HUDIconTitanPhaseRebelWeaponUpgrade3"
+	hudIcon "HUDIconTitanGoauldApophisWeaponUpgrade3"
+	smallHudIcon "HUDIconTitanGoauldApophisWeaponUpgrade3"
 	infoCardIcon ""
 	upgradePropertyCount 1
 	upgradeProperty

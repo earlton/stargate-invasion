@@ -9,8 +9,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement -1
-	hudIcon "HUDIconTitanTechRebelWeaponUpgrade0"
-	smallHudIcon "HUDIconTitanTechRebelWeaponUpgrade0"
+	hudIcon "HUDIconTitanTauriTartarusWeaponUpgrade0"
+	smallHudIcon "HUDIconTitanTauriTartarusWeaponUpgrade0"
 	infoCardIcon ""
 	upgradePropertyCount 0
 	upgradeBoolPropertyCount 0
@@ -22,8 +22,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 0
-	hudIcon "HUDIconTitanPhaseLoyalistWeaponUpgrade0"
-	smallHudIcon "HUDIconTitanPhaseLoyalistWeaponUpgrade0"
+	hudIcon "HUDIconTitanTauriTartarusWeaponUpgrade0"
+	smallHudIcon "HUDIconTitanTauriTartarusWeaponUpgrade0"
 	infoCardIcon ""
 	upgradePropertyCount 2
 	upgradeProperty
@@ -41,8 +41,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 2
-	hudIcon "HUDIconTitanTechRebelWeaponUpgrade1"
-	smallHudIcon "HUDIconTitanTechRebelWeaponUpgrade1"
+	hudIcon "HUDIconTitanTauriTartarusWeaponUpgrade1"
+	smallHudIcon "HUDIconTitanTauriTartarusWeaponUpgrade1"
 	infoCardIcon ""
 	upgradePropertyCount 2
 	upgradeProperty
@@ -60,8 +60,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 4
-	hudIcon "HUDIconTitanTechRebelWeaponUpgrade2"
-	smallHudIcon "HUDIconTitanTechRebelWeaponUpgrade2"
+	hudIcon "HUDIconTitanTauriTartarusWeaponUpgrade2"
+	smallHudIcon "HUDIconTitanTauriTartarusWeaponUpgrade2"
 	infoCardIcon ""
 	upgradePropertyCount 2
 	upgradeProperty
@@ -79,8 +79,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 6
-	hudIcon "HUDIconTitanTechRebelWeaponUpgrade3"
-	smallHudIcon "HUDIconTitanTechRebelWeaponUpgrade3"
+	hudIcon "HUDIconTitanTauriTartarusWeaponUpgrade3"
+	smallHudIcon "HUDIconTitanTauriTartarusWeaponUpgrade3"
 	infoCardIcon ""
 	upgradePropertyCount 2
 	upgradeProperty

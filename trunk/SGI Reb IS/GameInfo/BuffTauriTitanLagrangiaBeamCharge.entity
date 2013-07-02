@@ -15,7 +15,7 @@ instantAction
 	effectInfo
 		effectAttachInfo
 			attachType "Ability"
-			abilityIndex 3
+			abilityIndex 2
 		smallEffectName ""
 		mediumEffectName ""
 		largeEffectName ""

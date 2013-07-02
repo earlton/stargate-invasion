@@ -9,8 +9,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement -1
-	hudIcon "HUDIconTitanPhaseRebelDurabilityUpgrade0"
-	smallHudIcon "HUDIconTitanPhaseRebelDurabilityUpgrade0"
+	hudIcon "HUDIconTitanGoauldApophisDurabilityUpgrade0"
+	smallHudIcon "HUDIconTitanGoauldApophisDurabilityUpgrade0"
 	infoCardIcon ""
 	upgradePropertyCount 0
 	upgradeBoolPropertyCount 0
@@ -22,8 +22,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 0
-	hudIcon "HUDIconTitanPhaseRebelDurabilityUpgrade0"
-	smallHudIcon "HUDIconTitanPhaseRebelDurabilityUpgrade0"
+	hudIcon "HUDIconTitanGoauldApophisDurabilityUpgrade0"
+	smallHudIcon "HUDIconTitanGoauldApophisDurabilityUpgrade0"
 	infoCardIcon ""
 	upgradePropertyCount 5
 	upgradeProperty
@@ -50,8 +50,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 2
-	hudIcon "HUDIconTitanPhaseRebelDurabilityUpgrade1"
-	smallHudIcon "HUDIconTitanPhaseRebelDurabilityUpgrade1"
+	hudIcon "HUDIconTitanGoauldApophisDurabilityUpgrade1"
+	smallHudIcon "HUDIconTitanGoauldApophisDurabilityUpgrade1"
 	infoCardIcon ""
 	upgradePropertyCount 5
 	upgradeProperty
@@ -78,8 +78,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 4
-	hudIcon "HUDIconTitanPhaseRebelDurabilityUpgrade2"
-	smallHudIcon "HUDIconTitanPhaseRebelDurabilityUpgrade2"
+	hudIcon "HUDIconTitanGoauldApophisDurabilityUpgrade2"
+	smallHudIcon "HUDIconTitanGoauldApophisDurabilityUpgrade2"
 	infoCardIcon ""
 	upgradePropertyCount 5
 	upgradeProperty
@@ -106,8 +106,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 6
-	hudIcon "HUDIconTitanPhaseRebelDurabilityUpgrade3"
-	smallHudIcon "HUDIconTitanPhaseRebelDurabilityUpgrade3"
+	hudIcon "HUDIconTitanGoauldApophisDurabilityUpgrade3"
+	smallHudIcon "HUDIconTitanGoauldApophisDurabilityUpgrade3"
 	infoCardIcon ""
 	upgradePropertyCount 5
 	upgradeProperty

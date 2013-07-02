@@ -2,7 +2,7 @@
 entityType "Titan"
 ability:0 "AbilityTauriTitanAsgardBeams"
 ability:1 "AbilityTauriTitanClaudiusSupport"
-ability:2 ""
+ability:2 "AbilityTauriTitanClaudiusSupport"
 ability:3 "AbilityTauriTitanZPMCloaking"
 ability:4 ""
 defaultAutoAttackRange "GravityWell"
@@ -44,7 +44,7 @@ bombEffectsDef
 	missileStartTurningDistance 0.005000
 	missileSlowTurnRate 3.708997
 	missileMaxSlowTurnTime 12.000000"
-mainViewIcon "MAINVIEWICON_TITAN_TAURITARTARUS"
+mainViewIcon "MAINVIEWICON_TITAN_TAURICARRIER"
 basePrice
 	credits 9500.000000
 	metal 1200.000000
@@ -117,7 +117,7 @@ Weapon
 	DamagePerBank:LEFT 200.000000
 	DamagePerBank:RIGHT 200.000000
 	Range 5000.000000
-	PreBuffCooldownTime 3.500000
+	PreBuffCooldownTime 3.000000
 	CanFireAtFighter TRUE
 	SynchronizedTargeting FALSE
 	PointStaggerDelay 1.000000

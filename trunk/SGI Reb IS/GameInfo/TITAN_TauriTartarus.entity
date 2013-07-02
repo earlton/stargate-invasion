@@ -1,9 +1,9 @@
 ﻿TXT
 entityType "Titan"
 ability:0 "AbilityTauriTitanAdvancedAsgardBeams"
-ability:1 ""
+ability:1 "AbilityTauriTitanHumanDrones"
 ability:2 "AbilityTauriTitanLagrangiaBeam"
-ability:3 ""
+ability:3 "AbilityTauriTitanTartarusCannon"
 ability:4 ""
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -243,7 +243,7 @@ TargetCountPerBank:BACK 2
 TargetCountPerBank:LEFT 3
 TargetCountPerBank:RIGHT 3
 canOnlyTargetStructures FALSE
-mass 80000.000000
+mass 10000.000000
 ShieldMeshName ""
 renderShield TRUE
 maxAccelerationLinear 80.000000
