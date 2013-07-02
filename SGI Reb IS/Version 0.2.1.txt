@@ -1,4 +1,7 @@
 
+AbilityTauriTitanHumanDrones
+AbilityTauriTitanTartarusCannon
+
 ##########################################################################################################
 
 i am introducing the new format system we will be using from now on for the mods current version.

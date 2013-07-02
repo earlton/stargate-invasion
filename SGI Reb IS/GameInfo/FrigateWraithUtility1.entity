@@ -130,7 +130,7 @@ NumSoundsFor:ONSTARTPHASEJUMP 1
 SoundID "FRIGATE_PSISANCTUARY_ONSTARTPHASEJUMP_0"
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "Frigate_PsiUtility1"
+	meshName "Frigate_WraithFastAttack"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""

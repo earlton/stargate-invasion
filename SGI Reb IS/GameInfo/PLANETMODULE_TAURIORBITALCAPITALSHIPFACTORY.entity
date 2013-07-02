@@ -58,7 +58,7 @@ SoundID "PLANETMODULE_TECHORBITALCAPITALSHIPFACTORY_ONSELECTION_0"
 NumSoundsFor:ONSTARTPHASEJUMP 0
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "PlanetModule_TechOrbitalCapitalShipFactory"
+	meshName "PlanetModule_TauriOrbitalCapitalShipFactory"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""

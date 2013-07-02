@@ -9,8 +9,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement -1
-	hudIcon "HUDIconTitanPhaseLoyalistDurabilityUpgrade0"
-	smallHudIcon "HUDIconTitanPhaseLoyalistDurabilityUpgrade0"
+	hudIcon "HUDIconTitanTauriCarrierDurabilityUpgrade0"
+	smallHudIcon "HUDIconTitanTauriCarrierDurabilityUpgrade0"
 	infoCardIcon ""
 	upgradePropertyCount 0
 	upgradeBoolPropertyCount 0
@@ -22,8 +22,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 0
-	hudIcon "HUDIconTitanPhaseLoyalistDurabilityUpgrade0"
-	smallHudIcon "HUDIconTitanPhaseLoyalistDurabilityUpgrade0"
+	hudIcon "HUDIconTitanTauriCarrierDurabilityUpgrade0"
+	smallHudIcon "HUDIconTitanTauriCarrierDurabilityUpgrade0"
 	infoCardIcon ""
 	upgradePropertyCount 5
 	upgradeProperty
@@ -50,8 +50,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 2
-	hudIcon "HUDIconTitanPhaseLoyalistDurabilityUpgrade1"
-	smallHudIcon "HUDIconTitanPhaseLoyalistDurabilityUpgrade1"
+	hudIcon "HUDIconTitanTauriCarrierDurabilityUpgrade1"
+	smallHudIcon "HUDIconTitanTauriCarrierDurabilityUpgrade1"
 	infoCardIcon ""
 	upgradePropertyCount 5
 	upgradeProperty
@@ -78,8 +78,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 4
-	hudIcon "HUDIconTitanPhaseLoyalistDurabilityUpgrade2"
-	smallHudIcon "HUDIconTitanPhaseLoyalistDurabilityUpgrade2"
+	hudIcon "HUDIconTitanTauriCarrierDurabilityUpgrade2"
+	smallHudIcon "HUDIconTitanTauriCarrierDurabilityUpgrade2"
 	infoCardIcon ""
 	upgradePropertyCount 5
 	upgradeProperty
@@ -106,8 +106,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 6
-	hudIcon "HUDIconTitanPhaseLoyalistDurabilityUpgrade3"
-	smallHudIcon "HUDIconTitanPhaseLoyalistDurabilityUpgrade3"
+	hudIcon "HUDIconTitanTauriCarrierDurabilityUpgrade3"
+	smallHudIcon "HUDIconTitanTauriCarrierDurabilityUpgrade3"
 	infoCardIcon ""
 	upgradePropertyCount 5
 	upgradeProperty

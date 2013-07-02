@@ -58,7 +58,7 @@ SoundID "PLANETMODULE_TECHORBITALFRIGATEFACTORY_ONSELECTION_0"
 NumSoundsFor:ONSTARTPHASEJUMP 0
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "PlanetModule_TechOrbitalFrigateFactory"
+	meshName "PlanetModule_TauriOrbitalFrigateFactory"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
