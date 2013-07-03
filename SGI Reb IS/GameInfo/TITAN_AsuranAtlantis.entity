@@ -1,9 +1,9 @@
 ﻿TXT
 entityType "Titan"
-ability:0 ""
-ability:1 ""
-ability:2 ""
-ability:3 ""
+ability:0 "AbilityAsuranTitanAtlantisDroneFrenzy"
+ability:1 "AbilityAsuranTitanSpawnAntiFighter"
+ability:2 "AbilityAsuranTitanWormholeDrive"
+ability:3 "AbilityAsuranTitanAtlantisZPM"
 ability:4 ""
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -90,7 +90,14 @@ Prerequisites
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 statCountType "Titan"
-UpgradeTypeCount 0
+UpgradeTypeCount 7
+UpgradeType "TitanUpgrade_AsuranAtlantis_AbilityA"
+UpgradeType "TitanUpgrade_AsuranAtlantis_AbilityB"
+UpgradeType "TitanUpgrade_AsuranAtlantis_AbilityC"
+UpgradeType "TitanUpgrade_AsuranAtlantis_AbilityD"
+UpgradeType "TitanUpgrade_AsuranAtlantis_Durability"
+UpgradeType "TitanUpgrade_AsuranAtlantis_Weapons"
+UpgradeType "TitanUpgrade_AsuranAtlantis_Abilities"
 numRandomDebrisLarge 80
 numRandomDebrisSmall 30
 numSpecificDebris 1
@@ -190,7 +197,7 @@ TargetCountPerBank:BACK 2
 TargetCountPerBank:LEFT 3
 TargetCountPerBank:RIGHT 3
 canOnlyTargetStructures FALSE
-mass 100000.000000
+mass 80000.000000
 ShieldMeshName "Shield_Asuran_Atlantis"
 renderShield TRUE
 maxAccelerationLinear 80.000000

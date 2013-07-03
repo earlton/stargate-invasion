@@ -1,0 +1,92 @@
+﻿TXT
+entityType "TitanUpgrade"
+stageCount 5
+stage
+	nameStringID "IDS_TITANUPGRADE_ASURANEPHEUS_WEAPONS_NAME"
+	descStringID "IDS_TITANUPGRADE_ASURANEPHEUS_WEAPONS_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement -1
+	hudIcon "HUDIconTitanAsuranEpheusWeaponUpgrade0"
+	smallHudIcon "HUDIconTitanAsuranEpheusWeaponUpgrade0"
+	infoCardIcon ""
+	upgradePropertyCount 0
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_ASURANEPHEUS_WEAPONS_NAME"
+	descStringID "IDS_TITANUPGRADE_ASURANEPHEUS_WEAPONS_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 0
+	hudIcon "HUDIconTitanAsuranEpheusWeaponUpgrade0"
+	smallHudIcon "HUDIconTitanAsuranEpheusWeaponUpgrade0"
+	infoCardIcon ""
+	upgradePropertyCount 2
+	upgradeProperty
+		propertyType "WeaponDamage"
+		value 0.100000
+	upgradeProperty
+		propertyType "AbilityCooldownRate"
+		value -0.015000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_ASURANEPHEUS_WEAPONS_NAME"
+	descStringID "IDS_TITANUPGRADE_ASURANEPHEUS_WEAPONS_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 2
+	hudIcon "HUDIconTitanAsuranEpheusWeaponUpgrade1"
+	smallHudIcon "HUDIconTitanAsuranEpheusWeaponUpgrade1"
+	infoCardIcon ""
+	upgradePropertyCount 2
+	upgradeProperty
+		propertyType "WeaponDamage"
+		value 0.150000
+	upgradeProperty
+		propertyType "AbilityCooldownRate"
+		value -0.025000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_ASURANEPHEUS_WEAPONS_NAME"
+	descStringID "IDS_TITANUPGRADE_ASURANEPHEUS_WEAPONS_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 4
+	hudIcon "HUDIconTitanAsuranEpheusWeaponUpgrade2"
+	smallHudIcon "HUDIconTitanAsuranEpheusWeaponUpgrade2"
+	infoCardIcon ""
+	upgradePropertyCount 2
+	upgradeProperty
+		propertyType "WeaponDamage"
+		value 0.200000
+	upgradeProperty
+		propertyType "AbilityCooldownRate"
+		value -0.035000
+	upgradeBoolPropertyCount 0
+stage
+	nameStringID "IDS_TITANUPGRADE_ASURANEPHEUS_WEAPONS_NAME"
+	descStringID "IDS_TITANUPGRADE_ASURANEPHEUS_WEAPONS_DESCRIPTION"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	levelRequirement 6
+	hudIcon "HUDIconTitanAsuranEpheusWeaponUpgrade3"
+	smallHudIcon "HUDIconTitanAsuranEpheusWeaponUpgrade3"
+	infoCardIcon ""
+	upgradePropertyCount 2
+	upgradeProperty
+		propertyType "WeaponDamage"
+		value 0.250000
+	upgradeProperty
+		propertyType "AbilityCooldownRate"
+		value -0.045000
+	upgradeBoolPropertyCount 0

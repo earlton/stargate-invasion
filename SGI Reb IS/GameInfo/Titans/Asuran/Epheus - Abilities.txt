@@ -1,0 +1,53 @@
+
+Epheus Assault  Titan
+
+ 
+
+1. Massive Drone attack )
+    Damage:                 	   
+				   lvl 1:  5.000                                            Cool down:   2 min
+                                   lvl 2: 15.000                                             Cool down:   2 min
+                                   lvl 3: 25.000                                             Cool down:   2 min
+                                   lvl 4: 35.000                                             Cool down:   2 min
+   
+2 Integrated Lagrangian point satellite    (Green beam of light)
+
+Damage:                    
+				lvl 1=1.000                       Cool down:   2 min
+                                lvl 2=2.000                       Cool down:   2 min 
+                               	lvl 3=3.500                       Cool down:   2 min       
+                               	lvl 4=5.000                       Cool down:   2 min
+
+3. New base Code (enhanced maneuverings)
+    Maneuvering:                  lvl 1=   +5% turning speed
+                                            lvl 2= +10% turning speed  
+                                            lvl 3= +15% turning speed         
+                                            lvl 4=  +20% turning speed  
+
+4. Project Arcturus unleashed  (The Maw)
+                              < Sucks everything into a bubble created by Project Arcturus >
+
+              Number of ships	lvl 4 =>30
+               Cool down:       lvl 4 = 10 min
+              Number of ships	lvl 8 =>60
+               Cool down:       lvl 8 = 5 min
+
+5. nanite Alloys
+         stronger shields/ shield recharge rate  
+                                            lvl 1=  +5% hull and shield points
+                                            lvl 2= +10% hull and shield points
+                                            lvl 3= +15% hull and shield points          
+                                            lvl 4= +20% hull and shield points
+6 ZPM weapon boost
+    more weapon damage                
+                                         lvl 1= + 5%
+                                         lvl 2= +10%
+                                         lvl 3= +15%
+                                         lvl 4= +20%
+
+7. ZPM Energy Generators
+Antimatter recharge
+                                  lvl 1=   +5% Antimatter recharge      +50 Antimatter
+                                  lvl 2= +10% Antimatter recharge      +50 Antimatter
+                                  lvl 3= +15% Antimatter recharge      +50 Antimatter        
+                                  lvl 4=  +20% Antimatter recharge     +50 Antimatter
