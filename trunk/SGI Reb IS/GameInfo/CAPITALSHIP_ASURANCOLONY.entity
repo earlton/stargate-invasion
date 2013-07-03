@@ -1,9 +1,9 @@
 ﻿TXT
 entityType "CapitalShip"
 ability:0 "AbilityAsuranCapitalShipColonize"
-ability:1 "AbilityAsuranCapitalDroneFrenzy"
+ability:1 ""
 ability:2 "AbilityNanoDisassembler"
-ability:3 "AbilityAtlantisZpm"
+ability:3 ""
 ability:4 ""
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE

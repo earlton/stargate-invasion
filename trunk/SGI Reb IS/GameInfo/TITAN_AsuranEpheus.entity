@@ -90,7 +90,10 @@ Prerequisites
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 statCountType "Titan"
-UpgradeTypeCount 0
+UpgradeTypeCount 3
+UpgradeType "TitanUpgrade_AsuranAtlantis_Durability"
+UpgradeType "TitanUpgrade_AsuranAtlantis_Weapons"
+UpgradeType "TitanUpgrade_AsuranAtlantis_Abilities"
 numRandomDebrisLarge 80
 numRandomDebrisSmall 30
 numSpecificDebris 1

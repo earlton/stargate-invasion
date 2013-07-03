@@ -2,7 +2,7 @@
 entityType "Ability"
 buffInstantActionType "ApplyBuffToTargetsInRadiusWithTravel"
 instantActionTriggerType "AlwaysPerform"
-buffType "BuffTauriTitanHumanDrones"
+buffType "BuffAsuranTitanAtlantisDroneFrenzy"
 targetFilter
 	numOwnerships 1
 	ownership "Enemy"
@@ -16,14 +16,14 @@ targetFilter
 	space "Normal"
 	numConstraints 0
 range
-	Level:0 5000.000000
-	Level:1 5500.000000
-	Level:2 6000.000000
+	Level:0 4000.000000
+	Level:1 6500.000000
+	Level:2 8500.000000
 	Level:3 0.000000
 maxTargetCount
 	Level:0 3.000000
 	Level:1 5.000000
-	Level:2 8.000000
+	Level:2 7.000000
 	Level:3 0.000000
 effectInfo
 	effectAttachInfo
@@ -32,23 +32,23 @@ effectInfo
 	mediumEffectName ""
 	largeEffectName ""
 	soundID ""
-travelSpeed 1000.000000
+travelSpeed 950.000000
 effectStaggerDelay 0.300000
 hasWeaponEffects TRUE
 weaponEffectOriginType "Targetter"
 weaponEffectAttachInfo
 	attachType "Ability"
-	abilityIndex 1
+	abilityIndex 0
 weaponEffectImpactOffsetType "RandomMesh"
 canWeaponEffectHitHull TRUE
 canWeaponEffectHitShields TRUE
 weaponEffectsDef
 	weaponType "Missile"
-	burstCount 100
+	burstCount 50
 	burstDelay 0.020000
 	fireDelay 0.000000
-	muzzleEffectName "Weapon_TechCapitalMissileHeavy_Muzzle"
-	muzzleSoundMinRespawnTime 0.100000
+	muzzleEffectName "Weapon_PhaseCapitalMissileHeavy_Muzzle"
+	muzzleSoundMinRespawnTime 0.000100
 	muzzleSounds
 		soundCount 2
 		sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE"
@@ -68,14 +68,13 @@ needsToFaceTarget FALSE
 canCollideWithTarget TRUE
 moveThruTarget FALSE
 isUltimateAbility FALSE
-maxNumLevels 3
-levelSourceType "TitanUpgradeLevel"
-sourcePropertyType "AbilityBLevel"
+maxNumLevels 1
+levelSourceType "FixedLevel0"
 aiUseTime "OnlyWhenManyTargetsInRange"
 onlyAutoCastWhenTargetCountExceedsAmount
-	Level:0 4.000000
-	Level:1 6.000000
-	Level:2 8.000000
+	Level:0 2.000000
+	Level:1 3.000000
+	Level:2 5.000000
 	Level:3 0.000000
 aiUseTargetCondition "Any"
 isAutoCastAvailable TRUE
@@ -85,9 +84,9 @@ ignoreNonCombatShipsForAutoCastTarget TRUE
 onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
 useCostType "AntiMatter"
 antiMatterCost
-	Level:0 250.000000
-	Level:1 250.000000
-	Level:2 250.000000
+	Level:0 125.000000
+	Level:1 90.000000
+	Level:2 50.000000
 	Level:3 0.000000
 cooldownTime
 	Level:0 45.000000
@@ -99,8 +98,8 @@ researchPrerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-nameStringID "IDS_ABILITY_TAURITITANHUMANDRONES_NAME"
-descStringID "IDS_ABILITY_TAURITITANHUMANDRONES_DESCRIPTION"
-hudIcon "HUDICON_ABILITY_TAURITITANHUMANDRONES"
-smallHudIcon "HUDICON_ABILITY_TAURITITANHUMANDRONES"
+nameStringID "IDS_ABILITY_ASURANDRONEFRENZY_NAME"
+descStringID "IDS_ABILITY_ASURANDRONEFRENZY_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_PHASEMISSILESWARM"
+smallHudIcon "HUDICON_ABILITY_PHASEMISSILESWARM"
 infoCardIcon ""
