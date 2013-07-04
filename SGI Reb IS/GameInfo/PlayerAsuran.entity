@@ -32,7 +32,9 @@ entities
 			entityDefName "PLANETMODULE_ASURANLOYALISTORBITALTITANFACTORY"
 	titanInfo
 		Page:0
-			count 0
+			count 2
+			entityDefName "TITAN_AsuranAtlantis"
+			entityDefName "TITAN_AsuranEpheus"
 	capitalShipInfo
 		Page:0
 			count 6
@@ -643,10 +645,10 @@ hudSkinData
 	InfoCardIconCombinedPlanetIncome "InfoCardIconCombinedPlanetIncome"
 	InfoCardIconCombinedStarBaseIncome "InfoCardIconCombinedStarBaseIncome"
 	InfoCardIconFleetUpkeep "InfoCardIconFleetUpkeepPhase"
-	InfoCardIconCapitalShip "INFOCARDICON_CAPITALSHIP_PHASEBATTLESHIP"
-	InfoCardIconFrigate "INFOCARDICON_FRIGATE_PHASESCOUT"
-	InfoCardIconTradeShip "INFOCARDICON_TRADESHIP_PHASE"
-	InfoCardIconRefineryShip "INFOCARDICON_REFINERYSHIP_PHASE"
+	InfoCardIconCapitalShip "INFOCARDICON_CAPITALSHIP_ASURANBATTLESHIP"
+	InfoCardIconFrigate "INFOCARDICON_FRIGATE_ASURANSCOUT"
+	InfoCardIconTradeShip "INFOCARDICON_TRADESHIP_ASURAN"
+	InfoCardIconRefineryShip "INFOCARDICON_REFINERYSHIP_ASURAN"
 	MainViewIconOverlayCapitalShipLevel0 "MainViewIconOverlayCapitalShipLevel0"
 	MainViewIconOverlayCapitalShipLevel1 "MainViewIconOverlayCapitalShipLevel1"
 	MainViewIconOverlayCapitalShipLevel2 "MainViewIconOverlayCapitalShipLevel2"

@@ -99,9 +99,9 @@ numRandomDebrisSmall 30
 numSpecificDebris 1
 specificDebrisMeshName "DebrisPhaseCapitalShipBattleship"
 armorType "Titan"
-hudIcon "HUDICON_RESEARCHSUBJECT_TITAN_TAURITARTARUS"
-smallHudIcon "HUDICONSMALL_TITAN_TAURITARTARUS"
-infoCardIcon "INFOCARDICON_TITAN_TAURITARTARUS"
+hudIcon "HUDICON_RESEARCHSUBJECT_TITAN_TAURICARRIER"
+smallHudIcon "HUDICONSMALL_TITAN_TAURICARRIER"
+infoCardIcon "INFOCARDICON_TITAN_TAURICARRIER"
 minZoomDistanceMult 1.100000
 NumWeapons 3
 Weapon

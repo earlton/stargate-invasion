@@ -1,6 +1,438 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 288
+brushCount 322
+brush
+	name "HUDIconTitanAsuranEpheusAbilityUpgrade3"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 670 , 411 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 670 , 411 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 670 , 411 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 670 , 411 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 670 , 411 , 47 , 33 ]
+brush
+	name "HUDIconTitanAsuranEpheusAbilityUpgrade2"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 670 , 374 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 670 , 374 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 670 , 374 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 670 , 374 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 670 , 374 , 47 , 33 ]
+brush
+	name "HUDIconTitanAsuranEpheusAbilityUpgrade1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 670 , 337 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 670 , 337 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 670 , 337 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 670 , 337 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 670 , 337 , 47 , 33 ]
+brush
+	name "HUDIconTitanAsuranEpheusAbilityUpgrade0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 670 , 300 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 670 , 300 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 670 , 300 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 670 , 300 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 670 , 300 , 47 , 33 ]
+brush
+	name "HUDIconTitanAsuranEpheusDurabilityUpgrade3"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 568 , 411 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 568 , 411 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 568 , 411 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 568 , 411 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 568 , 411 , 47 , 33 ]
+brush
+	name "HUDIconTitanAsuranEpheusDurabilityUpgrade2"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 568 , 374 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 568 , 374 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 568 , 374 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 568 , 374 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 568 , 374 , 47 , 33 ]
+brush
+	name "HUDIconTitanAsuranEpheusDurabilityUpgrade1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 568 , 337 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 568 , 337 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 568 , 337 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 568 , 337 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 568 , 337 , 47 , 33 ]
+brush
+	name "HUDIconTitanAsuranEpheusDurabilityUpgrade0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 568 , 300 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 568 , 300 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 568 , 300 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 568 , 300 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 568 , 300 , 47 , 33 ]
+brush
+	name "HUDIconTitanAsuranEpheusWeaponUpgrade3"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 619 , 411 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 619 , 411 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 619 , 411 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 619 , 411 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 619 , 411 , 47 , 33 ]
+brush
+	name "HUDIconTitanAsuranEpheusWeaponUpgrade2"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 619 , 374 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 619 , 374 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 619 , 374 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 619 , 374 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 619 , 374 , 47 , 33 ]
+brush
+	name "HUDIconTitanAsuranEpheusWeaponUpgrade1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 619 , 337 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 619 , 337 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 619 , 337 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 619 , 337 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 619 , 337 , 47 , 33 ]
+brush
+	name "HUDIconTitanAsuranEpheusWeaponUpgrade0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 619 , 300 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 619 , 300 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 619 , 300 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 619 , 300 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 619 , 300 , 47 , 33 ]
+brush
+	name "HUDIconTitanAsuranAtlantisAbilityUpgrade3"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 670 , 411 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 670 , 411 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 670 , 411 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 670 , 411 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 670 , 411 , 47 , 33 ]
+brush
+	name "HUDIconTitanAsuranAtlantisAbilityUpgrade2"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 670 , 374 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 670 , 374 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 670 , 374 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 670 , 374 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 670 , 374 , 47 , 33 ]
+brush
+	name "HUDIconTitanAsuranAtlantisAbilityUpgrade1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 670 , 337 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 670 , 337 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 670 , 337 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 670 , 337 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 670 , 337 , 47 , 33 ]
+brush
+	name "HUDIconTitanAsuranAtlantisAbilityUpgrade0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 670 , 300 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 670 , 300 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 670 , 300 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 670 , 300 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 670 , 300 , 47 , 33 ]
+brush
+	name "HUDIconTitanAsuranAtlantisDurabilityUpgrade3"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 568 , 411 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 568 , 411 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 568 , 411 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 568 , 411 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 568 , 411 , 47 , 33 ]
+brush
+	name "HUDIconTitanAsuranAtlantisDurabilityUpgrade2"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 568 , 374 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 568 , 374 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 568 , 374 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 568 , 374 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 568 , 374 , 47 , 33 ]
+brush
+	name "HUDIconTitanAsuranAtlantisDurabilityUpgrade1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 568 , 337 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 568 , 337 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 568 , 337 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 568 , 337 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 568 , 337 , 47 , 33 ]
+brush
+	name "HUDIconTitanAsuranAtlantisDurabilityUpgrade0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 568 , 300 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 568 , 300 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 568 , 300 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 568 , 300 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 568 , 300 , 47 , 33 ]
+brush
+	name "HUDIconTitanAsuranAtlantisWeaponUpgrade3"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 619 , 411 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 619 , 411 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 619 , 411 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 619 , 411 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 619 , 411 , 47 , 33 ]
+brush
+	name "HUDIconTitanAsuranAtlantisWeaponUpgrade2"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 619 , 374 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 619 , 374 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 619 , 374 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 619 , 374 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 619 , 374 , 47 , 33 ]
+brush
+	name "HUDIconTitanAsuranAtlantisWeaponUpgrade1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 619 , 337 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 619 , 337 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 619 , 337 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 619 , 337 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 619 , 337 , 47 , 33 ]
+brush
+	name "HUDIconTitanAsuranAtlantisWeaponUpgrade0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 619 , 300 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 619 , 300 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 619 , 300 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 619 , 300 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 619 , 300 , 47 , 33 ]
 brush
 	name "HUDIconTitanTauriCarrierAbilityUpgrade3"
 	content "States"
@@ -704,7 +1136,7 @@ brush
 		fileName "Buttons_Research2_Normal"
 		pixelBox [ 874 , 189 , 47 , 33 ]
 brush
-	name "HUDIconTitanGoauldApophistAbilityUpgrade0"
+	name "HUDIconTitanGoauldApophisAbilityUpgrade0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
@@ -865,6 +1297,186 @@ brush
 	Normal
 		fileName "Buttons_Research2_Normal"
 		pixelBox [ 823 , 152 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ATLANTISZPM"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 722 , 300 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 722 , 300 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 722 , 300 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 722 , 300 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 722 , 300 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ASURANTITANWORMHOLEDRIVE"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 722 , 300 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 722 , 300 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 722 , 300 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 722 , 300 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 722 , 300 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ASURANTITANSPAWNANTIFIGHTER"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ASURANTITANATLANTISDRONEFRENZY"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ASURANTITANEPHEUSDRONEFRENZY"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_ASURANTITANLAGRANGIANBEAMS"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_GOAULDTITANEYEOFRA"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_GOAULDTITANCOMBATTACTICS"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_GOAULDTITANEYEOFTITAMAT"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_GOAULDTITANSTOLENTECHNOLOGY"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 5 , 335 , 47 , 33 ]
 brush
 	name "HUDICON_ABILITY_TAURITITANADVANCEDASGARDBEAMS"
 	content "States"

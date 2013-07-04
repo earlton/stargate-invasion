@@ -44,7 +44,7 @@ canWeaponEffectHitHull TRUE
 canWeaponEffectHitShields TRUE
 weaponEffectsDef
 	weaponType "Missile"
-	burstCount 100
+	burstCount 20
 	burstDelay 0.020000
 	fireDelay 0.000000
 	muzzleEffectName "Weapon_TechCapitalMissileHeavy_Muzzle"
@@ -73,9 +73,9 @@ levelSourceType "TitanUpgradeLevel"
 sourcePropertyType "AbilityBLevel"
 aiUseTime "OnlyWhenManyTargetsInRange"
 onlyAutoCastWhenTargetCountExceedsAmount
-	Level:0 4.000000
-	Level:1 6.000000
-	Level:2 8.000000
+	Level:0 2.000000
+	Level:1 4.000000
+	Level:2 6.000000
 	Level:3 0.000000
 aiUseTargetCondition "Any"
 isAutoCastAvailable TRUE

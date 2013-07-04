@@ -10,8 +10,8 @@ typeCount 2
 frigateRoleType "Colony"
 frigateRoleType "ResourceCapturer"
 statCountType "FrigateColony"
-mainViewIcon "MAINVIEWICON_FRIGATE_TECHCOLONY"
-picture "PICTURE_FRIGATE_TECHCOLONY"
+mainViewIcon "MAINVIEWICON_FRIGATE_TAURIHESTIA"
+picture "PICTURE_FRIGATE_TAURIHESTIA"
 NameStringID "IDS_FRIGATE_HUMANHESTIA_NAME"
 DescriptionStringID "IDS_FRIGATE_HUMANHESTIA_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
@@ -37,9 +37,9 @@ numRandomDebrisLarge 1
 numRandomDebrisSmall 9
 numSpecificDebris 0
 armorType "Light"
-hudIcon "HUDICON_FRIGATE_TECHCOLONY"
-smallHudIcon "HUDICONSMALL_FRIGATE_TECHCOLONY"
-infoCardIcon "INFOCARDICON_FRIGATE_TECHCOLONY"
+hudIcon "HUDICON_FRIGATE_TAURIHESTIA"
+smallHudIcon "HUDICONSMALL_FRIGATE_TAURIHESTIA"
+infoCardIcon "INFOCARDICON_FRIGATE_TAURIHESTIA"
 minZoomDistanceMult 2.500000
 NumWeapons 1
 Weapon

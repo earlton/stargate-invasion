@@ -10,8 +10,8 @@ typeCount 2
 frigateRoleType "Carrier"
 frigateRoleType "Heavy"
 statCountType "FrigateHeavy"
-mainViewIcon "MAINVIEWICON_FRIGATE_PSIHEAVY"
-picture "PICTURE_FRIGATE_PSIHEAVY"
+mainViewIcon "MAINVIEWICON_FRIGATE_WRAITHHEAVY"
+picture "PICTURE_FRIGATE_WRAITHHEAVY"
 NameStringID "IDS_FRIGATE_WRAITHHEAVY_NAME"
 DescriptionStringID "IDS_FRIGATE_WRAITHHEAVY_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_HEAVY"
@@ -40,9 +40,9 @@ numRandomDebrisLarge 1
 numRandomDebrisSmall 10
 numSpecificDebris 0
 armorType "VeryHeavy"
-hudIcon "HUDICON_FRIGATE_PSIHEAVY"
-smallHudIcon "HUDICONSMALL_FRIGATE_PSIHEAVY"
-infoCardIcon "INFOCARDICON_FRIGATE_PSIHEAVY"
+hudIcon "HUDICON_FRIGATE_WRAITHHEAVY"
+smallHudIcon "HUDICONSMALL_FRIGATE_WRAITHHEAVY"
+infoCardIcon "INFOCARDICON_FRIGATE_WRAITHHEAVY"
 minZoomDistanceMult 2.500000
 NumWeapons 2
 Weapon

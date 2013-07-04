@@ -73,7 +73,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_TITAN_GOAULDANUBIS_NAME"
 DescriptionStringID "IDS_TITAN_GOAULDANUBIS_DESCRIPTION"
-picture "TITANPICTURE_PHASELOYALIST"
+picture "TITANPICTURE_GOAULDANUBIS"
 Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""

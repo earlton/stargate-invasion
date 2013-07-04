@@ -10,8 +10,8 @@ typeCount 2
 frigateRoleType "Scout"
 frigateRoleType "AntiMine"
 statCountType "FrigateScout"
-mainViewIcon "MAINVIEWICON_FRIGATE_TECHSCOUT"
-picture "PICTURE_FRIGATE_TECHSCOUT"
+mainViewIcon "MAINVIEWICON_FRIGATE_TAURIFENRIR"
+picture "PICTURE_FRIGATE_TAURIFENRIR"
 NameStringID "IDS_FRIGATE_HUMANFENRIR_NAME"
 DescriptionStringID "IDS_FRIGATE_HUMANFENRIR_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
@@ -37,9 +37,9 @@ numRandomDebrisLarge 0
 numRandomDebrisSmall 3
 numSpecificDebris 0
 armorType "Light"
-hudIcon "HUDICON_FRIGATE_TECHSCOUT"
-smallHudIcon "HUDICONSMALL_FRIGATE_TECHSCOUT"
-infoCardIcon "INFOCARDICON_FRIGATE_TECHSCOUT"
+hudIcon "HUDICON_FRIGATE_TAURIFENRIR"
+smallHudIcon "HUDICONSMALL_FRIGATE_TAURIFENRIR"
+infoCardIcon "INFOCARDICON_FRIGATE_TAURIFENRIR"
 minZoomDistanceMult 2.500000
 NumWeapons 1
 Weapon

@@ -2,7 +2,7 @@
 onlyLoadOnDemand FALSE
 brushCount 181
 brush
-	name "HUDICON_CORVETTE_PHASE"
+	name "HUDICON_CORVETTE_ASURAN"
 	content "States"
 	Disabled
 		fileName "Unit_Hud2_Disabled"
@@ -56,7 +56,7 @@ brush
 		fileName "Unit_Hud2_Normal"
 		pixelBox [ 202 , 6 , 47 , 33 ]
 brush
-	name "HUDICON_PHASE_TITAN_FOUNDRY"
+	name "HUDICON_ASURAN_TITAN_FOUNDRY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud2_Disabled"
@@ -110,7 +110,7 @@ brush
 		fileName "Unit_Hud2_Normal"
 		pixelBox [ 153 , 6 , 47 , 33 ]
 brush
-	name "HUDICON_CAPITALSHIP_PHASEBATTLESHIP2"
+	name "HUDICON_CAPITALSHIP_ASURANBATTLESHIP2"
 	content "States"
 	Disabled
 		fileName "Unit_Hud2_Disabled"
@@ -344,7 +344,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 202 , 259 , 47 , 33 ]
 brush
-	name "HUDICON_CAPITALSHIP_PHASECOLONY"
+	name "HUDICON_CAPITALSHIP_ASURANCOLONY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -362,7 +362,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 6 , 294 , 47 , 33 ]
 brush
-	name "HUDICON_CAPITALSHIP_PHASECARRIER"
+	name "HUDICON_CAPITALSHIP_ASURANCARRIER"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -380,7 +380,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 104 , 294 , 47 , 33 ]
 brush
-	name "HUDICON_CAPITALSHIP_PHASEBATTLESHIP"
+	name "HUDICON_CAPITALSHIP_ASURANBATTLESHIP"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -398,7 +398,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 55 , 294 , 47 , 33 ]
 brush
-	name "HUDICON_CAPITALSHIP_PHASESCOUT"
+	name "HUDICON_CAPITALSHIP_ASURANSCOUT"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -416,7 +416,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 202 , 294 , 47 , 33 ]
 brush
-	name "HUDICON_CAPITALSHIP_PHASESIEGE"
+	name "HUDICON_CAPITALSHIP_ASURANSIEGE"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -514,32 +514,32 @@ brush
 	fileName "Unit_Main"
 	pixelBox [ 121 , 121 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_CAPITALSHIP_PHASECOLONY"
+	name "HUDICONSMALL_CAPITALSHIP_ASURANCOLONY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 1 , 151 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_CAPITALSHIP_PHASECARRIER"
+	name "HUDICONSMALL_CAPITALSHIP_ASURANCARRIER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 61 , 151 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_CAPITALSHIP_PHASEBATTLESHIP"
+	name "HUDICONSMALL_CAPITALSHIP_ASURANBATTLESHIP"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 31 , 151 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_CAPITALSHIP_PHASESCOUT"
+	name "HUDICONSMALL_CAPITALSHIP_ASURANSCOUT"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 121 , 151 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_CAPITALSHIP_PHASESIEGE"
+	name "HUDICONSMALL_CAPITALSHIP_ASURANSIEGE"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 91 , 151 , 28 , 28 ]
 brush
-	name "HUDICON_FRIGATE_TECHANTIFIGHTER"
+	name "HUDICON_FRIGATE_TAURICLAUDIUS"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -557,7 +557,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 153 , 329 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_TECHANTIMODULE"
+	name "HUDICON_FRIGATE_TAURINYX"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -575,7 +575,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 153 , 469 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_TECHCARRIER"
+	name "HUDICON_FRIGATE_TAURIZEPHYR"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -593,7 +593,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 349 , 329 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_TECHCOLONY"
+	name "HUDICON_FRIGATE_TAURIHESTIA"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -611,7 +611,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 6 , 329 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_TECHHEAVY"
+	name "HUDICON_FRIGATE_TAURIDAEDALUS"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -629,7 +629,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 55 , 329 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_TECHLIGHT"
+	name "HUDICON_FRIGATE_TAURITEMPEST"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -647,7 +647,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 398 , 329 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_TECHLONGRANGE"
+	name "HUDICON_FRIGATE_TAURIMORPHEUS"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -665,7 +665,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 447 , 329 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_TECHSCOUT"
+	name "HUDICON_FRIGATE_TAURIFENRIR"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -683,7 +683,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 202 , 329 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_TECHSIEGE"
+	name "HUDICON_FRIGATE_TAURIPHOENIX"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -701,7 +701,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 104 , 329 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_TECHUTILITY0"
+	name "HUDICON_FRIGATE_TAURIPROMETHEUS"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -719,7 +719,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 55 , 14 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_TECHUTILITY1"
+	name "HUDICON_FRIGATE_TAURIARES"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -737,7 +737,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 104 , 14 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_TECHMODULECONSTRUCTOR"
+	name "HUDICON_FRIGATE_TAURIMODULECONSTRUCTOR"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -755,7 +755,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 300 , 329 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_TECHSTARBASECONSTRUCTOR"
+	name "HUDICON_FRIGATE_TAURISTARBASECONSTRUCTOR"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -773,7 +773,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 6 , 469 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_TECHENVOY"
+	name "HUDICON_FRIGATE_TAURIENVOY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -791,7 +791,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 300 , 469 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PSIANTIFIGHTER"
+	name "HUDICON_FRIGATE_WRAITHANTIFIGHTER"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -809,7 +809,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 153 , 364 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PSIANTIMODULE"
+	name "HUDICON_FRIGATE_WRAITHANTIMODULE"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -827,7 +827,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 202 , 469 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PSICARRIER"
+	name "HUDICON_FRIGATE_WRAITHCARRIER"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -845,7 +845,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 349 , 364 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PSICOLONY"
+	name "HUDICON_FRIGATE_WRAITHCOLONY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -863,7 +863,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 6 , 364 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PSIHEAVY"
+	name "HUDICON_FRIGATE_WRAITHHEAVY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -881,7 +881,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 55 , 364 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PSILIGHT"
+	name "HUDICON_FRIGATE_WRAITHLIGHT"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -899,7 +899,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 398 , 364 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PSILONGRANGE"
+	name "HUDICON_FRIGATE_WRAITHLONGRANGE"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -917,7 +917,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 447 , 364 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PSISCOUT"
+	name "HUDICON_FRIGATE_WRAITHSCOUT"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -935,7 +935,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 202 , 364 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PSISIEGE"
+	name "HUDICON_FRIGATE_WRAITHSIEGE"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -953,7 +953,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 104 , 364 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PSISTARBASECONSTRUCTOR"
+	name "HUDICON_FRIGATE_WRAITHSTARBASECONSTRUCTOR"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -971,7 +971,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 55 , 469 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PSIUTILITY0"
+	name "HUDICON_FRIGATE_WRAITHUTILITY0"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -989,7 +989,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 55 , 49 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PSIUTILITY1"
+	name "HUDICON_FRIGATE_WRAITHUTILITY1"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -1007,7 +1007,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 104 , 49 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PSIMODULECONSTRUCTOR"
+	name "HUDICON_FRIGATE_WRAITHMODULECONSTRUCTOR"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -1025,7 +1025,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 300 , 364 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PSIENVOY"
+	name "HUDICON_FRIGATE_WRAITHENVOY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -1043,7 +1043,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 349 , 469 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PHASEANTIFIGHTER"
+	name "HUDICON_FRIGATE_ASURANANTIFIGHTER"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -1061,7 +1061,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 153 , 399 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PHASECARRIER"
+	name "HUDICON_FRIGATE_ASURANCARRIER"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -1079,7 +1079,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 349 , 399 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PHASECOLONY"
+	name "HUDICON_FRIGATE_ASURANCOLONY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -1097,7 +1097,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 6 , 399 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PHASEHEAVY"
+	name "HUDICON_FRIGATE_ASURANHEAVY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -1115,7 +1115,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 55 , 399 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PHASELIGHT"
+	name "HUDICON_FRIGATE_ASURANLIGHT"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -1133,7 +1133,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 398 , 399 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PHASELONGRANGE"
+	name "HUDICON_FRIGATE_ASURANLONGRANGE"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -1151,7 +1151,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 447 , 399 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PHASESCOUT"
+	name "HUDICON_FRIGATE_ASURANSCOUT"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -1169,7 +1169,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 202 , 399 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PHASESIEGE"
+	name "HUDICON_FRIGATE_ASURANSIEGE"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -1187,7 +1187,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 104 , 399 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PHASEUTILITY0"
+	name "HUDICON_FRIGATE_ASURANUTILITY0"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -1205,7 +1205,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 55 , 84 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PHASEUTILITY1"
+	name "HUDICON_FRIGATE_ASURANUTILITY1"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -1223,7 +1223,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 104 , 84 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PHASEMINELAYER"
+	name "HUDICON_FRIGATE_ASURANMINELAYER"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -1241,7 +1241,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 251 , 469 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PHASEMODULECONSTRUCTOR"
+	name "HUDICON_FRIGATE_ASURANMODULECONSTRUCTOR"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -1259,7 +1259,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 300 , 399 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_PHASEENVOY"
+	name "HUDICON_FRIGATE_ASURANENVOY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -1403,7 +1403,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 398 , 294 , 47 , 33 ]
 brush
-	name "HUDICONSMALL_FRIGATE_TECHANTIFIGHTER"
+	name "HUDICONSMALL_FRIGATE_TAURICLAUDIUS"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 91 , 181 , 28 , 28 ]
@@ -1413,197 +1413,197 @@ brush
 	fileName "Unit_Main"
 	pixelBox [ 421 , 181 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_TECHCARRIER"
+	name "HUDICONSMALL_FRIGATE_TAURIZEPHYR"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 211 , 181 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_TECHCOLONY"
+	name "HUDICONSMALL_FRIGATE_TAURIHESTIA"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 1 , 181 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_TECHHEAVY"
+	name "HUDICONSMALL_FRIGATE_TAURIDEADALUS"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 31 , 181 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_TECHLIGHT"
+	name "HUDICONSMALL_FRIGATE_TAURITEMPEST"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 241 , 181 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_TECHLONGRANGE"
+	name "HUDICONSMALL_FRIGATE_TAURIMORPHEUS"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 271 , 181 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_TECHSCOUT"
+	name "HUDICONSMALL_FRIGATE_TAURIFENRIR"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 121 , 181 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_TECHSIEGE"
+	name "HUDICONSMALL_FRIGATE_TAURIPHOENIX"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 61 , 181 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_TECHUTILITY0"
+	name "HUDICONSMALL_FRIGATE_TAURIPROMETHEUS"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 331 , 181 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_TECHUTILITY1"
+	name "HUDICONSMALL_FRIGATE_TAURIARES"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 361 , 181 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_TECHMODULECONSTRUCTOR"
+	name "HUDICONSMALL_FRIGATE_TAURIMODULECONSTRUCTOR"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 181 , 181 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_TECHSTARBASECONSTRUCTOR"
+	name "HUDICONSMALL_FRIGATE_TAURISTARBASECONSTRUCTOR"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 391 , 181 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_TECHENVOY"
+	name "HUDICONSMALL_FRIGATE_TAURIENVOY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 361 , 91 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PSIANTIFIGHTER"
+	name "HUDICONSMALL_FRIGATE_WRAITHANTIFIGHTER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 91 , 211 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PSIANTIMODULE"
+	name "HUDICONSMALL_FRIGATE_WRAITHANTIMODULE"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 421 , 211 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PSICARRIER"
+	name "HUDICONSMALL_FRIGATE_WRAITHCARRIER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 211 , 211 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PSICOLONY"
+	name "HUDICONSMALL_FRIGATE_WRAITHCOLONY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 1 , 211 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PSIHEAVY"
+	name "HUDICONSMALL_FRIGATE_WRAITHHEAVY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 31 , 211 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PSILIGHT"
+	name "HUDICONSMALL_FRIGATE_WRAITHLIGHT"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 241 , 211 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PSILONGRANGE"
+	name "HUDICONSMALL_FRIGATE_WRAITHLONGRANGE"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 271 , 211 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PSISCOUT"
+	name "HUDICONSMALL_FRIGATE_WRAITHSCOUT"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 121 , 211 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PSISIEGE"
+	name "HUDICONSMALL_FRIGATE_WRAITHSIEGE"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 61 , 211 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PSISTARBASECONSTRUCTOR"
+	name "HUDICONSMALL_FRIGATE_WRAITHSTARBASECONSTRUCTOR"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 391 , 211 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PSIUTILITY0"
+	name "HUDICONSMALL_FRIGATE_WRAITHUTILITY0"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 331 , 211 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PSIUTILITY1"
+	name "HUDICONSMALL_FRIGATE_WRAITHUTILITY1"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 361 , 211 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PSIMODULECONSTRUCTOR"
+	name "HUDICONSMALL_FRIGATE_WRAITHMODULECONSTRUCTOR"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 181 , 211 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PSIENVOY"
+	name "HUDICONSMALL_FRIGATE_WRAITHENVOY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 331 , 91 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PHASEANTIFIGHTER"
+	name "HUDICONSMALL_FRIGATE_ASURANANTIFIGHTER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 91 , 241 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PHASECARRIER"
+	name "HUDICONSMALL_FRIGATE_ASURANCARRIER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 211 , 241 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PHASECOLONY"
+	name "HUDICONSMALL_FRIGATE_ASURANCOLONY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 1 , 241 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PHASEHEAVY"
+	name "HUDICONSMALL_FRIGATE_ASURANHEAVY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 31 , 241 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PHASELIGHT"
+	name "HUDICONSMALL_FRIGATE_ASURANLIGHT"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 241 , 241 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PHASELONGRANGE"
+	name "HUDICONSMALL_FRIGATE_ASURANLONGRANGE"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 271 , 241 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PHASESCOUT"
+	name "HUDICONSMALL_FRIGATE_ASURANSCOUT"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 121 , 241 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PHASESIEGE"
+	name "HUDICONSMALL_FRIGATE_ASURANSIEGE"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 61 , 241 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PHASEUTILITY0"
+	name "HUDICONSMALL_FRIGATE_ASURANUTILITY0"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 331 , 241 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PHASEUTILITY1"
+	name "HUDICONSMALL_FRIGATE_ASURANUTILITY1"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 361 , 241 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PHASEMINELAYER"
+	name "HUDICONSMALL_FRIGATE_ASURANMINELAYER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 421 , 241 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PHASEMODULECONSTRUCTOR"
+	name "HUDICONSMALL_FRIGATE_ASURANMODULECONSTRUCTOR"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 181 , 241 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_PHASEENVOY"
+	name "HUDICONSMALL_FRIGATE_ASURANENVOY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 301 , 91 , 28 , 28 ]
@@ -1733,7 +1733,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 300 , 49 , 47 , 33 ]
 brush
-	name "HUDICON_SQUADPHASECOMBAT"
+	name "HUDICON_SQUADASURANCOMBAT"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -1751,7 +1751,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 300 , 294 , 47 , 33 ]
 brush
-	name "HUDICON_SQUADPHASEBOMBER"
+	name "HUDICON_SQUADASURANBOMBER"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -1859,7 +1859,7 @@ brush
 		fileName "Buttons_Main_Normal"
 		pixelBox [ 362 , 216 , 47 , 33 ]
 brush
-	name "HUDICONLAUNCH_SQUADPHASECOMBAT"
+	name "HUDICONLAUNCH_SQUADASURANCOMBAT"
 	content "States"
 	Disabled
 		fileName "Buttons_Main_Disabled"
@@ -1877,7 +1877,7 @@ brush
 		fileName "Buttons_Main_Normal"
 		pixelBox [ 260 , 179 , 47 , 33 ]
 brush
-	name "HUDICONLAUNCH_SQUADPHASEBOMBER"
+	name "HUDICONLAUNCH_SQUADASURANBOMBER"
 	content "States"
 	Disabled
 		fileName "Buttons_Main_Disabled"
@@ -1985,7 +1985,7 @@ brush
 		fileName "Buttons_Main_Normal"
 		pixelBox [ 413 , 216 , 47 , 33 ]
 brush
-	name "HUDICONDOCK_SQUADPHASECOMBAT"
+	name "HUDICONDOCK_SQUADASURANCOMBAT"
 	content "States"
 	Disabled
 		fileName "Buttons_Main_Disabled"
@@ -2003,7 +2003,7 @@ brush
 		fileName "Buttons_Main_Normal"
 		pixelBox [ 311 , 179 , 47 , 33 ]
 brush
-	name "HUDICONDOCK_SQUADPHASEBOMBER"
+	name "HUDICONDOCK_SQUADASURANBOMBER"
 	content "States"
 	Disabled
 		fileName "Buttons_Main_Disabled"
@@ -2046,17 +2046,17 @@ brush
 	fileName "Unit_Main"
 	pixelBox [ 451 , 31 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_SQUADPHASECOMBAT"
+	name "HUDICONSMALL_SQUADASURANCOMBAT"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 181 , 151 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_SQUADPHASEBOMBER"
+	name "HUDICONSMALL_SQUADASURANBOMBER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 151 , 151 , 28 , 28 ]
 brush
-	name "HUDICON_TRADESHIP_TECH"
+	name "HUDICON_TRADESHIP_TAURI"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -2092,7 +2092,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 251 , 364 , 47 , 33 ]
 brush
-	name "HUDICON_TRADESHIP_PHASE"
+	name "HUDICON_TRADESHIP_ASURAN"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -2110,7 +2110,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 251 , 399 , 47 , 33 ]
 brush
-	name "HUDICONSMALL_TRADESHIP_TECH"
+	name "HUDICONSMALL_TRADESHIP_TAURI"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 151 , 181 , 28 , 28 ]
@@ -2120,12 +2120,12 @@ brush
 	fileName "Unit_Main"
 	pixelBox [ 151 , 211 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_TRADESHIP_PHASE"
+	name "HUDICONSMALL_TRADESHIP_ASURAN"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 151 , 241 , 28 , 28 ]
 brush
-	name "HUDICON_REFINERYSHIP_TECH"
+	name "HUDICON_REFINERYSHIP_TAURI"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -2161,7 +2161,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 6 , 49 , 47 , 33 ]
 brush
-	name "HUDICON_REFINERYSHIP_PHASE"
+	name "HUDICON_REFINERYSHIP_ASURAN"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -2179,7 +2179,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 6 , 84 , 47 , 33 ]
 brush
-	name "HUDICONSMALL_REFINERYSHIP_TECH"
+	name "HUDICONSMALL_REFINERYSHIP_TAURI"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 301 , 181 , 28 , 28 ]
@@ -2189,7 +2189,7 @@ brush
 	fileName "Unit_Main"
 	pixelBox [ 301 , 211 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_REFINERYSHIP_PHASE"
+	name "HUDICONSMALL_REFINERYSHIP_ASURAN"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 301 , 241 , 28 , 28 ]

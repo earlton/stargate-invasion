@@ -52,32 +52,32 @@ brush
 	fileName "Unit_Picture"
 	pixelBox [ 682 , 626 , 167 , 75 ]
 brush
-	name "CAPITALSHIPPICTURE_PHASECOLONY"
+	name "CAPITALSHIPPICTURE_ASURANCOLONY"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 2 , 782 , 167 , 75 ]
 brush
-	name "CAPITALSHIPPICTURE_PHASECARRIER"
+	name "CAPITALSHIPPICTURE_ASURANCARRIER"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 342 , 782 , 167 , 75 ]
 brush
-	name "CAPITALSHIPPICTURE_PHASEBATTLESHIP"
+	name "CAPITALSHIPPICTURE_ASURANBATTLESHIP"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 172 , 782 , 167 , 75 ]
 brush
-	name "CAPITALSHIPPICTURE_PHASESCOUT"
+	name "CAPITALSHIPPICTURE_ASURANSCOUT"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 682 , 782 , 167 , 75 ]
 brush
-	name "CAPITALSHIPPICTURE_PHASESIEGE"
+	name "CAPITALSHIPPICTURE_ASURANSIEGE"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 512 , 782 , 167 , 75 ]
 brush
-	name "PICTURE_TRADESHIP_TECH"
+	name "PICTURE_TRADESHIP_TAURI"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 852 , 548 , 167 , 75 ]
@@ -87,12 +87,12 @@ brush
 	fileName "Unit_Picture"
 	pixelBox [ 852 , 704 , 167 , 75 ]
 brush
-	name "PICTURE_TRADESHIP_PHASE"
+	name "PICTURE_TRADESHIP_ASURAN"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 852 , 860 , 167 , 75 ]
 brush
-	name "PICTURE_REFINERYSHIP_TECH"
+	name "PICTURE_REFINERYSHIP_TAURI"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1702 , 548 , 167 , 75 ]
@@ -102,7 +102,7 @@ brush
 	fileName "Unit_Picture"
 	pixelBox [ 1702 , 704 , 167 , 75 ]
 brush
-	name "PICTURE_REFINERYSHIP_PHASE"
+	name "PICTURE_REFINERYSHIP_ASURAN"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1702 , 860 , 167 , 75 ]
@@ -132,217 +132,217 @@ brush
 	fileName "Unit_Picture"
 	pixelBox [ 852 , 236 , 167 , 75 ]
 brush
-	name "PICTURE_SQUADPHASECOMBAT"
+	name "PICTURE_SQUADASURANCOMBAT"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1022 , 782 , 167 , 75 ]
 brush
-	name "PICTURE_SQUADPHASEBOMBER"
+	name "PICTURE_SQUADASURANBOMBER"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 852 , 782 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_TECHANTIFIGHTER"
+	name "PICTURE_FRIGATE_TAURICLAUDIUS"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 512 , 548 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_TECHCARRIER"
+	name "PICTURE_FRIGATE_TAURIZEPHYR"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1192 , 548 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_TECHCOLONY"
+	name "PICTURE_FRIGATE_TAURIHESTIA"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 2 , 548 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_TECHHEAVY"
+	name "PICTURE_FRIGATE_TECHDAEDALUS"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 172 , 548 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_TECHLIGHT"
+	name "PICTURE_FRIGATE_TAURITEMPEST"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1362 , 548 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_TECHLONGRANGE"
+	name "PICTURE_FRIGATE_TAURIMORPHEUS"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1532 , 548 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_TECHSCOUT"
+	name "PICTURE_FRIGATE_TAURIFENRIR"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 682 , 548 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_TECHSIEGE"
+	name "PICTURE_FRIGATE_TAURIPHOENIX"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 342 , 548 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_TECHUTILITY0"
+	name "PICTURE_FRIGATE_TAURIPROMETHEUS"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1702 , 80 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_TECHUTILITY1"
+	name "PICTURE_FRIGATE_TAURIARES"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1872 , 80 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_TECHMODULECONSTRUCTOR"
+	name "PICTURE_FRIGATE_TAURIMODULECONSTRUCTOR"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1022 , 548 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_TECHSTARBASECONSTRUCTOR"
+	name "PICTURE_FRIGATE_TAURISTARBASECONSTRUCTOR"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1532 , 470 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_TECHENVOY"
+	name "PICTURE_FRIGATE_TAURIENVOY"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1872 , 470 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_TECHANTIMODULE"
+	name "PICTURE_FRIGATE_TAURINYX"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1702 , 470 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PSIANTIFIGHTER"
+	name "PICTURE_FRIGATE_WRAITHANTIFIGHTER"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 512 , 704 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PSICARRIER"
+	name "PICTURE_FRIGATE_WRAITHCARRIER"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1192 , 704 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PSICOLONY"
+	name "PICTURE_FRIGATE_WRAITHCOLONY"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 2 , 704 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PSIHEAVY"
+	name "PICTURE_FRIGATE_WRAITHHEAVY"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 172 , 704 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PSILIGHT"
+	name "PICTURE_FRIGATE_WRAITHLIGHT"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1362 , 704 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PSILONGRANGE"
+	name "PICTURE_FRIGATE_WRAITHLONGRANGE"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1532 , 704 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PSISCOUT"
+	name "PICTURE_FRIGATE_WRAITHSCOUT"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 682 , 704 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PSISIEGE"
+	name "PICTURE_FRIGATE_WRAITHSIEGE"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 342 , 704 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PSISTARBASECONSTRUCTOR"
+	name "PICTURE_FRIGATE_WRAITHSTARBASECONSTRUCTOR"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1532 , 626 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PSIUTILITY0"
+	name "PICTURE_FRIGATE_WRAITHUTILITY0"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1702 , 236 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PSIUTILITY1"
+	name "PICTURE_FRIGATE_WRAITHUTILITY1"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1872 , 236 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PSIMODULECONSTRUCTOR"
+	name "PICTURE_FRIGATE_WRAITHMODULECONSTRUCTOR"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1022 , 704 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PSIANTIMODULE"
+	name "PICTURE_FRIGATE_WRAITHANTIMODULE"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1702 , 626 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PSIENVOY"
+	name "PICTURE_FRIGATE_WRAITHENVOY"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1192 , 626 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PHASEANTIFIGHTER"
+	name "PICTURE_FRIGATE_ASURANANTIFIGHTER"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 512 , 860 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PHASECARRIER"
+	name "PICTURE_FRIGATE_ASURANCARRIER"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1192 , 860 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PHASECOLONY"
+	name "PICTURE_FRIGATE_ASURANCOLONY"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 2 , 860 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PHASEHEAVY"
+	name "PICTURE_FRIGATE_ASURANHEAVY"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 172 , 860 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PHASELIGHT"
+	name "PICTURE_FRIGATE_ASURANLIGHT"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1362 , 860 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PHASELONGRANGE"
+	name "PICTURE_FRIGATE_ASURANLONGRANGE"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1532 , 860 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PHASESCOUT"
+	name "PICTURE_FRIGATE_ASURANSCOUT"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 682 , 860 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PHASESIEGE"
+	name "PICTURE_FRIGATE_ASURANSIEGE"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 342 , 860 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PHASEUTILITY0"
+	name "PICTURE_FRIGATE_ASURANUTILITY0"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1702 , 392 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PHASEUTILITY1"
+	name "PICTURE_FRIGATE_ASURANUTILITY1"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1872 , 392 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PHASEMINELAYER"
+	name "PICTURE_FRIGATE_ASURANMINELAYER"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1702 , 782 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PHASEMODULECONSTRUCTOR"
+	name "PICTURE_FRIGATE_ASURANMODULECONSTRUCTOR"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1022 , 860 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_PHASEENVOY"
+	name "PICTURE_FRIGATE_ASURANENVOY"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1192 , 782 , 167 , 75 ]

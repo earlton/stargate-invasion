@@ -9,8 +9,8 @@ canBomb FALSE
 typeCount 1
 frigateRoleType "Cargo"
 statCountType "FrigateTradeShip"
-mainViewIcon "MAINVIEWICON_TRADESHIP_TECH"
-picture "PICTURE_TRADESHIP_TECH"
+mainViewIcon "MAINVIEWICON_TRADESHIP_TAURI"
+picture "PICTURE_TRADESHIP_TAURI"
 NameStringID "IDS_TRADESHIP_HUMANELEPHANT_NAME"
 DescriptionStringID "IDS_TRADESHIP_HUMANELEPHANT_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
@@ -36,9 +36,9 @@ numRandomDebrisLarge 0
 numRandomDebrisSmall 4
 numSpecificDebris 0
 armorType "Light"
-hudIcon "HUDICON_TRADESHIP_TECH"
-smallHudIcon "HUDICONSMALL_TRADESHIP_TECH"
-infoCardIcon "INFOCARDICON_TRADESHIP_TECH"
+hudIcon "HUDICON_TRADESHIP_TAURI"
+smallHudIcon "HUDICONSMALL_TRADESHIP_TAURI"
+infoCardIcon "INFOCARDICON_TRADESHIP_TAURI"
 minZoomDistanceMult 1.500000
 NumWeapons 0
 m_weaponIndexForRange 0

@@ -11,8 +11,8 @@ frigateRoleType "Heavy"
 frigateRoleType "Carrier"
 frigateRoleType "AntiModule"
 statCountType "FrigateAntiModule"
-mainViewIcon "MAINVIEWICON_FRIGATE_TECHANTIMODULE"
-picture "PICTURE_FRIGATE_TECHANTIMODULE"
+mainViewIcon "MAINVIEWICON_FRIGATE_TAURINYX"
+picture "PICTURE_FRIGATE_TAURINYX"
 NameStringID "IDS_FRIGATE_HUMANNYX_NAME"
 DescriptionStringID "IDS_FRIGATE_HUMANNYX_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_ANTIMODULE"
@@ -41,9 +41,9 @@ numRandomDebrisLarge 1
 numRandomDebrisSmall 9
 numSpecificDebris 0
 armorType "VeryHeavy"
-hudIcon "HUDICON_FRIGATE_TECHANTIMODULE"
-smallHudIcon "HUDICONSMALL_FRIGATE_TECHANTIMODULE"
-infoCardIcon "INFOCARDICON_FRIGATE_TECHANTIMODULE"
+hudIcon "HUDICON_FRIGATE_TAURINYX"
+smallHudIcon "HUDICON_FRIGATE_TAURINYX"
+infoCardIcon "INFOCARDICON_FRIGATE_TAURINYX"
 minZoomDistanceMult 2.500000
 NumWeapons 3
 Weapon

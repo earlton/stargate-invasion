@@ -41,7 +41,7 @@ bombEffectsDef
 		sound "EXPLOSION_SUB4_ALT1"
 		sound "EXPLOSION_SUB4_ALT2"
 	projectileTravelEffectName "Weapon_AsuranCapitalDroneUltra_Travel"
-mainViewIcon "MAINVIEWICON_CAPITALSHIP_PHASECOLONY"
+mainViewIcon "MAINVIEWICON_CAPITALSHIP_ASURANCOLONY"
 basePrice
 	credits 13000.000000
 	metal 3000.000000
@@ -77,7 +77,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_CAPITALSHIP_ASURANCOLONY_NAME"
 DescriptionStringID "IDS_CAPITALSHIP_ASURANCOLONY_DESCRIPTION"
-picture "CAPITALSHIPPICTURE_PHASECOLONY"
+picture "CAPITALSHIPPICTURE_ASURANCOLONY"
 Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
@@ -89,9 +89,9 @@ numRandomDebrisSmall 19
 numSpecificDebris 1
 specificDebrisMeshName "DebrisPhaseCapitalShipColony"
 armorType "CapitalShip"
-hudIcon "HUDICON_CAPITALSHIP_PHASECOLONY"
-smallHudIcon "HUDICONSMALL_CAPITALSHIP_PHASECOLONY"
-infoCardIcon "INFOCARDICON_CAPITALSHIP_PHASECOLONY"
+hudIcon "HUDICON_CAPITALSHIP_ASURANCOLONY"
+smallHudIcon "HUDICONSMALL_CAPITALSHIP_ASURANCOLONY"
+infoCardIcon "INFOCARDICON_CAPITALSHIP_ASURANCOLONY"
 minZoomDistanceMult 1.500000
 NumWeapons 2
 Weapon

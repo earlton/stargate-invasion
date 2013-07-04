@@ -16,9 +16,9 @@ targetFilter
 	space "Normal"
 	numConstraints 0
 range
-	Level:0 9000.000000
-	Level:1 12000.000000
-	Level:2 15000.000000
+	Level:0 7000.000000
+	Level:1 10000.000000
+	Level:2 13000.000000
 	Level:3 0.000000
 effectInfo
 	effectAttachInfo
@@ -36,7 +36,7 @@ levelSourceType "Intrinsic"
 minExperienceLevelRequired
 	Level:0 1.000000
 	Level:1 2.000000
-	Level:2 3.000000
+	Level:2 4.000000
 	Level:3 0.000000
 aiUseTime "OnlyInCombat"
 aiUseTargetCondition "IsCapitalShipOrStarbaseOrTitan"

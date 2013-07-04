@@ -1,8 +1,8 @@
 ﻿TXT
 entityType "Titan"
-ability:0 ""
+ability:0 "AbilityAsuranTitanEpheusDroneFrenzy"
 ability:1 ""
-ability:2 ""
+ability:2 "AbilityAsuranTitanMegaBeam"
 ability:3 ""
 ability:4 ""
 defaultAutoAttackRange "GravityWell"
@@ -81,7 +81,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_TITAN_ASURANEPHEUS_NAME"
 DescriptionStringID "IDS_TITAN_ASURANEPHEUS_DESCRIPTION"
-picture "TITANPICTURE_EPHEUS"
+picture "TITANPICTURE_ASURANEPHEUS"
 Prerequisites
 	NumResearchPrerequisites 1
 		ResearchPrerequisite
@@ -90,10 +90,14 @@ Prerequisites
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 statCountType "Titan"
-UpgradeTypeCount 3
-UpgradeType "TitanUpgrade_AsuranAtlantis_Durability"
-UpgradeType "TitanUpgrade_AsuranAtlantis_Weapons"
-UpgradeType "TitanUpgrade_AsuranAtlantis_Abilities"
+UpgradeTypeCount 7
+UpgradeType "TitanUpgrade_AsuranEpheus_AbilityA"
+UpgradeType "TitanUpgrade_AsuranEpheus_AbilityB"
+UpgradeType "TitanUpgrade_AsuranEpheus_AbilityC"
+UpgradeType "TitanUpgrade_AsuranEpheus_AbilityD"
+UpgradeType "TitanUpgrade_AsuranEpheus_Durability"
+UpgradeType "TitanUpgrade_AsuranEpheus_Weapons"
+UpgradeType "TitanUpgrade_AsuranEpheus_Abilities"
 numRandomDebrisLarge 80
 numRandomDebrisSmall 30
 numSpecificDebris 1

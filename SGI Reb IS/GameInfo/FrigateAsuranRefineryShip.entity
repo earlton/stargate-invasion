@@ -9,8 +9,8 @@ canBomb FALSE
 typeCount 1
 frigateRoleType "Cargo"
 statCountType "FrigateRefineryShip"
-mainViewIcon "MAINVIEWICON_REFINERYSHIP_PHASE"
-picture "PICTURE_REFINERYSHIP_PHASE"
+mainViewIcon "MAINVIEWICON_REFINERYSHIP_ASURAN"
+picture "PICTURE_REFINERYSHIP_ASURAN"
 NameStringID "IDS_REFINERYSHIP_ASURAN_NAME"
 DescriptionStringID "IDS_REFINERYSHIP_ASURAN_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
@@ -36,9 +36,9 @@ numRandomDebrisLarge 0
 numRandomDebrisSmall 3
 numSpecificDebris 0
 armorType "Light"
-hudIcon "HUDICON_REFINERYSHIP_PHASE"
-smallHudIcon "HUDICONSMALL_REFINERYSHIP_PHASE"
-infoCardIcon "INFOCARDICON_REFINERYSHIP_PHASE"
+hudIcon "HUDICON_REFINERYSHIP_ASURAN"
+smallHudIcon "HUDICONSMALL_REFINERYSHIP_ASURAN"
+infoCardIcon "INFOCARDICON_REFINERYSHIP_ASURAN"
 minZoomDistanceMult 1.500000
 NumWeapons 0
 m_weaponIndexForRange 0

@@ -12,9 +12,9 @@ instantAction
 	instantActionTriggerType "OnDelay"
 	delayTime 0.000000
 	damage
-		Level:0 1000.000000
-		Level:1 750.000000
-		Level:2 900.000000
+		Level:0 700.000000
+		Level:1 900.000000
+		Level:2 1000.000000
 		Level:3 0.000000
 	damageAffectType "AFFECTS_SHIELDS_AND_HULL"
 	damageType "PHYSICAL"

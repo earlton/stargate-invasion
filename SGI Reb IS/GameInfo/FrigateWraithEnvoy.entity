@@ -9,8 +9,8 @@ canBomb FALSE
 typeCount 1
 frigateRoleType "Envoy"
 statCountType "FrigateEnvoy"
-mainViewIcon "HUDICONSMALL_FRIGATE_PSIENVOY"
-picture "PICTURE_FRIGATE_PSIENVOY"
+mainViewIcon "HUDICONSMALL_FRIGATE_WRAITHENVOY"
+picture "PICTURE_FRIGATE_WRAITHENVOY"
 NameStringID "IDS_FRIGATE_WRAITHENVOY_NAME"
 DescriptionStringID "IDS_FRIGATE_WRAITHENVOY_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
@@ -39,9 +39,9 @@ numRandomDebrisLarge 0
 numRandomDebrisSmall 4
 numSpecificDebris 0
 armorType "Light"
-hudIcon "HUDICON_FRIGATE_PSIENVOY"
-smallHudIcon "HUDICONSMALL_FRIGATE_PSIENVOY"
-infoCardIcon "INFOCARDICON_FRIGATE_PSIENVOY"
+hudIcon "HUDICON_FRIGATE_WRAITHENVOY"
+smallHudIcon "HUDICONSMALL_FRIGATE_WRAITHENVOY"
+infoCardIcon "INFOCARDICON_FRIGATE_WRAITHENVOY"
 minZoomDistanceMult 1.500000
 NumWeapons 0
 m_weaponIndexForRange 0
