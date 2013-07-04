@@ -10,8 +10,8 @@ typeCount 2
 frigateRoleType "Carrier"
 frigateRoleType "Heavy"
 statCountType "FrigateHeavy"
-mainViewIcon "MAINVIEWICON_FRIGATE_PHASEHEAVY"
-picture "PICTURE_FRIGATE_PHASEHEAVY"
+mainViewIcon "MAINVIEWICON_FRIGATE_ASURANHEAVY"
+picture "PICTURE_FRIGATE_ASURANHEAVY"
 NameStringID "IDS_FRIGATE_ASURANHEAVY_NAME"
 DescriptionStringID "IDS_FRIGATE_ASURANHEAVY_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_HEAVY"
@@ -40,9 +40,9 @@ numRandomDebrisLarge 1
 numRandomDebrisSmall 10
 numSpecificDebris 0
 armorType "Heavy"
-hudIcon "HUDICON_FRIGATE_PHASEHEAVY"
-smallHudIcon "HUDICONSMALL_FRIGATE_PHASEHEAVY"
-infoCardIcon "INFOCARDICON_FRIGATE_PHASEHEAVY"
+hudIcon "HUDICON_FRIGATE_ASURANHEAVY"
+smallHudIcon "HUDICONSMALL_FRIGATE_ASURANHEAVY"
+infoCardIcon "INFOCARDICON_FRIGATE_ASURANHEAVY"
 minZoomDistanceMult 2.000000
 NumWeapons 2
 Weapon

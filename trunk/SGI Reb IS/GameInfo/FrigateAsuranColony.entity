@@ -11,8 +11,8 @@ frigateRoleType "Light"
 frigateRoleType "Colony"
 frigateRoleType "StarBaseConstructor"
 statCountType "FrigateColony"
-mainViewIcon "MAINVIEWICON_FRIGATE_PHASECOLONY"
-picture "PICTURE_FRIGATE_PHASECOLONY"
+mainViewIcon "MAINVIEWICON_FRIGATE_ASURANCOLONY"
+picture "PICTURE_FRIGATE_ASURANCOLONY"
 NameStringID "IDS_FRIGATE_ASURANCOLONY_NAME"
 DescriptionStringID "IDS_FRIGATE_ASURANCOLONY_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
@@ -38,9 +38,9 @@ numRandomDebrisLarge 1
 numRandomDebrisSmall 9
 numSpecificDebris 0
 armorType "Light"
-hudIcon "HUDICON_FRIGATE_PHASECOLONY"
-smallHudIcon "HUDICONSMALL_FRIGATE_PHASECOLONY"
-infoCardIcon "INFOCARDICON_FRIGATE_PHASECOLONY"
+hudIcon "HUDICON_FRIGATE_ASURANCOLONY"
+smallHudIcon "HUDICONSMALL_FRIGATE_ASURANCOLONY"
+infoCardIcon "INFOCARDICON_FRIGATE_ASURANCOLONY"
 minZoomDistanceMult 2.000000
 NumWeapons 2
 Weapon

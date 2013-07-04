@@ -2,7 +2,7 @@
 entityType "Ability"
 buffInstantActionType "ApplyTargettedBuffToSelf"
 instantActionTriggerType "AlwaysPerform"
-buffType "BuffAsuranMegaBeamCharge"
+buffType "BuffAsuranTitanMegaBeamCharge"
 targetFilter
 	numOwnerships 1
 	ownership "Enemy"
@@ -32,12 +32,8 @@ canCollideWithTarget TRUE
 moveThruTarget FALSE
 isUltimateAbility FALSE
 maxNumLevels 3
-levelSourceType "Intrinsic"
-minExperienceLevelRequired
-	Level:0 1.000000
-	Level:1 2.000000
-	Level:2 3.000000
-	Level:3 0.000000
+levelSourceType "TitanUpgradeLevel"
+sourcePropertyType "AbilityDLevel"
 aiUseTime "OnlyInCombat"
 aiUseTargetCondition "IsCapitalShipOrStarbaseOrTitan"
 isAutoCastAvailable TRUE
@@ -47,9 +43,9 @@ ignoreNonCombatShipsForAutoCastTarget FALSE
 onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
 useCostType "AntiMatter"
 antiMatterCost
-	Level:0 400.000000
-	Level:1 450.000000
-	Level:2 500.000000
+	Level:0 350.000000
+	Level:1 400.000000
+	Level:2 450.000000
 	Level:3 0.000000
 cooldownTime
 	Level:0 75.000000

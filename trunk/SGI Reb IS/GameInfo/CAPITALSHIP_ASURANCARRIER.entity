@@ -77,7 +77,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_CAPITALSHIP_ASURANCARRIER_NAME"
 DescriptionStringID "IDS_CAPITALSHIP_ASURANCARRIER_DESCRIPTION"
-picture "CAPITALSHIPPICTURE_PHASECARRIER"
+picture "CAPITALSHIPPICTURE_ASURANCARRIER"
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
@@ -92,9 +92,9 @@ numRandomDebrisSmall 12
 numSpecificDebris 1
 specificDebrisMeshName "DebrisPhaseCapitalShipCarrier"
 armorType "CapitalShip"
-hudIcon "HUDICON_CAPITALSHIP_PHASECARRIER"
-smallHudIcon "HUDICONSMALL_CAPITALSHIP_PHASECARRIER"
-infoCardIcon "INFOCARDICON_CAPITALSHIP_PHASECARRIER"
+hudIcon "HUDICON_CAPITALSHIP_ASURANCARRIER"
+smallHudIcon "HUDICONSMALL_CAPITALSHIP_ASURANCARRIER"
+infoCardIcon "INFOCARDICON_CAPITALSHIP_ASURANCARRIER"
 minZoomDistanceMult 2.500000
 NumWeapons 2
 Weapon

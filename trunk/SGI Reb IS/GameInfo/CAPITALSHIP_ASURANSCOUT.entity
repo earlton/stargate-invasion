@@ -41,7 +41,7 @@ bombEffectsDef
 		sound "EXPLOSION_SUB4_ALT1"
 		sound "EXPLOSION_SUB4_ALT2"
 	projectileTravelEffectName "Weapon_AsuranCapitalLaserLight_Travel"
-mainViewIcon "MAINVIEWICON_CAPITALSHIP_PHASESCOUT"
+mainViewIcon "MAINVIEWICON_CAPITALSHIP_ASURANSCOUT"
 basePrice
 	credits 4000.000000
 	metal 850.000000
@@ -77,7 +77,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_CAPITALSHIP_ASURANSCOUT_NAME"
 DescriptionStringID "IDS_CAPITALSHIP_ASURANSCOUT_DESCRIPTION"
-picture "CAPITALSHIPPICTURE_PHASESCOUT"
+picture "CAPITALSHIPPICTURE_ASURANSCOUT"
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
@@ -91,9 +91,9 @@ numRandomDebrisLarge 3
 numRandomDebrisSmall 17
 numSpecificDebris 0
 armorType "CapitalShip"
-hudIcon "HUDICON_CAPITALSHIP_PHASESCOUT"
-smallHudIcon "HUDICONSMALL_CAPITALSHIP_PHASESCOUT"
-infoCardIcon "INFOCARDICON_CAPITALSHIP_PHASESCOUT"
+hudIcon "HUDICON_CAPITALSHIP_ASURANSCOUT"
+smallHudIcon "HUDICONSMALL_CAPITALSHIP_ASURANSCOUT"
+infoCardIcon "INFOCARDICON_CAPITALSHIP_ASURANSCOUT"
 minZoomDistanceMult 2.500000
 NumWeapons 2
 Weapon

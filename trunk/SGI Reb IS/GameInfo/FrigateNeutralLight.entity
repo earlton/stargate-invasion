@@ -9,8 +9,8 @@ canBomb FALSE
 typeCount 1
 frigateRoleType "Light"
 statCountType "FrigateLight"
-mainViewIcon "MAINVIEWICON_FRIGATE_PSILIGHT"
-picture "PICTURE_FRIGATE_PSILIGHT"
+mainViewIcon "MAINVIEWICON_FRIGATE_WRAITHLIGHT"
+picture "PICTURE_FRIGATE_WRAITHLIGHT"
 NameStringID "IDS_FRIGATE_WRAITHLIGHT_NAME"
 DescriptionStringID "IDS_FRIGATE_WRAITHLIGHT_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_LIGHT"
@@ -36,9 +36,9 @@ numRandomDebrisLarge 0
 numRandomDebrisSmall 5
 numSpecificDebris 0
 armorType "Light"
-hudIcon "HUDICON_FRIGATE_PSILIGHT"
-smallHudIcon "HUDICONSMALL_FRIGATE_PSILIGHT"
-infoCardIcon "INFOCARDICON_FRIGATE_PSILIGHT"
+hudIcon "HUDICON_FRIGATE_WRAITHLIGHT"
+smallHudIcon "HUDICONSMALL_FRIGATE_WRAITHLIGHT"
+infoCardIcon "INFOCARDICON_FRIGATE_WRAITHLIGHT"
 minZoomDistanceMult 2.000000
 NumWeapons 2
 Weapon

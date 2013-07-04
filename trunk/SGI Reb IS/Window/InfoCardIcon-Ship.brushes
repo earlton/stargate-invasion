@@ -2,7 +2,7 @@
 onlyLoadOnDemand FALSE
 brushCount 92
 brush
-	name "INFOCARDICON_CORVETTE_PHASE"
+	name "INFOCARDICON_CORVETTE_ASURAN"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 276 , 120 , 22 , 22 ]
@@ -17,17 +17,17 @@ brush
 	fileName "Unit_Infocard"
 	pixelBox [ 256 , 119 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PHASENANITE"
+	name "INFOCARDICON_FRIGATE_ASURANNANITE"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 335 , 70 , 22 , 22 ]
 brush
-	name "INFOCARDICON_TITAN_TECHLOYALIST"
+	name "INFOCARDICON_TITAN_TAURICARRIER"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 344 , 94 , 22 , 22 ]
 brush
-	name "INFOCARDICON_TITAN_TECHREBEL"
+	name "INFOCARDICON_TITAN_TAURICARRIER"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 303 , 70 , 22 , 22 ]
@@ -72,12 +72,12 @@ brush
 	fileName "Unit_Infocard"
 	pixelBox [ 260 , 92 , 22 , 22 ]
 brush
-	name "INFOCARDICON_CAPITALSHIP_PHASEBATTLESHIP2"
+	name "INFOCARDICON_CAPITALSHIP_ASURANBATTLESHIP2"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 232 , 92 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PHASEFLAGSHIP"
+	name "INFOCARDICON_FRIGATE_ASURANFLAGSHIP"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 351 , 164 , 22 , 22 ]
@@ -132,232 +132,232 @@ brush
 	fileName "Unit_Infocard"
 	pixelBox [ 93 , 93 , 22 , 22 ]
 brush
-	name "INFOCARDICON_CAPITALSHIP_PHASECOLONY"
+	name "INFOCARDICON_CAPITALSHIP_ASURANCOLONY"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 1 , 116 , 22 , 22 ]
 brush
-	name "INFOCARDICON_CAPITALSHIP_PHASECARRIER"
+	name "INFOCARDICON_CAPITALSHIP_ASURANCARRIER"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 47 , 116 , 22 , 22 ]
 brush
-	name "INFOCARDICON_CAPITALSHIP_PHASEBATTLESHIP"
+	name "INFOCARDICON_CAPITALSHIP_ASURANBATTLESHIP"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 24 , 116 , 22 , 22 ]
 brush
-	name "INFOCARDICON_CAPITALSHIP_PHASESCOUT"
+	name "INFOCARDICON_CAPITALSHIP_ASURANSCOUT"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 93 , 116 , 22 , 22 ]
 brush
-	name "INFOCARDICON_CAPITALSHIP_PHASESIEGE"
+	name "INFOCARDICON_CAPITALSHIP_ASURANSIEGE"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 70 , 116 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_TECHANTIFIGHTER"
+	name "INFOCARDICON_FRIGATE_TAURICLAUDIUS"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 70 , 139 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_TECHANTIMODULE"
+	name "INFOCARDICON_FRIGATE_TAURINYX"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 323 , 139 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_TECHCARRIER"
+	name "INFOCARDICON_FRIGATE_TAURIZEPHYR"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 162 , 139 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_TECHCOLONY"
+	name "INFOCARDICON_FRIGATE_TAURIHESTIA"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 1 , 139 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_TECHHEAVY"
+	name "INFOCARDICON_FRIGATE_TAURIDEADALUS"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 24 , 139 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_TECHLIGHT"
+	name "INFOCARDICON_FRIGATE_TAURITEMPEST"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 185 , 139 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_TECHLONGRANGE"
+	name "INFOCARDICON_FRIGATE_TAURIMORPHEUS"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 208 , 139 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_TECHSCOUT"
+	name "INFOCARDICON_FRIGATE_TAURIFENRIR"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 93 , 139 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_TECHSIEGE"
+	name "INFOCARDICON_FRIGATE_TAURIPHOENIX"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 47 , 139 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_TECHUTILITY0"
+	name "INFOCARDICON_FRIGATE_TAURIPROMETHEUS"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 254 , 139 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_TECHUTILITY1"
+	name "INFOCARDICON_FRIGATE_TAURIARES"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 277 , 139 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_TECHMODULECONSTRUCTOR"
+	name "INFOCARDICON_FRIGATE_TAURIMODULECONSTRUCTOR"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 139 , 139 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_TECHSTARBASECONSTRUCTOR"
+	name "INFOCARDICON_FRIGATE_TAURISTARBASECONSTRUCTOR"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 300 , 139 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_TECHENVOY"
+	name "INFOCARDICON_FRIGATE_TAURIENVOY"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 277 , 70 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PSIANTIFIGHTER"
+	name "INFOCARDICON_FRIGATE_WRAITHANTIFIGHTER"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 70 , 162 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PSIANTIMODULE"
+	name "INFOCARDICON_FRIGATE_WRAITHANTIMODULE"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 323 , 162 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PSICARRIER"
+	name "INFOCARDICON_FRIGATE_WRAITHCARRIER"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 162 , 162 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PSICOLONY"
+	name "INFOCARDICON_FRIGATE_WRAITHCOLONY"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 1 , 162 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PSIHEAVY"
+	name "INFOCARDICON_FRIGATE_WRAITHHEAVY"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 24 , 162 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PSILIGHT"
+	name "INFOCARDICON_FRIGATE_WRAITHLIGHT"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 185 , 162 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PSILONGRANGE"
+	name "INFOCARDICON_FRIGATE_WRAITHLONGRANGE"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 208 , 162 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PSISCOUT"
+	name "INFOCARDICON_FRIGATE_WRAITHSCOUT"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 93 , 162 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PSISIEGE"
+	name "INFOCARDICON_FRIGATE_WRAITHSIEGE"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 47 , 162 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PSISTARBASECONSTRUCTOR"
+	name "INFOCARDICON_FRIGATE_WRAITHSTARBASECONSTRUCTOR"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 300 , 162 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PSIENVOY"
+	name "INFOCARDICON_FRIGATE_WRAITHENVOY"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 254 , 70 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PSIUTILITY0"
+	name "INFOCARDICON_FRIGATE_WRAITHUTILITY0"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 254 , 162 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PSIUTILITY1"
+	name "INFOCARDICON_FRIGATE_WRAITHUTILITY1"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 277 , 162 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PSIMODULECONSTRUCTOR"
+	name "INFOCARDICON_FRIGATE_WRAITHMODULECONSTRUCTOR"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 139 , 162 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PHASEANTIFIGHTER"
+	name "INFOCARDICON_FRIGATE_ASURANANTIFIGHTER"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 70 , 185 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PHASECARRIER"
+	name "INFOCARDICON_FRIGATE_ASURANCARRIER"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 162 , 185 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PHASECOLONY"
+	name "INFOCARDICON_FRIGATE_ASURANCOLONY"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 1 , 185 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PHASEHEAVY"
+	name "INFOCARDICON_FRIGATE_ASURANHEAVY"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 24 , 185 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PHASELIGHT"
+	name "INFOCARDICON_FRIGATE_ASURANLIGHT"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 185 , 185 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PHASELONGRANGE"
+	name "INFOCARDICON_FRIGATE_ASURANLONGRANGE"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 208 , 185 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PHASESCOUT"
+	name "INFOCARDICON_FRIGATE_ASURANSCOUT"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 93 , 185 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PHASESIEGE"
+	name "INFOCARDICON_FRIGATE_ASURANSIEGE"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 47 , 185 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PHASEUTILITY0"
+	name "INFOCARDICON_FRIGATE_ASURANUTILITY0"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 254 , 185 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PHASEUTILITY1"
+	name "INFOCARDICON_FRIGATE_ASURANUTILITY1"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 277 , 185 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PHASEMINELAYER"
+	name "INFOCARDICON_FRIGATE_ASURANMINELAYER"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 323 , 185 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PHASEMODULECONSTRUCTOR"
+	name "INFOCARDICON_FRIGATE_ASURANMODULECONSTRUCTOR"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 139 , 185 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PHASEENVOY"
+	name "INFOCARDICON_FRIGATE_ASURANENVOY"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 231 , 70 , 22 , 22 ]
@@ -397,7 +397,7 @@ brush
 	fileName "Unit_Infocard"
 	pixelBox [ 185 , 116 , 22 , 22 ]
 brush
-	name "INFOCARDICON_TRADESHIP_TECH"
+	name "INFOCARDICON_TRADESHIP_TAURI"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 116 , 139 , 22 , 22 ]
@@ -407,12 +407,12 @@ brush
 	fileName "Unit_Infocard"
 	pixelBox [ 116 , 162 , 22 , 22 ]
 brush
-	name "INFOCARDICON_TRADESHIP_PHASE"
+	name "INFOCARDICON_TRADESHIP_ASURAN"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 116 , 185 , 22 , 22 ]
 brush
-	name "INFOCARDICON_REFINERYSHIP_TECH"
+	name "INFOCARDICON_REFINERYSHIP_TAURI"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 231 , 139 , 22 , 22 ]
@@ -422,7 +422,7 @@ brush
 	fileName "Unit_Infocard"
 	pixelBox [ 231 , 162 , 22 , 22 ]
 brush
-	name "INFOCARDICON_REFINERYSHIP_PHASE"
+	name "INFOCARDICON_REFINERYSHIP_ASURAN"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 231 , 185 , 22 , 22 ]
@@ -452,12 +452,12 @@ brush
 	fileName "Unit_Infocard"
 	pixelBox [ 346 , 24 , 22 , 22 ]
 brush
-	name "INFOCARDICON_SQUADPHASECOMBAT"
+	name "INFOCARDICON_SQUADASURANCOMBAT"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 139 , 116 , 22 , 22 ]
 brush
-	name "INFOCARDICON_SQUADPHASEBOMBER"
+	name "INFOCARDICON_SQUADASURANBOMBER"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 116 , 116 , 22 , 22 ]

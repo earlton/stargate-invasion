@@ -43,8 +43,8 @@ typeCount 2
 frigateRoleType "Carrier"
 frigateRoleType "Siege"
 statCountType "FrigateSiege"
-mainViewIcon "MAINVIEWICON_FRIGATE_TECHSIEGE"
-picture "PICTURE_FRIGATE_TECHSIEGE"
+mainViewIcon "MAINVIEWICON_FRIGATE_TAURIPHOENIX"
+picture "PICTURE_FRIGATE_TAURIPHOENIX"
 NameStringID "IDS_FRIGATE_HUMANPHOENIX_NAME"
 DescriptionStringID "IDS_FRIGATE_HUMANPHOENIX_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
@@ -73,9 +73,9 @@ numRandomDebrisLarge 0
 numRandomDebrisSmall 8
 numSpecificDebris 0
 armorType "Heavy"
-hudIcon "HUDICON_FRIGATE_TECHSIEGE"
-smallHudIcon "HUDICONSMALL_FRIGATE_TECHSIEGE"
-infoCardIcon "INFOCARDICON_FRIGATE_TECHSIEGE"
+hudIcon "HUDICON_FRIGATE_TAURIPHOENIX"
+smallHudIcon "HUDICONSMALL_FRIGATE_TAURIPHOENIX"
+infoCardIcon "INFOCARDICON_FRIGATE_TAURIPHOENIX"
 minZoomDistanceMult 2.500000
 NumWeapons 3
 Weapon

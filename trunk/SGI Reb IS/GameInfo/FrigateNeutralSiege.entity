@@ -40,8 +40,8 @@ typeCount 2
 frigateRoleType "Carrier"
 frigateRoleType "Siege"
 statCountType "FrigateSiege"
-mainViewIcon "MAINVIEWICON_FRIGATE_PSISIEGE"
-picture "PICTURE_FRIGATE_PSISIEGE"
+mainViewIcon "MAINVIEWICON_FRIGATE_WRAITHSIEGE"
+picture "PICTURE_FRIGATE_WRAITHSIEGE"
 NameStringID "IDS_FRIGATE_WRAITHSIEGE_NAME"
 DescriptionStringID "IDS_FRIGATE_WRAITHSIEGE_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
@@ -70,9 +70,9 @@ numRandomDebrisLarge 0
 numRandomDebrisSmall 6
 numSpecificDebris 0
 armorType "Heavy"
-hudIcon "HUDICON_FRIGATE_PSISIEGE"
-smallHudIcon "HUDICONSMALL_FRIGATE_PSISIEGE"
-infoCardIcon "INFOCARDICON_FRIGATE_PSISIEGE"
+hudIcon "HUDICON_FRIGATE_WRAITHSIEGE"
+smallHudIcon "HUDICONSMALL_FRIGATE_WRAITHSIEGE"
+infoCardIcon "INFOCARDICON_FRIGATE_WRAITHSIEGE"
 minZoomDistanceMult 2.000000
 NumWeapons 2
 Weapon

@@ -9,7 +9,7 @@ canBomb FALSE
 typeCount 1
 frigateRoleType "Cargo"
 statCountType "FrigateRefineryShip"
-mainViewIcon "MAINVIEWICON_REFINERYSHIP_PSI"
+mainViewIcon "MAINVIEWICON_REFINERYSHIP_WRAITH"
 picture "PICTURE_REFINERYSHIP_PSI"
 NameStringID "IDS_REFINERYSHIP_WRAITH_NAME"
 DescriptionStringID "IDS_REFINERYSHIP_WRAITH_DESCRIPTION"

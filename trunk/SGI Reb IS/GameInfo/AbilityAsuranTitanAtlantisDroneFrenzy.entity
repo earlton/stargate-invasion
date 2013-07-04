@@ -69,7 +69,8 @@ canCollideWithTarget TRUE
 moveThruTarget FALSE
 isUltimateAbility FALSE
 maxNumLevels 1
-levelSourceType "FixedLevel0"
+levelSourceType "TitanUpgradeLevel"
+sourcePropertyType "AbilityALevel"
 aiUseTime "OnlyWhenManyTargetsInRange"
 onlyAutoCastWhenTargetCountExceedsAmount
 	Level:0 2.000000

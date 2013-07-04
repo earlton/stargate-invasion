@@ -10,8 +10,8 @@ typeCount 2
 frigateRoleType "Carrier"
 frigateRoleType "Support"
 statCountType "FrigateUtility0"
-mainViewIcon "MAINVIEWICON_FRIGATE_TECHUTILITY0"
-picture "PICTURE_FRIGATE_TECHUTILITY0"
+mainViewIcon "MAINVIEWICON_FRIGATE_TAURIPROMETHEUS"
+picture "PICTURE_FRIGATE_TAURIPROMETHEUS"
 NameStringID "IDS_FRIGATE_HUMANPROMETHEUS_NAME"
 DescriptionStringID "IDS_FRIGATE_HUMANPROMETHEUS_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
@@ -37,9 +37,9 @@ numRandomDebrisLarge 1
 numRandomDebrisSmall 6
 numSpecificDebris 0
 armorType "Medium"
-hudIcon "HUDICON_FRIGATE_TECHUTILITY0"
-smallHudIcon "HUDICONSMALL_FRIGATE_TECHUTILITY0"
-infoCardIcon "INFOCARDICON_FRIGATE_TECHUTILITY0"
+hudIcon "HUDICON_FRIGATE_TAURIPROMETHEUS"
+smallHudIcon "HUDICONSMALL_FRIGATE_TAURIPROMETHEUS"
+infoCardIcon "INFOCARDICON_FRIGATE_TAURIPROMETHEUS"
 minZoomDistanceMult 2.500000
 NumWeapons 3
 Weapon
@@ -170,7 +170,7 @@ Weapon
 m_weaponIndexForRange 0
 firingAlignmentType "Default"
 TargetCountPerBank:FRONT 1
-TargetCountPerBank:BACK 0
+TargetCountPerBank:BACK 1
 TargetCountPerBank:LEFT 1
 TargetCountPerBank:RIGHT 1
 canOnlyTargetStructures FALSE

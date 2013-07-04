@@ -11,8 +11,8 @@ frigateRoleType "Scout"
 frigateRoleType "AntiMine"
 frigateRoleType "ResourceCapturer"
 statCountType "FrigateScout"
-mainViewIcon "MAINVIEWICON_FRIGATE_PHASESCOUT"
-picture "PICTURE_FRIGATE_PHASESCOUT"
+mainViewIcon "MAINVIEWICON_FRIGATE_ASURANSCOUT"
+picture "PICTURE_FRIGATE_ASURANSCOUT"
 NameStringID "IDS_FRIGATE_ASURANSCOUT_NAME"
 DescriptionStringID "IDS_FRIGATE_ASURANSCOUT_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
@@ -38,9 +38,9 @@ numRandomDebrisLarge 0
 numRandomDebrisSmall 4
 numSpecificDebris 0
 armorType "Light"
-hudIcon "HUDICON_FRIGATE_PHASESCOUT"
-smallHudIcon "HUDICONSMALL_FRIGATE_PHASESCOUT"
-infoCardIcon "INFOCARDICON_FRIGATE_PHASESCOUT"
+hudIcon "HUDICON_FRIGATE_ASURANSCOUT"
+smallHudIcon "HUDICONSMALL_FRIGATE_ASURANSCOUT"
+infoCardIcon "INFOCARDICON_FRIGATE_ASURANSCOUT"
 minZoomDistanceMult 1.500000
 NumWeapons 1
 Weapon

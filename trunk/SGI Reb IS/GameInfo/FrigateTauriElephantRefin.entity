@@ -9,8 +9,8 @@ canBomb FALSE
 typeCount 1
 frigateRoleType "Cargo"
 statCountType "FrigateRefineryShip"
-mainViewIcon "MAINVIEWICON_REFINERYSHIP_TECH"
-picture "PICTURE_REFINERYSHIP_TECH"
+mainViewIcon "MAINVIEWICON_REFINERYSHIP_TAURI"
+picture "PICTURE_REFINERYSHIP_TAURI"
 NameStringID "IDS_REFINERYSHIP_HUMANELEPHANT_NAME"
 DescriptionStringID "IDS_REFINERYSHIP_HUMANELEPHANT_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
@@ -36,9 +36,9 @@ numRandomDebrisLarge 0
 numRandomDebrisSmall 3
 numSpecificDebris 0
 armorType "Light"
-hudIcon "HUDICON_REFINERYSHIP_TECH"
-smallHudIcon "HUDICONSMALL_REFINERYSHIP_TECH"
-infoCardIcon "INFOCARDICON_REFINERYSHIP_TECH"
+hudIcon "HUDICON_REFINERYSHIP_TAURI"
+smallHudIcon "HUDICONSMALL_REFINERYSHIP_TAURI"
+infoCardIcon "INFOCARDICON_REFINERYSHIP_TAURI"
 minZoomDistanceMult 1.500000
 NumWeapons 0
 m_weaponIndexForRange 0

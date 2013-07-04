@@ -4,9 +4,9 @@ defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
 prefersToFocusFire TRUE
 usesFighterAttack FALSE
-hudIcon "HUDICON_SQUADPHASECOMBAT"
-smallHudIcon "HUDICONSMALL_SQUADPHASECOMBAT"
-infoCardIcon "INFOCARDICON_SQUADPHASECOMBAT"
+hudIcon "HUDICON_SQUADASURANCOMBAT"
+smallHudIcon "HUDICONSMALL_SQUADASURANCOMBAT"
+infoCardIcon "INFOCARDICON_SQUADASURANCOMBAT"
 fighterEntityDef "FighterAsuranCombat"
 fighterIllusionEntityDef ""
 scuttleTime 12.000000
@@ -15,12 +15,12 @@ decayWithoutOwnerRate 1.000000
 baseMaxNumFighters 3
 role "Combat"
 statCountType "SquadCombat"
-mainViewIcon "MAINVIEWICON_SQUADPHASECOMBAT"
-picture "PICTURE_SQUADPHASECOMBAT"
-launchIcon "HUDICONLAUNCH_SQUADPHASECOMBAT"
-dockIcon "HUDICONDOCK_SQUADPHASECOMBAT"
-nameStringID "IDS_SQUADWRAITHCOMBAT_NAME"
-descriptionStringID "IDS_SQUADWRAITHCOMBAT_DESC"
+mainViewIcon "MAINVIEWICON_SQUADASURANCOMBAT"
+picture "PICTURE_SQUADASURANCOMBAT"
+launchIcon "HUDICONLAUNCH_SQUADASURANCOMBAT"
+dockIcon "HUDICONDOCK_SQUADASURANCOMBAT"
+nameStringID "IDS_SQUADASURANCOMBAT_NAME"
+descriptionStringID "IDS_SQUADASURANCOMBAT_DESC"
 researchPrerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
