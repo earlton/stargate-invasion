@@ -1,9 +1,9 @@
 ﻿TXT
 entityType "Titan"
 ability:0 "AbilityAsuranTitanEpheusDroneFrenzy"
-ability:1 ""
+ability:1 "AbilityAsuranTitanEpheusDroneFrenzy"
 ability:2 "AbilityAsuranTitanMegaBeam"
-ability:3 ""
+ability:3 "AbilityAsuranTitanMegaBeam"
 ability:4 ""
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
