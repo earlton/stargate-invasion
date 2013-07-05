@@ -4,9 +4,9 @@ defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
 prefersToFocusFire TRUE
 usesFighterAttack FALSE
-hudIcon "HUDICON_SQUADTECHCOMBAT"
-smallHudIcon "HUDICONSMALL_SQUADTECHCOMBAT"
-infoCardIcon "INFOCARDICON_SQUADTECHCOMBAT"
+hudIcon "HUDICON_SQUADTAURICOMBAT"
+smallHudIcon "HUDICONSMALL_SQUADTAURICOMBAT"
+infoCardIcon "INFOCARDICON_SQUADTAURICOMBAT"
 fighterEntityDef "FighterTauri302"
 fighterIllusionEntityDef "FighterTauri302"
 scuttleTime 10.000000
@@ -15,12 +15,12 @@ decayWithoutOwnerRate 3.000000
 baseMaxNumFighters 6
 role "Combat"
 statCountType "SquadCombat"
-mainViewIcon "MAINVIEWICON_SQUADTECHCOMBAT"
-picture "PICTURE_SQUADTECHCOMBAT"
-launchIcon "HUDICONLAUNCH_SQUADTECHCOMBAT"
-dockIcon "HUDICONDOCK_SQUADTECHCOMBAT"
-nameStringID "IDS_SQUADTECHCOMBAT_NAME"
-descriptionStringID "IDS_SQUADTECHCOMBAT_DESC"
+mainViewIcon "MAINVIEWICON_SQUADTAURICOMBAT"
+picture "PICTURE_SQUADTAURICOMBAT"
+launchIcon "HUDICONLAUNCH_SQUADTAURICOMBAT"
+dockIcon "HUDICONDOCK_SQUADTAURICOMBAT"
+nameStringID "IDS_SQUADTAURICOMBAT_NAME"
+descriptionStringID "IDS_SQUADTAURICOMBAT_DESC"
 researchPrerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""

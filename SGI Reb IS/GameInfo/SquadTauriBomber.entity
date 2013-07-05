@@ -4,9 +4,9 @@ defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
 prefersToFocusFire TRUE
 usesFighterAttack FALSE
-hudIcon "HUDICON_SQUADTECHBOMBER"
-smallHudIcon "HUDICONSMALL_SQUADTECHBOMBER"
-infoCardIcon "INFOCARDICON_SQUADTECHBOMBER"
+hudIcon "HUDICON_SQUADTAURIBOMBER"
+smallHudIcon "HUDICONSMALL_SQUADTAURIBOMBER"
+infoCardIcon "INFOCARDICON_SQUADTAURIBOMBER"
 fighterEntityDef "FighterTauriBomber"
 fighterIllusionEntityDef "FighterTauriBomber"
 scuttleTime 12.500000
@@ -15,12 +15,12 @@ decayWithoutOwnerRate 2.000000
 baseMaxNumFighters 4
 role "Bomber"
 statCountType "SquadBomber"
-mainViewIcon "MAINVIEWICON_SQUADTECHBOMBER"
-picture "PICTURE_SQUADTECHBOMBER"
-launchIcon "HUDICONLAUNCH_SQUADTECHBOMBER"
-dockIcon "HUDICONDOCK_SQUADTECHBOMBER"
-nameStringID "IDS_SQUADTECHBOMBER_NAME"
-descriptionStringID "IDS_SQUADTECHBOMBER_DESC"
+mainViewIcon "MAINVIEWICON_SQUADTAURIBOMBER"
+picture "PICTURE_SQUADTAURIBOMBER"
+launchIcon "HUDICONLAUNCH_SQUADTAURIBOMBER"
+dockIcon "HUDICONDOCK_SQUADTAURIBOMBER"
+nameStringID "IDS_SQUADTAURIBOMBER_NAME"
+descriptionStringID "IDS_SQUADTAURIBOMBER_DESC"
 researchPrerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""

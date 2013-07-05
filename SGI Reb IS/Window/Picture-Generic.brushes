@@ -1,6 +1,26 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 14
+brushCount 18
+brush
+	name "STARPICTURE_QUASAR"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 853 , 236 , 167 , 75 ]
+brush
+	name "STARPICTURE_NEUTRON"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 852 , 314 , 167 , 75 ]
+brush
+	name "STARPICTURE_PULSAR"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 172 , 392 , 167 , 75 ]
+brush
+	name "STARPICTURE_WHITE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 342 , 392 , 167 , 75 ]
 brush
 	name "PictureCannonShellTech"
 	content "Simple"

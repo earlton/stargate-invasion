@@ -4,9 +4,9 @@ defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
 prefersToFocusFire TRUE
 usesFighterAttack FALSE
-hudIcon "HUDICON_SQUADPSIBOMBER"
-smallHudIcon "HUDICONSMALL_SQUADPSIBOMBER"
-infoCardIcon "INFOCARDICON_SQUADPSIBOMBER"
+hudIcon "HUDICON_SQUADWRAITHBOMBER"
+smallHudIcon "HUDICONSMALL_SQUADWRAITHBOMBER"
+infoCardIcon "INFOCARDICON_SQUADWRAITHBOMBER"
 fighterEntityDef "FighterWraithBomber"
 fighterIllusionEntityDef "FighterWraithBomber"
 scuttleTime 9.000000
@@ -15,10 +15,10 @@ decayWithoutOwnerRate 5.000000
 baseMaxNumFighters 5
 role "Bomber"
 statCountType "SquadBomber"
-mainViewIcon "MAINVIEWICON_SQUADPSIBOMBER"
-picture "PICTURE_SQUADPSIBOMBER"
-launchIcon "HUDICONLAUNCH_SQUADPSIBOMBER"
-dockIcon "HUDICONDOCK_SQUADPSIBOMBER"
+mainViewIcon "MAINVIEWICON_SQUADWRAITHBOMBER"
+picture "PICTURE_SQUADWRAITHBOMBER"
+launchIcon "HUDICONLAUNCH_SQUADWRAITHBOMBER"
+dockIcon "HUDICONDOCK_SQUADWRAITHBOMBER"
 nameStringID "IDS_SQUADWRAITHBOMBER_NAME"
 descriptionStringID "IDS_SQUADWRAITHBOMBER_DESC"
 researchPrerequisites

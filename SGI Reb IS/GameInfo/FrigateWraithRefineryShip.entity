@@ -10,7 +10,7 @@ typeCount 1
 frigateRoleType "Cargo"
 statCountType "FrigateRefineryShip"
 mainViewIcon "MAINVIEWICON_REFINERYSHIP_WRAITH"
-picture "PICTURE_REFINERYSHIP_PSI"
+picture "PICTURE_REFINERYSHIP_WRAITH"
 NameStringID "IDS_REFINERYSHIP_WRAITH_NAME"
 DescriptionStringID "IDS_REFINERYSHIP_WRAITH_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
@@ -36,9 +36,9 @@ numRandomDebrisLarge 0
 numRandomDebrisSmall 3
 numSpecificDebris 0
 armorType "Light"
-hudIcon "HUDICON_REFINERYSHIP_PSI"
-smallHudIcon "HUDICONSMALL_REFINERYSHIP_PSI"
-infoCardIcon "INFOCARDICON_REFINERYSHIP_PSI"
+hudIcon "HUDICON_REFINERYSHIP_WRAITH"
+smallHudIcon "HUDICONSMALL_REFINERYSHIP_WRAITH"
+infoCardIcon "INFOCARDICON_REFINERYSHIP_WRAITH"
 minZoomDistanceMult 1.500000
 NumWeapons 0
 m_weaponIndexForRange 0

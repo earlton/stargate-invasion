@@ -66,8 +66,8 @@ MeshNameInfo
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExplosionName "PlanetModuleLarge"
-mainViewIcon "MAINVIEWICON_PLANETMODULE_PHASEORBITALCANNON"
-picture "PLANETMODULEPICTURE_PHASEORBITALCANNON"
+mainViewIcon "MAINVIEWICON_PLANETMODULE_ASURANORBITALCANNON"
+picture "PLANETMODULEPICTURE_ASURANORBITALCANNON"
 minShadow 0.000000
 maxShadow 1.000000
 formationRank 3

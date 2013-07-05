@@ -20,7 +20,7 @@ brush
 		fileName "Unit_Hud2_Normal"
 		pixelBox [ 202 , 76 , 47 , 33 ]
 brush
-	name "HUDICON_CORVETTE_PSI"
+	name "HUDICON_CORVETTE_WRAITH"
 	content "States"
 	Disabled
 		fileName "Unit_Hud2_Disabled"
@@ -38,7 +38,7 @@ brush
 		fileName "Unit_Hud2_Normal"
 		pixelBox [ 202 , 42 , 47 , 33 ]
 brush
-	name "HUDICON_CORVETTE_TECH"
+	name "HUDICON_CORVETTE_TAURI"
 	content "States"
 	Disabled
 		fileName "Unit_Hud2_Disabled"
@@ -74,7 +74,7 @@ brush
 		fileName "Unit_Hud2_Normal"
 		pixelBox [ 104 , 76 , 47 , 33 ]
 brush
-	name "HUDICON_PSI_TITAN_FOUNDRY"
+	name "HUDICON_WRAITH_TITAN_FOUNDRY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud2_Disabled"
@@ -92,7 +92,7 @@ brush
 		fileName "Unit_Hud2_Normal"
 		pixelBox [ 153 , 41 , 47 , 33 ]
 brush
-	name "HUDICON_TECH_TITAN_FOUNDRY"
+	name "HUDICON_TAURI_TITAN_FOUNDRY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud2_Disabled"
@@ -128,7 +128,7 @@ brush
 		fileName "Unit_Hud2_Normal"
 		pixelBox [ 6 , 76 , 47 , 33 ]
 brush
-	name "HUDICON_CAPITALSHIP_PSIBATTLESHIP2"
+	name "HUDICON_CAPITALSHIP_WRAITHBATTLESHIP2"
 	content "States"
 	Disabled
 		fileName "Unit_Hud2_Disabled"
@@ -146,7 +146,7 @@ brush
 		fileName "Unit_Hud2_Normal"
 		pixelBox [ 55 , 41 , 47 , 33 ]
 brush
-	name "HUDICON_CAPITALSHIP_TECHTRANSPORT"
+	name "HUDICON_CAPITALSHIP_TAURITRANSPORT"
 	content "States"
 	Disabled
 		fileName "Unit_Hud2_Disabled"
@@ -164,7 +164,7 @@ brush
 		fileName "Unit_Hud2_Normal"
 		pixelBox [ 55 , 6 , 47 , 33 ]
 brush
-	name "HUDICON_CAPITALSHIP_TECHCOLONY"
+	name "HUDICON_CAPITALSHIP_TAURICOLONY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -182,7 +182,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 6 , 224 , 47 , 33 ]
 brush
-	name "HUDICON_CAPITALSHIP_TECHCARRIER"
+	name "HUDICON_CAPITALSHIP_TAURICARRIER"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -200,7 +200,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 104 , 224 , 47 , 33 ]
 brush
-	name "HUDICON_CAPITALSHIP_TECHBATTLESHIP"
+	name "HUDICON_CAPITALSHIP_TAURIBATTLESHIP"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -218,7 +218,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 55 , 224 , 47 , 33 ]
 brush
-	name "HUDICON_CAPITALSHIP_TECHSUPPORT"
+	name "HUDICON_CAPITALSHIP_TAURISUPPORT"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -236,7 +236,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 202 , 224 , 47 , 33 ]
 brush
-	name "HUDICON_CAPITALSHIP_TECHSIEGE"
+	name "HUDICON_CAPITALSHIP_TAURISIEGE"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -254,7 +254,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 153 , 224 , 47 , 33 ]
 brush
-	name "HUDICON_CAPITALSHIP_PSICOLONY"
+	name "HUDICON_CAPITALSHIP_WRAITHCOLONY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -272,7 +272,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 6 , 259 , 47 , 33 ]
 brush
-	name "HUDICON_CAPITALSHIP_PSICARRIER"
+	name "HUDICON_CAPITALSHIP_WRAITHCARRIER"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -290,7 +290,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 104 , 259 , 47 , 33 ]
 brush
-	name "HUDICON_CAPITALSHIP_PSIBATTLESHIP"
+	name "HUDICON_CAPITALSHIP_WRAITHBATTLESHIP"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -308,7 +308,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 55 , 259 , 47 , 33 ]
 brush
-	name "HUDICON_CAPITALSHIP_PSIBATTLEPSIONIC"
+	name "HUDICON_CAPITALSHIP_WRAITHBATTLEPSIONIC"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -326,7 +326,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 153 , 259 , 47 , 33 ]
 brush
-	name "HUDICON_CAPITALSHIP_PSIPLANETPSIONIC"
+	name "HUDICON_CAPITALSHIP_WRAITHPLANETPSIONIC"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -434,27 +434,17 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 153 , 294 , 47 , 33 ]
 brush
-	name "HUDICONSMALL_CAPITALSHIP_TECHCOLONY"
-	content "Simple"
-	fileName "Unit_Main"
-	pixelBox [ 1 , 91 , 28 , 28 ]
-brush
-	name "HUDICONSMALL_CAPITALSHIP_TECHCARRIER"
-	content "Simple"
-	fileName "Unit_Main"
-	pixelBox [ 61 , 91 , 28 , 28 ]
-brush
-	name "HUDICONSMALL_TITAN_TECHLOYALIST"
+	name "HUDICONSMALL_TITAN_TAURICARRIER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 476 , 806 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_TITAN_TECHREBEL"
+	name "HUDICONSMALL_TITAN_TAURITARTARUS"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 445 , 806 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_TITAN_PSILOYALIST"
+	name "HUDICONSMALL_TITAN_WRAITHSUPERHIVE"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 445 , 740 , 28 , 28 ]
@@ -464,7 +454,7 @@ brush
 	fileName "Unit_Main"
 	pixelBox [ 477 , 773 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_TITAN_EHPEUS"
+	name "HUDICONSMALL_TITAN_EPHEUS"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 476 , 740 , 28 , 28 ]
@@ -474,42 +464,52 @@ brush
 	fileName "Unit_Main"
 	pixelBox [ 445 , 773 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_CAPITALSHIP_TECHBATTLESHIP"
+	name "HUDICONSMALL_CAPITALSHIP_TAURICOLONY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 1 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_TAURICARRIER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 61 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_TAURIBATTLESHIP"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 31 , 91 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_CAPITALSHIP_TECHSUPPORT"
+	name "HUDICONSMALL_CAPITALSHIP_TAURISUPPORT"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 121 , 91 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_CAPITALSHIP_TECHSIEGE"
+	name "HUDICONSMALL_CAPITALSHIP_TAURISIEGE"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 91 , 91 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_CAPITALSHIP_PSICOLONY"
+	name "HUDICONSMALL_CAPITALSHIP_WRAITHCOLONY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 1 , 121 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_CAPITALSHIP_PSICARRIER"
+	name "HUDICONSMALL_CAPITALSHIP_WRAITHCARRIER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 61 , 121 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_CAPITALSHIP_PSIBATTLESHIP"
+	name "HUDICONSMALL_CAPITALSHIP_WRAITHBATTLESHIP"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 31 , 121 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_CAPITALSHIP_PSIBATTLEPSIONIC"
+	name "HUDICONSMALL_CAPITALSHIP_WRAITHBATTLEPSIONIC"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 91 , 121 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_CAPITALSHIP_PSIPLANETPSIONIC"
+	name "HUDICONSMALL_CAPITALSHIP_WRAITHPLANETPSIONIC"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 121 , 121 , 28 , 28 ]
@@ -1423,7 +1423,7 @@ brush
 	fileName "Unit_Main"
 	pixelBox [ 1 , 181 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_FRIGATE_TAURIDEADALUS"
+	name "HUDICONSMALL_FRIGATE_TAURIDAEDALUS"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 31 , 181 , 28 , 28 ]
@@ -1643,7 +1643,7 @@ brush
 	fileName "Unit_Main"
 	pixelBox [ 241 , 151 , 28 , 28 ]
 brush
-	name "HUDICON_SQUADTECHCOMBAT"
+	name "HUDICON_SQUADTAURICOMBAT"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -1661,7 +1661,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 300 , 224 , 47 , 33 ]
 brush
-	name "HUDICON_SQUADTECHBOMBER"
+	name "HUDICON_SQUADTAURIBOMBER"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -1679,7 +1679,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 251 , 224 , 47 , 33 ]
 brush
-	name "HUDICON_SQUADPSICOMBAT"
+	name "HUDICON_SQUADWRAITHCOMBAT"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -1697,7 +1697,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 300 , 259 , 47 , 33 ]
 brush
-	name "HUDICON_SQUADPSIBOMBER"
+	name "HUDICON_SQUADWRAITHBOMBER"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -1715,7 +1715,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 251 , 259 , 47 , 33 ]
 brush
-	name "HUDICON_SQUADPSIMINELAYER"
+	name "HUDICON_SQUADWRAITHMINELAYER"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -1769,7 +1769,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 251 , 294 , 47 , 33 ]
 brush
-	name "HUDICONLAUNCH_SQUADTECHCOMBAT"
+	name "HUDICONLAUNCH_SQUADTAURICOMBAT"
 	content "States"
 	Disabled
 		fileName "Buttons_Main_Disabled"
@@ -1787,7 +1787,7 @@ brush
 		fileName "Buttons_Main_Normal"
 		pixelBox [ 260 , 31 , 47 , 33 ]
 brush
-	name "HUDICONLAUNCH_SQUADTECHBOMBER"
+	name "HUDICONLAUNCH_SQUADTAURIBOMBER"
 	content "States"
 	Disabled
 		fileName "Buttons_Main_Disabled"
@@ -1805,7 +1805,7 @@ brush
 		fileName "Buttons_Main_Normal"
 		pixelBox [ 260 , 68 , 47 , 33 ]
 brush
-	name "HUDICONLAUNCH_SQUADPSICOMBAT"
+	name "HUDICONLAUNCH_SQUADWRAITHCOMBAT"
 	content "States"
 	Disabled
 		fileName "Buttons_Main_Disabled"
@@ -1823,7 +1823,7 @@ brush
 		fileName "Buttons_Main_Normal"
 		pixelBox [ 260 , 105 , 47 , 33 ]
 brush
-	name "HUDICONLAUNCH_SQUADPSIBOMBER"
+	name "HUDICONLAUNCH_SQUADWRAITHBOMBER"
 	content "States"
 	Disabled
 		fileName "Buttons_Main_Disabled"
@@ -1841,7 +1841,7 @@ brush
 		fileName "Buttons_Main_Normal"
 		pixelBox [ 260 , 142 , 47 , 33 ]
 brush
-	name "HUDICONLAUNCH_SQUADPSIMINELAYER"
+	name "HUDICONLAUNCH_SQUADWRAITHMINELAYER"
 	content "States"
 	Disabled
 		fileName "Buttons_Main_Disabled"
@@ -1895,7 +1895,7 @@ brush
 		fileName "Buttons_Main_Normal"
 		pixelBox [ 260 , 216 , 47 , 33 ]
 brush
-	name "HUDICONDOCK_SQUADTECHCOMBAT"
+	name "HUDICONDOCK_SQUADTAURICOMBAT"
 	content "States"
 	Disabled
 		fileName "Buttons_Main_Disabled"
@@ -1913,7 +1913,7 @@ brush
 		fileName "Buttons_Main_Normal"
 		pixelBox [ 311 , 31 , 47 , 33 ]
 brush
-	name "HUDICONDOCK_SQUADTECHBOMBER"
+	name "HUDICONDOCK_SQUADTAURIBOMBER"
 	content "States"
 	Disabled
 		fileName "Buttons_Main_Disabled"
@@ -1931,7 +1931,7 @@ brush
 		fileName "Buttons_Main_Normal"
 		pixelBox [ 311 , 68 , 47 , 33 ]
 brush
-	name "HUDICONDOCK_SQUADPSICOMBAT"
+	name "HUDICONDOCK_SQUADWRAITHCOMBAT"
 	content "States"
 	Disabled
 		fileName "Buttons_Main_Disabled"
@@ -1949,7 +1949,7 @@ brush
 		fileName "Buttons_Main_Normal"
 		pixelBox [ 311 , 105 , 47 , 33 ]
 brush
-	name "HUDICONDOCK_SQUADPSIBOMBER"
+	name "HUDICONDOCK_SQUADWRAITHBOMBER"
 	content "States"
 	Disabled
 		fileName "Buttons_Main_Disabled"
@@ -1967,7 +1967,7 @@ brush
 		fileName "Buttons_Main_Normal"
 		pixelBox [ 311 , 142 , 47 , 33 ]
 brush
-	name "HUDICONDOCK_SQUADPSIMINELAYER"
+	name "HUDICONDOCK_SQUADWRAITHMINELAYER"
 	content "States"
 	Disabled
 		fileName "Buttons_Main_Disabled"
@@ -2021,27 +2021,27 @@ brush
 		fileName "Buttons_Main_Normal"
 		pixelBox [ 311 , 216 , 47 , 33 ]
 brush
-	name "HUDICONSMALL_SQUADTECHCOMBAT"
+	name "HUDICONSMALL_SQUADTAURICOMBAT"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 181 , 91 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_SQUADTECHBOMBER"
+	name "HUDICONSMALL_SQUADTAURIBOMBER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 151 , 91 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_SQUADPSICOMBAT"
+	name "HUDICONSMALL_SQUADWRAITHCOMBAT"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 181 , 121 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_SQUADPSIBOMBER"
+	name "HUDICONSMALL_SQUADWRAITHBOMBER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 151 , 121 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_SQUADPSIMINELAYER"
+	name "HUDICONSMALL_SQUADWRAITHMINELAYER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 451 , 31 , 28 , 28 ]
@@ -2074,7 +2074,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 251 , 329 , 47 , 33 ]
 brush
-	name "HUDICON_TRADESHIP_PSI"
+	name "HUDICON_TRADESHIP_WRAITH"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -2143,7 +2143,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 6 , 14 , 47 , 33 ]
 brush
-	name "HUDICON_REFINERYSHIP_PSI"
+	name "HUDICON_REFINERYSHIP_WRAITH"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -2184,7 +2184,7 @@ brush
 	fileName "Unit_Main"
 	pixelBox [ 301 , 181 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_REFINERYSHIP_PSI"
+	name "HUDICONSMALL_REFINERYSHIP_WRAITH"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 301 , 211 , 28 , 28 ]

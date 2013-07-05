@@ -44,7 +44,7 @@ bombEffectsDef
 	missileStartTurningDistance 0.005000
 	missileSlowTurnRate 3.708997
 	missileMaxSlowTurnTime 12.000000"
-mainViewIcon "MAINVIEWICON_CAPITALSHIP_TECHSUPPORT"
+mainViewIcon "MAINVIEWICON_CAPITALSHIP_TAURISUPPORT"
 basePrice
 	credits 2325.000000
 	metal 380.000000
@@ -80,7 +80,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_CAPITALSHIP_HUMANSCORPION_NAME"
 DescriptionStringID "IDS_CAPITALSHIP_HUMANSCORPION_DESCRIPTION"
-picture "CAPITALSHIPPICTURE_TECHSUPPORT"
+picture "CAPITALSHIPPICTURE_TAURISUPPORT"
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
@@ -94,9 +94,9 @@ numRandomDebrisLarge 4
 numRandomDebrisSmall 15
 numSpecificDebris 0
 armorType "CapitalShip"
-hudIcon "HUDICON_CAPITALSHIP_TECHSUPPORT"
-smallHudIcon "HUDICONSMALL_CAPITALSHIP_TECHSUPPORT"
-infoCardIcon "INFOCARDICON_CAPITALSHIP_TECHSUPPORT"
+hudIcon "HUDICON_CAPITALSHIP_TAURISUPPORT"
+smallHudIcon "HUDICONSMALL_CAPITALSHIP_TAURISUPPORT"
+infoCardIcon "INFOCARDICON_CAPITALSHIP_TAURISUPPORT"
 minZoomDistanceMult 1.000000
 NumWeapons 3
 Weapon

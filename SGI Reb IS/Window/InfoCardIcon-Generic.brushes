@@ -1,6 +1,26 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 32
+brushCount 36
+brush
+	name "INFOCARDICON_STAR_QUASAR"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 1281 , 629 , 46 , 48 ]
+brush
+	name "INFOCARDICON_STAR_NEUTRON"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 529 , 629 , 46 , 48 ]
+brush
+	name "INFOCARDICON_STAR_PULSAR"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 345 , 629 , 46 , 48 ]
+brush
+	name "INFOCARDICON_STAR_WHITE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 410 , 629 , 46 , 48 ]
 brush
 	name "INFOCARDICON_STAR_YELLOW"
 	content "Simple"

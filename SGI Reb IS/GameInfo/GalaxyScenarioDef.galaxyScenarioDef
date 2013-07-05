@@ -1,20 +1,33 @@
 TXT
-starTypeCount 6
+starTypeCount 10
 starType
 	designName "RandomStar"
 	designStringId "IDSGalaxyScenarioTypeStarRandom"
-	orbitBodyTypeCount 4
+	orbitBodyTypeCount 8
 	orbitBodyType "BlueStar"
 	orbitBodyType "GreenStar"
 	orbitBodyType "RedStar"
+	orbitBodyType "WhiteStar"
 	orbitBodyType "YellowStar"
+	orbitBodyType "NeutronStar"
+	orbitBodyType "PulsarStar"
+	orbitBodyType "QuasarStar"
 starType
 	designName "RandomNonGreenStar"
 	designStringId "IDSGalaxyScenarioTypeStarRandomNonGreen"
-	orbitBodyTypeCount 3
+	orbitBodyTypeCount 7
 	orbitBodyType "BlueStar"
 	orbitBodyType "RedStar"
-	orbitBodyType "YellowStar"	
+	orbitBodyType "NeutronStar"
+	orbitBodyType "PulsarStar"
+	orbitBodyType "YellowStar"
+	orbitBodyType "WhiteStar"
+	orbitBodyType "QuasarStar"
+starType
+	designName "QuasarStar"
+	designStringId "IDSGalaxyScenarioTypeStarQuasar"
+	orbitBodyTypeCount 1
+	orbitBodyType "QuasarStar"	
 starType
 	designName "BlueStar"
 	designStringId "IDSGalaxyScenarioTypeStarBlue"
@@ -35,7 +48,22 @@ starType
 	designStringId "IDSGalaxyScenarioTypeStarGreen"
 	orbitBodyTypeCount 1
 	orbitBodyType "GreenStar"
-planetTypeCount 90
+starType
+	designName "WhiteStar"
+	designStringId "IDSGalaxyScenarioTypeStarWhite"
+	orbitBodyTypeCount 1
+	orbitBodyType "WhiteStar"
+starType
+	designName "NeutronStar"
+	designStringId "IDSGalaxyScenarioTypeStarNeutron"
+	orbitBodyTypeCount 1
+	orbitBodyType "NeutronStar"
+starType
+	designName "PulsarStar"
+	designStringId "IDSGalaxyScenarioTypeStarPulsar"
+	orbitBodyTypeCount 1
+	orbitBodyType "PulsarStar"
+planetTypeCount 96
 planetType
 	designName "SOL Uranus"
 	designStringId "Axeldude_Galaxy_Planet"
@@ -249,7 +277,13 @@ planetType
 planetType
 	designName "WeightedRandom"
 	designStringId "IDSGalaxyScenarioTypePlanetWeightedRandom"
-	orbitBodyTypeCount 56
+	orbitBodyTypeCount 62
+	orbitBodyType "JungleWorld"
+	orbitBodyType "IceGiantHabitable"
+	orbitBodyType "RockGiantHabitable"
+	orbitBodyType "TerranGiantHabitable"
+	orbitBodyType "ToxicWorld"
+	orbitBodyType "ParadiseWorld"
 	orbitBodyType "Terran"
 	orbitBodyType "Terran_0"
 	orbitBodyType "Carbon_0"
@@ -340,7 +374,13 @@ planetType
 planetType
 	designName "WeightedColonizable"
 	designStringId "IDSGalaxyScenarioTypePlanetWeightedColonizable"
-	orbitBodyTypeCount 22
+	orbitBodyTypeCount 28
+	orbitBodyType "JungleWorld"
+	orbitBodyType "IceGiantHabitable"
+	orbitBodyType "RockGiantHabitable"
+	orbitBodyType "TerranGiantHabitable"
+	orbitBodyType "ToxicWorld"
+	orbitBodyType "ParadiseWorld"
 	orbitBodyType "Terran_0"
 	orbitBodyType "Terran"
 	orbitBodyType "Ice"
@@ -414,7 +454,13 @@ planetType
 planetType
 	designName "Random"
 	designStringId "IDSGalaxyScenarioTypePlanetRandom"
-	orbitBodyTypeCount 26
+	orbitBodyTypeCount 32
+	orbitBodyType "JungleWorld"
+	orbitBodyType "IceGiantHabitable"
+	orbitBodyType "RockGiantHabitable"
+	orbitBodyType "TerranGiantHabitable"
+	orbitBodyType "ToxicWorld"
+	orbitBodyType "ParadiseWorld"
 	orbitBodyType "Terran"
 	orbitBodyType "Ice"
 	orbitBodyType "Terran_0"
@@ -458,7 +504,13 @@ planetType
 planetType
 	designName "RandomTrue"
 	designStringId "IDSGalaxyScenarioTypePlanetRandomTrue"
-	orbitBodyTypeCount 19
+	orbitBodyTypeCount 25
+	orbitBodyType "JungleWorld"
+	orbitBodyType "IceGiantHabitable"
+	orbitBodyType "RockGiantHabitable"
+	orbitBodyType "TerranGiantHabitable"
+	orbitBodyType "ToxicWorld"
+	orbitBodyType "ParadiseWorld"
 	orbitBodyType "Terran"
 	orbitBodyType "Terran_0"
 	orbitBodyType "Desert"
@@ -489,7 +541,12 @@ planetType
 planetType
 	designName "RandomTrueNonIce"
 	designStringId "IDSGalaxyScenarioTypePlanetRandomTrueNonIce"
-	orbitBodyTypeCount 13
+	orbitBodyTypeCount 18
+	orbitBodyType "JungleWorld"
+	orbitBodyType "RockGiantHabitable"
+	orbitBodyType "TerranGiantHabitable"
+	orbitBodyType "ToxicWorld"
+	orbitBodyType "ParadiseWorld"
 	orbitBodyType "Terran"
 	orbitBodyType "Terran_0"
 	orbitBodyType "Desert"
@@ -513,7 +570,10 @@ planetType
 planetType
 	designName "RandomTrueNonTerran"
 	designStringId "IDSGalaxyScenarioTypePlanetRandomTrueNonTerran"
-	orbitBodyTypeCount 15
+	orbitBodyTypeCount 18
+	orbitBodyType "IceGiantHabitable"
+	orbitBodyType "RockGiantHabitable"
+	orbitBodyType "ToxicWorld"
 	orbitBodyType "Desert"
 	orbitBodyType "Desert_0"
 	orbitBodyType "Volcanic"
@@ -610,7 +670,8 @@ planetType
 planetType
 	designName "RandomIceVolcanic"
 	designStringId "IDSGalaxyScenarioTypeRandomIceVolcanic"
-	orbitBodyTypeCount 4
+	orbitBodyTypeCount 5
+	orbitBodyType "IceGiantHabitable"
 	orbitBodyType "Volcanic"
 	orbitBodyType "Volcanic_0"
 	orbitBodyType "Ice"
@@ -628,6 +689,36 @@ planetType
 	designStringId "IDSGalaxyScenarioTypePlanetOccupied"
 	orbitBodyTypeCount 1
 	orbitBodyType "Occupied"
+planetType
+	designName "JungleWorld"
+	designStringId "IDSGalaxyScenarioTypePlanetJungle"
+	orbitBodyTypeCount 1
+	orbitBodyType "JungleWorld"
+planetType
+	designName "ParadiseWorld"
+	designStringId "IDSGalaxyScenarioTypeParadiseWorld"
+	orbitBodyTypeCount 1
+	orbitBodyType "ParadiseWorld"
+planetType
+	designName "ToxicWorld"
+	designStringId "IDSGalaxyScenarioTypeToxicWorld"
+	orbitBodyTypeCount 1
+	orbitBodyType "ToxicWorld"
+planetType
+	designName "IceGiantHabitable"
+	designStringId "IDSGalaxyScenarioTypeIceGiantHabitable"
+	orbitBodyTypeCount 1
+	orbitBodyType "IceGiantHabitable"
+planetType
+	designName "RockGiantHabitable"
+	designStringId "IDSGalaxyScenarioTypeRockGiantHabitable"
+	orbitBodyTypeCount 1
+	orbitBodyType "RockGiantHabitable"
+planetType
+	designName "TerranGiantHabitable"
+	designStringId "IDSGalaxyScenarioTypeTerranGiantHabitable"
+	orbitBodyTypeCount 1
+	orbitBodyType "TerranGiantHabitable"
 planetType
 	designName "Hydrocarbon"
 	designStringId "IDS_PLANETTYPE_HYDROCARBON"
@@ -655,24 +746,28 @@ planetType
 planetType
 	designName "Rock"
 	designStringId "IDS_PLANETTYPE_ROCK"
-	orbitBodyTypeCount 4
+	orbitBodyTypeCount 5
 	orbitBodyType "Rock_0"
 	orbitBodyType "Rock_0"
 	orbitBodyType "Rock_0"
 	orbitBodyType "Rock_Moon_0"
+	orbitBodyType "RockGiantHabitable"
 planetType
 	designName "Forest"
 	designStringId "IDS_PLANETTYPE_FOREST"
-	orbitBodyTypeCount 4
+	orbitBodyTypeCount 5
 	orbitBodyType "Forest_0"
 	orbitBodyType "Forest_0"
 	orbitBodyType "Forest_0"
 	orbitBodyType "Forest_Moon_0"
+	orbitBodyType "JungleWorld"
 planetType
 	designName "Terran"
 	designStringId "IDSGalaxyScenarioTypePlanetTerran"
-	orbitBodyTypeCount 1
+	orbitBodyTypeCount 3
 	orbitBodyType "Terran"	
+	orbitBodyType "TerranGiantHabitable"
+	orbitBodyType "ParadiseWorld"
 planetType
 	designName "TerranFair"
 	designStringId "IDSGalaxyScenarioTypePlanetTerranFair"
@@ -686,8 +781,9 @@ planetType
 planetType
 	designName "Ice"
 	designStringId "IDSGalaxyScenarioTypePlanetIce"
-	orbitBodyTypeCount 1
+	orbitBodyTypeCount 2
 	orbitBodyType "Ice"
+	orbitBodyType "IceGiantHabitable"
 planetType
 	designName "IceFair"
 	designStringId "IDSGalaxyScenarioTypePlanetIceFair"
@@ -843,7 +939,47 @@ planetType
 	designStringId "IDSGalaxyScenarioTypePlanetIce"
 	orbitBodyTypeCount 1
 	orbitBodyType "Ocean"
-orbitBodyTypeCount 80
+orbitBodyTypeCount 90
+orbitBodyType	
+	typeName "NeutronStar"
+	entityDefName "STAR_NEUTRON"
+	defaultTemplateName ""
+orbitBodyType	
+	typeName "PulsarStar"
+	entityDefName "STAR_PULSAR"
+	defaultTemplateName ""
+orbitBodyType	
+	typeName "WhiteStar"
+	entityDefName "STAR_WHITE"
+	defaultTemplateName ""
+orbitBodyType
+	typeName "QuasarStar"
+	entityDefName "STAR_QUASAR"
+	defaultTemplateName ""
+orbitBodyType
+	typeName "JungleWorld"
+	entityDefName "PlanetJungle"
+	defaultTemplateName "Template:DefaultStart_Terran"
+orbitBodyType
+	typeName "ParadiseWorld"
+	entityDefName "PlanetParadise"
+	defaultTemplateName "Template:DefaultStart_Terran"
+orbitBodyType
+	typeName "ToxicWorld"
+	entityDefName "PlanetToxic"
+	defaultTemplateName "Template:DefaultStart_Terran"
+orbitBodyType
+	typeName "IceGiantHabitable"
+	entityDefName "PlanetIceGiantHabitable"
+	defaultTemplateName "Template:DefaultStart_Terran"
+orbitBodyType
+	typeName "RockGiantHabitable"
+	entityDefName "PlanetRockGiantHabitable"
+	defaultTemplateName "Template:DefaultStart_Terran"
+orbitBodyType
+	typeName "TerranGiantHabitable"
+	entityDefName "PlanetTerranGiantHabitable"
+	defaultTemplateName "Template:DefaultStart_Terran"
 orbitBodyType	
 	typeName "PlanetSpaceJunkYard"
 	entityDefName "PlanetAsteroidSpaceJunkYard"

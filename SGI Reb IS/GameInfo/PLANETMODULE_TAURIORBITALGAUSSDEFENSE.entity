@@ -97,7 +97,7 @@ meshNameIncreasedEffectName "GaussGetupgrade"
 meshNameDecreasedEffectName "Gaussloseupgrade"
 ExplosionName "PlanetModuleSmall"
 mainViewIcon "MAINVIEWICON_PLANETMODULE_TECHORBITALGAUSSDEFENSE"
-picture "PLANETMODULEPICTURE_TECHORBITALGAUSSDEFENSE"
+picture "PLANETMODULEPICTURE_TAURIORBITALGAUSSDEFENSE"
 minShadow 0.000000
 maxShadow 0.600000
 formationRank 3

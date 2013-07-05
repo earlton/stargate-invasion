@@ -1,18 +1,18 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 90
+brushCount 97
 brush
 	name "MAINVIEWICON_CORVETTE_ASURAN"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 416 , 91 , 28 , 28 ]
 brush
-	name "MAINVIEWICON_CORVETTE_PSI"
+	name "MAINVIEWICON_CORVETTE_WRAITH"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 393 , 94 , 28 , 28 ]
 brush
-	name "MAINVIEWICON_CORVETTE_TECH"
+	name "MAINVIEWICON_CORVETTE_TAURI"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 241 , 122 , 28 , 28 ]
@@ -27,7 +27,7 @@ brush
 	fileName "Unit_Main"
 	pixelBox [ 304 , 154 , 28 , 28 ]
 brush
-	name "MAINVIEWICON_CAPITALSHIP_PSIBATTLESHIP2"
+	name "MAINVIEWICON_CAPITALSHIP_WRAITHBATTLESHIP2"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 343 , 154 , 28 , 28 ]
@@ -37,22 +37,32 @@ brush
 	fileName "Unit_Main"
 	pixelBox [ 382 , 154 , 28 , 28 ]
 brush
-	name "MAINVIEWICON_TITAN_TECHLOYALIST"
+	name "MAINVIEWICON_TITAN_TAURICARRIER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 360 , 124 , 47 , 29 ]
 brush
-	name "MAINVIEWICON_TITAN_TECHREBEL"
+	name "MAINVIEWICON_TITAN_TAURITARTARUS"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 305 , 130 , 48 , 14 ]
 brush
-	name "MAINVIEWICON_TITAN_PSILOYALIST"
+	name "MAINVIEWICON_TITAN_WRAITHSUPERHIVE"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 452 , 190 , 24 , 47 ]
 brush
-	name "MAINVIEWICON_TITAN_PSIREBEL"
+	name "MAINVIEWICON_TITAN_WRAITHCARRIER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 478 , 220 , 32 , 46 ]
+brush
+	name "MAINVIEWICON_TITAN_GOAULDAPOPHIS"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 452 , 190 , 24 , 47 ]
+brush
+	name "MAINVIEWICON_TITAN_GOAULDANUBIS"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 478 , 220 , 32 , 46 ]
@@ -67,12 +77,12 @@ brush
 	fileName "Unit_Main"
 	pixelBox [ 418 , 127 , 47 , 45 ]
 brush
-	name "MAINVIEWICON_FRIGATE_TECHFLAGSHIP"
+	name "MAINVIEWICON_FRIGATE_TAURIFLAGSHIP"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 474 , 94 , 28 , 28 ]
 brush
-	name "MAINVIEWICON_FRIGATE_PSIFLAGSHIP"
+	name "MAINVIEWICON_FRIGATE_WRAITHFLAGSHIP"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 474 , 123 , 28 , 28 ]
@@ -82,52 +92,77 @@ brush
 	fileName "Unit_Main"
 	pixelBox [ 474 , 151 , 28 , 28 ]
 brush
-	name "MAINVIEWICON_CAPITALSHIP_TECHCOLONY"
+	name "MAINVIEWICON_CAPITALSHIP_TAURICOLONY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 1 , 91 , 28 , 28 ]
 brush
-	name "MAINVIEWICON_CAPITALSHIP_TECHCARRIER"
+	name "MAINVIEWICON_CAPITALSHIP_TAURICARRIER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 61 , 91 , 28 , 28 ]
 brush
-	name "MAINVIEWICON_CAPITALSHIP_TECHBATTLESHIP"
+	name "MAINVIEWICON_CAPITALSHIP_TAURIBATTLESHIP"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 31 , 91 , 28 , 28 ]
 brush
-	name "MAINVIEWICON_CAPITALSHIP_TECHSUPPORT"
+	name "MAINVIEWICON_CAPITALSHIP_TAURISUPPORT"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 121 , 91 , 28 , 28 ]
 brush
-	name "MAINVIEWICON_CAPITALSHIP_TECHSIEGE"
+	name "MAINVIEWICON_CAPITALSHIP_TAURISIEGE"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 91 , 91 , 28 , 28 ]
 brush
-	name "MAINVIEWICON_CAPITALSHIP_PSICOLONY"
+	name "MAINVIEWICON_CAPITALSHIP_WRAITHCOLONY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 1 , 121 , 28 , 28 ]
 brush
-	name "MAINVIEWICON_CAPITALSHIP_PSICARRIER"
+	name "MAINVIEWICON_CAPITALSHIP_WRAITHCARRIER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 61 , 121 , 28 , 28 ]
 brush
-	name "MAINVIEWICON_CAPITALSHIP_PSIBATTLESHIP"
+	name "MAINVIEWICON_CAPITALSHIP_WRAITHBATTLESHIP"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 31 , 121 , 28 , 28 ]
 brush
-	name "MAINVIEWICON_CAPITALSHIP_PSIBATTLEPSIONIC"
+	name "MAINVIEWICON_CAPITALSHIP_WRAITHBATTLEPSIONIC"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 91 , 121 , 28 , 28 ]
 brush
-	name "MAINVIEWICON_CAPITALSHIP_PSIPLANETPSIONIC"
+	name "MAINVIEWICON_CAPITALSHIP_WRAITHPLANETPSIONIC"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 121 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_GOAULDCOLONY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 1 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_GOAULDCARRIER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 61 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_GOAULDBATTLESHIP"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 31 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_GOAULDBATTLEPSIONIC"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 91 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_GOAULDSIEGE"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 121 , 121 , 28 , 28 ]
@@ -387,27 +422,27 @@ brush
 	fileName "Unit_Main"
 	pixelBox [ 241 , 151 , 28 , 28 ]
 brush
-	name "MAINVIEWICON_SQUADTECHCOMBAT"
+	name "MAINVIEWICON_SQUADTAURICOMBAT"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 181 , 91 , 28 , 28 ]
 brush
-	name "MAINVIEWICON_SQUADTECHBOMBER"
+	name "MAINVIEWICON_SQUADTAURIBOMBER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 151 , 91 , 28 , 28 ]
 brush
-	name "MAINVIEWICON_SQUADPSICOMBAT"
+	name "MAINVIEWICON_SQUADWRAITHCOMBAT"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 181 , 121 , 28 , 28 ]
 brush
-	name "MAINVIEWICON_SQUADPSIBOMBER"
+	name "MAINVIEWICON_SQUADWRAITHBOMBER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 151 , 121 , 28 , 28 ]
 brush
-	name "MAINVIEWICON_SQUADPSIMINELAYER"
+	name "MAINVIEWICON_SQUADWRAITHMINELAYER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 451 , 31 , 28 , 28 ]

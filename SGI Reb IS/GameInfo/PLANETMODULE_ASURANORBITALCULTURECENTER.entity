@@ -67,7 +67,7 @@ meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExplosionName "PlanetModuleSmall"
 mainViewIcon "MAINVIEWICON_PLANETMODULE_PHASEORBITALCULTURECENTER"
-picture "PLANETMODULEPICTURE_PHASEORBITALCULTURECENTER"
+picture "PLANETMODULEPICTURE_ASURANORBITALCULTURECENTER"
 minShadow 0.000000
 maxShadow 0.900000
 formationRank 3

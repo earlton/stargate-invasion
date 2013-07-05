@@ -37,7 +37,7 @@ bombEffectsDef
 		soundCount 1
 		sound "WEAPONIMPACT_GENERICMEDIUM_HITSHIELDS"
 	projectileTravelEffectName "Weapon_GoauldCapitalPlasma_Travel"
-mainViewIcon "MAINVIEWICON_CAPITALSHIP_GOAULDSEIGE"
+mainViewIcon "MAINVIEWICON_CAPITALSHIP_GOAULDSIEGE"
 basePrice
 	credits 5100.000000
 	metal 900.000000

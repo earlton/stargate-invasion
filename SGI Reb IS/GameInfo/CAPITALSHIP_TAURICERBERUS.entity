@@ -44,7 +44,7 @@ bombEffectsDef
 	missileStartTurningDistance 0.005000
 	missileSlowTurnRate 3.708997
 	missileMaxSlowTurnTime 12.000000"
-mainViewIcon "MAINVIEWICON_CAPITALSHIP_TECHSIEGE"
+mainViewIcon "MAINVIEWICON_CAPITALSHIP_TAURISIEGE"
 basePrice
 	credits 3100.000000
 	metal 550.000000
@@ -80,7 +80,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_CAPITALSHIP_HUMANCERBERUS_NAME"
 DescriptionStringID "IDS_CAPITALSHIP_HUMANCERBERUS_DESCRIPTION"
-picture "CAPITALSHIPPICTURE_TECHSIEGE"
+picture "CAPITALSHIPPICTURE_TAURISIEGE"
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
@@ -94,9 +94,9 @@ numRandomDebrisLarge 5
 numRandomDebrisSmall 16
 numSpecificDebris 0
 armorType "CapitalShip"
-hudIcon "HUDICON_CAPITALSHIP_TECHSIEGE"
-smallHudIcon "HUDICONSMALL_CAPITALSHIP_TECHSIEGE"
-infoCardIcon "INFOCARDICON_CAPITALSHIP_TECHSIEGE"
+hudIcon "HUDICON_CAPITALSHIP_TAURISIEGE"
+smallHudIcon "HUDICONSMALL_CAPITALSHIP_TAURISIEGE"
+infoCardIcon "INFOCARDICON_CAPITALSHIP_TAURISIEGE"
 minZoomDistanceMult 1.000000
 NumWeapons 3
 Weapon

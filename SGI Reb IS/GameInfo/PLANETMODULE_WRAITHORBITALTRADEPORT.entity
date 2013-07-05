@@ -67,7 +67,7 @@ meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExplosionName "PlanetModuleLarge"
 mainViewIcon "MAINVIEWICON_PLANETMODULE_PSIORBITALTRADEPORT"
-picture "PLANETMODULEPICTURE_PSIORBITALTRADEPORT"
+picture "PLANETMODULEPICTURE_WRAITHORBITALTRADEPORT"
 minShadow 0.000000
 maxShadow 0.300000
 formationRank 3

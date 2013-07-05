@@ -8,11 +8,11 @@ numRandomDebrisLarge 0
 numRandomDebrisSmall 0
 numSpecificDebris 0
 armorType "Light"
-hudIcon "HUDICON_SQUADTECHBOMBER"
-smallHudIcon "HUDICONSMALL_SQUADTECHBOMBER"
-infoCardIcon "INFOCARDICON_SQUADTECHBOMBER"
+hudIcon "HUDICON_SQUADTAURIBOMBER"
+smallHudIcon "HUDICONSMALL_SQUADTAURIBOMBER"
+infoCardIcon "INFOCARDICON_SQUADTAURIBOMBER"
 minZoomDistanceMult 6.000000
-nameStringID "IDS_FIGHTERTECHBOMBER_NAME"
+nameStringID "IDS_FIGHTERTAURIBOMBER_NAME"
 counterDescriptionStringID "IDS_COUNTERDESC_FIGHTER_BOMBER"
 statCountType "FighterBomber"
 formationOffsetDistance 50.000000

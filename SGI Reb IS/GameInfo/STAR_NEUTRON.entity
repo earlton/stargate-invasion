@@ -1,0 +1,48 @@
+﻿TXT
+entityType "Star"
+coronaStartColor ffffffff
+coronaEndColor ff008bff
+coronaStartColorDistance 0.000000
+coronaEndColorDistance 1.000000
+farIcon "HUDICON_SOLARSYSTEM_NEUTRON"
+coloredSkyboxMeshInfoCount 5
+meshInfo
+meshName "SkyboxBackdrop2"
+	shouldPrefer TRUE
+meshInfo
+meshName "SkyboxBackdrop4"
+	shouldPrefer FALSE
+meshInfo
+meshName "SkyboxBackdrop5"
+	shouldPrefer TRUE
+meshInfo
+meshName "SkyboxBackdrop6"
+	shouldPrefer TRUE
+meshInfo
+	meshName "SkyboxBackdrop8"
+	shouldPrefer FALSE
+deepSpaceSkyboxMeshInfoCount 1
+meshInfo
+meshName "SkyboxBackdrop7"
+	shouldPrefer FALSE
+iconTextureName "starcore-dark"
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""
+hudIcon "HUDICON_STAR_NEUTRON"
+smallHudIcon "HUDICONSMALL_STAR_NEUTRON"
+infoCardIcon "INFOCARDICON_STAR_NEUTRON"
+minZoomDistanceMult 2.000000
+moveAreaRadius 60000.000000
+hyperspaceExitRadius 50000.000000
+isWormhole FALSE
+maxStarBaseCountPerPlayer 4
+maxSpaceMineCountPerPlayer 150
+mainViewIcon "MAINVIEWICON_STAR_NEUTRON"
+picture "STARPICTURE_NEUTRON"
+MeshName "Star_Neutron"
+MaxMeshVisibilityDistanceToCamera -1.000000
+minShadow 0.000000
+maxShadow 0.000000

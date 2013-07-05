@@ -13,13 +13,13 @@ meshInfo
 	smallHudIcon "HUDICONSMALL_PLANET_OCEAN0"
 	infoCardIcon "INFOCARDICON_PLANET_OCEAN0"
 	mainViewIcon "MAINVIEWICON_PLANET_OCEAN0"
-	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_PLANET_OCEAN0"
-	picture "PICTURE_PLANET_OCEAN0"
+	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_PLANET_TERRAN0"
+	picture "Axeldude_PLANET_Normal_Oceanic_0"
 	shouldPrefer FALSE
 minZoomDistanceMult 1.250000
 glowColor 7f020054
 ringColor ffdafcff
-cloudLayerTextureName "PlanetCloudLayerThick"
+cloudLayerTextureName "Axeldude_Cloudmap_Dense"
 planetResourceSetupInfo
 	asteroidSpawnAngleVariance 3.141593
 	totalMaxResourceAsteroids 6

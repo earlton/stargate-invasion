@@ -37,7 +37,7 @@ bombEffectsDef
 		soundCount 1
 		sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
 	projectileTravelEffectName "Weapon_PsiCapitalPlasmaHeavy_Travel"
-mainViewIcon "MAINVIEWICON_CAPITALSHIP_PSICARRIER"
+mainViewIcon "MAINVIEWICON_CAPITALSHIP_WRAITHBATTLESHIP"
 basePrice
 	credits 4000.000000
 	metal 500.000000
@@ -73,7 +73,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_CAPITALSHIP_WRAITHCARRIER_NAME"
 DescriptionStringID "IDS_CAPITALSHIP_WRAITHCARRIER_DESCRIPTION"
-picture "CAPITALSHIPPICTURE_PSICARRIER"
+picture "CAPITALSHIPPICTURE_WRAITHCARRIER"
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
@@ -87,9 +87,9 @@ numRandomDebrisLarge 5
 numRandomDebrisSmall 14
 numSpecificDebris 0
 armorType "CapitalShip"
-hudIcon "HUDICON_CAPITALSHIP_PSICARRIER"
-smallHudIcon "HUDICONSMALL_CAPITALSHIP_PSICARRIER"
-infoCardIcon "INFOCARDICON_CAPITALSHIP_PSICARRIER"
+hudIcon "HUDICON_CAPITALSHIP_WRAITHCARRIER"
+smallHudIcon "HUDICONSMALL_CAPITALSHIP_WRAITHCARRIER"
+infoCardIcon "INFOCARDICON_CAPITALSHIP_WRAITHCARRIER"
 minZoomDistanceMult 2.500000
 NumWeapons 2
 Weapon

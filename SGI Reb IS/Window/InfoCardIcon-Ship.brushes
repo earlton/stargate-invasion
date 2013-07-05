@@ -7,12 +7,12 @@ brush
 	fileName "Unit_Infocard"
 	pixelBox [ 276 , 120 , 22 , 22 ]
 brush
-	name "INFOCARDICON_CORVETTE_PSI"
+	name "INFOCARDICON_CORVETTE_WRAITH"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 232 , 119 , 22 , 22 ]
 brush
-	name "INFOCARDICON_CORVETTE_TECH"
+	name "INFOCARDICON_CORVETTE_TAURI"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 256 , 119 , 22 , 22 ]
@@ -27,17 +27,17 @@ brush
 	fileName "Unit_Infocard"
 	pixelBox [ 344 , 94 , 22 , 22 ]
 brush
-	name "INFOCARDICON_TITAN_TAURICARRIER"
+	name "INFOCARDICON_TITAN_TAURITARTARUS"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 303 , 70 , 22 , 22 ]
 brush
-	name "INFOCARDICON_TITAN_PSILOYALIST"
+	name "INFOCARDICON_TITAN_WRAITHSUPERHIVE"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 318 , 93 , 22 , 22 ]
 brush
-	name "INFOCARDICON_TITAN_PSIREBEL"
+	name "INFOCARDICON_TITAN_WRAITHCARRIER"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 326 , 119 , 22 , 22 ]
@@ -52,22 +52,22 @@ brush
 	fileName "Unit_Infocard"
 	pixelBox [ 298 , 119 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_TECHFLAGSHIP"
+	name "INFOCARDICON_FRIGATE_TAURIFLAGSHIP"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 351 , 141 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_PSIFLAGSHIP"
+	name "INFOCARDICON_FRIGATE_WRAITHFLAGSHIP"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 351 , 115 , 22 , 22 ]
 brush
-	name "INFOCARDICON_CAPITALSHIP_TECHTRANSPORT"
+	name "INFOCARDICON_CAPITALSHIP_TAURITRANSPORT"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 288 , 92 , 22 , 22 ]
 brush
-	name "INFOCARDICON_CAPITALSHIP_PSIBATTLESHIP2"
+	name "INFOCARDICON_CAPITALSHIP_WRAITHBATTLESHIP2"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 260 , 92 , 22 , 22 ]
@@ -82,52 +82,52 @@ brush
 	fileName "Unit_Infocard"
 	pixelBox [ 351 , 164 , 22 , 22 ]
 brush
-	name "INFOCARDICON_CAPITALSHIP_TECHCOLONY"
+	name "INFOCARDICON_CAPITALSHIP_TAURICOLONY"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 1 , 70 , 22 , 22 ]
 brush
-	name "INFOCARDICON_CAPITALSHIP_TECHCARRIER"
+	name "INFOCARDICON_CAPITALSHIP_TAURICARRIER"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 47 , 70 , 22 , 22 ]
 brush
-	name "INFOCARDICON_CAPITALSHIP_TECHBATTLESHIP"
+	name "INFOCARDICON_CAPITALSHIP_TAURIBATTLESHIP"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 24 , 70 , 22 , 22 ]
 brush
-	name "INFOCARDICON_CAPITALSHIP_TECHSUPPORT"
+	name "INFOCARDICON_CAPITALSHIP_TAURISUPPORT"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 93 , 70 , 22 , 22 ]
 brush
-	name "INFOCARDICON_CAPITALSHIP_TECHSIEGE"
+	name "INFOCARDICON_CAPITALSHIP_TAURISIEGE"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 70 , 70 , 22 , 22 ]
 brush
-	name "INFOCARDICON_CAPITALSHIP_PSICOLONY"
+	name "INFOCARDICON_CAPITALSHIP_WRAITHCOLONY"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 1 , 93 , 22 , 22 ]
 brush
-	name "INFOCARDICON_CAPITALSHIP_PSICARRIER"
+	name "INFOCARDICON_CAPITALSHIP_WRAITHCARRIER"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 47 , 93 , 22 , 22 ]
 brush
-	name "INFOCARDICON_CAPITALSHIP_PSIBATTLESHIP"
+	name "INFOCARDICON_CAPITALSHIP_WRAITHBATTLESHIP"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 24 , 93 , 22 , 22 ]
 brush
-	name "INFOCARDICON_CAPITALSHIP_PSIBATTLEPSIONIC"
+	name "INFOCARDICON_CAPITALSHIP_WRAITHBATTLEPSIONIC"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 70 , 93 , 22 , 22 ]
 brush
-	name "INFOCARDICON_CAPITALSHIP_PSIPLANETPSIONIC"
+	name "INFOCARDICON_CAPITALSHIP_WRAITHPLANETPSIONIC"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 93 , 93 , 22 , 22 ]
@@ -177,7 +177,7 @@ brush
 	fileName "Unit_Infocard"
 	pixelBox [ 1 , 139 , 22 , 22 ]
 brush
-	name "INFOCARDICON_FRIGATE_TAURIDEADALUS"
+	name "INFOCARDICON_FRIGATE_TAURIDAEDALUS"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 24 , 139 , 22 , 22 ]
@@ -402,7 +402,7 @@ brush
 	fileName "Unit_Infocard"
 	pixelBox [ 116 , 139 , 22 , 22 ]
 brush
-	name "INFOCARDICON_TRADESHIP_PSI"
+	name "INFOCARDICON_TRADESHIP_WRAITH"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 116 , 162 , 22 , 22 ]
@@ -417,7 +417,7 @@ brush
 	fileName "Unit_Infocard"
 	pixelBox [ 231 , 139 , 22 , 22 ]
 brush
-	name "INFOCARDICON_REFINERYSHIP_PSI"
+	name "INFOCARDICON_REFINERYSHIP_WRAITH"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 231 , 162 , 22 , 22 ]
@@ -427,27 +427,27 @@ brush
 	fileName "Unit_Infocard"
 	pixelBox [ 231 , 185 , 22 , 22 ]
 brush
-	name "INFOCARDICON_SQUADTECHCOMBAT"
+	name "INFOCARDICON_SQUADTAURICOMBAT"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 139 , 70 , 22 , 22 ]
 brush
-	name "INFOCARDICON_SQUADTECHBOMBER"
+	name "INFOCARDICON_SQUADTAURIBOMBER"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 116 , 70 , 22 , 22 ]
 brush
-	name "INFOCARDICON_SQUADPSICOMBAT"
+	name "INFOCARDICON_SQUADWRAITHCOMBAT"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 139 , 93 , 22 , 22 ]
 brush
-	name "INFOCARDICON_SQUADPSIBOMBER"
+	name "INFOCARDICON_SQUADWRAITHBOMBER"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 116 , 93 , 22 , 22 ]
 brush
-	name "INFOCARDICON_SQUADPSIMINELAYER"
+	name "INFOCARDICON_SQUADWRAITHMINELAYER"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 346 , 24 , 22 , 22 ]
