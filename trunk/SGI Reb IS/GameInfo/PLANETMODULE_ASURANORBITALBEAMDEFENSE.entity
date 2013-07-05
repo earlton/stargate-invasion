@@ -64,7 +64,7 @@ meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExplosionName "PlanetModuleSmall"
 mainViewIcon "MAINVIEWICON_PLANETMODULE_PSIORBITALBEAMDEFENSE"
-picture "PLANETMODULEPICTURE_PSIORBITALBEAMDEFENSE"
+picture "PLANETMODULEPICTURE_WRAITHORBITALBEAMDEFENSE"
 minShadow 0.000000
 maxShadow 0.300000
 formationRank 3

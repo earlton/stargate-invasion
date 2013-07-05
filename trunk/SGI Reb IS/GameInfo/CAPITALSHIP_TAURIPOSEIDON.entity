@@ -44,7 +44,7 @@ bombEffectsDef
 	missileStartTurningDistance 0.005000
 	missileSlowTurnRate 3.708997
 	missileMaxSlowTurnTime 12.000000"
-mainViewIcon "MAINVIEWICON_CAPITALSHIP_TECHCARRIER"
+mainViewIcon "MAINVIEWICON_CAPITALSHIP_TAURICARRIER"
 basePrice
 	credits 3300.000000
 	metal 575.000000
@@ -80,7 +80,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_CAPITALSHIP_HUMANPOSEIDON_NAME"
 DescriptionStringID "IDS_CAPITALSHIP_HUMANPOSEIDON_DESCRIPTION"
-picture "CAPITALSHIPPICTURE_TECHCARRIER"
+picture "CAPITALSHIPPICTURE_TAURICARRIER"
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
@@ -94,9 +94,9 @@ numRandomDebrisLarge 5
 numRandomDebrisSmall 18
 numSpecificDebris 0
 armorType "CapitalShip"
-hudIcon "HUDICON_CAPITALSHIP_TECHCARRIER"
-smallHudIcon "HUDICONSMALL_CAPITALSHIP_TECHCARRIER"
-infoCardIcon "INFOCARDICON_CAPITALSHIP_TECHCARRIER"
+hudIcon "HUDICON_CAPITALSHIP_TAURICARRIER"
+smallHudIcon "HUDICONSMALL_CAPITALSHIP_TAURICARRIER"
+infoCardIcon "INFOCARDICON_CAPITALSHIP_TAURICARRIER"
 minZoomDistanceMult 1.000000
 NumWeapons 3
 Weapon

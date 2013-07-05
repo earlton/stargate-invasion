@@ -8,11 +8,11 @@ numRandomDebrisLarge 0
 numRandomDebrisSmall 0
 numSpecificDebris 0
 armorType "VeryLight"
-hudIcon "HUDICON_SQUADTECHCOMBAT"
-smallHudIcon "HUDICONSMALL_SQUADTECHCOMBAT"
-infoCardIcon "INFOCARDICON_SQUADTECHCOMBAT"
+hudIcon "HUDICON_SQUADTAURICOMBAT"
+smallHudIcon "HUDICONSMALL_SQUADTAURICOMBAT"
+infoCardIcon "INFOCARDICON_SQUADTAURICOMBAT"
 minZoomDistanceMult 5.000000
-nameStringID "IDS_FIGHTERTECHCOMBAT_NAME"
+nameStringID "IDS_FIGHTERTAURICOMBAT_NAME"
 counterDescriptionStringID "IDS_COUNTERDESC_FIGHTER_COMBAT"
 statCountType "FighterCombat"
 formationOffsetDistance 55.000000

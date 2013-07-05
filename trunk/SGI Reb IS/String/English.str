@@ -1,5 +1,5 @@
 TXT
-NumStrings 7791
+NumStrings 7807
 StringInfo
 	ID "IDS_ABILITY_WORTHYCAUSE_NAME"
 	Value "Worthy Cause"
@@ -3436,6 +3436,36 @@ StringInfo
 	ID "IDS_GAMESERVERGALAXYSCENARIODIFFERSFROMHOST"
 	Value "Your galaxy scenario file differs from the host's."
 StringInfo
+	ID "IDSGalaxyScenarioTypeIceGiantHabitable"
+	Value "Habitable Ice Giant"
+StringInfo
+	ID "IDSGalaxyScenarioTypeRockGiantHabitable"
+	Value "Habitable Rock Giant"
+StringInfo
+	ID "IDSGalaxyScenarioTypeTerranGiantHabitable"
+	Value "Habitable Terran Giant"
+StringInfo
+	ID "IDSGalaxyScenarioTypeToxicWorld"
+	Value "Toxic World"
+StringInfo
+	ID "IDSGalaxyScenarioTypeParadiseWorld"
+	Value "Paradise World"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetJungle"
+	Value "Jungle Planet"
+StringInfo
+	ID "IDSGalaxyScenarioTypeStarWhite"
+	Value "White Dwarf"
+StringInfo
+	ID "IDSGalaxyScenarioTypeStarNeutron"
+	Value "Neutron Star"
+StringInfo
+	ID "IDSGalaxyScenarioTypeStarPulsar"
+	Value "Pulsar Star"
+StringInfo
+	ID "IDSGalaxyScenarioTypeStarQuasar"
+	Value "Quasar Star"
+StringInfo
 	ID "IDS_GalaxyScenarioGameType_Solo"
 	Value "1v1"
 StringInfo
@@ -5534,7 +5564,7 @@ StringInfo
 	Value "Unleashes the mighty power of the Combined Eyes of the Gods"
 StringInfo
 	ID "IDS_CAPITALSHIP_GOAULDBATTLESHIP_NAME"
-	Value "Anubis Mothership"
+	Value "Ha'tel"
 StringInfo
 	ID "IDS_CAPITALSHIP_GOAULDBATTLESHIP_DESCRIPTION"
 	Value "A heavily armed and armored warship, it leads the Goa'uld armada into battle."
@@ -5546,7 +5576,7 @@ StringInfo
 	Value "A warship boasting a number of nanotechnology abilities and many squadrons of strike craft."
 StringInfo
 	ID "IDS_CAPITALSHIP_GOAULDCOLONY_NAME"
-	Value "Ha'tell"
+	Value ""
 StringInfo
 	ID "IDS_CAPITALSHIP_GOAULDCOLONY_DESCRIPTION"
 	Value "A mighty capitalship capable of colonization formerly used by Gouald forces now by ? ."
@@ -13450,6 +13480,24 @@ StringInfo
 	ID "IDS_PLANETTYPE_OCEAN"
 	Value "Ocean Planet"
 StringInfo
+	ID "IDS_PLANETTYPE_JUNGLE"
+	Value "Jungle Planet"
+StringInfo
+	ID "IDS_PLANETTYPE_PARADISE"
+	Value "Paradise Planet"
+StringInfo
+	ID "IDS_PLANETTYPE_TOXIC"
+	Value "Toxic Planet"
+StringInfo
+	ID "IDS_PLANETTYPE_ICEGIANT"
+	Value "Ice Giant"
+StringInfo
+	ID "IDS_PLANETTYPE_ROCKGIANT"
+	Value "Rock Giant"
+StringInfo
+	ID "IDS_PLANETTYPE_TERRANGIANT"
+	Value "Terran Giant"
+StringInfo
 	ID "IDS_PLANETTYPE_DESERT"
 	Value "Desert Planet"
 StringInfo
@@ -20965,28 +21013,28 @@ StringInfo
 	ID "IDS_CAPITALSHIP_HUMANEXCAL_DESCRIPTION"
 	Value "The mighty Excalibur is a hearty battleship with massive firepower."
 StringInfo
-	ID "IDS_FIGHTERTECHCOMBAT_NAME"
+	ID "IDS_FIGHTERTAURICOMBAT_NAME"
 	Value "F-302"
 StringInfo
-	ID "IDS_FIGHTERTECHBOMBER_NAME"
+	ID "IDS_FIGHTERTAURIBOMBER_NAME"
 	Value "Bomber"
 StringInfo
-	ID "IDS_SPACEMINE_TECH_NAME"
+	ID "IDS_SPACEMINE_TAURI_NAME"
 	Value "Mine Field"
 StringInfo
-	ID "IDS_SPACEMINE_TECH_DESC"
+	ID "IDS_SPACEMINE_TAURI_DESC"
 	Value "A payload of explosives connected to a basic sensor system. Explodes when enemy ships get too close, dealing damage to all within its radius."
 StringInfo
-	ID "IDS_SQUADTECHCOMBAT_NAME"
+	ID "IDS_SQUADTAURICOMBAT_NAME"
 	Value "F302 Fighter Squadron"
 StringInfo
-	ID "IDS_SQUADTECHCOMBAT_DESC"
+	ID "IDS_SQUADTAURICOMBAT_DESC"
 	Value "Squad of F302 Fighters"
 StringInfo
-	ID "IDS_SQUADTECHBOMBER_NAME"
+	ID "IDS_SQUADTAURIBOMBER_NAME"
 	Value "Bomber Squadron"
 StringInfo
-	ID "IDS_SQUADTECHBOMBER_DESC"
+	ID "IDS_SQUADTAURIBOMBER_DESC"
 	Value "Squadron of bombers good at taking out larger ships"
 StringInfo
 	ID "IDS_FRIGATE_HUMANZEPHYR_NAME"

@@ -1,6 +1,66 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 117
+brushCount 129
+brush
+	name "HUDICON_PLANET_PARADISE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 1071 , 821 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_PARADISE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 204 , 969 , 28 , 23 ]
+brush
+	name "HUDICON_PLANET_TOXIC"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 1122 , 821 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_TOXIC"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 117 , 921 , 28 , 23 ]
+brush
+	name "HUDICON_PLANET_ROCKGIANT"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 1173 , 821 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_ROCKGIANT"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 146 , 921 , 28 , 23 ]
+brush
+	name "HUDICON_PLANET_TERRANGIANT"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 1173 , 872 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_TERRANGIANT"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 204 , 921 , 28 , 23 ]
+brush
+	name "HUDICON_PLANET_JUNGLE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 1224 , 770 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_JUNGLE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 233 , 921 , 28 , 23 ]
+brush
+	name "HUDICON_PLANET_ICEGIANT"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 1173 , 770 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_ICEGIANT"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 88 , 921 , 28 , 23 ]
 brush
 	name "HUDICON_RESOURCEASTEROIDMETAL"
 	content "Simple"

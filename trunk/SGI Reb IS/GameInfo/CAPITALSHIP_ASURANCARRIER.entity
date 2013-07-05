@@ -41,7 +41,7 @@ bombEffectsDef
 		sound "EXPLOSION_SUB4_ALT1"
 		sound "EXPLOSION_SUB4_ALT2"
 	projectileTravelEffectName "Weapon_AsuranCapitalDroneUltra_Travel"
-mainViewIcon "MAINVIEWICON_CAPITALSHIP_PHASECARRIER"
+mainViewIcon "MAINVIEWICON_CAPITALSHIP_ASURANCARRIER"
 basePrice
 	credits 6000.000000
 	metal 1550.000000

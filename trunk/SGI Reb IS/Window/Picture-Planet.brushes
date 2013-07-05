@@ -1,6 +1,36 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 43
+brushCount 49
+brush
+	name "PICTURE_PLANET_PARADISE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 682 , 314 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_TOXIC"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 342 , 470 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_ROCKGIANT"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 172 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_TERRANGIANT"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 342 , 548 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_JUNGLE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 852 , 471 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_ICEGIANT"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 2 , 548 , 167 , 75 ]
 brush
 	name "PICTURE_RESOURCEASTEROIDMETAL"
 	content "Simple"

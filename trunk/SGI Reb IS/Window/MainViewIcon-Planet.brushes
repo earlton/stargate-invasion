@@ -1,6 +1,66 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 77
+brushCount 89
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_PARADISE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 892 , 52 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_PARADISE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 1071 , 821 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_TOXIC"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 943 , 52 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_TOXIC"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 1122 , 821 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_ROCKGIANT"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 994 , 52 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_ROCKGIANT"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 1173 , 821 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_TERRANGIANT"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 994 , 103 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_TERRANGIANT"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 1173 , 872 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_JUNGLE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 1224 , 770 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_JUNGLE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 1045 , 1 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_ICEGIANT"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 1173 , 770 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_ICEGIANT"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 994 , 1 , 50 , 50 ]
 brush
 	name "MAINVIEWICON_PLANET_UNKNOWN"
 	content "Simple"

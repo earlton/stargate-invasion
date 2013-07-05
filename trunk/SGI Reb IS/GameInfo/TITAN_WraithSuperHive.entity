@@ -41,7 +41,7 @@ bombEffectsDef
 		sound "EXPLOSION_SUB4_ALT1"
 		sound "EXPLOSION_SUB4_ALT2"
 	projectileTravelEffectName "Weapon_PsiCapitalPlanetBombing_Travel"
-mainViewIcon "MAINVIEWICON_TITAN_PSILOYALIST"
+mainViewIcon "MAINVIEWICON_TITAN_WRAITHSUPERHIVE"
 basePrice
 	credits 9500.000000
 	metal 1200.000000
@@ -75,26 +75,26 @@ AntiMatterRestoreRate
 CultureProtectRate
 	StartValue 0.300000
 	ValueIncreasePerLevel 0.050000
-NameStringID "IDS_CAPITALSHIP_WRAITHBATTLESHIP_NAME"
-DescriptionStringID "IDS_CAPITALSHIP_WRAITHBATTLESHIP_DESCRIPTION"
-picture "CAPITALSHIPPICTURE_PSIBATTLESHIP"
+NameStringID "IDS_TITAN_WRAITHSUPERHIVE_NAME"
+DescriptionStringID "IDS_TITAN_WRAITHSUPERHIVE_DESCRIPTION"
+picture "TITANPICTURE_WRAITHSUPERHIVE"
 Prerequisites
-	NumResearchPrerequisites 1
-	ResearchPrerequisite
-		Subject "RESEARCHSUBJECT_CAPITALSHIPACCESS_WRAITH_BATTLESHIP"
-		Level 1
+	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 statCountType "Titan"
-UpgradeTypeCount 0
+UpgradeTypeCount 3
+UpgradeType "TitanUpgrade_WraithSuperHive_Abilities"
+UpgradeType "TitanUpgrade_WraithSuperHive_Durability"
+UpgradeType "TitanUpgrade_WraithSuperHive_Weapons"
 numRandomDebrisLarge 80
 numRandomDebrisSmall 30
 numSpecificDebris 1
 specificDebrisMeshName "DebrisAdventLarge"
 armorType "Titan"
-hudIcon "HUDICON_CAPITALSHIP_PSICARRIER"
-smallHudIcon "HUDICONSMALL_CAPITALSHIP_PSICARRIER"
-infoCardIcon "INFOCARDICON_CAPITALSHIP_PSIBATTLESHIP"
+hudIcon "HUDICON_TITAN_WRAITHSUPERHIVE"
+smallHudIcon "HUDICONSMALL_TITAN_WRAITHSUPERHIVE"
+infoCardIcon "INFOCARDICON_TITAN_WRAITHSUPERHIVE"
 minZoomDistanceMult 1.030000
 NumWeapons 3
 Weapon

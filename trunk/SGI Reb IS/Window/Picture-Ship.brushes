@@ -1,53 +1,93 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 76
+brushCount 84
 brush
-	name "CAPITALSHIPPICTURE_TECHCOLONY"
+	name "TITANPICTURE_TAURICARRIER"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1872 , 2 , 167 , 75 ]
+brush
+	name "TITANPICTURE_TAURITARTARUS"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1872 , 548 , 167 , 75 ]
+brush
+	name "TITANPICTURE_WRAITHSUPERHIVE"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1022 , 238 , 167 , 75 ]
+brush
+	name "TITANPICTURE_WRAITHCARRIER"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1532 , 236 , 167 , 75 ]
+brush
+	name "TITANPICTURE_ASURANATLANTIS"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1872 , 782 , 167 , 75 ]
+brush
+	name "TITANPICTURE_ASURANEPHEUS"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1192 , 938 , 167 , 75 ]
+brush
+	name "TITANPICTURE_GOAULDAPOPHIS"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1872 , 782 , 167 , 75 ]
+brush
+	name "TITANPICTURE_GOAULDANUBIS"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1192 , 938 , 167 , 75 ]
+brush
+	name "CAPITALSHIPPICTURE_TAURICOLONY"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 2 , 470 , 167 , 75 ]
 brush
-	name "CAPITALSHIPPICTURE_TECHCARRIER"
+	name "CAPITALSHIPPICTURE_TAURICARRIER"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 342 , 470 , 167 , 75 ]
 brush
-	name "CAPITALSHIPPICTURE_TECHBATTLESHIP"
+	name "CAPITALSHIPPICTURE_TAURIBATTLESHIP"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 172 , 470 , 167 , 75 ]
 brush
-	name "CAPITALSHIPPICTURE_TECHSUPPORT"
+	name "CAPITALSHIPPICTURE_TAURISUPPORT"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 682 , 470 , 167 , 75 ]
 brush
-	name "CAPITALSHIPPICTURE_TECHSIEGE"
+	name "CAPITALSHIPPICTURE_TAURISIEGE"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 512 , 470 , 167 , 75 ]
 brush
-	name "CAPITALSHIPPICTURE_PSICOLONY"
+	name "CAPITALSHIPPICTURE_WRAITHCOLONY"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 2 , 626 , 167 , 75 ]
 brush
-	name "CAPITALSHIPPICTURE_PSICARRIER"
+	name "CAPITALSHIPPICTURE_WRAITHCARRIER"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 342 , 626 , 167 , 75 ]
 brush
-	name "CAPITALSHIPPICTURE_PSIBATTLESHIP"
+	name "CAPITALSHIPPICTURE_WRAITHBATTLESHIP"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 172 , 626 , 167 , 75 ]
 brush
-	name "CAPITALSHIPPICTURE_PSIBATTLEPSIONIC"
+	name "CAPITALSHIPPICTURE_WRAITHBATTLEPSIONIC"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 512 , 626 , 167 , 75 ]
 brush
-	name "CAPITALSHIPPICTURE_PSIPLANETPSIONIC"
+	name "CAPITALSHIPPICTURE_WRAITHPLANETPSIONIC"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 682 , 626 , 167 , 75 ]
@@ -82,7 +122,7 @@ brush
 	fileName "Unit_Picture"
 	pixelBox [ 852 , 548 , 167 , 75 ]
 brush
-	name "PICTURE_TRADESHIP_PSI"
+	name "PICTURE_TRADESHIP_WRAITH"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 852 , 704 , 167 , 75 ]
@@ -97,7 +137,7 @@ brush
 	fileName "Unit_Picture"
 	pixelBox [ 1702 , 548 , 167 , 75 ]
 brush
-	name "PICTURE_REFINERYSHIP_PSI"
+	name "PICTURE_REFINERYSHIP_WRAITH"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1702 , 704 , 167 , 75 ]
@@ -107,27 +147,27 @@ brush
 	fileName "Unit_Picture"
 	pixelBox [ 1702 , 860 , 167 , 75 ]
 brush
-	name "PICTURE_SQUADTECHCOMBAT"
+	name "PICTURE_SQUADTAURICOMBAT"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1022 , 470 , 167 , 75 ]
 brush
-	name "PICTURE_SQUADTECHBOMBER"
+	name "PICTURE_SQUADTAURIBOMBER"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 852 , 470 , 167 , 75 ]
 brush
-	name "PICTURE_SQUADPSICOMBAT"
+	name "PICTURE_SQUADWRAITHCOMBAT"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1022 , 626 , 167 , 75 ]
 brush
-	name "PICTURE_SQUADPSIBOMBER"
+	name "PICTURE_SQUADWRAITHBOMBER"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 852 , 626 , 167 , 75 ]
 brush
-	name "PICTURE_SQUADPSIMINELAYER"
+	name "PICTURE_SQUADWRAITHMINELAYER"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 852 , 236 , 167 , 75 ]
@@ -157,7 +197,7 @@ brush
 	fileName "Unit_Picture"
 	pixelBox [ 2 , 548 , 167 , 75 ]
 brush
-	name "PICTURE_FRIGATE_TECHDAEDALUS"
+	name "PICTURE_FRIGATE_TAURIDAEDALUS"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 172 , 548 , 167 , 75 ]

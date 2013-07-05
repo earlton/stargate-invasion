@@ -44,7 +44,7 @@ bombEffectsDef
 	missileStartTurningDistance 0.005000
 	missileSlowTurnRate 3.708997
 	missileMaxSlowTurnTime 12.000000"
-mainViewIcon "MAINVIEWICON_CAPITALSHIP_TECHCOLONY"
+mainViewIcon "MAINVIEWICON_CAPITALSHIP_TAURICOLONY"
 basePrice
 	credits 1850.000000
 	metal 350.000000
@@ -80,7 +80,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_CAPITALSHIP_HUMANDESTINY_NAME"
 DescriptionStringID "IDS_CAPITALSHIP_HUMANDESTINY_DESCRIPTION"
-picture "CAPITALSHIPPICTURE_TECHCOLONY"
+picture "CAPITALSHIPPICTURE_TAURICOLONY"
 Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
@@ -91,9 +91,9 @@ numRandomDebrisLarge 4
 numRandomDebrisSmall 17
 numSpecificDebris 0
 armorType "CapitalShip"
-hudIcon "HUDICON_CAPITALSHIP_TECHCOLONY"
-smallHudIcon "HUDICONSMALL_CAPITALSHIP_TECHCOLONY"
-infoCardIcon "INFOCARDICON_CAPITALSHIP_TECHCOLONY"
+hudIcon "HUDICON_CAPITALSHIP_TAURICOLONY"
+smallHudIcon "HUDICONSMALL_CAPITALSHIP_TAURICOLONY"
+infoCardIcon "INFOCARDICON_CAPITALSHIP_TAURICOLONY"
 minZoomDistanceMult 1.000000
 NumWeapons 3
 Weapon

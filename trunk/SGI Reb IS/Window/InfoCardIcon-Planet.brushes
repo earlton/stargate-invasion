@@ -1,6 +1,36 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 71
+brushCount 77
+brush
+	name "INFOCARDICON_PLANET_PARADISE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 162 , 649 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_TOXIC"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 185 , 649 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_ROCKGIANT"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 208 , 649 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_TERRANGIANT"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 208 , 674 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_JUNGLE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 231 , 626 , 22 , 22 ]
+brush
+	name "INFOCARDICON_PLANET_ICEGIANT"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 208 , 626 , 22 , 22 ]
 brush
 	name "INFOCARDICON_STAR_YELLOW"
 	content "Simple"

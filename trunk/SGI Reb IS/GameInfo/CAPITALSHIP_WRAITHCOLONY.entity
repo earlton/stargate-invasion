@@ -41,7 +41,7 @@ bombEffectsDef
 		sound "EXPLOSION_SUB4_ALT1"
 		sound "EXPLOSION_SUB4_ALT2"
 	projectileTravelEffectName "Weapon_WraithCapitalPlasmaHeavy_Travel"
-mainViewIcon "MAINVIEWICON_CAPITALSHIP_PSICOLONY"
+mainViewIcon "MAINVIEWICON_CAPITALSHIP_WRAITHCOLONY"
 basePrice
 	credits 2500.000000
 	metal 400.000000
@@ -77,7 +77,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_CAPITALSHIP_WRAITHCOLONY_NAME"
 DescriptionStringID "IDS_CAPITALSHIP_WRAITHCOLONY_DESCRIPTION"
-picture "CAPITALSHIPPICTURE_PSICOLONY"
+picture "CAPITALSHIPPICTURE_WRAITHCOLONY"
 Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
@@ -88,9 +88,9 @@ numRandomDebrisLarge 4
 numRandomDebrisSmall 18
 numSpecificDebris 0
 armorType "CapitalShip"
-hudIcon "HUDICON_CAPITALSHIP_PSICARRIER"
-smallHudIcon "HUDICONSMALL_CAPITALSHIP_PSICARRIER"
-infoCardIcon "INFOCARDICON_CAPITALSHIP_PSICOLONY"
+hudIcon "HUDICON_CAPITALSHIP_WRAITHCARRIER"
+smallHudIcon "HUDICONSMALL_CAPITALSHIP_WRAITHCARRIER"
+infoCardIcon "INFOCARDICON_CAPITALSHIP_WRAITHCOLONY"
 minZoomDistanceMult 2.500000
 NumWeapons 2
 Weapon

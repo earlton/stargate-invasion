@@ -1,6 +1,26 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 84
+brushCount 88
+brush
+	name "MAINVIEWICON_STAR_QUASAR"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 1457 , 555 , 175 , 175 ]
+brush
+	name "MAINVIEWICON_STAR_WHITE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 352 , 719 , 175 , 175 ]
+brush
+	name "MAINVIEWICON_STAR_NEUTRON"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 1457 , 722 , 175 , 175 ]
+brush
+	name "MAINVIEWICON_STAR_PULSAR"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 1278 , 722 , 175 , 175 ]
 brush
 	name "MAINVIEWICON_RESOURCEASTEROIDMETAL"
 	content "Simple"

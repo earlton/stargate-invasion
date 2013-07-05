@@ -1,6 +1,66 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 86
+brushCount 98
+brush
+	name "HUDICON_STAR_QUASAR"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 1280 , 946 , 69 , 69 ]
+brush
+	name "HUDICON_SOLARSYSTEM_QUASAR"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 1280 , 946 , 69 , 69 ]
+brush
+	name "HUDICONSMALL_STAR_QUASAR"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 1280 , 946 , 69 , 69 ]
+brush
+	name "HUDICON_STAR_WHITE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 546 , 946 , 69 , 69 ]
+brush
+	name "HUDICONSMALL_STAR_WHITE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 546 , 946 , 69 , 69 ]
+brush
+	name "HUDICON_SOLARSYSTEM_WHITE"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 546 , 946 , 69 , 69 ]
+brush
+	name "HUDICON_SOLARSYSTEM_NEUTRON"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 817 , 946 , 69 , 69 ]
+brush
+	name "HUDICON_STAR_NEUTRON"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 817 , 946 , 69 , 69 ]
+brush
+	name "HUDICONSMALL_STAR_NEUTRON"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 817 , 946 , 69 , 69 ]
+brush
+	name "HUDICON_SOLARSYSTEM_PULSAR"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 458 , 946 , 69 , 69 ]
+brush
+	name "HUDICON_STAR_PULSAR"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 458 , 946 , 69 , 69 ]
+brush
+	name "HUDICONSMALL_STAR_PULSAR"
+	content "Simple"
+	fileName "Icons_planets_maelstrom.dds"
+	pixelBox [ 458 , 946 , 69 , 69 ]
 brush
 	name "HUDIconAllianceTypeTrade"
 	content "Simple"
