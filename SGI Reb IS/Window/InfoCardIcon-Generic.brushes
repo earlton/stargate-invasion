@@ -42,17 +42,17 @@ brush
 	fileName "Icons_planets"
 	pixelBox [ 410 , 629 , 46 , 48 ]
 brush
-	name "InfoCardIconCannonShellTech"
+	name "InfoCardIconCannonShellTauri"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 369 , 1 , 22 , 22 ]
 brush
-	name "InfoCardIconCannonShellPsi"
+	name "InfoCardIconCannonShellWraith"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 369 , 24 , 22 , 22 ]
 brush
-	name "InfoCardIconCannonShellPhase"
+	name "InfoCardIconCannonShellAsuran"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 369 , 47 , 22 , 22 ]
@@ -107,17 +107,17 @@ brush
 	fileName "smallicons"
 	pixelBox [ 95 , 121 , 15 , 12 ]
 brush
-	name "InfoCardIconFleetUpkeepTech"
+	name "InfoCardIconFleetUpkeepTauri"
 	content "Simple"
 	fileName "smallicons"
 	pixelBox [ 167 , 121 , 16 , 16 ]
 brush
-	name "InfoCardIconFleetUpkeepPsi"
+	name "InfoCardIconFleetUpkeepWraith"
 	content "Simple"
 	fileName "smallicons"
 	pixelBox [ 185 , 121 , 16 , 16 ]
 brush
-	name "InfoCardIconFleetUpkeepPhase"
+	name "InfoCardIconFleetUpkeepAsuran"
 	content "Simple"
 	fileName "smallicons"
 	pixelBox [ 203 , 121 , 16 , 16 ]
@@ -160,37 +160,37 @@ brush
 		fileName "Buttons_Main_Normal"
 		pixelBox [ 260 , 475 , 47 , 33 ]
 brush
-	name "INFOCARDICON_STARBASE_TECH"
+	name "INFOCARDICON_STARBASE_TAURI"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 208 , 70 , 22 , 22 ]
 brush
-	name "INFOCARDICON_STARBASE_PSI"
+	name "INFOCARDICON_STARBASE_WRAITH"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 208 , 93 , 22 , 22 ]
 brush
-	name "INFOCARDICON_STARBASE_PHASE"
+	name "INFOCARDICON_STARBASE_ASURAN"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 208 , 116 , 22 , 22 ]
 brush
-	name "InfoCardIconSpaceMineTech"
+	name "InfoCardIconSpaceMineTauri"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 231 , 1 , 22 , 22 ]
 brush
-	name "InfoCardIconSpaceMinePsi"
+	name "InfoCardIconSpaceMineWraith"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 231 , 24 , 22 , 22 ]
 brush
-	name "InfoCardIconSpaceMinePhaseExplosive"
+	name "InfoCardIconSpaceMineAsuranExplosive"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 231 , 47 , 22 , 22 ]
 brush
-	name "InfoCardIconSpaceMinePhaseGravity"
+	name "InfoCardIconSpaceMineAsuranGravity"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 346 , 185 , 22 , 22 ]

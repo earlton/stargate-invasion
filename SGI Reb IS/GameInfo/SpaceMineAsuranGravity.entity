@@ -9,17 +9,17 @@ numRandomDebrisLarge 0
 numRandomDebrisSmall 2
 numSpecificDebris 0
 armorType "Module"
-hudIcon "HUDIconSpaceMinePhaseGravity"
-smallHudIcon "HUDIconSmallSpaceMinePhaseGravity"
-infoCardIcon "InfoCardIconSpaceMinePhaseGravity"
-picture "PictureSpaceMinePhaseGravity"
-mainViewIcon "MainViewIconSpaceMinePhaseGravity"
+hudIcon "HUDIconSpaceMineAsuranGravity"
+smallHudIcon "HUDIconSmallSpaceMineAsuranGravity"
+infoCardIcon "InfoCardIconSpaceMineAsuranGravity"
+picture "PictureSpaceMineAsuranGravity"
+mainViewIcon "MainViewIconSpaceMineAsuranGravity"
 minZoomDistanceMult 1.000000
 MeshName "SpaceMine_PhaseGravity"
 spawnActivationDelay 30.000000
 targetStartFollowRange 0.000000
 targetMaxFollowRange 0.000000
-nameStringID "IDS_SPACEMINE_WRAITHGRAVITY_NAME"
+nameStringID "IDS_SPACEMINE_ASURANGRAVITY_NAME"
 scuttleValue
 	credits 100.000000
 	metal 25.000000

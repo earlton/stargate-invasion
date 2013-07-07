@@ -9,17 +9,17 @@ numRandomDebrisLarge 0
 numRandomDebrisSmall 2
 numSpecificDebris 0
 armorType "Module"
-hudIcon "HUDIconSpaceMinePhaseExplosive"
-smallHudIcon "HUDIconSmallSpaceMinePhaseExplosive"
-infoCardIcon "InfoCardIconSpaceMinePhaseExplosive"
-picture "PictureSpaceMinePhaseExplosive"
-mainViewIcon "MainViewIconSpaceMinePhaseExplosive"
+hudIcon "HUDIconSpaceMineAsuranExplosive"
+smallHudIcon "HUDIconSmallSpaceMineAsuranExplosive"
+infoCardIcon "InfoCardIconSpaceMineAsuranExplosive"
+picture "PictureSpaceMineAsuranExplosive"
+mainViewIcon "MainViewIconSpaceMineAsuranExplosive"
 minZoomDistanceMult 1.000000
 MeshName "SpaceMine_AsuranExplosive"
 spawnActivationDelay 30.000000
 targetStartFollowRange 0.000000
 targetMaxFollowRange 0.000000
-nameStringID "IDS_SPACEMINE_WRAITHEXPLOSIVE_NAME"
+nameStringID "IDS_SPACEMINE_ASURANEXPLOSIVE_NAME"
 scuttleValue
 	credits 100.000000
 	metal 25.000000

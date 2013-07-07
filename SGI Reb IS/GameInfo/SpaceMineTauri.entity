@@ -9,17 +9,17 @@ numRandomDebrisLarge 0
 numRandomDebrisSmall 3
 numSpecificDebris 0
 armorType "Module"
-hudIcon "HUDIconSpaceMineTech"
-smallHudIcon "HUDIconSmallSpaceMineTech"
-infoCardIcon "InfoCardIconSpaceMineTech"
-picture "PictureSpaceMineTech"
-mainViewIcon "MainViewIconSpaceMineTech"
+hudIcon "HUDIconSpaceMineTauri"
+smallHudIcon "HUDIconSmallSpaceMineTauri"
+infoCardIcon "InfoCardIconSpaceMineTauri"
+picture "PictureSpaceMineTauri"
+mainViewIcon "MainViewIconSpaceMineTauri"
 minZoomDistanceMult 1.000000
 MeshName "PlanetModule_TauriDeepSpaceMine"
 spawnActivationDelay 30.000000
 targetStartFollowRange 0.000000
 targetMaxFollowRange 0.000000
-nameStringID "IDS_SPACEMINE_TECH_NAME"
+nameStringID "IDS_SPACEMINE_TAURI_NAME"
 scuttleValue
 	credits 85.000000
 	metal 21.500000

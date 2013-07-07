@@ -13,8 +13,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradePhaseToughness0"
-	smallHudIcon "HUDIconStarBaseUpgradePhaseToughness0"
+	hudIcon "HUDIconStarBaseUpgradeGoauldToughness0"
+	smallHudIcon "HUDIconStarBaseUpgradeGoauldToughness0"
 	infoCardIcon ""
 	upgradePropertyCount 6
 	upgradeProperty
@@ -48,8 +48,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradePhaseToughness0"
-	smallHudIcon "HUDIconStarBaseUpgradePhaseToughness0"
+	hudIcon "HUDIconStarBaseUpgradeGoauldToughness0"
+	smallHudIcon "HUDIconStarBaseUpgradeGoauldToughness0"
 	infoCardIcon ""
 	upgradePropertyCount 6
 	upgradeProperty
@@ -83,8 +83,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradePhaseToughness1"
-	smallHudIcon "HUDIconStarBaseUpgradePhaseToughness1"
+	hudIcon "HUDIconStarBaseUpgradeGoauldToughness1"
+	smallHudIcon "HUDIconStarBaseUpgradeGoauldToughness1"
 	infoCardIcon ""
 	upgradePropertyCount 6
 	upgradeProperty
@@ -118,8 +118,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradePhaseToughness2"
-	smallHudIcon "HUDIconStarBaseUpgradePhaseToughness2"
+	hudIcon "HUDIconStarBaseUpgradeGoauldToughness2"
+	smallHudIcon "HUDIconStarBaseUpgradeGoauldToughness2"
 	infoCardIcon ""
 	upgradePropertyCount 6
 	upgradeProperty
@@ -153,8 +153,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradePhaseToughness3"
-	smallHudIcon "HUDIconStarBaseUpgradePhaseToughness3"
+	hudIcon "HUDIconStarBaseUpgradeGoauldToughness3"
+	smallHudIcon "HUDIconStarBaseUpgradeGoauldToughness3"
 	infoCardIcon ""
 	upgradePropertyCount 6
 	upgradeProperty

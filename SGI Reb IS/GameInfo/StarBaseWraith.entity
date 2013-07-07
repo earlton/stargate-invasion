@@ -13,9 +13,9 @@ numRandomDebrisLarge 12
 numRandomDebrisSmall 24
 numSpecificDebris 0
 armorType "Module"
-hudIcon "HUDICON_STARBASE_PSI"
-smallHudIcon "HUDICONSMALL_STARBASE_PSI"
-infoCardIcon "INFOCARDICON_STARBASE_PSI"
+hudIcon "HUDICON_STARBASE_WRAITH"
+smallHudIcon "HUDICONSMALL_STARBASE_WRAITH"
+infoCardIcon "INFOCARDICON_STARBASE_WRAITH"
 minZoomDistanceMult 1.000000
 NumWeapons 3
 Weapon
@@ -155,7 +155,7 @@ squadTypeEntityDef:2 "SquadWraithMineLayer"
 squadAntiMatterCost:2 0.000000
 squadTypeEntityDef:3 ""
 squadAntiMatterCost:3 0.000000
-mainViewIcon "MainViewIconStarBasePsi"
+mainViewIcon "MainViewIconStarBaseWraith"
 experiencePointsForDestroying 400.000000
 nameStringID "IDS_STARBASEWRAITH_NAME"
 picture "PICTURE_STARBASEPSI"

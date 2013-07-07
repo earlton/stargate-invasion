@@ -49,19 +49,24 @@ v0.2.9	Asgard Assault Titan
 
 v0.2.8	Wraith Carrier Titan
 
-v0.2.7	Human Carrier Titan
+v0.2.7	Wraith Superhive (Titan)
 
-v0.2.6	Human Assault Titan
+v0.2.6	Asuran Epheus (Titan)
 
-v0.2.5	Epheus (Titan)
+v0.2.5	Human Assault Titan
+DONE
 
-v0.2.4	Atlantis (Titan)
+v0.2.4	Human Carrier Titan
+DONE
 
-v0.2.3	Wraith Superhive (Titan)
+v0.2.3	Atlantis (Titan)
+DONE
 
 v0.2.2	Apophis Titan
+DONE
 
 v0.2.1	Anubis titan
+DONE
 
 2.6.13 v0.2
 - finished the integration of the Infinite Space planets

@@ -13,8 +13,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradePhaseTradePort0"
-	smallHudIcon "HUDIconStarBaseUpgradePhaseTradePort0"
+	hudIcon "HUDIconStarBaseUpgradeGoauldTradePort0"
+	smallHudIcon "HUDIconStarBaseUpgradeGoauldTradePort0"
 	infoCardIcon ""
 	upgradePropertyCount 0
 	upgradeBoolPropertyCount 0
@@ -33,8 +33,8 @@ stage
 			Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradePhaseTradePort0"
-	smallHudIcon "HUDIconStarBaseUpgradePhaseTradePort0"
+	hudIcon "HUDIconStarBaseUpgradeGoauldTradePort0"
+	smallHudIcon "HUDIconStarBaseUpgradeGoauldTradePort0"
 	infoCardIcon ""
 	upgradePropertyCount 2
 	upgradeProperty

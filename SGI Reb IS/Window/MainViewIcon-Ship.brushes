@@ -1,6 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 97
+brushCount 95
 brush
 	name "MAINVIEWICON_CORVETTE_ASURAN"
 	content "Simple"
@@ -22,7 +22,7 @@ brush
 	fileName "Unit_Main"
 	pixelBox [ 347 , 290 , 28 , 28 ]
 brush
-	name "MAINVIEWICON_CAPITALSHIP_TECHTRANSPORT"
+	name "MAINVIEWICON_CAPITALSHIP_TAURITRANSPORT"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 304 , 154 , 28 , 28 ]
@@ -53,16 +53,6 @@ brush
 	pixelBox [ 452 , 190 , 24 , 47 ]
 brush
 	name "MAINVIEWICON_TITAN_WRAITHCARRIER"
-	content "Simple"
-	fileName "Unit_Main"
-	pixelBox [ 478 , 220 , 32 , 46 ]
-brush
-	name "MAINVIEWICON_TITAN_GOAULDAPOPHIS"
-	content "Simple"
-	fileName "Unit_Main"
-	pixelBox [ 452 , 190 , 24 , 47 ]
-brush
-	name "MAINVIEWICON_TITAN_GOAULDANUBIS"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 478 , 220 , 32 , 46 ]

@@ -22,17 +22,17 @@ brush
 	fileName "Icons_planets_maelstrom.dds"
 	pixelBox [ 342 , 392 , 167 , 75 ]
 brush
-	name "PictureCannonShellTech"
+	name "PictureCannonShellTauri"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1702 , 2 , 167 , 75 ]
 brush
-	name "PictureCannonShellPsi"
+	name "PictureCannonShellWraith"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1702 , 158 , 167 , 75 ]
 brush
-	name "PictureCannonShellPhase"
+	name "PictureCannonShellAsuran"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1702 , 314 , 167 , 75 ]
@@ -72,22 +72,22 @@ brush
 	fileName "Unit_Picture"
 	pixelBox [ 1362 , 392 , 167 , 75 ]
 brush
-	name "PictureSpaceMineTech"
+	name "PictureSpaceMineTauri"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 2 , 80 , 167 , 75 ]
 brush
-	name "PictureSpaceMinePsi"
+	name "PictureSpaceMineWraith"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 2 , 236 , 167 , 75 ]
 brush
-	name "PictureSpaceMinePhaseExplosive"
+	name "PictureSpaceMineAsuranExplosive"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 2 , 392 , 167 , 75 ]
 brush
-	name "PictureSpaceMinePhaseGravity"
+	name "PictureSpaceMineAsuranGravity"
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1022 , 392 , 167 , 75 ]

@@ -1,6 +1,11 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 16
+brushCount 17
+brush
+	name "PLANETMODULEPICTURE_GOAULDORBITALTITANFACTORY"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1872 , 158 , 167 , 75 ]
 brush
 	name "PLANETMODULEPICTURE_GOAULDORBITALFRIGATEFACTORY"
 	content "Simple"

@@ -13,8 +13,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradePhaseHangar0"
-	smallHudIcon "HUDIconStarBaseUpgradePhaseHangar0"
+	hudIcon "HUDIconStarBaseUpgradeAsuranHangar0"
+	smallHudIcon "HUDIconStarBaseUpgradeAsuranHangar0"
 	infoCardIcon ""
 	upgradePropertyCount 0
 	upgradeBoolPropertyCount 0
@@ -30,8 +30,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradePhaseHangar0"
-	smallHudIcon "HUDIconStarBaseUpgradePhaseHangar0"
+	hudIcon "HUDIconStarBaseUpgradeAsuranHangar0"
+	smallHudIcon "HUDIconStarBaseUpgradeAsuranHangar0"
 	infoCardIcon ""
 	upgradePropertyCount 1
 	upgradeProperty
@@ -50,8 +50,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradePhaseHangar1"
-	smallHudIcon "HUDIconStarBaseUpgradePhaseHangar1"
+	hudIcon "HUDIconStarBaseUpgradeAsuranHangar1"
+	smallHudIcon "HUDIconStarBaseUpgradeAsuranHangar1"
 	infoCardIcon ""
 	upgradePropertyCount 1
 	upgradeProperty
@@ -70,8 +70,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradePhaseHangar2"
-	smallHudIcon "HUDIconStarBaseUpgradePhaseHangar2"
+	hudIcon "HUDIconStarBaseUpgradeAsuranHangar2"
+	smallHudIcon "HUDIconStarBaseUpgradeAsuranHangar2"
 	infoCardIcon ""
 	upgradePropertyCount 1
 	upgradeProperty

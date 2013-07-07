@@ -13,8 +13,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradePsiToughness0"
-	smallHudIcon "HUDIconStarBaseUpgradePsiToughness0"
+	hudIcon "HUDIconStarBaseUpgradeWraithToughness0"
+	smallHudIcon "HUDIconStarBaseUpgradeWraithToughness0"
 	infoCardIcon ""
 	upgradePropertyCount 3
 	upgradeProperty
@@ -39,8 +39,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradePsiToughness0"
-	smallHudIcon "HUDIconStarBaseUpgradePsiToughness0"
+	hudIcon "HUDIconStarBaseUpgradeWraithToughness0"
+	smallHudIcon "HUDIconStarBaseUpgradeWraithToughness0"
 	infoCardIcon ""
 	upgradePropertyCount 3
 	upgradeProperty
@@ -65,8 +65,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradePsiToughness1"
-	smallHudIcon "HUDIconStarBaseUpgradePsiToughness1"
+	hudIcon "HUDIconStarBaseUpgradeWraithToughness1"
+	smallHudIcon "HUDIconStarBaseUpgradeWraithToughness1"
 	infoCardIcon ""
 	upgradePropertyCount 3
 	upgradeProperty
@@ -91,8 +91,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradePsiToughness2"
-	smallHudIcon "HUDIconStarBaseUpgradePsiToughness2"
+	hudIcon "HUDIconStarBaseUpgradeWraithToughness2"
+	smallHudIcon "HUDIconStarBaseUpgradeWraithToughness2"
 	infoCardIcon ""
 	upgradePropertyCount 3
 	upgradeProperty

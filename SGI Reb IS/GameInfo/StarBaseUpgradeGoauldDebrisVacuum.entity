@@ -13,8 +13,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradePhaseDebrisVacuum0"
-	smallHudIcon "HUDIconStarBaseUpgradePhaseDebrisVacuum0"
+	hudIcon "HUDIconStarBaseUpgradeGoauldDebrisVacuum0"
+	smallHudIcon "HUDIconStarBaseUpgradeGoauldDebrisVacuum0"
 	infoCardIcon ""
 	upgradePropertyCount 0
 	upgradeBoolPropertyCount 0
@@ -33,8 +33,8 @@ stage
 			Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradePhaseDebrisVacuum0"
-	smallHudIcon "HUDIconStarBaseUpgradePhaseDebrisVacuum0"
+	hudIcon "HUDIconStarBaseUpgradeGoauldDebrisVacuum0"
+	smallHudIcon "HUDIconStarBaseUpgradeGoauldDebrisVacuum0"
 	infoCardIcon ""
 	upgradePropertyCount 3
 	upgradeProperty
@@ -59,8 +59,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradePhaseDebrisVacuum1"
-	smallHudIcon "HUDIconStarBaseUpgradePhaseDebrisVacuum1"
+	hudIcon "HUDIconStarBaseUpgradeGoauldDebrisVacuum1"
+	smallHudIcon "HUDIconStarBaseUpgradeGoauldDebrisVacuum1"
 	infoCardIcon ""
 	upgradePropertyCount 3
 	upgradeProperty
