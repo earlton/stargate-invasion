@@ -52,152 +52,152 @@ brush
 	fileName "Unit_Main"
 	pixelBox [ 331 , 271 , 28 , 28 ]
 brush
-	name "MainViewIconFleetTech0"
+	name "MainViewIconFleetTauri0"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 399 , 661 , 32 , 31 ]
 brush
-	name "MainViewIconFleetTech1"
+	name "MainViewIconFleetTauri1"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 399 , 694 , 32 , 31 ]
 brush
-	name "MainViewIconFleetTech2"
+	name "MainViewIconFleetTauri2"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 399 , 727 , 32 , 31 ]
 brush
-	name "MainViewIconFleetTech3"
+	name "MainViewIconFleetTauri3"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 399 , 760 , 32 , 31 ]
 brush
-	name "MainViewIconFleetTech4"
+	name "MainViewIconFleetTauri4"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 399 , 793 , 32 , 31 ]
 brush
-	name "MainViewIconFleetTech5"
+	name "MainViewIconFleetTauri5"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 399 , 826 , 32 , 31 ]
 brush
-	name "MainViewIconFleetTech6"
+	name "MainViewIconFleetTauri6"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 399 , 859 , 32 , 31 ]
 brush
-	name "MainViewIconFleetTech7"
+	name "MainViewIconFleetTauri7"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 399 , 892 , 32 , 31 ]
 brush
-	name "MainViewIconFleetTech8"
+	name "MainViewIconFleetTauri8"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 399 , 925 , 32 , 31 ]
 brush
-	name "MainViewIconFleetTech9"
+	name "MainViewIconFleetTauri9"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 399 , 958 , 32 , 31 ]
 brush
-	name "MainViewIconFleetPsi0"
+	name "MainViewIconFleetWraith0"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 365 , 661 , 32 , 31 ]
 brush
-	name "MainViewIconFleetPsi1"
+	name "MainViewIconFleetWraith1"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 365 , 694 , 32 , 31 ]
 brush
-	name "MainViewIconFleetPsi2"
+	name "MainViewIconFleetWraith2"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 365 , 727 , 32 , 31 ]
 brush
-	name "MainViewIconFleetPsi3"
+	name "MainViewIconFleetWraith3"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 365 , 760 , 32 , 31 ]
 brush
-	name "MainViewIconFleetPsi4"
+	name "MainViewIconFleetWraith4"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 365 , 793 , 32 , 31 ]
 brush
-	name "MainViewIconFleetPsi5"
+	name "MainViewIconFleetWraith5"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 365 , 826 , 32 , 31 ]
 brush
-	name "MainViewIconFleetPsi6"
+	name "MainViewIconFleetWraith6"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 365 , 859 , 32 , 31 ]
 brush
-	name "MainViewIconFleetPsi7"
+	name "MainViewIconFleetWraith7"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 365 , 892 , 32 , 31 ]
 brush
-	name "MainViewIconFleetPsi8"
+	name "MainViewIconFleetWraith8"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 365 , 925 , 32 , 31 ]
 brush
-	name "MainViewIconFleetPsi9"
+	name "MainViewIconFleetWraith9"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 365 , 958 , 32 , 31 ]
 brush
-	name "MainViewIconFleetPhase0"
+	name "MainViewIconFleetAsuran0"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 331 , 661 , 32 , 31 ]
 brush
-	name "MainViewIconFleetPhase1"
+	name "MainViewIconFleetAsuran1"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 331 , 694 , 32 , 31 ]
 brush
-	name "MainViewIconFleetPhase2"
+	name "MainViewIconFleetAsuran2"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 331 , 727 , 32 , 31 ]
 brush
-	name "MainViewIconFleetPhase3"
+	name "MainViewIconFleetAsuran3"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 331 , 760 , 32 , 31 ]
 brush
-	name "MainViewIconFleetPhase4"
+	name "MainViewIconFleetAsuran4"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 331 , 793 , 32 , 31 ]
 brush
-	name "MainViewIconFleetPhase5"
+	name "MainViewIconFleetAsuran5"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 331 , 826 , 32 , 31 ]
 brush
-	name "MainViewIconFleetPhase6"
+	name "MainViewIconFleetAsuran6"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 331 , 859 , 32 , 31 ]
 brush
-	name "MainViewIconFleetPhase7"
+	name "MainViewIconFleetAsuran7"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 331 , 892 , 32 , 31 ]
 brush
-	name "MainViewIconFleetPhase8"
+	name "MainViewIconFleetAsuran8"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 331 , 925 , 32 , 31 ]
 brush
-	name "MainViewIconFleetPhase9"
+	name "MainViewIconFleetAsuran9"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 331 , 958 , 32 , 31 ]
@@ -337,17 +337,17 @@ brush
 	fileName "Unit_Main"
 	pixelBox [ 418 , 467 , 39 , 39 ]
 brush
-	name "MainViewIconCannonShellTech"
+	name "MainViewIconCannonShellTauri"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 481 , 1 , 28 , 28 ]
 brush
-	name "MainViewIconCannonShellPsi"
+	name "MainViewIconCannonShellWraith"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 481 , 31 , 28 , 28 ]
 brush
-	name "MainViewIconCannonShellPhase"
+	name "MainViewIconCannonShellAsuran"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 481 , 61 , 28 , 28 ]
@@ -407,37 +407,37 @@ brush
 	fileName "Unit_Main"
 	pixelBox [ 204 , 801 , 23 , 50 ]
 brush
-	name "MainViewIconStarBaseTech"
+	name "MainViewIconStarBaseTauri"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 1 , 871 , 39 , 39 ]
 brush
-	name "MainViewIconStarBasePsi"
+	name "MainViewIconStarBaseWraith"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 42 , 871 , 39 , 39 ]
 brush
-	name "MainViewIconStarBasePhase"
+	name "MainViewIconStarBaseAsuran"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 83 , 871 , 39 , 39 ]
 brush
-	name "MainViewIconSpaceMineTech"
+	name "MainViewIconSpaceMineTauri"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 301 , 1 , 28 , 28 ]
 brush
-	name "MainViewIconSpaceMinePsi"
+	name "MainViewIconSpaceMineWraith"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 301 , 31 , 28 , 28 ]
 brush
-	name "MainViewIconSpaceMinePhaseExplosive"
+	name "MainViewIconSpaceMineAsuranExplosive"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 301 , 61 , 28 , 28 ]
 brush
-	name "MainViewIconSpaceMinePhaseGravity"
+	name "MainViewIconSpaceMineAsuranGravity"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 451 , 241 , 28 , 28 ]

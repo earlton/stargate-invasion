@@ -162,7 +162,7 @@ brush
 	fileName "Icons_planets"
 	pixelBox [ 546 , 946 , 69 , 69 ]
 brush
-	name "HUDIconCannonShellTech"
+	name "HUDIconCannonShellTauri"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -180,7 +180,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 447 , 224 , 47 , 33 ]
 brush
-	name "HUDIconCannonShellPsi"
+	name "HUDIconCannonShellWraith"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -198,7 +198,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 447 , 259 , 47 , 33 ]
 brush
-	name "HUDIconCannonShellPhase"
+	name "HUDIconCannonShellAsuran"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -216,17 +216,17 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 447 , 294 , 47 , 33 ]
 brush
-	name "HUDIconSmallCannonShellTech"
+	name "HUDIconSmallCannonShellTauri"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 481 , 1 , 28 , 28 ]
 brush
-	name "HUDIconSmallCannonShellPsi"
+	name "HUDIconSmallCannonShellWraith"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 481 , 31 , 28 , 28 ]
 brush
-	name "HUDIconSmallCannonShellPhase"
+	name "HUDIconSmallCannonShellAsuran"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 481 , 61 , 28 , 28 ]
@@ -491,7 +491,7 @@ brush
 	fileName "Unit_Main"
 	pixelBox [ 397 , 416 , 3 , 3 ]
 brush
-	name "HUDIconSpaceMineTech"
+	name "HUDIconSpaceMineTauri"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -509,7 +509,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 153 , 14 , 47 , 33 ]
 brush
-	name "HUDIconSpaceMinePsi"
+	name "HUDIconSpaceMineWraith"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -527,7 +527,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 153 , 49 , 47 , 33 ]
 brush
-	name "HUDIconSpaceMinePhaseExplosive"
+	name "HUDIconSpaceMineAsuranExplosive"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -545,7 +545,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 153 , 84 , 47 , 33 ]
 brush
-	name "HUDIconSpaceMinePhaseGravity"
+	name "HUDIconSpaceMineAsuranGravity"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -563,22 +563,22 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 398 , 469 , 47 , 33 ]
 brush
-	name "HUDIconSmallSpaceMineTech"
+	name "HUDIconSmallSpaceMineTauri"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 301 , 1 , 28 , 28 ]
 brush
-	name "HUDIconSmallSpaceMinePsi"
+	name "HUDIconSmallSpaceMineWraith"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 301 , 31 , 28 , 28 ]
 brush
-	name "HUDIconSmallSpaceMinePhaseExplosive"
+	name "HUDIconSmallSpaceMineAsuranExplosive"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 301 , 61 , 28 , 28 ]
 brush
-	name "HUDIconSmallSpaceMinePhaseGravity"
+	name "HUDIconSmallSpaceMineAsuranGravity"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 451 , 241 , 28 , 28 ]

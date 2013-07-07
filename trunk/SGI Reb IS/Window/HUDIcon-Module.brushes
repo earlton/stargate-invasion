@@ -1,8 +1,62 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 96
+brushCount 99
 brush
-	name "HUDICON_PLANETMODULE_TECHORBITALFRIGATEFACTORY"
+	name "HUDICON_ASURAN_TITAN_FOUNDRY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud2_Disabled"
+		pixelBox [ 104 , 76 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud2_Pressed"
+		pixelBox [ 104 , 76 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud2_CursorOver"
+		pixelBox [ 104 , 76 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud2_Normal"
+		pixelBox [ 104 , 76 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud2_Normal"
+		pixelBox [ 104 , 76 , 47 , 33 ]
+brush
+	name "HUDICON_WRAITH_TITAN_FOUNDRY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud2_Disabled"
+		pixelBox [ 153 , 41 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud2_Pressed"
+		pixelBox [ 153 , 41 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud2_CursorOver"
+		pixelBox [ 153 , 41 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud2_Normal"
+		pixelBox [ 153 , 41 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud2_Normal"
+		pixelBox [ 153 , 41 , 47 , 33 ]
+brush
+	name "HUDICON_TAURI_TITAN_FOUNDRY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud2_Disabled"
+		pixelBox [ 153 , 6 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud2_Pressed"
+		pixelBox [ 153 , 6 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud2_CursorOver"
+		pixelBox [ 153 , 6 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud2_Normal"
+		pixelBox [ 153 , 6 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud2_Normal"
+		pixelBox [ 153 , 6 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_TAURIORBITALFRIGATEFACTORY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -20,7 +74,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 153 , 119 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_TECHORBITALCAPITALSHIPFACTORY"
+	name "HUDICON_PLANETMODULE_TAURIORBITALCAPITALSHIPFACTORY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -38,7 +92,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 202 , 119 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_TECHORBITALCULTURECENTER"
+	name "HUDICON_PLANETMODULE_TAURIORBITALCULTURECENTER"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -56,7 +110,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 300 , 119 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_TECHORBITALHANGARDEFENSE"
+	name "HUDICON_PLANETMODULE_TAURIORBITALHANGARDEFENSE"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -74,7 +128,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 55 , 119 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_TECHORBITALGAUSSDEFENSE"
+	name "HUDICON_PLANETMODULE_TAURIORBITALGAUSSDEFENSE"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -92,7 +146,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 6 , 119 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_TECHORBITALSHIELDGENERATOR"
+	name "HUDICON_PLANETMODULE_TAURIORBITALSHIELDGENERATOR"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -110,7 +164,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 251 , 14 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_TECHORBITALREPAIRPLATFORM"
+	name "HUDICON_PLANETMODULE_TAURIORBITALREPAIRPLATFORM"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -128,7 +182,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 251 , 119 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_TECHORBITALCOMBATLABORATORY"
+	name "HUDICON_PLANETMODULE_TAURIORBITALCOMBATLABORATORY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -146,7 +200,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 349 , 14 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_TECHORBITALNONCOMBATLABORATORY"
+	name "HUDICON_PLANETMODULE_TAURIORBITALNONCOMBATLABORATORY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -164,7 +218,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 349 , 119 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_TECHORBITALTRADEPORT"
+	name "HUDICON_PLANETMODULE_TAURIORBITALTRADEPORT"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -182,7 +236,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 398 , 119 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_TECHORBITALREFINERY"
+	name "HUDICON_PLANETMODULE_TAURIORBITALREFINERY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -200,7 +254,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 202 , 14 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_TECHORBITALMETALEXTRACTOR"
+	name "HUDICON_PLANETMODULE_TAURIORBITALMETALEXTRACTOR"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -218,7 +272,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 398 , 14 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_TECHORBITALCRYSTALEXTRACTOR"
+	name "HUDICON_PLANETMODULE_TAURIORBITALCRYSTALEXTRACTOR"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -236,7 +290,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 447 , 14 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_TECHORBITALJUMPBLOCKER"
+	name "HUDICON_PLANETMODULE_TAURIORBITALJUMPBLOCKER"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -254,7 +308,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 104 , 119 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_TECHORBITALCANNON"
+	name "HUDICON_PLANETMODULE_TAURIORBITALCANNON"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -290,7 +344,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 251 , 434 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PSIORBITALFRIGATEFACTORY"
+	name "HUDICON_PLANETMODULE_WRAITHORBITALFRIGATEFACTORY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -308,7 +362,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 153 , 154 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PSIORBITALCAPITALSHIPFACTORY"
+	name "HUDICON_PLANETMODULE_WRAITHORBITALCAPITALSHIPFACTORY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -326,7 +380,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 202 , 154 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PSIORBITALCULTURECENTER"
+	name "HUDICON_PLANETMODULE_WRAITHORBITALCULTURECENTER"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -344,7 +398,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 300 , 154 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PSIORBITALHANGARDEFENSE"
+	name "HUDICON_PLANETMODULE_WRAITHORBITALHANGARDEFENSE"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -362,7 +416,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 55 , 154 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PSIORBITALBEAMDEFENSE"
+	name "HUDICON_PLANETMODULE_WRAITHORBITALBEAMDEFENSE"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -380,7 +434,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 6 , 154 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PSIORBITALREPAIRPLATFORM"
+	name "HUDICON_PLANETMODULE_WRAITHORBITALREPAIRPLATFORM"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -398,7 +452,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 251 , 154 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PSIORBITALCOMBATLABORATORY"
+	name "HUDICON_PLANETMODULE_WRAITHORBITALCOMBATLABORATORY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -416,7 +470,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 349 , 49 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PSIORBITALNONCOMBATLABORATORY"
+	name "HUDICON_PLANETMODULE_WRAITHORBITALNONCOMBATLABORATORY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -434,7 +488,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 349 , 154 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PSIORBITALANTIMATTERRECHARGER"
+	name "HUDICON_PLANETMODULE_WRAITHORBITALANTIMATTERRECHARGER"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -452,7 +506,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 251 , 49 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PSIORBITALTRADEPORT"
+	name "HUDICON_PLANETMODULE_WRAITHORBITALTRADEPORT"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -470,7 +524,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 398 , 154 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PSIORBITALMETALEXTRACTOR"
+	name "HUDICON_PLANETMODULE_WRAITHORBITALMETALEXTRACTOR"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -488,7 +542,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 398 , 49 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PSIORBITALCRYSTALEXTRACTOR"
+	name "HUDICON_PLANETMODULE_WRAITHORBITALCRYSTALEXTRACTOR"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -506,7 +560,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 447 , 49 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PSIORBITALJUMPBLOCKER"
+	name "HUDICON_PLANETMODULE_WRAITHORBITALJUMPBLOCKER"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -524,7 +578,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 104 , 154 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PSIORBITALCANNON"
+	name "HUDICON_PLANETMODULE_WRAITHORBITALCANNON"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -542,7 +596,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 447 , 154 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PHASEORBITALFRIGATEFACTORY"
+	name "HUDICON_PLANETMODULE_ASURANORBITALFRIGATEFACTORY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -560,7 +614,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 153 , 189 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PHASEORBITALCAPITALSHIPFACTORY"
+	name "HUDICON_PLANETMODULE_ASURANORBITALCAPITALSHIPFACTORY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -578,7 +632,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 202 , 189 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PHASEORBITALCULTURECENTER"
+	name "HUDICON_PLANETMODULE_ASURANORBITALCULTURECENTER"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -596,7 +650,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 300 , 189 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PHASEORBITALHANGARDEFENSE"
+	name "HUDICON_PLANETMODULE_ASURANORBITALHANGARDEFENSE"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -614,7 +668,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 55 , 189 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PHASEORBITALMISSILEDEFENSE"
+	name "HUDICON_PLANETMODULE_ASURANORBITALMISSILEDEFENSE"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -632,7 +686,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 6 , 189 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PHASEORBITALREPAIRPLATFORM"
+	name "HUDICON_PLANETMODULE_ASURANORBITALREPAIRPLATFORM"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -650,7 +704,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 251 , 189 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PHASEORBITALCOMBATLABORATORY"
+	name "HUDICON_PLANETMODULE_ASURANORBITALCOMBATLABORATORY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -668,7 +722,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 349 , 84 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PHASEORBITALNONCOMBATLABORATORY"
+	name "HUDICON_PLANETMODULE_ASURANORBITALNONCOMBATLABORATORY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -686,7 +740,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 349 , 189 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PHASEORBITALPHASEGATE"
+	name "HUDICON_PLANETMODULE_ASURANORBITALPHASEGATE"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -704,7 +758,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 251 , 84 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PHASEORBITALNANOWEAPONJAMMER"
+	name "HUDICON_PLANETMODULE_ASURANORBITALNANOWEAPONJAMMER"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -722,7 +776,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 300 , 84 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PHASEORBITALTRADEPORT"
+	name "HUDICON_PLANETMODULE_ASURANORBITALTRADEPORT"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -740,7 +794,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 398 , 189 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PHASEORBITALREFINERY"
+	name "HUDICON_PLANETMODULE_ASURANORBITALREFINERY"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -758,7 +812,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 202 , 84 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PHASEORBITALMETALEXTRACTOR"
+	name "HUDICON_PLANETMODULE_ASURANORBITALMETALEXTRACTOR"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -776,7 +830,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 398 , 84 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PHASEORBITALCRYSTALEXTRACTOR"
+	name "HUDICON_PLANETMODULE_ASURANORBITALCRYSTALEXTRACTOR"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -794,7 +848,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 447 , 84 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PHASEORBITALJUMPBLOCKER"
+	name "HUDICON_PLANETMODULE_ASURANORBITALJUMPBLOCKER"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -812,7 +866,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 104 , 189 , 47 , 33 ]
 brush
-	name "HUDICON_PLANETMODULE_PHASEORBITALCANNON"
+	name "HUDICON_PLANETMODULE_ASURANORBITALCANNON"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -830,7 +884,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 447 , 189 , 47 , 33 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_TECHORBITALFRIGATEFACTORY"
+	name "HUDICONSMALL_PLANETMODULE_TAURIORBITALFRIGATEFACTORY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 91 , 1 , 28 , 28 ]
@@ -850,72 +904,72 @@ brush
 	fileName "Unit_Main"
 	pixelBox [ 474 , 962 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_TECHORBITALCAPITALSHIPFACTORY"
+	name "HUDICONSMALL_PLANETMODULE_TAURIORBITALCAPITALSHIPFACTORY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 121 , 1 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_TECHORBITALCULTURECENTER"
+	name "HUDICONSMALL_PLANETMODULE_TAURIORBITALCULTURECENTER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 181 , 1 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_TECHORBITALHANGARDEFENSE"
+	name "HUDICONSMALL_PLANETMODULE_TAURIORBITALHANGARDEFENSE"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 31 , 1 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_TECHORBITALGAUSSDEFENSE"
+	name "HUDICONSMALL_PLANETMODULE_TAURIORBITALGAUSSDEFENSE"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 1 , 1 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_TECHORBITALSHIELDGENERATOR"
+	name "HUDICONSMALL_PLANETMODULE_TAURIORBITALSHIELDGENERATOR"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 421 , 1 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_TECHORBITALREPAIRPLATFORM"
+	name "HUDICONSMALL_PLANETMODULE_TAURIORBITALREPAIRPLATFORM"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 151 , 1 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_TECHORBITALCOMBATLABORATORY"
+	name "HUDICONSMALL_PLANETMODULE_TAURIORBITALCOMBATLABORATORY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 211 , 91 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_TECHORBITALNONCOMBATLABORATORY"
+	name "HUDICONSMALL_PLANETMODULE_TAURIORBITALNONCOMBATLABORATORY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 211 , 1 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_TECHORBITALTRADEPORT"
+	name "HUDICONSMALL_PLANETMODULE_TAURIORBITALTRADEPORT"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 241 , 1 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_TECHORBITALREFINERY"
+	name "HUDICONSMALL_PLANETMODULE_TAURIORBITALREFINERY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 331 , 1 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_TECHORBITALMETALEXTRACTOR"
+	name "HUDICONSMALL_PLANETMODULE_TAURIORBITALMETALEXTRACTOR"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 361 , 1 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_TECHORBITALCRYSTALEXTRACTOR"
+	name "HUDICONSMALL_PLANETMODULE_TAURIORBITALCRYSTALEXTRACTOR"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 391 , 1 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_TECHORBITALJUMPBLOCKER"
+	name "HUDICONSMALL_PLANETMODULE_TAURIORBITALJUMPBLOCKER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 61 , 1 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_TECHORBITALCANNON"
+	name "HUDICONSMALL_PLANETMODULE_TAURIORBITALCANNON"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 271 , 1 , 28 , 28 ]
@@ -925,157 +979,157 @@ brush
 	fileName "Unit_Main"
 	pixelBox [ 1 , 1 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PSIORBITALFRIGATEFACTORY"
+	name "HUDICONSMALL_PLANETMODULE_WRAITHORBITALFRIGATEFACTORY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 91 , 31 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PSIORBITALCAPITALSHIPFACTORY"
+	name "HUDICONSMALL_PLANETMODULE_WRAITHORBITALCAPITALSHIPFACTORY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 121 , 31 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PSIORBITALCULTURECENTER"
+	name "HUDICONSMALL_PLANETMODULE_WRAITHORBITALCULTURECENTER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 181 , 31 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PSIORBITALHANGARDEFENSE"
+	name "HUDICONSMALL_PLANETMODULE_WRAITHORBITALHANGARDEFENSE"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 31 , 31 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PSIORBITALBEAMDEFENSE"
+	name "HUDICONSMALL_PLANETMODULE_WRAITHORBITALBEAMDEFENSE"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 1 , 31 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PSIORBITALREPAIRPLATFORM"
+	name "HUDICONSMALL_PLANETMODULE_WRAITHORBITALREPAIRPLATFORM"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 151 , 31 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PSIORBITALCOMBATLABORATORY"
+	name "HUDICONSMALL_PLANETMODULE_WRAITHORBITALCOMBATLABORATORY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 211 , 121 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PSIORBITALNONCOMBATLABORATORY"
+	name "HUDICONSMALL_PLANETMODULE_WRAITHORBITALNONCOMBATLABORATORY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 211 , 31 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PSIORBITALANTIMATTERRECHARGER"
+	name "HUDICONSMALL_PLANETMODULE_WRAITHORBITALANTIMATTERRECHARGER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 421 , 31 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PSIORBITALTRADEPORT"
+	name "HUDICONSMALL_PLANETMODULE_WRAITHORBITALTRADEPORT"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 241 , 31 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PSIORBITALREFINERY"
+	name "HUDICONSMALL_PLANETMODULE_WRAITHORBITALREFINERY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 331 , 31 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PSIORBITALMETALEXTRACTOR"
+	name "HUDICONSMALL_PLANETMODULE_WRAITHORBITALMETALEXTRACTOR"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 361 , 31 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PSIORBITALCRYSTALEXTRACTOR"
+	name "HUDICONSMALL_PLANETMODULE_WRAITHORBITALCRYSTALEXTRACTOR"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 391 , 31 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PSIORBITALJUMPBLOCKER"
+	name "HUDICONSMALL_PLANETMODULE_WRAITHORBITALJUMPBLOCKER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 61 , 31 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PSIORBITALCANNON"
+	name "HUDICONSMALL_PLANETMODULE_WRAITHORBITALCANNON"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 271 , 31 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALFRIGATEFACTORY"
+	name "HUDICONSMALL_PLANETMODULE_ASURANORBITALFRIGATEFACTORY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 91 , 61 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALCAPITALSHIPFACTORY"
+	name "HUDICONSMALL_PLANETMODULE_ASURANORBITALCAPITALSHIPFACTORY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 121 , 61 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALCULTURECENTER"
+	name "HUDICONSMALL_PLANETMODULE_ASURANORBITALCULTURECENTER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 181 , 61 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALHANGARDEFENSE"
+	name "HUDICONSMALL_PLANETMODULE_ASURANORBITALHANGARDEFENSE"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 31 , 61 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALMISSILEDEFENSE"
+	name "HUDICONSMALL_PLANETMODULE_ASURANORBITALMISSILEDEFENSE"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 1 , 61 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALREPAIRPLATFORM"
+	name "HUDICONSMALL_PLANETMODULE_ASURANORBITALREPAIRPLATFORM"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 151 , 61 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALCOMBATLABORATORY"
+	name "HUDICONSMALL_PLANETMODULE_ASURANORBITALCOMBATLABORATORY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 211 , 151 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALNONCOMBATLABORATORY"
+	name "HUDICONSMALL_PLANETMODULE_ASURANORBITALNONCOMBATLABORATORY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 211 , 61 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALPHASEGATE"
+	name "HUDICONSMALL_PLANETMODULE_ASURANORBITALPHASEGATE"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 421 , 61 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALNANOWEAPONJAMMER"
+	name "HUDICONSMALL_PLANETMODULE_ASURANORBITALNANOWEAPONJAMMER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 451 , 61 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALTRADEPORT"
+	name "HUDICONSMALL_PLANETMODULE_ASURANORBITALTRADEPORT"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 241 , 61 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALREFINERY"
+	name "HUDICONSMALL_PLANETMODULE_ASURANORBITALREFINERY"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 331 , 61 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALMETALEXTRACTOR"
+	name "HUDICONSMALL_PLANETMODULE_ASURANORBITALMETALEXTRACTOR"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 361 , 61 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALCRYSTALEXTRACTOR"
+	name "HUDICONSMALL_PLANETMODULE_ASURANORBITALCRYSTALEXTRACTOR"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 391 , 61 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALJUMPBLOCKER"
+	name "HUDICONSMALL_PLANETMODULE_ASURANORBITALJUMPBLOCKER"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 61 , 61 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_PLANETMODULE_PHASEORBITALCANNON"
+	name "HUDICONSMALL_PLANETMODULE_ASURANORBITALCANNON"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 271 , 61 , 28 , 28 ]

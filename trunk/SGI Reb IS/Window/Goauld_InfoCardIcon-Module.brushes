@@ -1,6 +1,11 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 16
+brushCount 17
+brush
+	name "INFOCARDICON_PLANETMODULE_GOAULDORBITALTITANFACTORY"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 343 , 211 , 22 , 22 ]
 brush
 	name "INFOCARDICON_PLANETMODULE_GOAULDORBITALFRIGATEFACTORY"
 	content "Simple"

@@ -13,8 +13,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradeTechFactory0"
-	smallHudIcon "HUDIconStarBaseUpgradeTechFactory0"
+	hudIcon "HUDIconStarBaseUpgradeTauriFactory0"
+	smallHudIcon "HUDIconStarBaseUpgradeTauriFactory0"
 	infoCardIcon ""
 	upgradePropertyCount 0
 	upgradeBoolPropertyCount 0
@@ -33,8 +33,8 @@ stage
 			Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradeTechFactory0"
-	smallHudIcon "HUDIconStarBaseUpgradeTechFactory0"
+	hudIcon "HUDIconStarBaseUpgradeTauriFactory0"
+	smallHudIcon "HUDIconStarBaseUpgradeTauriFactory0"
 	infoCardIcon ""
 	upgradePropertyCount 1
 	upgradeProperty
@@ -53,8 +53,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradeTechFactory1"
-	smallHudIcon "HUDIconStarBaseUpgradeTechFactory1"
+	hudIcon "HUDIconStarBaseUpgradeTauriFactory1"
+	smallHudIcon "HUDIconStarBaseUpgradeTauriFactory1"
 	infoCardIcon ""
 	upgradePropertyCount 1
 	upgradeProperty

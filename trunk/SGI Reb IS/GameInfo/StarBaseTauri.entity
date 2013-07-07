@@ -13,9 +13,9 @@ numRandomDebrisLarge 12
 numRandomDebrisSmall 24
 numSpecificDebris 0
 armorType "Module"
-hudIcon "HUDICON_STARBASE_TECH"
-smallHudIcon "HUDICONSMALL_STARBASE_TECH"
-infoCardIcon "INFOCARDICON_STARBASE_TECH"
+hudIcon "HUDICON_STARBASE_TAURI"
+smallHudIcon "HUDICONSMALL_STARBASE_TAURI"
+infoCardIcon "INFOCARDICON_STARBASE_TAURI"
 minZoomDistanceMult 1.000000
 NumWeapons 3
 Weapon
@@ -158,7 +158,7 @@ squadTypeEntityDef:2 ""
 squadAntiMatterCost:2 0.000000
 squadTypeEntityDef:3 ""
 squadAntiMatterCost:3 0.000000
-mainViewIcon "MainViewIconStarBaseTech"
+mainViewIcon "MainViewIconStarBaseTauri"
 experiencePointsForDestroying 400.000000
 nameStringID "IDS_STARBASETECH_NAME"
 picture "PICTURE_STARBASETECH"

@@ -13,8 +13,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradeTechToughness0"
-	smallHudIcon "HUDIconStarBaseUpgradeTechToughness0"
+	hudIcon "HUDIconStarBaseUpgradeTauriToughness0"
+	smallHudIcon "HUDIconStarBaseUpgradeTauriToughness0"
 	infoCardIcon ""
 	upgradePropertyCount 5
 	upgradeProperty
@@ -45,8 +45,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradeTechToughness0"
-	smallHudIcon "HUDIconStarBaseUpgradeTechToughness0"
+	hudIcon "HUDIconStarBaseUpgradeTauriToughness0"
+	smallHudIcon "HUDIconStarBaseUpgradeTauriToughness0"
 	infoCardIcon ""
 	upgradePropertyCount 5
 	upgradeProperty
@@ -77,8 +77,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradeTechToughness1"
-	smallHudIcon "HUDIconStarBaseUpgradeTechToughness1"
+	hudIcon "HUDIconStarBaseUpgradeTauriToughness1"
+	smallHudIcon "HUDIconStarBaseUpgradeTauriToughness1"
 	infoCardIcon ""
 	upgradePropertyCount 5
 	upgradeProperty
@@ -109,8 +109,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradeTechToughness2"
-	smallHudIcon "HUDIconStarBaseUpgradeTechToughness2"
+	hudIcon "HUDIconStarBaseUpgradeTauriToughness2"
+	smallHudIcon "HUDIconStarBaseUpgradeTauriToughness2"
 	infoCardIcon ""
 	upgradePropertyCount 5
 	upgradeProperty
@@ -141,8 +141,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradeTechToughness2"
-	smallHudIcon "HUDIconStarBaseUpgradeTechToughness2"
+	hudIcon "HUDIconStarBaseUpgradeTauriToughness2"
+	smallHudIcon "HUDIconStarBaseUpgradeTauriToughness2"
 	infoCardIcon ""
 	upgradePropertyCount 5
 	upgradeProperty

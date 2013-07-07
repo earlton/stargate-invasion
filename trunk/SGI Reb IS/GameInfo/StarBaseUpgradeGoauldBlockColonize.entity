@@ -13,8 +13,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradePhaseBlockColonize0"
-	smallHudIcon "HUDIconStarBaseUpgradePhaseBlockColonize0"
+	hudIcon "HUDIconStarBaseUpgradeGoauldBlockColonize0"
+	smallHudIcon "HUDIconStarBaseUpgradeGoauldBlockColonize0"
 	infoCardIcon ""
 	upgradePropertyCount 0
 	upgradeBoolPropertyCount 0
@@ -33,8 +33,8 @@ stage
 			Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradePhaseBlockColonize0"
-	smallHudIcon "HUDIconStarBaseUpgradePhaseBlockColonize0"
+	hudIcon "HUDIconStarBaseUpgradeGoauldBlockColonize0"
+	smallHudIcon "HUDIconStarBaseUpgradeGoauldBlockColonize0"
 	infoCardIcon ""
 	upgradePropertyCount 0
 	upgradeBoolPropertyCount 2

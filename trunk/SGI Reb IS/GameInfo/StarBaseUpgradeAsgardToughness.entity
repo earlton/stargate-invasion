@@ -13,8 +13,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradePsiToughness0"
-	smallHudIcon "HUDIconStarBaseUpgradePsiToughness0"
+	hudIcon "HUDIconStarBaseUpgradeAsgardToughness0"
+	smallHudIcon "HUDIconStarBaseUpgradeAsgardToughness0"
 	infoCardIcon ""
 	upgradePropertyCount 6
 	upgradeProperty
@@ -48,8 +48,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradePsiToughness0"
-	smallHudIcon "HUDIconStarBaseUpgradePsiToughness0"
+	hudIcon "HUDIconStarBaseUpgradeAsgardToughness0"
+	smallHudIcon "HUDIconStarBaseUpgradeAsgardToughness0"
 	infoCardIcon ""
 	upgradePropertyCount 6
 	upgradeProperty
@@ -83,8 +83,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradePsiToughness1"
-	smallHudIcon "HUDIconStarBaseUpgradePsiToughness1"
+	hudIcon "HUDIconStarBaseUpgradeAsgardToughness1"
+	smallHudIcon "HUDIconStarBaseUpgradeAsgardToughness1"
 	infoCardIcon ""
 	upgradePropertyCount 6
 	upgradeProperty
@@ -118,8 +118,8 @@ stage
 		NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-	hudIcon "HUDIconStarBaseUpgradePsiToughness2"
-	smallHudIcon "HUDIconStarBaseUpgradePsiToughness2"
+	hudIcon "HUDIconStarBaseUpgradeAsgardToughness2"
+	smallHudIcon "HUDIconStarBaseUpgradeAsgardToughness2"
 	infoCardIcon ""
 	upgradePropertyCount 6
 	upgradeProperty

@@ -2,7 +2,7 @@
 onlyLoadOnDemand FALSE
 brushCount 62
 brush
-	name "HUDICON_STARBASE_TECH"
+	name "HUDICON_STARBASE_TAURI"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -20,7 +20,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 349 , 224 , 47 , 33 ]
 brush
-	name "HUDICON_STARBASE_PSI"
+	name "HUDICON_STARBASE_WRAITH"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -38,7 +38,7 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 349 , 259 , 47 , 33 ]
 brush
-	name "HUDICON_STARBASE_PHASE"
+	name "HUDICON_STARBASE_ASURAN"
 	content "States"
 	Disabled
 		fileName "Unit_Hud_Disabled"
@@ -56,22 +56,22 @@ brush
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 349 , 294 , 47 , 33 ]
 brush
-	name "HUDICONSMALL_STARBASE_TECH"
+	name "HUDICONSMALL_STARBASE_TAURI"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 271 , 91 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_STARBASE_PSI"
+	name "HUDICONSMALL_STARBASE_WRAITH"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 271 , 121 , 28 , 28 ]
 brush
-	name "HUDICONSMALL_STARBASE_PHASE"
+	name "HUDICONSMALL_STARBASE_ASURAN"
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 271 , 151 , 28 , 28 ]
 brush
-	name "HUDIconStarBaseUpgradeTechBlockColonize0"
+	name "HUDIconStarBaseUpgradeTauriBlockColonize0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -89,7 +89,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 668 , 105 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradeTechFactory0"
+	name "HUDIconStarBaseUpgradeTauriFactory0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -107,7 +107,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 566 , 216 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradeTechFactory1"
+	name "HUDIconStarBaseUpgradeTauriFactory1"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -125,7 +125,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 566 , 253 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradeTechHangar0"
+	name "HUDIconStarBaseUpgradeTauriHangar0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -143,7 +143,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 566 , 105 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradeTechHangar1"
+	name "HUDIconStarBaseUpgradeTauriHangar1"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -161,7 +161,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 566 , 142 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradeTechHangar2"
+	name "HUDIconStarBaseUpgradeTauriHangar2"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -179,7 +179,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 566 , 179 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradeTechResupply0"
+	name "HUDIconStarBaseUpgradeTauriResupply0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -197,7 +197,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 668 , 142 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradeTechResupply1"
+	name "HUDIconStarBaseUpgradeTauriResupply1"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -215,7 +215,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 668 , 179 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradeTechSelfDestruct0"
+	name "HUDIconStarBaseUpgradeTauriSelfDestruct0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -233,7 +233,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 668 , 216 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradeTechSelfDestruct1"
+	name "HUDIconStarBaseUpgradeTauriSelfDestruct1"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -251,7 +251,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 668 , 253 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradeTechToughness0"
+	name "HUDIconStarBaseUpgradeTauriToughness0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -269,7 +269,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 617 , 68 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradeTechToughness1"
+	name "HUDIconStarBaseUpgradeTauriToughness1"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -287,7 +287,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 617 , 105 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradeTechToughness2"
+	name "HUDIconStarBaseUpgradeTauriToughness2"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -305,7 +305,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 617 , 142 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradeTechTradePort0"
+	name "HUDIconStarBaseUpgradeTauriTradePort0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -323,7 +323,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 566 , 290 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradeTechTradePort1"
+	name "HUDIconStarBaseUpgradeTauriTradePort1"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -341,7 +341,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 617 , 31 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradeTechWeapons0"
+	name "HUDIconStarBaseUpgradeTauriWeapons0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -359,7 +359,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 566 , 31 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradeTechWeapons1"
+	name "HUDIconStarBaseUpgradeTauriWeapons1"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -377,7 +377,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 566 , 68 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePsiBlockColonize0"
+	name "HUDIconStarBaseUpgradeWraithBlockColonize0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -395,7 +395,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 821 , 105 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePsiControlMeteoroids0"
+	name "HUDIconStarBaseUpgradeWraithControlMeteoroids0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -413,7 +413,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 770 , 253 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePsiControlMeteoroids1"
+	name "HUDIconStarBaseUpgradeWraithControlMeteoroids1"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -431,7 +431,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 770 , 290 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePsiCulture0"
+	name "HUDIconStarBaseUpgradeWraithCulture0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -449,7 +449,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 770 , 142 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePsiCulture1"
+	name "HUDIconStarBaseUpgradeWraithCulture1"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -467,7 +467,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 770 , 179 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePsiCulture2"
+	name "HUDIconStarBaseUpgradeWraithCulture2"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -485,7 +485,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 770 , 216 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePsiHangar0"
+	name "HUDIconStarBaseUpgradeWraithHangar0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -503,7 +503,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 719 , 216 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePsiHangar1"
+	name "HUDIconStarBaseUpgradeWraithHangar1"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -521,7 +521,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 719 , 253 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePsiHangar2"
+	name "HUDIconStarBaseUpgradeWraithHangar2"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -539,7 +539,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 719 , 290 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePsiHangar3"
+	name "HUDIconStarBaseUpgradeWraithHangar3"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -557,7 +557,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 770 , 31 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePsiMassDisorientation0"
+	name "HUDIconStarBaseUpgradeWraithMassDisorientation0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -575,7 +575,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 821 , 31 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePsiMassDisorientation1"
+	name "HUDIconStarBaseUpgradeWraithMassDisorientation1"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -593,7 +593,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 821 , 68 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePsiMaxAllegiance0"
+	name "HUDIconStarBaseUpgradeWraithMaxAllegiance0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -611,7 +611,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 821 , 142 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePsiMaxAllegiance1"
+	name "HUDIconStarBaseUpgradeWraithMaxAllegiance1"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -629,7 +629,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 821 , 179 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePsiToughness0"
+	name "HUDIconStarBaseUpgradeWraithToughness0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -647,7 +647,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 719 , 105 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePsiToughness1"
+	name "HUDIconStarBaseUpgradeWraithToughness1"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -665,7 +665,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 719 , 142 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePsiToughness2"
+	name "HUDIconStarBaseUpgradeWraithToughness2"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -683,7 +683,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 719 , 179 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePsiTradePort0"
+	name "HUDIconStarBaseUpgradeWraithTradePort0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -701,7 +701,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 770 , 68 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePsiTradePort1"
+	name "HUDIconStarBaseUpgradeWraithTradePort1"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -719,7 +719,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 770 , 105 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePsiWeapons0"
+	name "HUDIconStarBaseUpgradeWraithWeapons0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -737,7 +737,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 719 , 31 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePsiWeapons1"
+	name "HUDIconStarBaseUpgradeWraithWeapons1"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -755,7 +755,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 719 , 68 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePhaseBlockColonize0"
+	name "HUDIconStarBaseUpgradeAsuranBlockColonize0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -773,7 +773,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 923 , 216 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePhaseCityPopulation0"
+	name "HUDIconStarBaseUpgradeAsuranCityPopulation0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -791,7 +791,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 923 , 105 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePhaseCityPopulation1"
+	name "HUDIconStarBaseUpgradeAsuranCityPopulation1"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -809,7 +809,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 923 , 142 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePhaseDebrisVacuum0"
+	name "HUDIconStarBaseUpgradeAsuranDebrisVacuum0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -827,7 +827,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 923 , 253 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePhaseDebrisVacuum1"
+	name "HUDIconStarBaseUpgradeAsuranDebrisVacuum1"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -845,7 +845,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 923 , 290 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePhaseDirectionalShield0"
+	name "HUDIconStarBaseUpgradeAsuranDirectionalShield0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -863,7 +863,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 974 , 31 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePhaseDirectionalShield1"
+	name "HUDIconStarBaseUpgradeAsuranDirectionalShield1"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -881,7 +881,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 974 , 68 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePhaseHangar0"
+	name "HUDIconStarBaseUpgradeAsuranHangar0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -899,7 +899,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 872 , 253 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePhaseHangar1"
+	name "HUDIconStarBaseUpgradeAsuranHangar1"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -917,7 +917,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 872 , 290 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePhaseHangar2"
+	name "HUDIconStarBaseUpgradeAsuranHangar2"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -935,7 +935,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 923 , 31 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePhasePhaseGate0"
+	name "HUDIconStarBaseUpgradeAsuranPhaseGate0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -953,7 +953,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 464 , 808 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePhaseToughness0"
+	name "HUDIconStarBaseUpgradeAsuranToughness0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -971,7 +971,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 872 , 105 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePhaseToughness1"
+	name "HUDIconStarBaseUpgradeAsuranToughness1"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -989,7 +989,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 872 , 142 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePhaseToughness2"
+	name "HUDIconStarBaseUpgradeAsuranToughness2"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -1007,7 +1007,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 872 , 179 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePhaseToughness3"
+	name "HUDIconStarBaseUpgradeAsuranToughness3"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -1025,7 +1025,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 872 , 216 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePhaseTradePort0"
+	name "HUDIconStarBaseUpgradeAsuranTradePort0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -1043,7 +1043,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 923 , 68 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePhaseWeapons0"
+	name "HUDIconStarBaseUpgradeAsuranWeapons0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
@@ -1061,7 +1061,7 @@ brush
 		fileName "Buttons_Research_Normal"
 		pixelBox [ 872 , 31 , 47 , 33 ]
 brush
-	name "HUDIconStarBaseUpgradePhaseWeapons1"
+	name "HUDIconStarBaseUpgradeAsuranWeapons1"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"

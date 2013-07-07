@@ -1,6 +1,24 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 32
+brushCount 34
+brush
+	name "HUDICON_GOAULD_TITAN_FOUNDRY"
+	content "States"
+	Disabled
+		fileName "Unit_Hud2_Disabled"
+		pixelBox [ 153 , 6 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud2_Pressed"
+		pixelBox [ 153 , 6 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud2_CursorOver"
+		pixelBox [ 153 , 6 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud2_Normal"
+		pixelBox [ 153 , 6 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud2_Normal"
+		pixelBox [ 153 , 6 , 47 , 33 ]
 brush
 	name "HUDICON_PLANETMODULE_GOAULDORBITALFRIGATEFACTORY"
 	content "States"
@@ -369,3 +387,8 @@ brush
 	content "Simple"
 	fileName "Races_Unit_Main"
 	pixelBox [ 271 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_GOAULDORBITALTITANFACTORY"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 478 , 837 , 28 , 28 ]
