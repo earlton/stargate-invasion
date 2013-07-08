@@ -307,7 +307,7 @@ planetUpgradeDef
 			cultureSpreadRateModifier 0.000000
 ringsChance 0.100000
 isColonizable TRUE
-planetTypeForResearch "Invalid"
+planetTypeForResearch "Uncolonizable"
 skyboxScalarsCount 5
 skyboxScalars
 	diffuseScalar 0.910000
