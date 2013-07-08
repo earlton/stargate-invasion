@@ -1,5 +1,5 @@
 TXT
-NumStrings 7807
+NumStrings 7801
 StringInfo
 	ID "IDS_ABILITY_WORTHYCAUSE_NAME"
 	Value "Worthy Cause"
@@ -2026,6 +2026,174 @@ StringInfo
 	ID "IDS_FRIGATE_ASGARDENVOY_DESCRIPTION"
 	Value "A majestic ship that will improve relations with opposing factions."
 StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD00"
+	Value "Tyrand"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD01"
+	Value "Vengea"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD02"
+	Value "Aventus"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD03"
+	Value "Lumiscant"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD04"
+	Value "Direnus"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD05"
+	Value "Imperia"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD06"
+	Value "Immaculata"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD07"
+	Value "Malevesant"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD08"
+	Value "Furia"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD09"
+	Value "Valouria"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD10"
+	Value "Merciless"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD11"
+	Value "Thanatous"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD12"
+	Value "Tempestua"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD13"
+	Value "Etheria"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD14"
+	Value "Vilysian"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD15"
+	Value "Mercuria"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD16"
+	Value "Seraphea"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD17"
+	Value "Excoriant"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD18"
+	Value "Ascencia"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD19"
+	Value "Spectra"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD20"
+	Value "Tremonia"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD21"
+	Value "Eterna"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD22"
+	Value "Sinistra"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD23"
+	Value "Vorascant"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD24"
+	Value "Pyranea"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD25"
+	Value "Maloraphea"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD26"
+	Value "Scythia"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD27"
+	Value "Discordia"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD28"
+	Value "Polaria"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD29"
+	Value "Monestria"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD30"
+	Value "Celestia"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD31"
+	Value "Maledictus"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD32"
+	Value "Stelwardia"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD33"
+	Value "Resplendia"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD34"
+	Value "Scintilata"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD35"
+	Value "Magniphea"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD36"
+	Value "Rancoria"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD37"
+	Value "Virulea"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD38"
+	Value "Brulirea"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASGARD39"
+	Value "Josonea"
+StringInfo
+	ID "IDS_STARBASENAME_ASGARD00"
+	Value "Divinity"
+StringInfo
+	ID "IDS_STARBASENAME_ASGARD01"
+	Value "Purity"
+StringInfo
+	ID "IDS_STARBASENAME_ASGARD02"
+	Value "Sanctuary"
+StringInfo
+	ID "IDS_STARBASENAME_ASGARD03"
+	Value "Sanctity"
+StringInfo
+	ID "IDS_STARBASENAME_ASGARD04"
+	Value "Redemption"
+StringInfo
+	ID "IDS_STARBASENAME_ASGARD05"
+	Value "Vindication"
+StringInfo
+	ID "IDSPlayerAINameAsgard0"
+	Value "Cult of Cerebri"
+StringInfo
+	ID "IDSPlayerAINameAsgard1"
+	Value "Rasaeida Sect"
+StringInfo
+	ID "IDSPlayerAINameAsgard2"
+	Value "Voice of Senar"
+StringInfo
+	ID "IDSPlayerAINameAsgard3"
+	Value "Hand of Illus"
+StringInfo
+	ID "IDSPlayerAINameAsgard4"
+	Value "Ast Eternal"
+StringInfo
+	ID "IDSPlayerAINameAsgard5"
+	Value "Rolus Solbare"
+StringInfo
+	ID "IDSPlayerAINameAsgard6"
+	Value "Prophets of Zei"
+StringInfo
+	ID "IDSPlayerAINameAsgard7"
+	Value "Solundi"
+StringInfo
+	ID "IDSPlayerAINameAsgard8"
+	Value "Psi Order Zealots"
+StringInfo
+	ID "IDSPlayerAINameAsgard9"
+	Value "Xon Precept"
+StringInfo
 	ID "IDS_STARBASEASGARD_NAME"
 	Value "Transcencia Star Base"
 StringInfo
@@ -2277,6 +2445,150 @@ StringInfo
 StringInfo
 	ID "IDS_TRADESHIP_ASURAN_DESCRIPTION"
 	Value "A small commercial vessel that carries merchant cargo between distant worlds."
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN00"
+	Value "Vatornas"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN01"
+	Value "Astirka"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN02"
+	Value "Vornas"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN03"
+	Value "Larkitra"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN04"
+	Value "Kintora"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN05"
+	Value "Sultra"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN06"
+	Value "Kratovas"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN07"
+	Value "LarrTul"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN08"
+	Value "Korigul"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN09"
+	Value "Artorska"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN10"
+	Value "Sonrakus"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN11"
+	Value "Tiraskus"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN12"
+	Value "Ravustra"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN13"
+	Value "Junakra"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN14"
+	Value "Rakulas"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN15"
+	Value "Vaskarus"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN16"
+	Value "Toruvak"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN17"
+	Value "Vanatorak"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN18"
+	Value "Ruskovak"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN19"
+	Value "Antarus"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN20"
+	Value "Vakarus"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN21"
+	Value "Voskul"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN22"
+	Value "Tarsika"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN23"
+	Value "Jikantra"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN24"
+	Value "Arankul"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN25"
+	Value "Karakus"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN26"
+	Value "Senvistra"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN27"
+	Value "Voritul"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN28"
+	Value "Vilakus"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN29"
+	Value "Skukra"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_ASURAN30"
+	Value "Jrakis"
+StringInfo
+	ID "IDS_STARBASENAME_ASURAN00"
+	Value "Korostra"
+StringInfo
+	ID "IDS_STARBASENAME_ASURAN01"
+	Value "Orankost"
+StringInfo
+	ID "IDS_STARBASENAME_ASURAN02"
+	Value "Koraskas"
+StringInfo
+	ID "IDS_STARBASENAME_ASURAN03"
+	Value "Roskara"
+StringInfo
+	ID "IDS_STARBASENAME_ASURAN04"
+	Value "Oraskul"
+StringInfo
+	ID "IDS_STARBASENAME_ASURAN05"
+	Value "Arvotul"
+StringInfo
+	ID "IDS_STARBASENAME_ASURAN06"
+	Value "Vokorul"
+StringInfo
+	ID "IDSPlayerAINameAsuran0"
+	Value "Replicator Armada"
+StringInfo
+	ID "IDSPlayerAINameAsuran1"
+	Value "Atropos Fleet"
+StringInfo
+	ID "IDSPlayerAINameAsuran2"
+	Value "Asuran Replicators"
+StringInfo
+	ID "IDSPlayerAINameAsuran3"
+	Value "Asuras Offspring "
+StringInfo
+	ID "IDSPlayerAINameAsuran4"
+	Value "Asuran Remnants"
+StringInfo
+	ID "IDSPlayerAINameAsuran5"
+	Value "Human Form Replicators"
+StringInfo
+	ID "IDSPlayerAINameAsuran6"
+	Value "Liam Sect Remnants"
+StringInfo
+	ID "IDSPlayerAINameAsuran7"
+	Value "5th fleet Imperials"
+StringInfo
+	ID "IDSPlayerAINameAsuran8"
+	Value "Asuras Survivors"
+StringInfo
+	ID "IDSPlayerAINameAsuran9"
+	Value "Asuran Avengers"
 StringInfo
 	ID "IDS_STARBASEPHASE_NAME"
 	Value "Orkulus Star Base"
@@ -5712,6 +6024,150 @@ StringInfo
 StringInfo
 	ID "IDS_TRADESHIP_GOAULD_DESCRIPTION"
 	Value "A small commercial vessel that carries merchant cargo between distant worlds."
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD00"
+	Value "Vatornas"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD01"
+	Value "Astirka"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD02"
+	Value "Vornas"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD03"
+	Value "Larkitra"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD04"
+	Value "Kintora"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD05"
+	Value "Sultra"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD06"
+	Value "Kratovas"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD07"
+	Value "LarrTul"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD08"
+	Value "Korigul"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD09"
+	Value "Artorska"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD10"
+	Value "Sonrakus"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD11"
+	Value "Tiraskus"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD12"
+	Value "Ravustra"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD13"
+	Value "Junakra"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD14"
+	Value "Rakulas"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD15"
+	Value "Vaskarus"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD16"
+	Value "Toruvak"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD17"
+	Value "Vanatorak"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD18"
+	Value "Ruskovak"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD19"
+	Value "Antarus"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD20"
+	Value "Vakarus"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD21"
+	Value "Voskul"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD22"
+	Value "Tarsika"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD23"
+	Value "Jikantra"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD24"
+	Value "Arankul"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD25"
+	Value "Karakus"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD26"
+	Value "Senvistra"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD27"
+	Value "Voritul"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD28"
+	Value "Vilakus"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD29"
+	Value "Skukra"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_GOAULD30"
+	Value "Jrakis"
+StringInfo
+	ID "IDS_STARBASENAME_GOAULD00"
+	Value "Korostra"
+StringInfo
+	ID "IDS_STARBASENAME_GOAULD01"
+	Value "Orankost"
+StringInfo
+	ID "IDS_STARBASENAME_GOAULD02"
+	Value "Koraskas"
+StringInfo
+	ID "IDS_STARBASENAME_GOAULD03"
+	Value "Roskara"
+StringInfo
+	ID "IDS_STARBASENAME_GOAULD04"
+	Value "Oraskul"
+StringInfo
+	ID "IDS_STARBASENAME_GOAULD05"
+	Value "Arvotul"
+StringInfo
+	ID "IDS_STARBASENAME_GOAULD06"
+	Value "Vokorul"
+StringInfo
+	ID "IDSPlayerAINameGoauld0"
+	Value "Korsul Armada"
+StringInfo
+	ID "IDSPlayerAINameGoauld1"
+	Value "Vanidas Faction"
+StringInfo
+	ID "IDSPlayerAINameGoauld2"
+	Value "Anator Skavun"
+StringInfo
+	ID "IDSPlayerAINameGoauld3"
+	Value "Serak Warriors"
+StringInfo
+	ID "IDSPlayerAINameGoauld4"
+	Value "Vaskorus Arkun"
+StringInfo
+	ID "IDSPlayerAINameGoauld5"
+	Value "Jisura Nomads"
+StringInfo
+	ID "IDSPlayerAINameGoauld6"
+	Value "Li Sector Remnants"
+StringInfo
+	ID "IDSPlayerAINameGoauld7"
+	Value "Adjun Imperials"
+StringInfo
+	ID "IDSPlayerAINameGoauld8"
+	Value "Rakorun Survivors"
+StringInfo
+	ID "IDSPlayerAINameGoauld9"
+	Value "Slave Kar Majistra"
 StringInfo
 	ID "IDS_STARBASEGOAULD_NAME"
 	Value "Orkulus Star Base"
@@ -9433,32 +9889,14 @@ StringInfo
 	ID "IDS_PLAYERRACENAME_GOAULD"
 	Value "Goa'uld"
 StringInfo
-	ID "IDS_PLAYERRACENAME_TECH"
+	ID "IDS_PLAYERRACENAME_TAURI"
 	Value "Human"
 StringInfo
-	ID "IDS_PLAYERRACENAME_TECHREBEL"
-	Value "TEC Rebel"
-StringInfo
-	ID "IDS_PLAYERRACENAME_TECHLOYALIST"
-	Value "TEC Loyalist"
-StringInfo
-	ID "IDS_PLAYERRACENAME_PSI"
+	ID "IDS_PLAYERRACENAME_WRAITH"
 	Value "Wraith"
 StringInfo
-	ID "IDS_PLAYERRACENAME_PSIREBEL"
-	Value "Advent Rebel"
-StringInfo
-	ID "IDS_PLAYERRACENAME_PSILOYALIST"
-	Value "Advent Loyalist"
-StringInfo
-	ID "IDS_PLAYERRACENAME_PHASE"
+	ID "IDS_PLAYERRACENAME_ASURAN"
 	Value "Asuran"
-StringInfo
-	ID "IDS_PLAYERRACENAME_PHASEREBEL"
-	Value "Vasari Rebel"
-StringInfo
-	ID "IDS_PLAYERRACENAME_PHASELOYALIST"
-	Value "Vasari Loyalist"
 StringInfo
 	ID "IDS_PLAYERRACENAME_PIRATE"
 	Value "Lucian Alliance"
@@ -9555,669 +9993,6 @@ StringInfo
 StringInfo
 	ID "IDS_PLAYERFACTIONNAME_REBEL"
 	Value "Rebel"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD00"
-	Value "Tyrand"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD01"
-	Value "Vengea"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD02"
-	Value "Aventus"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD03"
-	Value "Lumiscant"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD04"
-	Value "Direnus"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD05"
-	Value "Imperia"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD06"
-	Value "Immaculata"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD07"
-	Value "Malevesant"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD08"
-	Value "Furia"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD09"
-	Value "Valouria"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD10"
-	Value "Merciless"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD11"
-	Value "Thanatous"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD12"
-	Value "Tempestua"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD13"
-	Value "Etheria"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD14"
-	Value "Vilysian"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD15"
-	Value "Mercuria"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD16"
-	Value "Seraphea"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD17"
-	Value "Excoriant"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD18"
-	Value "Ascencia"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD19"
-	Value "Spectra"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD20"
-	Value "Tremonia"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD21"
-	Value "Eterna"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD22"
-	Value "Sinistra"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD23"
-	Value "Vorascant"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD24"
-	Value "Pyranea"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD25"
-	Value "Maloraphea"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD26"
-	Value "Scythia"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD27"
-	Value "Discordia"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD28"
-	Value "Polaria"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD29"
-	Value "Monestria"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD30"
-	Value "Celestia"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD31"
-	Value "Maledictus"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD32"
-	Value "Stelwardia"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD33"
-	Value "Resplendia"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD34"
-	Value "Scintilata"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD35"
-	Value "Magniphea"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD36"
-	Value "Rancoria"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD37"
-	Value "Virulea"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD38"
-	Value "Brulirea"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_ASGARD39"
-	Value "Josonea"
-StringInfo
-	ID "IDS_STARBASENAME_ASGARD00"
-	Value "Divinity"
-StringInfo
-	ID "IDS_STARBASENAME_ASGARD01"
-	Value "Purity"
-StringInfo
-	ID "IDS_STARBASENAME_ASGARD02"
-	Value "Sanctuary"
-StringInfo
-	ID "IDS_STARBASENAME_ASGARD03"
-	Value "Sanctity"
-StringInfo
-	ID "IDS_STARBASENAME_ASGARD04"
-	Value "Redemption"
-StringInfo
-	ID "IDS_STARBASENAME_ASGARD05"
-	Value "Vindication"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD00"
-	Value "Vatornas"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD01"
-	Value "Astirka"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD02"
-	Value "Vornas"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD03"
-	Value "Larkitra"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD04"
-	Value "Kintora"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD05"
-	Value "Sultra"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD06"
-	Value "Kratovas"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD07"
-	Value "LarrTul"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD08"
-	Value "Korigul"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD09"
-	Value "Artorska"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD10"
-	Value "Sonrakus"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD11"
-	Value "Tiraskus"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD12"
-	Value "Ravustra"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD13"
-	Value "Junakra"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD14"
-	Value "Rakulas"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD15"
-	Value "Vaskarus"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD16"
-	Value "Toruvak"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD17"
-	Value "Vanatorak"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD18"
-	Value "Ruskovak"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD19"
-	Value "Antarus"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD20"
-	Value "Vakarus"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD21"
-	Value "Voskul"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD22"
-	Value "Tarsika"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD23"
-	Value "Jikantra"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD24"
-	Value "Arankul"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD25"
-	Value "Karakus"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD26"
-	Value "Senvistra"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD27"
-	Value "Voritul"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD28"
-	Value "Vilakus"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD29"
-	Value "Skukra"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_GOAULD30"
-	Value "Jrakis"
-StringInfo
-	ID "IDS_STARBASENAME_GOAULD00"
-	Value "Korostra"
-StringInfo
-	ID "IDS_STARBASENAME_GOAULD01"
-	Value "Orankost"
-StringInfo
-	ID "IDS_STARBASENAME_GOAULD02"
-	Value "Koraskas"
-StringInfo
-	ID "IDS_STARBASENAME_GOAULD03"
-	Value "Roskara"
-StringInfo
-	ID "IDS_STARBASENAME_GOAULD04"
-	Value "Oraskul"
-StringInfo
-	ID "IDS_STARBASENAME_GOAULD05"
-	Value "Arvotul"
-StringInfo
-	ID "IDS_STARBASENAME_GOAULD06"
-	Value "Vokorul"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH00"
-	Value "Fury"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH01"
-	Value "Aegis"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH02"
-	Value "Hermes"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH03"
-	Value "Protector"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH04"
-	Value "Haven"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH05"
-	Value "Hermes"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH06"
-	Value "Athena"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH07"
-	Value "Camelot"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH08"
-	Value "Zeus"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH09"
-	Value "Ithica"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH10"
-	Value "Aphrodite"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH11"
-	Value "Persues"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH12"
-	Value "Lenin"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH13"
-	Value "Vigilant"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH14"
-	Value "Harmony"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH15"
-	Value "Savior"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH16"
-	Value "Trojan"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH17"
-	Value "Avalon"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH18"
-	Value "Defender"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH19"
-	Value "Kronus"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH20"
-	Value "Arthur"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH21"
-	Value "Hades"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH22"
-	Value "Ulysess"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH23"
-	Value "Utopia"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH24"
-	Value "Lazarus"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH25"
-	Value "Ascension"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH26"
-	Value " Argonaut"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH27"
-	Value "Hammond"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH28"
-	Value "Oneal"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH29"
-	Value "Calpyso"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH30"
-	Value "Freedom"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH31"
-	Value "Hera"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH32"
-	Value "Cupid"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH33"
-	Value "Eagle"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH34"
-	Value "Frasier"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH35"
-	Value "Clark"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH36"
-	Value "Poseiden"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH37"
-	Value "Marcus Aurelis"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH38"
-	Value "TDN Milosz"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH39"
-	Value "TDN Nostros"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH40"
-	Value "TDN Berenos"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH41"
-	Value "TDN Tasckird"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH42"
-	Value "TDN Akayko"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH43"
-	Value "TDN Secundo"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH44"
-	Value "TDN Phenro"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_TECH45"
-	Value "TDN Mercano"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI00"
-	Value "Tyrand"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI01"
-	Value "Vengea"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI02"
-	Value "Aventus"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI03"
-	Value "Lumiscant"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI04"
-	Value "Direnus"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI05"
-	Value "Imperia"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI06"
-	Value "Immaculata"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI07"
-	Value "Malevesant"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI08"
-	Value "Furia"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI09"
-	Value "Valouria"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI10"
-	Value "Merciless"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI11"
-	Value "Thanatous"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI12"
-	Value "Tempestua"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI13"
-	Value "Etheria"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI14"
-	Value "Vilysian"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI15"
-	Value "Mercuria"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI16"
-	Value "Seraphea"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI17"
-	Value "Excoriant"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI18"
-	Value "Ascencia"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI19"
-	Value "Spectra"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI20"
-	Value "Tremonia"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI21"
-	Value "Eterna"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI22"
-	Value "Sinistra"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI23"
-	Value "Vorascant"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI24"
-	Value "Pyranea"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI25"
-	Value "Maloraphea"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI26"
-	Value "Scythia"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI27"
-	Value "Discordia"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI28"
-	Value "Polaria"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI29"
-	Value "Monestria"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI30"
-	Value "Celestia"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI31"
-	Value "Maledictus"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI32"
-	Value "Stelwardia"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI33"
-	Value "Resplendia"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI34"
-	Value "Scintilata"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI35"
-	Value "Magniphea"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI36"
-	Value "Rancoria"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI37"
-	Value "Virulea"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI38"
-	Value "Brulirea"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PSI39"
-	Value "Josonea"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE00"
-	Value "Vatornas"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE01"
-	Value "Astirka"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE02"
-	Value "Vornas"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE03"
-	Value "Larkitra"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE04"
-	Value "Kintora"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE05"
-	Value "Sultra"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE06"
-	Value "Kratovas"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE07"
-	Value "LarrTul"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE08"
-	Value "Korigul"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE09"
-	Value "Artorska"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE10"
-	Value "Sonrakus"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE11"
-	Value "Tiraskus"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE12"
-	Value "Ravustra"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE13"
-	Value "Junakra"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE14"
-	Value "Rakulas"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE15"
-	Value "Vaskarus"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE16"
-	Value "Toruvak"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE17"
-	Value "Vanatorak"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE18"
-	Value "Ruskovak"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE19"
-	Value "Antarus"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE20"
-	Value "Vakarus"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE21"
-	Value "Voskul"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE22"
-	Value "Tarsika"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE23"
-	Value "Jikantra"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE24"
-	Value "Arankul"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE25"
-	Value "Karakus"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE26"
-	Value "Senvistra"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE27"
-	Value "Voritul"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE28"
-	Value "Vilakus"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE29"
-	Value "Skukra"
-StringInfo
-	ID "IDS_CAPITALSHIPNAME_PHASE30"
-	Value "Jrakis"
-StringInfo
-	ID "IDS_STARBASENAME_TECH00"
-	Value "Galvanov"
-StringInfo
-	ID "IDS_STARBASENAME_TECH01"
-	Value "Stratonev"
-StringInfo
-	ID "IDS_STARBASENAME_TECH02"
-	Value "Orskov"
-StringInfo
-	ID "IDS_STARBASENAME_TECH03"
-	Value "Altimus"
-StringInfo
-	ID "IDS_STARBASENAME_TECH04"
-	Value "Kosmus"
-StringInfo
-	ID "IDS_STARBASENAME_TECH05"
-	Value "Herasus"
-StringInfo
-	ID "IDS_STARBASENAME_TECH06"
-	Value "Arskov"
-StringInfo
-	ID "IDS_STARBASENAME_PSI00"
-	Value "Divinity"
-StringInfo
-	ID "IDS_STARBASENAME_PSI01"
-	Value "Purity"
-StringInfo
-	ID "IDS_STARBASENAME_PSI02"
-	Value "Sanctuary"
-StringInfo
-	ID "IDS_STARBASENAME_PSI03"
-	Value "Sanctity"
-StringInfo
-	ID "IDS_STARBASENAME_PSI04"
-	Value "Redemption"
-StringInfo
-	ID "IDS_STARBASENAME_PSI05"
-	Value "Vindication"
-StringInfo
-	ID "IDS_STARBASENAME_PHASE00"
-	Value "Korostra"
-StringInfo
-	ID "IDS_STARBASENAME_PHASE01"
-	Value "Orankost"
-StringInfo
-	ID "IDS_STARBASENAME_PHASE02"
-	Value "Koraskas"
-StringInfo
-	ID "IDS_STARBASENAME_PHASE03"
-	Value "Roskara"
-StringInfo
-	ID "IDS_STARBASENAME_PHASE04"
-	Value "Oraskul"
-StringInfo
-	ID "IDS_STARBASENAME_PHASE05"
-	Value "Arvotul"
-StringInfo
-	ID "IDS_STARBASENAME_PHASE06"
-	Value "Vokorul"
 StringInfo
 	ID "IDS_STARNAME_0"
 	Value "Acamar"
@@ -11823,156 +11598,6 @@ StringInfo
 StringInfo
 	ID "IDS_PLANETNAME_296"
 	Value "Porta"
-StringInfo
-	ID "IDSPlayerAINameAsgard0"
-	Value "Cult of Cerebri"
-StringInfo
-	ID "IDSPlayerAINameAsgard1"
-	Value "Rasaeida Sect"
-StringInfo
-	ID "IDSPlayerAINameAsgard2"
-	Value "Voice of Senar"
-StringInfo
-	ID "IDSPlayerAINameAsgard3"
-	Value "Hand of Illus"
-StringInfo
-	ID "IDSPlayerAINameAsgard4"
-	Value "Ast Eternal"
-StringInfo
-	ID "IDSPlayerAINameAsgard5"
-	Value "Rolus Solbare"
-StringInfo
-	ID "IDSPlayerAINameAsgard6"
-	Value "Prophets of Zei"
-StringInfo
-	ID "IDSPlayerAINameAsgard7"
-	Value "Solundi"
-StringInfo
-	ID "IDSPlayerAINameAsgard8"
-	Value "Psi Order Zealots"
-StringInfo
-	ID "IDSPlayerAINameAsgard9"
-	Value "Xon Precept"
-StringInfo
-	ID "IDSPlayerAINameGoauld0"
-	Value "Korsul Armada"
-StringInfo
-	ID "IDSPlayerAINameGoauld1"
-	Value "Vanidas Faction"
-StringInfo
-	ID "IDSPlayerAINameGoauld2"
-	Value "Anator Skavun"
-StringInfo
-	ID "IDSPlayerAINameGoauld3"
-	Value "Serak Warriors"
-StringInfo
-	ID "IDSPlayerAINameGoauld4"
-	Value "Vaskorus Arkun"
-StringInfo
-	ID "IDSPlayerAINameGoauld5"
-	Value "Jisura Nomads"
-StringInfo
-	ID "IDSPlayerAINameGoauld6"
-	Value "Li Sector Remnants"
-StringInfo
-	ID "IDSPlayerAINameGoauld7"
-	Value "Adjun Imperials"
-StringInfo
-	ID "IDSPlayerAINameGoauld8"
-	Value "Rakorun Survivors"
-StringInfo
-	ID "IDSPlayerAINameGoauld9"
-	Value "Slave Kar Majistra"
-StringInfo
-	ID "IDSPlayerAINameTech0"
-	Value "Tauri"
-StringInfo
-	ID "IDSPlayerAINameTech1"
-	Value "Earth Coalition"
-StringInfo
-	ID "IDSPlayerAINameTech2"
-	Value "Milkyway Consortium"
-StringInfo
-	ID "IDSPlayerAINameTech3"
-	Value "Stargate Command"
-StringInfo
-	ID "IDSPlayerAINameTech4"
-	Value "Atlantis Expedition"
-StringInfo
-	ID "IDSPlayerAINameTech5"
-	Value "Humanity"
-StringInfo
-	ID "IDSPlayerAINameTech6"
-	Value "IOA Alliance"
-StringInfo
-	ID "IDSPlayerAINameTech7"
-	Value "Alteran Descendants"
-StringInfo
-	ID "IDSPlayerAINameTech8"
-	Value "Satedan Resurgence"
-StringInfo
-	ID "IDSPlayerAINameTech9"
-	Value "Pegasus Union"
-StringInfo
-	ID "IDSPlayerAINamePsi0"
-	Value "Pegasus Brood"
-StringInfo
-	ID "IDSPlayerAINamePsi1"
-	Value "Lost Brood"
-StringInfo
-	ID "IDSPlayerAINamePsi2"
-	Value "Hatchlings"
-StringInfo
-	ID "IDSPlayerAINamePsi3"
-	Value "Pegasus Larva"
-StringInfo
-	ID "IDSPlayerAINamePsi4"
-	Value "Queens Hive"
-StringInfo
-	ID "IDSPlayerAINamePsi5"
-	Value "Karra Brood"
-StringInfo
-	ID "IDSPlayerAINamePsi6"
-	Value "Athos Hive"
-StringInfo
-	ID "IDSPlayerAINamePsi7"
-	Value "Hive Keeper"
-StringInfo
-	ID "IDSPlayerAINamePsi8"
-	Value "Irats Hive"
-StringInfo
-	ID "IDSPlayerAINamePsi9"
-	Value "Lantean Descendants"
-StringInfo
-	ID "IDSPlayerAINamePhase0"
-	Value "Replicator Armada"
-StringInfo
-	ID "IDSPlayerAINamePhase1"
-	Value "Atropos Fleet"
-StringInfo
-	ID "IDSPlayerAINamePhase2"
-	Value "Asuran Replicators"
-StringInfo
-	ID "IDSPlayerAINamePhase3"
-	Value "Asuras Offspring "
-StringInfo
-	ID "IDSPlayerAINamePhase4"
-	Value "Asuran Remnants"
-StringInfo
-	ID "IDSPlayerAINamePhase5"
-	Value "Human Form Replicators"
-StringInfo
-	ID "IDSPlayerAINamePhase6"
-	Value "Liam Sect Remnants"
-StringInfo
-	ID "IDSPlayerAINamePhase7"
-	Value "5th fleet Imperials"
-StringInfo
-	ID "IDSPlayerAINamePhase8"
-	Value "Asuras Survivors"
-StringInfo
-	ID "IDSPlayerAINamePhase9"
-	Value "Asuran Avengers"
 StringInfo
 	ID "IDS_ROMANNUMBER_I"
 	Value "I"
@@ -21133,6 +20758,195 @@ StringInfo
 	ID "IDS_TRADESHIP_HUMANELEPHANT_DESCRIPTION"
 	Value "A small commercial vessel that carries merchant cargo between distant worlds."
 StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI00"
+	Value "Fury"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI01"
+	Value "Aegis"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI02"
+	Value "Hermes"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI03"
+	Value "Protector"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI04"
+	Value "Haven"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI05"
+	Value "Hermes"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI06"
+	Value "Athena"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI07"
+	Value "Camelot"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI08"
+	Value "Zeus"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI09"
+	Value "Ithica"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI10"
+	Value "Aphrodite"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI11"
+	Value "Persues"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI12"
+	Value "Lenin"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI13"
+	Value "Vigilant"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI14"
+	Value "Harmony"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI15"
+	Value "Savior"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI16"
+	Value "Trojan"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI17"
+	Value "Avalon"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI18"
+	Value "Defender"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI19"
+	Value "Kronus"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI20"
+	Value "Arthur"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI21"
+	Value "Hades"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI22"
+	Value "Ulysess"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI23"
+	Value "Utopia"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI24"
+	Value "Lazarus"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI25"
+	Value "Ascension"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI26"
+	Value " Argonaut"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI27"
+	Value "Hammond"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI28"
+	Value "Oneal"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI29"
+	Value "Calpyso"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI30"
+	Value "Freedom"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI31"
+	Value "Hera"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI32"
+	Value "Cupid"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI33"
+	Value "Eagle"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI34"
+	Value "Frasier"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI35"
+	Value "Clark"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI36"
+	Value "Poseiden"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI37"
+	Value "Marcus Aurelis"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI38"
+	Value "TDN Milosz"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI39"
+	Value "TDN Nostros"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI40"
+	Value "TDN Berenos"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI41"
+	Value "TDN Tasckird"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI42"
+	Value "TDN Akayko"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI43"
+	Value "TDN Secundo"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI44"
+	Value "TDN Phenro"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_TAURI45"
+	Value "TDN Mercano"
+StringInfo
+	ID "IDS_STARBASENAME_TAURI00"
+	Value "Galvanov"
+StringInfo
+	ID "IDS_STARBASENAME_TAURI01"
+	Value "Stratonev"
+StringInfo
+	ID "IDS_STARBASENAME_TAURI02"
+	Value "Orskov"
+StringInfo
+	ID "IDS_STARBASENAME_TAURI03"
+	Value "Altimus"
+StringInfo
+	ID "IDS_STARBASENAME_TAURI04"
+	Value "Kosmus"
+StringInfo
+	ID "IDS_STARBASENAME_TAURI05"
+	Value "Herasus"
+StringInfo
+	ID "IDS_STARBASENAME_TAURI06"
+	Value "Arskov"
+StringInfo
+	ID "IDSPlayerAINameTauri0"
+	Value "Tauri"
+StringInfo
+	ID "IDSPlayerAINameTauri1"
+	Value "Earth Coalition"
+StringInfo
+	ID "IDSPlayerAINameTauri2"
+	Value "Milkyway Consortium"
+StringInfo
+	ID "IDSPlayerAINameTauri3"
+	Value "Stargate Command"
+StringInfo
+	ID "IDSPlayerAINameTauri4"
+	Value "Atlantis Expedition"
+StringInfo
+	ID "IDSPlayerAINameTauri5"
+	Value "Humanity"
+StringInfo
+	ID "IDSPlayerAINameTauri6"
+	Value "IOA Alliance"
+StringInfo
+	ID "IDSPlayerAINameTauri7"
+	Value "Alteran Descendants"
+StringInfo
+	ID "IDSPlayerAINameTauri8"
+	Value "Satedan Resurgence"
+StringInfo
+	ID "IDSPlayerAINameTauri9"
+	Value "Pegasus Union"
+StringInfo
 	ID "IDS_STARBASETECH_NAME"
 	Value "Argonev Star Base"
 StringInfo
@@ -23313,6 +23127,174 @@ StringInfo
 StringInfo
 	ID "IDS_TRADESHIP_WRAITH_DESCRIPTION"
 	Value "A small commercial vessel that carries merchant cargo between distant worlds."
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH00"
+	Value "Tyrand"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH01"
+	Value "Vengea"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH02"
+	Value "Aventus"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH03"
+	Value "Lumiscant"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH04"
+	Value "Direnus"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH05"
+	Value "Imperia"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH06"
+	Value "Immaculata"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH07"
+	Value "Malevesant"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH08"
+	Value "Furia"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH09"
+	Value "Valouria"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH10"
+	Value "Merciless"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH11"
+	Value "Thanatous"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH12"
+	Value "Tempestua"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH13"
+	Value "Etheria"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH14"
+	Value "Vilysian"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH15"
+	Value "Mercuria"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH16"
+	Value "Seraphea"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH17"
+	Value "Excoriant"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH18"
+	Value "Ascencia"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH19"
+	Value "Spectra"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH20"
+	Value "Tremonia"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH21"
+	Value "Eterna"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH22"
+	Value "Sinistra"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH23"
+	Value "Vorascant"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH24"
+	Value "Pyranea"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH25"
+	Value "Maloraphea"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH26"
+	Value "Scythia"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH27"
+	Value "Discordia"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH28"
+	Value "Polaria"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH29"
+	Value "Monestria"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH30"
+	Value "Celestia"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH31"
+	Value "Maledictus"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH32"
+	Value "Stelwardia"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH33"
+	Value "Resplendia"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH34"
+	Value "Scintilata"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH35"
+	Value "Magniphea"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH36"
+	Value "Rancoria"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH37"
+	Value "Virulea"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH38"
+	Value "Brulirea"
+StringInfo
+	ID "IDS_CAPITALSHIPNAME_WRAITH39"
+	Value "Josonea"
+StringInfo
+	ID "IDS_STARBASENAME_WRAITH00"
+	Value "Divinity"
+StringInfo
+	ID "IDS_STARBASENAME_WRAITH01"
+	Value "Purity"
+StringInfo
+	ID "IDS_STARBASENAME_WRAITH02"
+	Value "Sanctuary"
+StringInfo
+	ID "IDS_STARBASENAME_WRAITH03"
+	Value "Sanctity"
+StringInfo
+	ID "IDS_STARBASENAME_WRAITH04"
+	Value "Redemption"
+StringInfo
+	ID "IDS_STARBASENAME_WRAITH05"
+	Value "Vindication"
+StringInfo
+	ID "IDSPlayerAINameWraith0"
+	Value "Pegasus Brood"
+StringInfo
+	ID "IDSPlayerAINameWraith1"
+	Value "Lost Brood"
+StringInfo
+	ID "IDSPlayerAINameWraith2"
+	Value "Hatchlings"
+StringInfo
+	ID "IDSPlayerAINameWraith3"
+	Value "Pegasus Larva"
+StringInfo
+	ID "IDSPlayerAINameWraith4"
+	Value "Queens Hive"
+StringInfo
+	ID "IDSPlayerAINameWraith5"
+	Value "Karra Brood"
+StringInfo
+	ID "IDSPlayerAINameWraith6"
+	Value "Athos Hive"
+StringInfo
+	ID "IDSPlayerAINameWraith7"
+	Value "Hive Keeper"
+StringInfo
+	ID "IDSPlayerAINameWraith8"
+	Value "Irats Hive"
+StringInfo
+	ID "IDSPlayerAINameWraith9"
+	Value "Lantean Descendants"
 StringInfo
 	ID "IDS_STARBASEWRAITH_NAME"
 	Value "Wraith Starbase"

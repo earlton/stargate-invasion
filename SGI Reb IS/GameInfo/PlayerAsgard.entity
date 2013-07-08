@@ -863,17 +863,17 @@ playerThemeGroupName "PlayerAsgard"
 playerPictureGroupName "PlayerAsgard"
 raceRelationsModCount 5
 raceRelationsModifier
-	raceNameID "IDS_PLAYERRACENAME_TECH"
+	raceNameID "IDS_PLAYERRACENAME_TAURI"
 	modifierMin -2.250000
 	modifierMax -2.000000
 	factionRelationsModCount 0
 raceRelationsModifier
-	raceNameID "IDS_PLAYERRACENAME_PSI"
+	raceNameID "IDS_PLAYERRACENAME_WRAITH"
 	modifierMin 0.100000
 	modifierMax 1.000000
 	factionRelationsModCount 0
 raceRelationsModifier
-	raceNameID "IDS_PLAYERRACENAME_PHASE"
+	raceNameID "IDS_PLAYERRACENAME_ASURAN"
 	modifierMin -1.000000
 	modifierMax -0.500000
 	factionRelationsModCount 0

@@ -1,6 +1,6 @@
 ﻿TXT
 entityType "Player"
-raceNameStringID "IDS_PLAYERRACENAME_TECH"
+raceNameStringID "IDS_PLAYERRACENAME_TAURI"
 canColonize TRUE
 isPsi FALSE
 isSelectable TRUE
@@ -856,16 +856,16 @@ gameOverWindowData
 	hasLostOccupationPhraseStringId "IDSGameOverDialogHasLostPhraseTauriOccupation"
 aiNameData
 	nameCount 10
-	name "IDSPlayerAINameTech0"
-	name "IDSPlayerAINameTech1"
-	name "IDSPlayerAINameTech2"
-	name "IDSPlayerAINameTech3"
-	name "IDSPlayerAINameTech4"
-	name "IDSPlayerAINameTech5"
-	name "IDSPlayerAINameTech6"
-	name "IDSPlayerAINameTech7"
-	name "IDSPlayerAINameTech8"
-	name "IDSPlayerAINameTech9"
+	name "IDSPlayerAINameTauri0"
+	name "IDSPlayerAINameTauri1"
+	name "IDSPlayerAINameTauri2"
+	name "IDSPlayerAINameTauri3"
+	name "IDSPlayerAINameTauri4"
+	name "IDSPlayerAINameTauri5"
+	name "IDSPlayerAINameTauri6"
+	name "IDSPlayerAINameTauri7"
+	name "IDSPlayerAINameTauri8"
+	name "IDSPlayerAINameTauri9"
 raceNameParsePrefix "TECH"
 raceNameParsePrefixFallback "TECH"
 numResearchFields 6
@@ -879,17 +879,17 @@ playerThemeGroupName "PlayerTauri"
 playerPictureGroupName "PlayerTauri"
 raceRelationsModCount 5
 raceRelationsModifier
-	raceNameID "IDS_PLAYERRACENAME_TECH"
+	raceNameID "IDS_PLAYERRACENAME_TAURI"
 	modifierMin 2.000000
 	modifierMax 2.250000
 	factionRelationsModCount 0
 raceRelationsModifier
-	raceNameID "IDS_PLAYERRACENAME_PSI"
+	raceNameID "IDS_PLAYERRACENAME_WRAITH"
 	modifierMin -1.000000
 	modifierMax -0.100000
 	factionRelationsModCount 0
 raceRelationsModifier
-	raceNameID "IDS_PLAYERRACENAME_PHASE"
+	raceNameID "IDS_PLAYERRACENAME_ASURAN"
 	modifierMin -1.000000
 	modifierMax -0.500000
 	factionRelationsModCount 0

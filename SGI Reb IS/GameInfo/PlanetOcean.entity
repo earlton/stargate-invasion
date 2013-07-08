@@ -313,7 +313,7 @@ planetUpgradeDef
 			cultureSpreadRateModifier -0.500001
 ringsChance 0.250000
 isColonizable TRUE
-planetTypeForResearch "Ice"
+planetTypeForResearch "Terran"
 skyboxScalarsCount 5
 skyboxScalars
 	diffuseScalar 0.910000
