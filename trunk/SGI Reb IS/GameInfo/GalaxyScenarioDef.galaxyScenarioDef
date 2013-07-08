@@ -1497,256 +1497,256 @@ planetItemType
 	designName "Dead:Frigate:Lost"
 	entityDefName "FrigateLost"
 planetItemType
-	designName "Phase:Module:Cannon"
+	designName "Asuran:Module:Cannon"
 	entityDefName "PLANETMODULE_ASURANORBITALCANNON"
 planetItemType
-	designName "Phase:Module:CapitalShipFactory"
+	designName "Asuran:Module:CapitalShipFactory"
 	entityDefName "PLANETMODULE_ASURANORBITALCAPITALSHIPFACTORY"
 planetItemType
-	designName "Phase:Module:CombatLab"
+	designName "Asuran:Module:CombatLab"
 	entityDefName "PLANETMODULE_ASURANORBITALCOMBATLABORATORY"
 planetItemType
-	designName "Phase:Module:CrystalExtractor"
+	designName "Asuran:Module:CrystalExtractor"
 	entityDefName "PLANETMODULE_ASURANORBITALCRYSTALEXTRACTOR"
 planetItemType
-	designName "Phase:Module:CultureCenter"
+	designName "Asuran:Module:CultureCenter"
 	entityDefName "PLANETMODULE_ASURANORBITALCULTURECENTER"
 planetItemType
-	designName "Phase:Module:FrigateFactory"
+	designName "Asuran:Module:FrigateFactory"
 	entityDefName "PLANETMODULE_ASURANORBITALFRIGATEFACTORY"
 planetItemType
-	designName "Phase:Module:HangarDefense"
+	designName "Asuran:Module:HangarDefense"
 	entityDefName "PLANETMODULE_ASURANORBITALHANGARDEFENSE"
 planetItemType
-	designName "Phase:Module:MetalExtractor"
+	designName "Asuran:Module:MetalExtractor"
 	entityDefName "PLANETMODULE_ASURANORBITALMETALEXTRACTOR"
 planetItemType
-	designName "Phase:Module:NonCombatLab"
+	designName "Asuran:Module:NonCombatLab"
 	entityDefName "PLANETMODULE_ASURANORBITALNONCOMBATLABORATORY"
 planetItemType
-	designName "Phase:Module:Refinery"
+	designName "Asuran:Module:Refinery"
 	entityDefName "PLANETMODULE_ASURANORBITALREFINERY"
 planetItemType
-	designName "Phase:Module:TradePort"
+	designName "Asuran:Module:TradePort"
 	entityDefName "PLANETMODULE_ASURANORBITALTRADEPORT"
 planetItemType
-	designName "Phase:Module:MissileDefense"
+	designName "Asuran:Module:MissileDefense"
 	entityDefName "PLANETMODULE_ASURANORBITALMISSILEDEFENSE"
 planetItemType
-	designName "Psi:Module:Cannon"
+	designName "Wraith:Module:Cannon"
 	entityDefName "PLANETMODULE_WRAITHORBITALCANNON"
 planetItemType
-	designName "Psi:Module:CapitalShipFactory"
+	designName "Wraith:Module:CapitalShipFactory"
 	entityDefName "PLANETMODULE_WRAITHORBITALCAPITALSHIPFACTORY"
 planetItemType
-	designName "Psi:Module:CombatLab"
+	designName "Wraith:Module:CombatLab"
 	entityDefName "PLANETMODULE_WRAITHORBITALCOMBATLABORATORY"
 planetItemType
-	designName "Psi:Module:CrystalExtractor"
+	designName "Wraith:Module:CrystalExtractor"
 	entityDefName "PLANETMODULE_WRAITHORBITALCRYSTALEXTRACTOR"
 planetItemType
-	designName "Psi:Module:CultureCenter"
+	designName "Wraith:Module:CultureCenter"
 	entityDefName "PLANETMODULE_WRAITHORBITALCULTURECENTER"
 planetItemType
-	designName "Psi:Module:FrigateFactory"
+	designName "Wraith:Module:FrigateFactory"
 	entityDefName "PLANETMODULE_WRAITHORBITALFRIGATEFACTORY"
 planetItemType
-	designName "Psi:Module:HangarDefense"
+	designName "Wraith:Module:HangarDefense"
 	entityDefName "PLANETMODULE_WRAITHORBITALHANGARDEFENSE"
 planetItemType
-	designName "Psi:Module:MetalExtractor"
+	designName "Wraith:Module:MetalExtractor"
 	entityDefName "PLANETMODULE_WRAITHORBITALMETALEXTRACTOR"
 planetItemType
-	designName "Psi:Module:NonCombatLab"
+	designName "Wraith:Module:NonCombatLab"
 	entityDefName "PLANETMODULE_WRAITHORBITALNONCOMBATLABORATORY"
 planetItemType
-	designName "Psi:Module:TradePort"
+	designName "Wraith:Module:TradePort"
 	entityDefName "PLANETMODULE_WRAITHORBITALTRADEPORT"
 planetItemType
-	designName "Psi:Module:BeamDefense"
+	designName "Wraith:Module:BeamDefense"
 	entityDefName "PLANETMODULE_WRAITHORBITALBEAMDEFENSE"
 planetItemType
-	designName "Tech:Module:Cannon"
+	designName "Tauri:Module:Cannon"
 	entityDefName "PLANETMODULE_TAURIORBITALCANNON"
 planetItemType
-	designName "Tech:Module:CapitalShipFactory"
+	designName "Tauri:Module:CapitalShipFactory"
 	entityDefName "PLANETMODULE_TAURIORBITALCAPITALSHIPFACTORY"
 planetItemType
-	designName "Tech:Module:CombatLab"
+	designName "Tauri:Module:CombatLab"
 	entityDefName "PLANETMODULE_TAURIORBITALCOMBATLABORATORY"
 planetItemType
-	designName "Tech:Module:CrystalExtractor"
+	designName "Tauri:Module:CrystalExtractor"
 	entityDefName "PLANETMODULE_TAURIORBITALCRYSTALEXTRACTOR"
 planetItemType
-	designName "Tech:Module:CultureCenter"
+	designName "Tauri:Module:CultureCenter"
 	entityDefName "PLANETMODULE_TAURIORBITALCULTURECENTER"
 planetItemType
-	designName "Tech:Module:FrigateFactory"
+	designName "Tauri:Module:FrigateFactory"
 	entityDefName "PLANETMODULE_TAURIORBITALFRIGATEFACTORY"
 planetItemType
-	designName "Tech:Module:HangarDefense"
+	designName "Tauri:Module:HangarDefense"
 	entityDefName "PLANETMODULE_TAURIORBITALHANGARDEFENSE"
 planetItemType
-	designName "Tech:Module:MetalExtractor"
+	designName "Tauri:Module:MetalExtractor"
 	entityDefName "PLANETMODULE_TAURIORBITALMETALEXTRACTOR"
 planetItemType
-	designName "Tech:Module:NonCombatLab"
+	designName "Tauri:Module:NonCombatLab"
 	entityDefName "PLANETMODULE_TAURIORBITALNONCOMBATLABORATORY"
 planetItemType
-	designName "Tech:Module:Refinery"
+	designName "Tauri:Module:Refinery"
 	entityDefName "PLANETMODULE_TAURIORBITALREFINERY"
 planetItemType
-	designName "Tech:Module:TradePort"
+	designName "Tauri:Module:TradePort"
 	entityDefName "PLANETMODULE_TAURIORBITALTRADEPORT"
 planetItemType
-	designName "Tech:Module:GaussDefense"
+	designName "Tauri:Module:GaussDefense"
 	entityDefName "PLANETMODULE_TAURIORBITALGAUSSDEFENSE"
 planetItemType
 	designName "Pirate:Module:GaussDefense"
 	entityDefName "PLANETMODULE_PIRATEORBITALGAUSSDEFENSE"	
 planetItemType
-	designName "Phase:Frigate:AntiFighter"
+	designName "Asuran:Frigate:AntiFighter"
 	entityDefName "FrigateAsuranAntiFighter"
 planetItemType
-	designName "Phase:Frigate:Carrier"
+	designName "Asuran:Frigate:Carrier"
 	entityDefName "FrigateAsuranCarrier"
 planetItemType
-	designName "Phase:Frigate:Colony"
+	designName "Asuran:Frigate:Colony"
 	entityDefName "FrigateAsuranColony"
 planetItemType
-	designName "Phase:Frigate:Heavy"
+	designName "Asuran:Frigate:Heavy"
 	entityDefName "FrigateAsuranAtropos"
 planetItemType
-	designName "Phase:Frigate:Light"
+	designName "Asuran:Frigate:Light"
 	entityDefName "FrigateAsuranLight"
 planetItemType
-	designName "Phase:Frigate:LongRange"
+	designName "Asuran:Frigate:LongRange"
 	entityDefName "FrigateAsuranLongRange"
 planetItemType
-	designName "Phase:Frigate:Scout"
+	designName "Asuran:Frigate:Scout"
 	entityDefName "FrigateAsuranScout"
 planetItemType
-	designName "Phase:Frigate:Siege"
+	designName "Asuran:Frigate:Siege"
 	entityDefName "FrigateAsuranGSat"
 planetItemType
-	designName "Phase:Frigate:Utility0"
+	designName "Asuran:Frigate:Utility0"
 	entityDefName "FrigateAsuranUtility0"
 planetItemType
-	designName "Phase:Frigate:Utility1"
+	designName "Asuran:Frigate:Utility1"
 	entityDefName "FrigateAsuranUtility1"
 planetItemType
-	designName "Phase:Frigate:Constructor"
+	designName "Asuran:Frigate:Constructor"
 	entityDefName "FrigateAsuranModuleConstructor"
 planetItemType
-	designName "Psi:Frigate:AntiFighter"
+	designName "Wraith:Frigate:AntiFighter"
 	entityDefName "FrigateWraithAntiFighter"
 planetItemType
-	designName "Psi:Frigate:Carrier"
+	designName "Wraith:Frigate:Carrier"
 	entityDefName "FrigateWraithCarrier"
 planetItemType
-	designName "Psi:Frigate:Colony"
+	designName "Wraith:Frigate:Colony"
 	entityDefName "FrigateWraithColony"
 planetItemType
-	designName "Psi:Frigate:Heavy"
+	designName "Wraith:Frigate:Heavy"
 	entityDefName "FrigateWraithCruiser"
 planetItemType
-	designName "Psi:Frigate:Light"
+	designName "Wraith:Frigate:Light"
 	entityDefName "FrigateWraithLight"
 planetItemType
-	designName "Psi:Frigate:LongRange"
+	designName "Wraith:Frigate:LongRange"
 	entityDefName "FrigateWraithLongRange"
 planetItemType
-	designName "Psi:Frigate:Scout"
+	designName "Wraith:Frigate:Scout"
 	entityDefName "FrigateWraithScout"
 planetItemType
-	designName "Psi:Frigate:Siege"
+	designName "Wraith:Frigate:Siege"
 	entityDefName "FrigateWraithSiege"
 planetItemType
-	designName "Psi:Frigate:Utility0"
+	designName "Wraith:Frigate:Utility0"
 	entityDefName "FrigateWraithUtility0"
 planetItemType
-	designName "Psi:Frigate:Utility1"
+	designName "Wraith:Frigate:Utility1"
 	entityDefName "FrigateWraithUtility1"
 planetItemType
-	designName "Psi:Frigate:Constructor"
+	designName "Wraith:Frigate:Constructor"
 	entityDefName "FrigateWraithModuleConstructor"
 planetItemType
-	designName "Tech:Frigate:AntiFighter"
+	designName "Tauri:Frigate:AntiFighter"
 	entityDefName "FrigateTauriCladius"
 planetItemType
-	designName "Tech:Frigate:Carrier"
+	designName "Tauri:Frigate:Carrier"
 	entityDefName "FrigateTauriZephyr"
 planetItemType
-	designName "Tech:Frigate:Colony"
+	designName "Tauri:Frigate:Colony"
 	entityDefName "FrigateTauriHestia"
 planetItemType
-	designName "Tech:Frigate:Heavy"
+	designName "Tauri:Frigate:Heavy"
 	entityDefName "FrigateTauri304"
 planetItemType
-	designName "Tech:Frigate:Light"
+	designName "Tauri:Frigate:Light"
 	entityDefName "FrigateTauriTempest"
 planetItemType
-	designName "Tech:Frigate:LongRange"
+	designName "Tauri:Frigate:LongRange"
 	entityDefName "FrigateTauriMorpheus"
 planetItemType
-	designName "Tech:Frigate:Scout"
+	designName "Tauri:Frigate:Scout"
 	entityDefName "FrigateTauriFenrir"
 planetItemType
-	designName "Tech:Frigate:Siege"
+	designName "Tauri:Frigate:Siege"
 	entityDefName "FrigateTauriPhoenix"
 planetItemType
-	designName "Tech:Frigate:Utility0"
+	designName "Tauri:Frigate:Utility0"
 	entityDefName "FrigateTauri303"
 planetItemType
-	designName "Tech:Frigate:Utility1"
+	designName "Tauri:Frigate:Utility1"
 	entityDefName "FrigateTauriAres"
 planetItemType
-	designName "Tech:Frigate:Constructor"
+	designName "Tauri:Frigate:Constructor"
 	entityDefName "FrigateTauriElephantConst"
 planetItemType
-	designName "Phase:CapitalShip:BattleShip"
+	designName "Asuran:CapitalShip:BattleShip"
 	entityDefName "CAPITALSHIP_ASURANAURORA"
 planetItemType
-	designName "Phase:CapitalShip:Carrier"
+	designName "Asuran:CapitalShip:Carrier"
 	entityDefName "CAPITALSHIP_ASURANCARRIER"
 planetItemType
-	designName "Phase:CapitalShip:Colony"
+	designName "Asuran:CapitalShip:Colony"
 	entityDefName "CAPITALSHIP_ASURANCOLONY"
 planetItemType
-	designName "Phase:CapitalShip:Scout"
+	designName "Asuran:CapitalShip:Scout"
 	entityDefName "CAPITALSHIP_ASURANSCOUT"
 planetItemType
-	designName "Phase:CapitalShip:Siege"
+	designName "Asuran:CapitalShip:Siege"
 	entityDefName "CAPITALSHIP_ASURANSIEGE"
 planetItemType
-	designName "Psi:CapitalShip:BattleShip"
+	designName "Wraith:CapitalShip:BattleShip"
 	entityDefName "CAPITALSHIP_WRAITHBATTLESHIP"
 planetItemType
-	designName "Psi:CapitalShip:Carrier"
+	designName "Wraith:CapitalShip:Carrier"
 	entityDefName "CAPITALSHIP_WRAITHHIVE"
 planetItemType
-	designName "Psi:CapitalShip:Colony"
+	designName "Wraith:CapitalShip:Colony"
 	entityDefName "CAPITALSHIP_WRAITHCOLONY"
 planetItemType
-	designName "Psi:CapitalShip:BattlePsionic"
+	designName "Wraith:CapitalShip:BattlePsionic"
 	entityDefName "CAPITALSHIP_WRAITHBATTLEPSIONIC"
 planetItemType
-	designName "Psi:CapitalShip:PlanetPsionic"
+	designName "Wraith:CapitalShip:PlanetPsionic"
 	entityDefName "CAPITALSHIP_WRAITHPLANETPSIONIC"
 planetItemType
-	designName "Tech:CapitalShip:BattleShip"
+	designName "Tauri:CapitalShip:BattleShip"
 	entityDefName "CAPITALSHIP_TAURIEXCALIBUR"
 planetItemType
-	designName "Tech:CapitalShip:Carrier"
+	designName "Tauri:CapitalShip:Carrier"
 	entityDefName "CAPITALSHIP_TAURIPOSEIDON"
 planetItemType
-	designName "Tech:CapitalShip:Colony"
+	designName "Tauri:CapitalShip:Colony"
 	entityDefName "CAPITALSHIP_TAURIDESTINY"
 planetItemType
-	designName "Tech:CapitalShip:Support"
+	designName "Tauri:CapitalShip:Support"
 	entityDefName "CAPITALSHIP_TAURIACHILLES"
 planetItemType
-	designName "Tech:CapitalShip:Siege"
+	designName "Tauri:CapitalShip:Siege"
 	entityDefName "CAPITALSHIP_TAURICERBERUS"
 planetItemType
 	designName "Pirate:Frigate:Medium"
@@ -1921,13 +1921,13 @@ planetItemType
 	entityDefName "PLANETMODULE_TAURIORBITALHANGARDEFENSE"
 playerTypeCount 6
 playerType
-	designName "Tech"
+	designName "Tauri"
 	entityDefName "PlayerTauri"
 playerType
-	designName "Psi"
+	designName "Wraith"
 	entityDefName "PlayerWraith"
 playerType
-	designName "Phase"
+	designName "Asuran"
 	entityDefName "PlayerAsuran"
 playerType
 	designName "Asgard"
@@ -1946,7 +1946,7 @@ planetItemsTemplate
 planetItemsTemplate
 	templateName "Template:DefaultHomePlanetSetup"
 	subTemplates 0
-	groups 12
+	groups 10
 		group
 			condition
 				type "PlanetOwnerIsRaceNormalStart"
@@ -2008,129 +2008,103 @@ planetItemsTemplate
 		group
 			condition
 				type "PlanetOwnerIsRaceNormalStart"
-				param "Tech"
+				param "Tauri"
 			owner "PlanetOwner"
 			colonizeChance 1
 			items 3
-				item "Phase:Module:FrigateFactory"
-				item "Phase:Frigate:Constructor"
-				item "Phase:Frigate:Constructor"
+				item "Tauri:Module:FrigateFactory"
+				item "Tauri:Frigate:Constructor"
+				item "Tauri:Frigate:Constructor"
 		group
 			condition
 				type "PlanetOwnerIsRaceNormalStart"
-				param "PhaseRebel"
-			owner "PlanetOwner"
-			colonizeChance 1
-			items 3
-				item "Phase:Module:FrigateFactory"
-				item "Phase:Frigate:Constructor"
-				item "Phase:Frigate:Constructor"
-		group
-			condition
-				type "PlanetOwnerIsRaceQuickStart"
-				param "TechLoyalist"
-			owner "PlanetOwner"
-			colonizeChance 1
-			items 9
-				item "Tech:Module:FrigateFactory"
-				item "Tech:Module:CapitalShipFactory"
-				item "Tech:Module:MetalExtractor"
-				item "Tech:Module:MetalExtractor"
-				item "Tech:Module:CrystalExtractor"
-				item "Tech:Frigate:Constructor"
-				item "Tech:Frigate:Constructor"
-				item "Tech:Frigate:Scout"
-				item "Tech:Frigate:Scout"
-		group
-			condition
-				type "PlanetOwnerIsRaceNormalStart"
-				param "Psi"
+				param "Wraith"
 			owner "PlanetOwner"
 			colonizeChance 1
 			items 9		
-				item "Psi:Module:FrigateFactory"
-				item "Psi:Module:CapitalShipFactory"
-				item "Psi:Module:MetalExtractor"
-				item "Psi:Module:MetalExtractor"
-				item "Psi:Module:CrystalExtractor"
-				item "Psi:Frigate:Constructor"
-				item "Psi:Frigate:Constructor"
-				item "Psi:Frigate:Scout"
-				item "Psi:Frigate:Scout"
+				item "Wraith:Module:FrigateFactory"
+				item "Wraith:Module:CapitalShipFactory"
+				item "Wraith:Module:MetalExtractor"
+				item "Wraith:Module:MetalExtractor"
+				item "Wraith:Module:CrystalExtractor"
+				item "Wraith:Frigate:Constructor"
+				item "Wraith:Frigate:Constructor"
+				item "Wraith:Frigate:Scout"
+				item "Wraith:Frigate:Scout"
 		group
 			condition
 				type "PlanetOwnerIsRaceNormalStart"
-				param "Phase"
+				param "Asuran"
 			owner "PlanetOwner"
 			colonizeChance 1
 			items 9
-				item "Phase:Module:FrigateFactory"
-				item "Phase:Module:CapitalShipFactory"
-				item "Phase:Module:MetalExtractor"
-				item "Phase:Module:MetalExtractor"
-				item "Phase:Module:CrystalExtractor"
-				item "Phase:Frigate:Constructor"
-				item "Phase:Frigate:Constructor"
-				item "Phase:Frigate:Scout"
-				item "Phase:Frigate:Scout"
+				item "Asuran:Module:FrigateFactory"
+				item "Asuran:Module:CapitalShipFactory"
+				item "Asuran:Module:MetalExtractor"
+				item "Asuran:Module:MetalExtractor"
+				item "Asuran:Module:CrystalExtractor"
+				item "Asuran:Frigate:Constructor"
+				item "Asuran:Frigate:Constructor"
+				item "Asuran:Frigate:Scout"
+				item "Asuran:Frigate:Scout"
 		group
 			condition
 				type "PlanetOwnerIsRaceQuickStart"
-				param "Tech"
+				param "Tauri"
 			owner "PlanetOwner"
 			colonizeChance 1
 			items 14
-				item "Tech:Module:FrigateFactory"
-				item "Tech:Module:CapitalShipFactory"
-				item "Tech:Module:MetalExtractor"
-				item "Tech:Module:MetalExtractor"
-				item "Tech:Module:CrystalExtractor"
-				item "Tech:Frigate:Constructor"
-				item "Tech:Frigate:Constructor"
-				item "Tech:Frigate:Scout"
-				item "Tech:CapitalShip:Colony"
-				item "Tech:Frigate:Scout"
-				item "Tech:Frigate:Utility0"
-				item "Tech:Frigate:Utility0"
-				item "Tech:Frigate:Utility0"
-				item "Tech:Frigate:Utility0"
+				item "Tauri:Module:FrigateFactory"
+				item "Tauri:Module:CapitalShipFactory"
+				item "Tauri:Module:MetalExtractor"
+				item "Tauri:Module:MetalExtractor"
+				item "Tauri:Module:CrystalExtractor"
+				item "Tauri:Frigate:Constructor"
+				item "Tauri:Frigate:Constructor"
+				item "Tauri:Frigate:Scout"
+				item "Tauri:CapitalShip:Colony"
+				item "Tauri:Frigate:Scout"
+				item "Tauri:Frigate:Utility0"
+				item "Tauri:Frigate:Utility0"
+				item "Tauri:Frigate:Utility0"
+				item "Tauri:Frigate:Utility0"
 		group
 			condition
 				type "PlanetOwnerIsRaceQuickStart"
-				param "Psi"
+				param "Wraith"
 			owner "PlanetOwner"
 			colonizeChance 1
 			items 12
-				item "Psi:Module:FrigateFactory"
-				item "Psi:Module:CapitalShipFactory"
-				item "Psi:Module:MetalExtractor"
-				item "Psi:Module:MetalExtractor"
-				item "Psi:Module:CrystalExtractor"
-				item "Psi:Frigate:Constructor"
-				item "Psi:Frigate:Constructor"
-				item "Psi:Frigate:Scout"
-				item "Psi:CapitalShip:Colony"
-				item "Psi:Frigate:Light"
-				item "Psi:Frigate:Scout"
-				item "Psi:Frigate:Light"
+				item "Wraith:Module:FrigateFactory"
+				item "Wraith:Module:CapitalShipFactory"
+				item "Wraith:Module:MetalExtractor"
+				item "Wraith:Module:MetalExtractor"
+				item "Wraith:Module:CrystalExtractor"
+				item "Wraith:Frigate:Constructor"
+				item "Wraith:Frigate:Constructor"
+				item "Wraith:Frigate:Scout"
+				item "Wraith:CapitalShip:Colony"
+				item "Wraith:Frigate:Light"
+				item "Wraith:Frigate:Scout"
+				item "Wraith:Frigate:Light"
 		group
 			condition
 				type "PlanetOwnerIsRaceQuickStart"
-				param "Phase"
+				param "Asuran"
 			owner "PlanetOwner"
 			colonizeChance 1
 			items 11
-				item "Phase:Module:FrigateFactory"
-				item "Phase:Module:CapitalShipFactory"
-				item "Phase:Module:MetalExtractor"
-				item "Phase:Module:MetalExtractor"
-				item "Phase:Module:CrystalExtractor"
-				item "Phase:Frigate:Constructor"
-				item "Phase:Frigate:Constructor"
-				item "Phase:Frigate:Scout"
-				item "Phase:CapitalShip:Colony"
-				item "Phase:Frigate:Light"
-				item "Phase:Frigate:Scout"
+				item "Asuran:Module:FrigateFactory"
+				item "Asuran:Module:CapitalShipFactory"
+				item "Asuran:Module:MetalExtractor"
+				item "Asuran:Module:MetalExtractor"
+				item "Asuran:Module:CrystalExtractor"
+				item "Asuran:Frigate:Constructor"
+				item "Asuran:Frigate:Constructor"
+				item "Asuran:Frigate:Scout"
+				item "Asuran:CapitalShip:Colony"
+				item "Asuran:Frigate:Light"
+				item "Asuran:Frigate:Scout"
 planetItemsTemplate
 	templateName "Template:DefaultStart_Terran"
 	subTemplates 2
@@ -2229,62 +2203,62 @@ planetItemsTemplate
 			owner "PlanetOwner"
 			colonizeChance 1
 			items 5
-				item "Tech:Frigate:Scout"
-				item "Tech:Frigate:Light"
-				item "Tech:Frigate:Light"
-				item "Tech:Frigate:Light"
-				item "Tech:Frigate:Light"
+				item "Tauri:Frigate:Scout"
+				item "Tauri:Frigate:Light"
+				item "Tauri:Frigate:Light"
+				item "Tauri:Frigate:Light"
+				item "Tauri:Frigate:Light"
 		group
 			condition
 				type "PlanetOwnerIsRaceNormalStart"
-				param "Psi"
+				param "Wraith"
 			owner "PlanetOwner"
 			colonizeChance 1
 			items 6
-				item "Psi:Frigate:Scout"
-				item "Psi:Frigate:Light"
-				item "Psi:Frigate:Light"
-				item "Psi:Frigate:Light"
-				item "Psi:Frigate:Light"
-				item "Psi:Frigate:Light"
+				item "Wraith:Frigate:Scout"
+				item "Wraith:Frigate:Light"
+				item "Wraith:Frigate:Light"
+				item "Wraith:Frigate:Light"
+				item "Wraith:Frigate:Light"
+				item "Wraith:Frigate:Light"
 		group
 			condition
 				type "PlanetOwnerIsRaceNormalStart"
-				param "Phase"
+				param "Asuran"
 			owner "PlanetOwner"
 			colonizeChance 1
 			items 4
-				item "Phase:Frigate:Scout"
-				item "Phase:Frigate:Light"
-				item "Phase:Frigate:Light"
-				item "Phase:Frigate:Light"
+				item "Asuran:Frigate:Scout"
+				item "Asuran:Frigate:Light"
+				item "Asuran:Frigate:Light"
+				item "Asuran:Frigate:Light"
 		group
 			condition
 				type "PlanetOwnerIsRaceQuickStart"
-				param "Tech"
+				param "Tauri"
 			owner "PlanetOwner"
 			colonizeChance 1
 			items 2
-				item "Tech:Frigate:Scout"
-				item "Tech:Frigate:Light"
+				item "Tauri:Frigate:Scout"
+				item "Tauri:Frigate:Light"
 		group
 			condition
 				type "PlanetOwnerIsRaceQuickStart"
-				param "Psi"
+				param "Wraith"
 			owner "PlanetOwner"
 			colonizeChance 1
 			items 2
-				item "Psi:Frigate:Scout"
-				item "Psi:Frigate:Light"
+				item "Wraith:Frigate:Scout"
+				item "Wraith:Frigate:Light"
 		group
 			condition
 				type "PlanetOwnerIsRaceQuickStart"
-				param "Phase"
+				param "Asuran"
 			owner "PlanetOwner"
 			colonizeChance 1
 			items 2
-				item "Phase:Frigate:Scout"
-				item "Phase:Frigate:Light"
+				item "Asuran:Frigate:Scout"
+				item "Asuran:Frigate:Light"
 planetItemsTemplate
 	templateName "Template:LocalMilitiaVeryWeak"
 	subTemplates 0
@@ -2299,9 +2273,9 @@ planetItemsTemplate
 				item "Neutral:Frigate:LongRange"
 				item "Neutral:Frigate:Siege"
 				item "Neutral:Frigate:Heavy"
-				item "Tech:Module:CrystalExtractor"
-				item "Tech:Module:MetalExtractor"
-				item "Tech:Module:GaussDefense"
+				item "Tauri:Module:CrystalExtractor"
+				item "Tauri:Module:MetalExtractor"
+				item "Tauri:Module:GaussDefense"
 		group
 			condition
 				type "NoPlanetOwner"
@@ -2339,8 +2313,8 @@ planetItemsTemplate
 				item "Neutral:Frigate:LongRange"
 				item "Neutral:Frigate:Heavy"
 				item "Neutral:Frigate:Siege"
-				item "Tech:Module:MetalExtractor"
-				item "Tech:Module:CrystalExtractor"
+				item "Tauri:Module:MetalExtractor"
+				item "Tauri:Module:CrystalExtractor"
 		group
 			condition
 				type "PlanetOwnerIsMilitiaWithChance"
@@ -2360,7 +2334,7 @@ planetItemsTemplate
 			items 3
 				item "Neutral:Frigate:Siege"
 				item "Neutral:Frigate:Heavy"						
-				item "Tech:Module:GaussDefense"	
+				item "Tauri:Module:GaussDefense"	
 		group
 			condition
 				type "NoPlanetOwner"
@@ -2395,11 +2369,11 @@ planetItemsTemplate
 				item "Neutral:Frigate:Siege"
 				item "Neutral:Frigate:Heavy"
 				item "Neutral:Frigate:Siege"
-				item "Tech:Module:GaussDefense"
-				item "Tech:Module:GaussDefense"
-				item "Tech:Module:HangarDefense"
-				item "Tech:Module:CrystalExtractor"
-				item "Tech:Module:MetalExtractor"
+				item "Tauri:Module:GaussDefense"
+				item "Tauri:Module:GaussDefense"
+				item "Tauri:Module:HangarDefense"
+				item "Tauri:Module:CrystalExtractor"
+				item "Tauri:Module:MetalExtractor"
 		group
 			condition
 				type "PlanetOwnerIsMilitiaWithChance"
@@ -2409,7 +2383,7 @@ planetItemsTemplate
 			items 3
 				item "Neutral:Frigate:LongRange"
 				item "Neutral:Frigate:Siege"
-				item "Tech:Module:GaussDefense"	
+				item "Tauri:Module:GaussDefense"	
 		group
 			condition
 				type "PlanetOwnerIsMilitiaWithChance"
@@ -2420,7 +2394,7 @@ planetItemsTemplate
 				item "Neutral:Frigate:Siege"
 				item "Neutral:Frigate:Siege"
 				item "Neutral:Frigate:Heavy"
-				item "Tech:Module:HangarDefense"
+				item "Tauri:Module:HangarDefense"
 		group
 			condition
 				type "NoPlanetOwner"
@@ -2461,10 +2435,10 @@ planetItemsTemplate
 			items 6
 				item "Neutral:Frigate:Siege"
 				item "Neutral:Frigate:Heavy"
-				item "Tech:Module:GaussDefense"		
-				item "Tech:Module:GaussDefense"														
-				item "Tech:Module:MetalExtractor"														
-				item "Tech:Module:MetalExtractor"
+				item "Tauri:Module:GaussDefense"		
+				item "Tauri:Module:GaussDefense"														
+				item "Tauri:Module:MetalExtractor"														
+				item "Tauri:Module:MetalExtractor"
 		group
 			condition
 				type "PlanetOwnerIsMilitiaWithChance"
@@ -2474,7 +2448,7 @@ planetItemsTemplate
 			items 3
 				item "Neutral:Frigate:Siege"
 				item "Neutral:Frigate:Heavy"
-				item "Tech:Module:GaussDefense"						
+				item "Tauri:Module:GaussDefense"						
 		group
 			condition
 				type "PlanetOwnerIsMilitiaWithChance"
@@ -2485,7 +2459,7 @@ planetItemsTemplate
 				item "Neutral:Frigate:Siege"
 				item "Neutral:Frigate:LongRange"
 				item "Neutral:Frigate:Heavy"
-				item "Tech:Module:GaussDefense"
+				item "Tauri:Module:GaussDefense"
 		group
 			condition
 				type "PlanetOwnerIsMilitiaWithChance"
@@ -2496,7 +2470,7 @@ planetItemsTemplate
 				item "Neutral:Frigate:LongRange"
 				item "Neutral:Frigate:Heavy"
 				item "Neutral:Frigate:LongRange"
-				item "Tech:Module:GaussDefense"	
+				item "Tauri:Module:GaussDefense"	
 		group
 			condition
 				type "PlanetOwnerIsMilitiaWithChance"
@@ -2505,10 +2479,10 @@ planetItemsTemplate
 			colonizeChance 0
 			items 5
 				item "Neutral:Frigate:LongRange"
-				item "Tech:Frigate:Siege"
+				item "Tauri:Frigate:Siege"
 				item "Neutral:Frigate:Heavy"
 				item "Neutral:Frigate:Siege"
-				item "Tech:Module:GaussDefense"	
+				item "Tauri:Module:GaussDefense"	
 		group
 			condition
 				type "NoPlanetOwner"
@@ -2516,9 +2490,9 @@ planetItemsTemplate
 			owner "RandomMilitia"
 			colonizeChance 0
 			items 5
-				item "Tech:Frigate:Light"
+				item "Tauri:Frigate:Light"
 				item "Neutral:Frigate:LongRange"
-				item "Tech:Frigate:AntiFighter"
+				item "Tauri:Frigate:AntiFighter"
 				item "Neutral:Frigate:Heavy"
 				item "Neutral:Frigate:Siege"
 		group
@@ -2541,8 +2515,8 @@ planetItemsTemplate
 				item "Neutral:Frigate:Siege"
 				item "Neutral:Frigate:Heavy"
 				item "Neutral:Frigate:LongRange"
-				item "Tech:Frigate:Siege"
-				item "Tech:Frigate:Siege"
+				item "Tauri:Frigate:Siege"
+				item "Tauri:Frigate:Siege"
 		group
 			condition
 				type "NoPlanetOwnerWithChance"
@@ -2563,7 +2537,7 @@ planetItemsTemplate
 				item "Neutral:Frigate:Siege"
 				item "Neutral:Frigate:Heavy"
 				item "Neutral:Frigate:LongRange"
-				item "Tech:Frigate:Heavy"
+				item "Tauri:Frigate:Heavy"
 planetItemsTemplate
 	templateName "Template:LocalMilitiaStrongFair"
 	subTemplates 0
@@ -2575,28 +2549,28 @@ planetItemsTemplate
 			owner "PlanetOwner"
 			colonizeChance 0
 			items 22
-				item "Tech:Frigate:Light"
-				item "Tech:Frigate:Light"
-				item "Tech:Frigate:Light"
-				item "Tech:Frigate:LongRange"
-				item "Tech:Frigate:LongRange"
-				item "Tech:Frigate:AntiFighter"
-				item "Tech:Frigate:AntiFighter"
-				item "Tech:Frigate:AntiFighter"
-				item "Tech:Frigate:Heavy"
-				item "Tech:Frigate:Heavy"
-				item "Tech:Frigate:Heavy"
-				item "Tech:Frigate:Heavy"
-				item "Tech:Frigate:Heavy"
-				item "Tech:Frigate:Siege"
-				item "Tech:Frigate:Siege"
-				item "Tech:Module:GaussDefense"	
-				item "Tech:Module:GaussDefense"
-				item "Tech:Module:GaussDefense"															
-				item "Tech:Module:HangarDefense"
-				item "Tech:Module:HangarDefense"
-				item "Tech:Module:MetalExtractor"											
-				item "Tech:Module:MetalExtractor"					
+				item "Tauri:Frigate:Light"
+				item "Tauri:Frigate:Light"
+				item "Tauri:Frigate:Light"
+				item "Tauri:Frigate:LongRange"
+				item "Tauri:Frigate:LongRange"
+				item "Tauri:Frigate:AntiFighter"
+				item "Tauri:Frigate:AntiFighter"
+				item "Tauri:Frigate:AntiFighter"
+				item "Tauri:Frigate:Heavy"
+				item "Tauri:Frigate:Heavy"
+				item "Tauri:Frigate:Heavy"
+				item "Tauri:Frigate:Heavy"
+				item "Tauri:Frigate:Heavy"
+				item "Tauri:Frigate:Siege"
+				item "Tauri:Frigate:Siege"
+				item "Tauri:Module:GaussDefense"	
+				item "Tauri:Module:GaussDefense"
+				item "Tauri:Module:GaussDefense"															
+				item "Tauri:Module:HangarDefense"
+				item "Tauri:Module:HangarDefense"
+				item "Tauri:Module:MetalExtractor"											
+				item "Tauri:Module:MetalExtractor"					
 		group
 			condition
 				type "NoPlanetOwner"
@@ -2604,16 +2578,16 @@ planetItemsTemplate
 			owner "RandomMilitia"
 			colonizeChance 0
 			items 10
-				item "Tech:Frigate:Light"
-				item "Tech:Frigate:Light"
-				item "Tech:Frigate:LongRange"
-				item "Tech:Frigate:LongRange"
-				item "Tech:Frigate:AntiFighter"
-				item "Tech:Frigate:AntiFighter"
-				item "Tech:Frigate:Heavy"
-				item "Tech:Frigate:Heavy"
-				item "Tech:Frigate:Siege"
-				item "Tech:Frigate:Siege"
+				item "Tauri:Frigate:Light"
+				item "Tauri:Frigate:Light"
+				item "Tauri:Frigate:LongRange"
+				item "Tauri:Frigate:LongRange"
+				item "Tauri:Frigate:AntiFighter"
+				item "Tauri:Frigate:AntiFighter"
+				item "Tauri:Frigate:Heavy"
+				item "Tauri:Frigate:Heavy"
+				item "Tauri:Frigate:Siege"
+				item "Tauri:Frigate:Siege"
 planetItemsTemplate
 	templateName "Template:LocalMilitia_Terran"
 	subTemplates 1
@@ -2817,7 +2791,7 @@ planetItemsTemplate
 				item "Pirate:Frigate:Heavy"
 				item "Wreak:Frigate:Hive"
 				item "Wreak:Frigate:Aurora"
-				item "Phase:Frigate:Light"
+				item "Asuran:Frigate:Light"
 				item "Pirate:Frigate:Heavy"
 		group
 			condition
