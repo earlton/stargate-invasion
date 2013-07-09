@@ -83,7 +83,7 @@ NumSoundsFor:ONSTARTPHASEJUMP 1
 SoundID "FRIGATE_GOAULDENVOY_ONSTARTPHASEJUMP"
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "Frigate_GoauldEnvoy"
+	meshName "Frigate_PhaseEnvoy"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""

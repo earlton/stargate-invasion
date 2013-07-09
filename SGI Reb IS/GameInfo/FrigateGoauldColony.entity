@@ -90,7 +90,7 @@ TargetCountPerBank:RIGHT 0
 canOnlyTargetStructures FALSE
 hasWeaponLevels FALSE
 mass 2000.000000
-ShieldMeshName "Shield_FrigateGoauldColony"
+ShieldMeshName "Shield_FrigatePhaseColony"
 renderShield TRUE
 maxAccelerationLinear 100.000000
 maxAccelerationStrafe 10.000000
@@ -121,10 +121,10 @@ NumSoundsFor:ONSTARTPHASEJUMP 1
 SoundID "FRIGATE_GOAULDCOLONY_ONSTARTPHASEJUMP_0"
 MeshNameInfoCount 2
 MeshNameInfo
-	meshName "Frigate_GoauldColony"
+	meshName "Frigate_PhaseColony"
 	criteriaType "None"
 MeshNameInfo
-	meshName "Frigate_GoauldColonyUpgrade"
+	meshName "Frigate_PhaseColonyUpgrade"
 	criteriaType "Research"
 	prerequisites
 		NumResearchPrerequisites 1

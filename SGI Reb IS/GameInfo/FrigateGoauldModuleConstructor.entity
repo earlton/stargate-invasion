@@ -78,7 +78,7 @@ SoundID "FRIGATE_GOAULDCONSTRUCTION_ONGENERALORDERISSUED_0"
 NumSoundsFor:ONSTARTPHASEJUMP 0
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "Frigate_GoauldModuleConstructor"
+	meshName "Frigate_PhaseModuleConstructor"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
