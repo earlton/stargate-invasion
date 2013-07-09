@@ -65,11 +65,11 @@ maxSpeedLinear 450.000000
 maxRollRate 2.000000
 maxRollAngle 35.000000
 squadTypeEntityDef:0 "SquadAsgardCombat"
-squadAntiMatterCost:0 90.000000
+squadAntiMatterCost:0 0.000000
 squadTypeEntityDef:1 "SquadAsgardBomber"
-squadAntiMatterCost:1 150.000000
+squadAntiMatterCost:1 0.000000
 squadTypeEntityDef:2 "SquadAsgardMineLayer"
-squadAntiMatterCost:2 60.000000
+squadAntiMatterCost:2 0.000000
 squadTypeEntityDef:3 ""
 squadAntiMatterCost:3 0.000000
 maxNumCommandPoints 3

@@ -64,7 +64,7 @@ MeshNameInfo
 	meshName "PlanetModule_AsgardOrbitalHangarDefense"
 	criteriaType "None"
 MeshNameInfo
-	meshName "PlanetModule_AsgardOrbitalHangarDefenseUpgrade"
+	meshName "PlanetModule_AsgardOrbitalHangarDefense"
 	criteriaType "Research"
 	prerequisites
 		NumResearchPrerequisites 1
