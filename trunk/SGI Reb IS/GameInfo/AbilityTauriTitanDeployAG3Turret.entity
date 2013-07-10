@@ -2,7 +2,7 @@
 entityType "Ability"
 buffInstantActionType "CreateFrigateAtTarget"
 instantActionTriggerType "AlwaysPerform"
-frigateType "FrigateSiegeTurret"
+frigateType "FrigateTauriAG3"
 numFrigates
 	Level:0 1.000000
 	Level:1 1.000000
@@ -18,8 +18,11 @@ spawnFrigateSoundID "EFFECT_DEPLOYSIEGETURRET"
 targetFilter
 	numOwnerships 1
 	ownership "Enemy"
-	numObjects 1
-	object "Planet"
+	numObjects 4
+	object "Frigate"
+	object "Titan"
+	object "StarBase"
+	object "CapitalShip"
 	numSpaces 1
 	space "Normal"
 	numConstraints 0
@@ -33,13 +36,9 @@ canCollideWithTarget TRUE
 moveThruTarget FALSE
 isUltimateAbility FALSE
 maxNumLevels 3
-levelSourceType "Intrinsic"
-minExperienceLevelRequired
-	Level:0 0.000000
-	Level:1 2.000000
-	Level:2 4.000000
-	Level:3 0.000000
-aiUseTime "Anytime"
+levelSourceType "TitanUpgradeLevel"
+sourcePropertyType "AbilityCLevel"
+aiUseTime "OnlyInCombat"
 aiUseTargetCondition "Any"
 isAutoCastAvailable TRUE
 isAutoCastOnByDefault TRUE

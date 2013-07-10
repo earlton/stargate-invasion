@@ -2,7 +2,7 @@
 entityType "Titan"
 ability:0 "AbilityTauriTitanAsgardBeams"
 ability:1 "AbilityTauriTitanClaudiusSupport"
-ability:2 "AbilityTauriTitanClaudiusSupport"
+ability:2 "AbilityTauriTitanDeployAG3Turret"
 ability:3 "AbilityTauriTitanZPMCloaking"
 ability:4 ""
 defaultAutoAttackRange "GravityWell"
