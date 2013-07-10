@@ -58,7 +58,7 @@ SoundID "PLANETMODULE_ASGARDORBITALNONCOMBATLABORATORY_ONSELECTION_0"
 NumSoundsFor:ONSTARTPHASEJUMP 0
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "PlanetModule_AsgardOrbitalNonCombatLaboratory"
+	meshName "PlanetModule_PsiOrbitalNonCombatLaboratory"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""

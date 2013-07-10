@@ -58,7 +58,7 @@ SoundID "PLANETMODULE_ASGARDORBITALFRIGATEFACTORY_ONSELECTION_0"
 NumSoundsFor:ONSTARTPHASEJUMP 0
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "PlanetModule_AsgardOrbitalFrigateFactory"
+	meshName "PlanetModule_PsiOrbitalFrigateFactory"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""

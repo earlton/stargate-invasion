@@ -61,7 +61,7 @@ SoundID "PLANETMODULE_ASGARDORBITALTRADEPORT_ONSELECTION_0"
 NumSoundsFor:ONSTARTPHASEJUMP 0
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "PlanetModule_AsgardOrbitalTradePort"
+	meshName "PlanetModule_PsiOrbitalTradePort"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""

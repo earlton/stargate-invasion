@@ -58,10 +58,10 @@ SoundID "PLANETMODULE_ASGARDORBITALBEAMDEFENSE_ONSELECTION_0"
 NumSoundsFor:ONSTARTPHASEJUMP 0
 MeshNameInfoCount 2
 MeshNameInfo
-	meshName "PlanetModule_AsgardOrbitalBeamDefense"
+	meshName "PlanetModule_PsiOrbitalBeamDefense"
 	criteriaType "None"
 MeshNameInfo
-	meshName "PlanetModule_AsgardOrbitalBeamDefenseUpgraded"
+	meshName "PlanetModule_PsiOrbitalBeamDefenseUpgraded"
 	criteriaType "Research"
 	prerequisites
 		NumResearchPrerequisites 1
