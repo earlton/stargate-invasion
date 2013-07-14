@@ -2,7 +2,7 @@
 entityType "Ability"
 buffInstantActionType "ApplyBuffToSelf"
 instantActionTriggerType "AlwaysPerform"
-buffType "BuffAsuranTitanEpheusDroneFrenzy"
+buffType "BuffAsuranTitanMatterBridge"
 effectInfo
 	effectAttachInfo
 		attachType "Invalid"
@@ -14,15 +14,10 @@ needsToFaceTarget FALSE
 canCollideWithTarget TRUE
 moveThruTarget FALSE
 isUltimateAbility FALSE
-maxNumLevels 3
+maxNumLevels 2
 levelSourceType "TitanUpgradeLevel"
-sourcePropertyType "AbilityALevel"
-aiUseTime "OnlyWhenManyTargetsInRange"
-onlyAutoCastWhenTargetCountExceedsAmount
-	Level:0 2.000000
-	Level:1 3.000000
-	Level:2 5.000000
-	Level:3 0.000000
+sourcePropertyType "AbilityDLevel"
+aiUseTime "OnlyInCombat"
 aiUseTargetCondition "Any"
 isAutoCastAvailable TRUE
 isAutoCastOnByDefault TRUE
@@ -31,22 +26,22 @@ ignoreNonCombatShipsForAutoCastTarget TRUE
 onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
 useCostType "AntiMatter"
 antiMatterCost
-	Level:0 150.000000
-	Level:1 115.000000
-	Level:2 90.000000
+	Level:0 250.000000
+	Level:1 200.000000
+	Level:2 0.000000
 	Level:3 0.000000
 cooldownTime
-	Level:0 50.000000
-	Level:1 45.000000
-	Level:2 40.000000
+	Level:0 120.000000
+	Level:1 100.000000
+	Level:2 0.000000
 	Level:3 0.000000
 orderAcknowledgementType "ONGENERALORDERISSUED"
 researchPrerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-nameStringID "IDS_ABILITY_ASURANDRONEFRENZY_NAME"
-descStringID "IDS_ABILITY_ASURANDRONEFRENZY_DESCRIPTION"
-hudIcon "HUDICON_ABILITY_PHASEMISSILESWARM"
-smallHudIcon "HUDICON_ABILITY_PHASEMISSILESWARM"
+nameStringID "IDS_ABILITY_ASURANTITANMATTERBRIDGE_NAME"
+descStringID "IDS_ABILITY_ASURANTITANMATTERBRIDGE_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_ASURANTITANMATTERBRIDGE"
+smallHudIcon "HUDICON_ABILITY_ASURANTITANMATTERBRIDGE"
 infoCardIcon ""

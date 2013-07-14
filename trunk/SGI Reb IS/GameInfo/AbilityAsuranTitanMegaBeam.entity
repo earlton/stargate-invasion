@@ -33,7 +33,7 @@ moveThruTarget FALSE
 isUltimateAbility FALSE
 maxNumLevels 3
 levelSourceType "TitanUpgradeLevel"
-sourcePropertyType "AbilityDLevel"
+sourcePropertyType "AbilityCLevel"
 aiUseTime "OnlyInCombat"
 aiUseTargetCondition "IsCapitalShipOrStarbaseOrTitan"
 isAutoCastAvailable TRUE
