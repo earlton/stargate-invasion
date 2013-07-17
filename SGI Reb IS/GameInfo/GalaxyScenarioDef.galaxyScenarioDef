@@ -2951,7 +2951,7 @@ themeGroup "PlayerAsuran"
 themeGroup "PlayerWraith"
 themeGroup "PlayerTauri"
 themeGroup "NPC"
-autoAddPlayers 3
+autoAddPlayers 2
 player
 	designName "Pirate"
 	inGameName "IDSScenarioPlayerNamePirates"
@@ -2968,22 +2968,6 @@ player
 	themeIndex 0
 	pictureGroup "NPC"
 	pictureIndex 0
-player
-	designName "Rebel"
-	inGameName "IDSScenarioPlayerNameRebels"
-	overrideRaceName "Tech"
-	teamIndex -1
-	startingCredits 1000
-	startingMetal 300
-	startingCrystal 100
-	isNormalPlayer FALSE
-	isRaidingPlayer FALSE
-	isInsurgentPlayer TRUE
-	isOccupationPlayer FALSE
-	themeGroup "SpecialNPC"
-	themeIndex 1
-	pictureGroup "NPC"
-	pictureIndex 1
 player
 	designName "Occupation"
 	inGameName "IDSScenarioPlayerNameOccupation"
@@ -3005,7 +2989,7 @@ autoAddMilitiaPlayers 20
 player
 	designName "Militia0"
 	inGameName "IDSScenarioPlayerNameMilitia0"
-	overrideRaceName "Tech"
+	overrideRaceName "Tauri"
 	teamIndex -1
 	startingCredits 1000
 	startingMetal 300
@@ -3021,7 +3005,7 @@ player
 player
 	designName "Militia1"
 	inGameName "IDSScenarioPlayerNameMilitia1"
-	overrideRaceName "Tech"
+	overrideRaceName "Tauri"
 	teamIndex -1
 	startingCredits 1000
 	startingMetal 300
@@ -3037,7 +3021,7 @@ player
 player
 	designName "Militia2"
 	inGameName "IDSScenarioPlayerNameMilitia2"
-	overrideRaceName "Tech"
+	overrideRaceName "Tauri"
 	teamIndex -1
 	startingCredits 1000
 	startingMetal 300
@@ -3053,7 +3037,7 @@ player
 player
 	designName "Militia3"
 	inGameName "IDSScenarioPlayerNameMilitia3"
-	overrideRaceName "Tech"
+	overrideRaceName "Tauri"
 	teamIndex -1
 	startingCredits 1000
 	startingMetal 300
@@ -3069,7 +3053,7 @@ player
 player
 	designName "Militia4"
 	inGameName "IDSScenarioPlayerNameMilitia4"
-	overrideRaceName "Tech"
+	overrideRaceName "Tauri"
 	teamIndex -1
 	startingCredits 1000
 	startingMetal 300
@@ -3085,7 +3069,7 @@ player
 player
 	designName "Militia5"
 	inGameName "IDSScenarioPlayerNameMilitia5"
-	overrideRaceName "Tech"
+	overrideRaceName "Tauri"
 	teamIndex -1
 	startingCredits 1000
 	startingMetal 300
@@ -3101,7 +3085,7 @@ player
 player
 	designName "Militia6"
 	inGameName "IDSScenarioPlayerNameMilitia6"
-	overrideRaceName "Tech"
+	overrideRaceName "Tauri"
 	teamIndex -1
 	startingCredits 1000
 	startingMetal 300
@@ -3117,7 +3101,7 @@ player
 player
 	designName "Militia7"
 	inGameName "IDSScenarioPlayerNameMilitia7"
-	overrideRaceName "Tech"
+	overrideRaceName "Tauri"
 	teamIndex -1
 	startingCredits 1000
 	startingMetal 300
@@ -3133,7 +3117,7 @@ player
 player
 	designName "Militia8"
 	inGameName "IDSScenarioPlayerNameMilitia8"
-	overrideRaceName "Tech"
+	overrideRaceName "Tauri"
 	teamIndex -1
 	startingCredits 1000
 	startingMetal 300
@@ -3149,7 +3133,7 @@ player
 player
 	designName "Militia9"
 	inGameName "IDSScenarioPlayerNameMilitia9"
-	overrideRaceName "Tech"
+	overrideRaceName "Tauri"
 	teamIndex -1
 	startingCredits 1000
 	startingMetal 300
@@ -3165,7 +3149,7 @@ player
 player
 	designName "Militia10"
 	inGameName "IDSScenarioPlayerNameMilitia10"
-	overrideRaceName "Tech"
+	overrideRaceName "Tauri"
 	teamIndex -1
 	startingCredits 1000
 	startingMetal 300
@@ -3181,7 +3165,7 @@ player
 player
 	designName "Militia11"
 	inGameName "IDSScenarioPlayerNameMilitia11"
-	overrideRaceName "Tech"
+	overrideRaceName "Tauri"
 	teamIndex -1
 	startingCredits 1000
 	startingMetal 300
@@ -3197,7 +3181,7 @@ player
 player
 	designName "Militia12"
 	inGameName "IDSScenarioPlayerNameMilitia12"
-	overrideRaceName "Tech"
+	overrideRaceName "Tauri"
 	teamIndex -1
 	startingCredits 1000
 	startingMetal 300
@@ -3213,7 +3197,7 @@ player
 player
 	designName "Militia13"
 	inGameName "IDSScenarioPlayerNameMilitia13"
-	overrideRaceName "Tech"
+	overrideRaceName "Tauri"
 	teamIndex -1
 	startingCredits 1000
 	startingMetal 300
@@ -3229,7 +3213,7 @@ player
 player
 	designName "Militia14"
 	inGameName "IDSScenarioPlayerNameMilitia14"
-	overrideRaceName "Tech"
+	overrideRaceName "Tauri"
 	teamIndex -1
 	startingCredits 1000
 	startingMetal 300
@@ -3245,7 +3229,7 @@ player
 player
 	designName "Militia15"
 	inGameName "IDSScenarioPlayerNameMilitia15"
-	overrideRaceName "Tech"
+	overrideRaceName "Tauri"
 	teamIndex -1
 	startingCredits 1000
 	startingMetal 300
@@ -3261,7 +3245,7 @@ player
 player
 	designName "Militia16"
 	inGameName "IDSScenarioPlayerNameMilitia16"
-	overrideRaceName "Tech"
+	overrideRaceName "Tauri"
 	teamIndex -1
 	startingCredits 1000
 	startingMetal 300
@@ -3277,7 +3261,7 @@ player
 player
 	designName "Militia17"
 	inGameName "IDSScenarioPlayerNameMilitia17"
-	overrideRaceName "Tech"
+	overrideRaceName "Tauri"
 	teamIndex -1
 	startingCredits 1000
 	startingMetal 300
@@ -3293,7 +3277,7 @@ player
 player
 	designName "Militia18"
 	inGameName "IDSScenarioPlayerNameMilitia18"
-	overrideRaceName "Tech"
+	overrideRaceName "Tauri"
 	teamIndex -1
 	startingCredits 1000
 	startingMetal 300
@@ -3309,7 +3293,7 @@ player
 player
 	designName "Militia19"
 	inGameName "IDSScenarioPlayerNameMilitia19"
-	overrideRaceName "Tech"
+	overrideRaceName "Tauri"
 	teamIndex -1
 	startingCredits 1000
 	startingMetal 300

@@ -1,3 +1,21 @@
+galaxyDef l.2950
+
+player
+	designName ""
+	inGameName "IDSScenarioPlayerNameRebels"
+	overrideRaceName "Tauri"
+	teamIndex -1
+	startingCredits 1000
+	startingMetal 300
+	startingCrystal 100
+	isNormalPlayer FALSE
+	isRaidingPlayer FALSE
+	isInsurgentPlayer TRUE
+	isOccupationPlayer FALSE
+	themeGroup "SpecialNPC"
+	themeIndex 1
+	pictureGroup "NPC"
+	pictureIndex 1
 
 AbilityTauriTitanHumanDrones
 AbilityTauriTitanTartarusCannon
