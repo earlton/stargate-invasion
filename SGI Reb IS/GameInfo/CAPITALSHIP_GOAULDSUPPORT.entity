@@ -233,7 +233,7 @@ TargetCountPerBank:LEFT 1
 TargetCountPerBank:RIGHT 1
 canOnlyTargetStructures FALSE
 mass 10000.000000
-ShieldMeshName "Shield_GoauldHatakHuge"
+ShieldMeshName "Shield_Capital_Shutak"
 renderShield TRUE
 maxAccelerationLinear 100.000000
 maxAccelerationStrafe 10.000000
@@ -263,7 +263,7 @@ NumSoundsFor:ONSTARTPHASEJUMP 1
 SoundID "CAPITALSHIP_GOAULDSUPPORT_ONSTARTPHASEJUMP_0"
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "CapitalShip_Goauld_Support"
+	meshName "CapitalShip_Goauld_Shutak"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
