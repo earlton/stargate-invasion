@@ -135,7 +135,7 @@ TargetCountPerBank:LEFT 1
 TargetCountPerBank:RIGHT 1
 canOnlyTargetStructures FALSE
 mass 10000.000000
-ShieldMeshName "Shield_GoauldSiege"
+ShieldMeshName "Shield_Capital_Hatel"
 renderShield TRUE
 maxAccelerationLinear 150.000000
 maxAccelerationStrafe 150.000000
@@ -165,7 +165,7 @@ NumSoundsFor:ONSTARTPHASEJUMP 1
 SoundID "CAPITALSHIP_GOAULDSIEGE_ONSTARTPHASEJUMP_0"
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "CapitalShip_Goauld_Apophis"
+	meshName "Capitalship_Goauld_Hatel"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
