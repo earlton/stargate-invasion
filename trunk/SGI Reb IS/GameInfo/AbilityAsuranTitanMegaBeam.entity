@@ -35,7 +35,7 @@ maxNumLevels 3
 levelSourceType "TitanUpgradeLevel"
 sourcePropertyType "AbilityCLevel"
 aiUseTime "OnlyInCombat"
-aiUseTargetCondition "IsCapitalShipOrStarbaseOrTitan"
+aiUseTargetCondition "Any"
 isAutoCastAvailable TRUE
 isAutoCastOnByDefault TRUE
 pickRandomPlanetToExploreForAutoCastTarget FALSE

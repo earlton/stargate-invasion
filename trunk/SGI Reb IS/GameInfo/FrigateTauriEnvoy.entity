@@ -87,7 +87,7 @@ NumSoundsFor:ONSTARTPHASEJUMP 1
 SoundID "FRIGATE_TECHENVOY_ONSTARTPHASEJUMP"
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "Frigate_Tauri_Envoy"
+	meshName "Frigate_HumanEnvoy"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
