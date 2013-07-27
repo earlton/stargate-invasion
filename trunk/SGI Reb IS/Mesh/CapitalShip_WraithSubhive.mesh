@@ -2,7 +2,7 @@
 MeshData
 	maxDiffuseMipLevel 0
 	hasValidTangents TRUE
-	BoundingRadius 1702.133789
+	BoundingRadius 1200
 	MaxBoundingExtents [ 1046.615845 160.201752 1700.855469 ]
 	MinBoundingExtents [ -1152.677124 -187.228195 -904.702271 ]
 	NumMaterials 1
