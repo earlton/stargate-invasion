@@ -2218,5 +2218,3 @@ cullLists 6
 		maxCount 1
 		eventTypeCount 1
 			event "PirateRaidImminent"										
-
-		

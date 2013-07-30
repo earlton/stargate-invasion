@@ -174,56 +174,10 @@ UpgradeType "StarBaseUpgradeTauriBlockColonize"
 UpgradeType "StarBaseUpgradeTauriFactory"
 UpgradeType "StarBaseUpgradeTauriSelfDestruct"
 UpgradeType "StarBaseUpgradeTauriStarGate"
-MeshNameInfoCount 6
+MeshNameInfoCount 1
 MeshNameInfo
-	meshName "StarbaseTauri_Starbase"
+	meshName "StarbaseTauri"
 	criteriaType "None"
-MeshNameInfo
-	meshName "StarbaseTauri_Starbase"
-	criteriaType "StarBaseUpgradeLevel"
-	levelRequirements
-		levelRequirementCount 1
-		levelRequirement
-			upgradePropertyType "TradePortMeshLevel"
-			upgradeLevel 1
-MeshNameInfo
-	meshName "StarbaseTauri_Starbase"
-	criteriaType "StarBaseUpgradeLevel"
-	levelRequirements
-		levelRequirementCount 1
-		levelRequirement
-			upgradePropertyType "WeaponUpgradeLevel"
-			upgradeLevel 1
-MeshNameInfo
-	meshName "StarbaseTauri_Starbase"
-	criteriaType "StarBaseUpgradeLevel"
-	levelRequirements
-		levelRequirementCount 2
-		levelRequirement
-			upgradePropertyType "TradePortMeshLevel"
-			upgradeLevel 1
-		levelRequirement
-			upgradePropertyType "WeaponUpgradeLevel"
-			upgradeLevel 1
-MeshNameInfo
-	meshName "StarbaseTauri_Starbase"
-	criteriaType "StarBaseUpgradeLevel"
-	levelRequirements
-		levelRequirementCount 1
-		levelRequirement
-			upgradePropertyType "WeaponUpgradeLevel"
-			upgradeLevel 2
-MeshNameInfo
-	meshName "StarbaseTauri_Starbase"
-	criteriaType "StarBaseUpgradeLevel"
-	levelRequirements
-		levelRequirementCount 2
-		levelRequirement
-			upgradePropertyType "TradePortMeshLevel"
-			upgradeLevel 1
-		levelRequirement
-			upgradePropertyType "WeaponUpgradeLevel"
-			upgradeLevel 2
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 NumSoundsFor:ONATTACKORDERISSUED 0

@@ -1,5 +1,5 @@
 TXT
-NumStrings 7801
+NumStrings 7802
 StringInfo
 	ID "IDS_ABILITY_WORTHYCAUSE_NAME"
 	Value "Worthy Cause"
@@ -1571,10 +1571,10 @@ StringInfo
 	Value "Give %s Trinium to other players."
 StringInfo
 	ID "IDSAchievementNameHasGivenCrystal"
-	Value "Naquida Lender"
+	Value "Naquada Lender"
 StringInfo
 	ID "IDSAchievementDescHasGivenCrystal"
-	Value "Give %s Naquida to other players."
+	Value "Give %s Naquada to other players."
 StringInfo
 	ID "IDSAchievementNameHasFormedAllianceCeaseFire"
 	Value "Road to Peace"
@@ -1631,16 +1631,16 @@ StringInfo
 	Value "Collect %s Trinium from resource extractors."
 StringInfo
 	ID "IDSAchievementNameHasMadeCrystalIncome"
-	Value "Naquida Miner"
+	Value "Naquada Miner"
 StringInfo
 	ID "IDSAchievementDescHasMadeCrystalIncome"
-	Value "Collect %s Naquida from resource extractors."
+	Value "Collect %s Naquada from resource extractors."
 StringInfo
 	ID "IDSAchievementNameHasMadeRefineryIncome"
 	Value "Refining Magnate"
 StringInfo
 	ID "IDSAchievementDescHasMadeRefineryIncome"
-	Value "Collect %s Trinium or Naquida from refinery ships."
+	Value "Collect %s Trinium or Naquada from refinery ships."
 StringInfo
 	ID "IDSAchievementNameHasUsedCulture"
 	Value "Pop Idol"
@@ -1727,16 +1727,16 @@ StringInfo
 	Value "Sell %s Trinium directly to the Black Market"
 StringInfo
 	ID "IDSAchievementNameHasBoughtCrystal"
-	Value "Naquida Speculator"
+	Value "Naquada Speculator"
 StringInfo
 	ID "IDSAchievementDescHasBoughtCrystal"
-	Value "Buy %s Naquida from the Black Market"
+	Value "Buy %s Naquada from the Black Market"
 StringInfo
 	ID "IDSAchievementNameHasSoldCrystalToMarket"
-	Value "Naquida Merchant"
+	Value "Naquada Merchant"
 StringInfo
 	ID "IDSAchievementDescHasSoldCrystalToMarket"
-	Value "Sell %s Naquida directly to the Black Market"
+	Value "Sell %s Naquada directly to the Black Market"
 StringInfo
 	ID "IDSAchievementNameHasSoldResourcesToPlayers"
 	Value "Resource Opportunist"
@@ -2999,7 +2999,7 @@ StringInfo
 	Value "Trinium"
 StringInfo
 	ID "IDSStatsScreenTabButtonCrystal"
-	Value "Naquida"
+	Value "Naquada"
 StringInfo
 	ID "IDSStatsScreenTabButtonShips"
 	Value "Fleet"
@@ -3583,8 +3583,8 @@ StringInfo
 	ID "IDSEscapeMenuScreenNetworkStatusActionCancelMigration"
 	Value "Cancel"
 StringInfo
-	ID "IDS_RELATIONSHIPINFOCARD_FACTIONRELATIONSLABEL"
-	Value "Faction Relations:"
+	ID "IDS_FIGHTER_ORI_NAME"
+	Value "Ori Fighter"
 StringInfo
 	ID "IDS_FRIGATE_DEADLIGHT_NAME"
 	Value "SPACEJUNKYARD MAKER"
@@ -4235,7 +4235,7 @@ StringInfo
 	Value "Insufficient Trinium"
 StringInfo
 	ID "IDS_GAMEMESSAGE_NOCRYSTAL"
-	Value "Insufficient Naquida"
+	Value "Insufficient Naquada"
 StringInfo
 	ID "IDS_GAMEMESSAGE_NOTITANFACTORY"
 	Value "Titan Factory required."
@@ -5441,49 +5441,49 @@ StringInfo
 	Value "Trinium lost to other sources"
 StringInfo
 	ID "IDS_GameStat_CrystalIncomeRate"
-	Value "Naquida income rate"
+	Value "Naquada income rate"
 StringInfo
 	ID "IDS_GameStat_CrystalGainedFromResourceAsteroid"
-	Value "Naquida gained from asteroids"
+	Value "Naquada gained from asteroids"
 StringInfo
 	ID "IDS_GameStat_CrystalGainedFromRefineryShips"
-	Value "Naquida gained from refinery ships"
+	Value "Naquada gained from refinery ships"
 StringInfo
 	ID "IDS_GameStat_CrystalGainedFromPlayerTransfer"
-	Value "Naquida received from allies"
+	Value "Naquada received from allies"
 StringInfo
 	ID "IDS_GameStat_CrystalGainedFromStockMarket"
-	Value "Naquida gained from the black market"
+	Value "Naquada gained from the black market"
 StringInfo
 	ID "IDS_GameStat_CrystalGainedFromOther"
-	Value "Naquida gained from other sources"
+	Value "Naquada gained from other sources"
 StringInfo
 	ID "IDS_GameStat_CrystalLostToPlayerTransfer"
-	Value "Naquida given to allies"
+	Value "Naquada given to allies"
 StringInfo
 	ID "IDS_GameStat_CrystalLostToStockMarket"
-	Value "Naquida sold on the black market"
+	Value "Naquada sold on the black market"
 StringInfo
 	ID "IDS_GameStat_CrystalLostToStockMarketBucket"
-	Value "Naquida to be sold to other players"
+	Value "Naquada to be sold to other players"
 StringInfo
 	ID "IDS_GameStat_CrystalLostToShipPurchase"
-	Value "Naquida spent on ships"
+	Value "Naquada spent on ships"
 StringInfo
 	ID "IDS_GameStat_CrystalLostToModulePurchase"
-	Value "Naquida spent on structures"
+	Value "Naquada spent on structures"
 StringInfo
 	ID "IDS_GameStat_CrystalLostToPlanetUpgradePurchase"
-	Value "Naquida spent on planets"
+	Value "Naquada spent on planets"
 StringInfo
 	ID "IDS_GameStat_CrystalLostToResearchSubjectPurchase"
-	Value "Naquida spent on research"
+	Value "Naquada spent on research"
 StringInfo
 	ID "IDS_GameStat_CrystalLostToStarBaseUpgradePurchase"
-	Value "Naquida spent on star base upgrades"
+	Value "Naquada spent on star base upgrades"
 StringInfo
 	ID "IDS_GameStat_CrystalLostToOther"
-	Value "Naquida lost to other sources"
+	Value "Naquada lost to other sources"
 StringInfo
 	ID "IDS_GameStat_AllSquadsBuilt"
 	Value "Squads"
@@ -5645,7 +5645,7 @@ StringInfo
 	Value "Structure - Culture Center"
 StringInfo
 	ID "IDS_GameStat_ModuleCrystalExtractorBuilt"
-	Value "Structure - Naquida Extractor"
+	Value "Structure - Naquada Extractor"
 StringInfo
 	ID "IDS_GameStat_ModuleMetalExtractorBuilt"
 	Value "Structure - Trinium Extractor"
@@ -5678,7 +5678,7 @@ StringInfo
 	Value "Trinium available"
 StringInfo
 	ID "IDS_GameStat_CrystalAvailable"
-	Value "Naquida available"
+	Value "Naquada available"
 StringInfo
 	ID "IDS_GameStat_PlanetsAcquiredWithColonization"
 	Value "Planets colonized"
@@ -5804,7 +5804,7 @@ StringInfo
 	Value "Trinium"
 StringInfo
 	ID "IDS_GameStatGroup_Crystal"
-	Value "Naquida"
+	Value "Naquada"
 StringInfo
 	ID "IDS_GameStatGroup_Ships"
 	Value "Ships"
@@ -6898,6 +6898,9 @@ StringInfo
 	ID "IDS_INFOCARD_BUFFVALUE_BONUSMAXSQUADS"
 	Value "Extra squadrons"
 StringInfo
+	ID "IDS_RELATIONSHIPINFOCARD_FACTIONRELATIONSLABEL"
+	Value "Faction Relations:"
+StringInfo
 	ID "IDS_RELATIONSHIPINFOCARD_RACERELATIONSLABEL"
 	Value "Racial Inclination:"
 StringInfo
@@ -7085,7 +7088,7 @@ StringInfo
 	Value "Trinium Summary"
 StringInfo
 	ID "IDS_INFOCARD_TITLE_CRYSTAL"
-	Value "Naquida Summary"
+	Value "Naquada Summary"
 StringInfo
 	ID "IDS_INFOCARD_LABEL_RESEARCHSUBJECTLEVEL"
 	Value "Level *SPACING3* *VALUE0* / *VALUE1*"
@@ -8582,7 +8585,7 @@ StringInfo
 	Value "Trinium income bonus"
 StringInfo
 	ID "IDS_PLANETUPGRADEINFOCARD_HOMEPLANETCRYSTALRATEBONUS"
-	Value "Naquida income bonus"
+	Value "Naquada income bonus"
 StringInfo
 	ID "IDS_PLANETUPGRADEINFOCARD_MAXMODULECONSTRUCTORCOUNT"
 	Value "Constructor ships"
@@ -9098,7 +9101,7 @@ StringInfo
 	Value "Trinium"
 StringInfo
 	ID "IDS_RESOURCENAME_CRYSTAL"
-	Value "Naquida"
+	Value "Naquada"
 StringInfo
 	ID "IDS_ISTATTYPE_NUMFIGHTERSBUILT"
 	Value "Strike craft Built"
@@ -9185,7 +9188,7 @@ StringInfo
 	Value "Insufficient Trinium"
 StringInfo
 	ID "IDS_CANREQUESTSHIPSTATUS_NOTENOUGHCRYSTAL"
-	Value "Insufficient Naquida"
+	Value "Insufficient Naquada"
 StringInfo
 	ID "IDS_CANREQUESTSHIPSTATUS_NOTENOUGHSHIPSLOTS"
 	Value "Insufficient Fleet Capacity"
@@ -9212,7 +9215,7 @@ StringInfo
 	Value "Insufficient Trinium"
 StringInfo
 	ID "IDS_CANBUILDPLANETMODULESTATUS_NOTENOUGHCRYSTAL"
-	Value "Insufficient Naquida"
+	Value "Insufficient Naquada"
 StringInfo
 	ID "IDS_CANBUILDPLANETMODULESTATUS_NOT_RESEARCHED"
 	Value "Research prerequisites not met"
@@ -9389,7 +9392,7 @@ StringInfo
 	Value "Contains common Trinium resources. Build Extractors here to acquire them. Harvest additional resources with Refineries."
 StringInfo
 	ID "IDS_RESOURCEASTEROIDCRYSTAL_NAME"
-	Value "Naquida Asteroid"
+	Value "Naquada Asteroid"
 StringInfo
 	ID "IDS_RESOURCEASTEROIDCRYSTAL_DESC"
 	Value "Contains rare crystal resources. Build Extractors here to acquire them. Harvest additional resources with Refineries."
@@ -12347,10 +12350,10 @@ StringInfo
 	Value "High proportions of conductive Triniums are present in the planet's interior allow it to act as a giant antenna and increase the rate of culture spread."
 StringInfo
 	ID "IDS_PLANETBONUS_CRYSTALMINERS_NAME"
-	Value "Expert Naquida Miners"
+	Value "Expert Naquada Miners"
 StringInfo
 	ID "IDS_PLANETBONUS_CRYSTALMINERS_DESC"
-	Value "Increases the income rate of all this planet's Naquida Extractors."
+	Value "Increases the income rate of all this planet's Naquada Extractors."
 StringInfo
 	ID "IDS_PLANETBONUS_DUSTSTORMS_NAME"
 	Value "Persistent Dust Storms"
@@ -12557,7 +12560,7 @@ StringInfo
 	Value "Trinium Extraction Rate"
 StringInfo
 	ID "IDSPlanetBonusValueCrystalIncomePerc"
-	Value "Naquida Extraction Rate"
+	Value "Naquada Extraction Rate"
 StringInfo
 	ID "IDSPlanetBonusValueGravityWellRadiusPerc"
 	Value "Gravity Well Radius"
@@ -12905,7 +12908,7 @@ StringInfo
 	Value "Extracts raw resources from Trinium asteroids."
 StringInfo
 	ID "IDS_PLANETMODULE_TECHORBITALCRYSTALEXTRACTOR_NAME"
-	Value "Naquida Extractor"
+	Value "Naquada Extractor"
 StringInfo
 	ID "IDS_PLANETMODULE_TECHORBITALCRYSTALEXTRACTOR_DESC"
 	Value "Extracts raw resources from crystal asteroids."
@@ -12989,7 +12992,7 @@ StringInfo
 	Value "Extracts raw resources from Trinium asteroids."
 StringInfo
 	ID "IDS_PLANETMODULE_PSIORBITALCRYSTALEXTRACTOR_NAME"
-	Value "Naquida Extractor"
+	Value "Naquada Extractor"
 StringInfo
 	ID "IDS_PLANETMODULE_PSIORBITALCRYSTALEXTRACTOR_DESC"
 	Value "Extracts raw resources from crystal asteroids."
@@ -13085,7 +13088,7 @@ StringInfo
 	Value "Extracts raw resources from Trinium asteroids."
 StringInfo
 	ID "IDS_PLANETMODULE_PHASEORBITALCRYSTALEXTRACTOR_NAME"
-	Value "Naquida Extractor"
+	Value "Naquada Extractor"
 StringInfo
 	ID "IDS_PLANETMODULE_PHASEORBITALCRYSTALEXTRACTOR_DESC"
 	Value "Extracts raw resources from crystal asteroids."
@@ -13289,7 +13292,7 @@ StringInfo
 	Value "Insufficient Trinium"
 StringInfo
 	ID "IDS_PLANETUPGRADEPATHCANQUEUENEXTSTAGESTATUS_NOTENOUGHCRYSTAL"
-	Value "Insufficient Naquida"
+	Value "Insufficient Naquada"
 StringInfo
 	ID "IDS_PLANETUPGRADEPATHCANQUEUENEXTSTAGESTATUS_LASTSTAGEUPGRADED"
 	Value "Fully Upgraded"
@@ -13340,7 +13343,7 @@ StringInfo
 	Value "Trinium"
 StringInfo
 	ID "IDSPlayerRankingNameCrystalIncome"
-	Value "Naquida"
+	Value "Naquada"
 StringInfo
 	ID "IDSPlayerRankingNumberInvalid"
 	Value "-"
@@ -13703,7 +13706,7 @@ StringInfo
 	Value "Give Credits"
 StringInfo
 	ID "IDSQuestGiveCrystal"
-	Value "Give Naquida"
+	Value "Give Naquada"
 StringInfo
 	ID "IDSQuestGiveMetal"
 	Value "Give Trinium"
@@ -16001,40 +16004,40 @@ StringInfo
 	Value "Common structural features are incorporated into revised designs of factories and extractors, reducing their purchase cost."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STRUCTUREWORK_CRYSTALEXTRACTTECH0_NAME"
-	Value "Efficient Naquida Sorting"
+	Value "Efficient Naquada Sorting"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STRUCTUREWORK_CRYSTALEXTRACTTECH0_DESCRIPTION"
-	Value "Improved mechanized sorting techniques allow unrefined crystals to be graded more quickly, improving the rate of crystal income from Naquida Extractors."
+	Value "Improved mechanized sorting techniques allow unrefined crystals to be graded more quickly, improving the rate of crystal income from Naquada Extractors."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STRUCTUREWORK_CRYSTALEXTRACTTECH1_NAME"
 	Value "Automated Mining Rigs"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STRUCTUREWORK_CRYSTALEXTRACTTECH1_DESCRIPTION"
-	Value "Autonomous robots greatly improve the efficiency of Naquida Extractors, yielding higher rates of crystal income."
+	Value "Autonomous robots greatly improve the efficiency of Naquada Extractors, yielding higher rates of crystal income."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STRUCTUREWORK_CRYSTALEXTRACTTECH2_NAME"
 	Value "Shockwave Pulverization"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STRUCTUREWORK_CRYSTALEXTRACTTECH2_DESCRIPTION"
-	Value "Directed shockwaves rapidly break apart waste material around crystal deposits, further improving the rate of crystal ore harvesting by Naquida Extractors."
+	Value "Directed shockwaves rapidly break apart waste material around crystal deposits, further improving the rate of crystal ore harvesting by Naquada Extractors."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STRUCTUREWORK_CRYSTALEXTRACTPSI0_NAME"
 	Value "Selective Harvesting"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STRUCTUREWORK_CRYSTALEXTRACTPSI0_DESCRIPTION"
-	Value "High value crystal nodes are prioritized, improving the rate of crystal ore harvesting by Naquida Extractors."
+	Value "High value crystal nodes are prioritized, improving the rate of crystal ore harvesting by Naquada Extractors."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STRUCTUREWORK_CRYSTALEXTRACTPSI1_NAME"
-	Value "Naquida Enrichment"
+	Value "Naquada Enrichment"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STRUCTUREWORK_CRYSTALEXTRACTPSI1_DESCRIPTION"
-	Value "Harvested crystal is doped with additives to improve its yield, increases the rate of crystal income from Naquida Extractors."
+	Value "Harvested crystal is doped with additives to improve its yield, increases the rate of crystal income from Naquada Extractors."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STRUCTUREWORK_CRYSTALEXTRACTPSI2_NAME"
 	Value "Telekinetic Separation"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STRUCTUREWORK_CRYSTALEXTRACTPSI2_DESCRIPTION"
-	Value "Impurities are psionically removed from crystals to improve their potency, further improving the rate of crystal income from Naquida Extractors."
+	Value "Impurities are psionically removed from crystals to improve their potency, further improving the rate of crystal income from Naquada Extractors."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STRUCTUREWORK_METALEXTRACTTECH0_NAME"
 	Value "Deep Core Tilllium Mining"
@@ -16076,25 +16079,25 @@ StringInfo
 	Value "Resource Sublimation"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STRUCTUREWORK_RESOURCEEXTRACT0_DESCRIPTION"
-	Value "Atomizing raw materials is made more efficient, increasing the rate of Trinium and crystal ore harvesting by Trinium and Naquida Extractors, respectively."
+	Value "Atomizing raw materials is made more efficient, increasing the rate of Trinium and crystal ore harvesting by Trinium and Naquada Extractors, respectively."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STRUCTUREWORK_RESOURCEEXTRACT1_NAME"
 	Value "Entanglement Filtering"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STRUCTUREWORK_RESOURCEEXTRACT1_DESCRIPTION"
-	Value "Undesirable types of matter are quantum mechanically filtered, further improving Trinium and crystal income rates from Trinium and Naquida Extractors, respectively."
+	Value "Undesirable types of matter are quantum mechanically filtered, further improving Trinium and crystal income rates from Trinium and Naquada Extractors, respectively."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STRUCTUREWORK_RESOURCEEXTRACT2_NAME"
 	Value "Catalyzed Atomic Sorting"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STRUCTUREWORK_RESOURCEEXTRACT2_DESCRIPTION"
-	Value "Secondary reactions allow resources to be harvested more quickly, further improving Trinium and crystal income rates from Trinium and Naquida Extractors, respectively."
+	Value "Secondary reactions allow resources to be harvested more quickly, further improving Trinium and crystal income rates from Trinium and Naquada Extractors, respectively."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STRUCTUREWORK_RESOURCEEXTRACT3_NAME"
 	Value "Matter Decompilation"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STRUCTUREWORK_RESOURCEEXTRACT3_DESCRIPTION"
-	Value "Raw resources are molecularly harvested, leaving all waste materials behind and further improving Trinium and crystal income rates from Trinium and Naquida Extractors, respectively."
+	Value "Raw resources are molecularly harvested, leaving all waste materials behind and further improving Trinium and crystal income rates from Trinium and Naquada Extractors, respectively."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TRUCE_AMONGST_ROGUES_NAME"
 	Value "Truce Amongst Rogues"
@@ -16988,7 +16991,7 @@ StringInfo
 	Value "Trinium extraction increase:"
 StringInfo
 	ID "IDS_RESEARCHFLOATMODIFIER_EXTRACTIONRATECRYSTALADJUSTMENT"
-	Value "Naquida extraction increase:"
+	Value "Naquada extraction increase:"
 StringInfo
 	ID "IDS_RESEARCHFLOATMODIFIER_EXTRACTIONRATERESOURCEFOCUS"
 	Value "Resource extraction increase:"
@@ -21290,7 +21293,7 @@ StringInfo
 	Value "Welcome to the Economy and Production tutorial. You will learn about the resources in Sins of a Solar Empire, how to acquire them, and how to spend them on units and structures."
 StringInfo
 	ID "IDS_TUTORIAL_RESOURCING_INTRORESOURCES"
-	Value "There are three resources in Sins of a Solar Empire: Credits, Trinium, and Naquida. Credits are the most basic and universal resource.  They are a part of the cost of all units, structures, and research."
+	Value "There are three resources in Sins of a Solar Empire: Credits, Trinium, and Naquada. Credits are the most basic and universal resource.  They are a part of the cost of all units, structures, and research."
 StringInfo
 	ID "IDS_TUTORIAL_RESOURCING_EXPLAINCREDITS"
 	Value "Additionally, credits ease certain transactions between empires, whether it be through the buying and selling of resources on the Black Market, or in the form of bounty against other empires."
@@ -21314,7 +21317,7 @@ StringInfo
 	Value "Trinium is one of two secondary resources, and is primarily used in the construction of ships and structures. It is acquired from asteroids rich in Trinium ore via a Trinium Extractor structure."
 StringInfo
 	ID "IDS_TUTORIAL_RESOURCING_EXPLAINCRYSTAL"
-	Value "More advanced units and structures require greater amounts of Naquida, which can be acquired from similar asteroids via a Naquida Extractor structure."
+	Value "More advanced units and structures require greater amounts of Naquada, which can be acquired from similar asteroids via a Naquada Extractor structure."
 StringInfo
 	ID "IDS_TUTORIAL_RESOURCING_HIGHLIGHTRESOURCEAREA"
 	Value "The amount of each resource your empire has is shown at the top right corner of the HUD. You can mouse over any of these amounts to see a breakdown of income rate of each resource."
@@ -21860,22 +21863,22 @@ StringInfo
 	Value "Decrease Market Offer Price - Trinium"
 StringInfo
 	ID "IDS_UIMAPPINGNAME_ACTIONBUYCRYSTAL"
-	Value "Buy Naquida"
+	Value "Buy Naquada"
 StringInfo
 	ID "IDS_UIMAPPINGNAME_ACTIONSELLCRYSTAL"
-	Value "Sell Naquida"
+	Value "Sell Naquada"
 StringInfo
 	ID "IDS_UIMAPPINGNAME_ACTIONINCREASEMARKETBUCKETAMOUNTCRYSTAL"
-	Value "Increase Market Offer Amount - Naquida"
+	Value "Increase Market Offer Amount - Naquada"
 StringInfo
 	ID "IDS_UIMAPPINGNAME_ACTIONDECREASEMARKETBUCKETAMOUNTCRYSTAL"
-	Value "Decrease Market Offer Amount - Naquida"
+	Value "Decrease Market Offer Amount - Naquada"
 StringInfo
 	ID "IDS_UIMAPPINGNAME_ACTIONINCREASEMARKETBUCKETPRICECRYSTAL"
-	Value "Increase Market Offer Price - Naquida"
+	Value "Increase Market Offer Price - Naquada"
 StringInfo
 	ID "IDS_UIMAPPINGNAME_ACTIONDECREASEMARKETBUCKETPRICECRYSTAL"
-	Value "Decrease Market Offer Price - Naquida"
+	Value "Decrease Market Offer Price - Naquada"
 StringInfo
 	ID "IDS_UIMAPPINGNAME_ACTIONINCREASEBOUNTYONHIGHESTENEMY"
 	Value "Increase Bounty on Most Wanted Enemy"
@@ -23356,6 +23359,18 @@ StringInfo
 	ID "IDS_STARBASEUPGRADEWRAITHCONTROLMETEOROIDS_DESC"
 	Value "Psionic Adepts aboard the star base become able to telekinetically manipulate meteroids near this gravity well for offensive purposes."
 StringInfo
+	ID "IDS_TITAN_WRAITHSUPERHIVE_NAME"
+	Value "ZPM Super Hive"
+StringInfo
+	ID "IDS_TITAN_WRAITHSUPERHIVE_DESCRIPTION"
+	Value "A highly adaptive warship capable of quick movements and inflicting area of effect damage to enemies."
+StringInfo
+	ID "IDS_TITAN_WRAITCARRIER_NAME"
+	Value "ZPM Carrier Hive"
+StringInfo
+	ID "IDS_TITAN_WRAITHCARRIER_DESCRIPTION"
+	Value "A powerful support ship which can use advanced nano-technology to inflict damage on enemies or heal friendly ships."
+StringInfo
 	ID "IDS_TITANUPGRADE_WRAITHSUPERHIVE_ABILITIES_NAME"
 	Value "Psi-Containment"
 StringInfo
@@ -23366,7 +23381,7 @@ StringInfo
 	Value "Increased Hull Growth"
 StringInfo
 	ID "IDS_TITANUPGRADE_WRAITHSUPERHIVE_DURABILITY_DESCRIPTION"
-	Value "Improvements are made to the Coronata's armor, giving the ship greater durability."
+	Value "Better Integration of the Zero Point Modules allow a stronger hull and a faster hull regeneration among other advantages"
 StringInfo
 	ID "IDS_TITANUPGRADE_WRAITHSUPERHIVE_WEAPONS_NAME"
 	Value "Adaptive Weapons"
@@ -23374,32 +23389,20 @@ StringInfo
 	ID "IDS_TITANUPGRADE_WRAITHSUPERHIVE_WEAPONS_DESCRIPTION"
 	Value "The Coronata's psintegrat take over the ship's weapons, giving them greater destructive power."
 StringInfo
-	ID "IDS_TITANUPGRADE_WRAITHSUPERCARRIER_ABILITIES_NAME"
+	ID "IDS_TITANUPGRADE_WRAITHCARRIER_ABILITIES_NAME"
 	Value "Reactive Containment"
 StringInfo
-	ID "IDS_TITANUPGRADE_WRAITHSUPERCARRIER_ABILITIES_DESCRIPTION"
+	ID "IDS_TITANUPGRADE_WRAITHCARRIER_ABILITIES_DESCRIPTION"
 	Value "The Eradica is upgraded with a new reactive containment system, giving it greater antimatter capacity."
 StringInfo
-	ID "IDS_TITANUPGRADE_WRAITHSUPERCARRIER_DURABILITY_NAME"
+	ID "IDS_TITANUPGRADE_WRAITHCARRIER_DURABILITY_NAME"
 	Value "Increased Hull Growth"
 StringInfo
-	ID "IDS_TITANUPGRADE_WRAITHSUPERCARRIER_DURABILITY_DESCRIPTION"
-	Value "Psintegrat aboard the Eradica channel the purity of the Unity into the ship's structure, making it stronger."
+	ID "IDS_TITANUPGRADE_WRAITHCARRIER_DURABILITY_DESCRIPTION"
+	Value "Better Integration of the Zero Point Modules allow a stronger hull and a faster hull regeneration among other advantages"
 StringInfo
-	ID "IDS_TITANUPGRADE_WRAITHSUPERCARRIER_WEAPONS_NAME"
+	ID "IDS_TITANUPGRADE_WRAITHCARRIER_WEAPONS_NAME"
 	Value "Energy Manipulation"
 StringInfo
-	ID "IDS_TITANUPGRADE_WRAITHSUPERCARRIER_WEAPONS_DESCRIPTION"
+	ID "IDS_TITANUPGRADE_WRAITHCARRIER_WEAPONS_DESCRIPTION"
 	Value "By adjusting the frequencies of the Eradica's weapons, greater damage can be inflicted upon the enemy."
-StringInfo
-	ID "IDS_TITAN_WRAITHSUPERHIVE_NAME"
-	Value "Super Hive"
-StringInfo
-	ID "IDS_TITAN_WRAITHSUPERHIVE_DESCRIPTION"
-	Value "A highly adaptive warship capable of quick movements and inflicting area of effect damage to enemies."
-StringInfo
-	ID "IDS_TITAN_WRAITHSUPERCARRIER_NAME"
-	Value "Super Carrier"
-StringInfo
-	ID "IDS_TITAN_WRAITHSUPERCARRIER_DESCRIPTION"
-	Value "A powerful support ship which can use advanced nano-technology to inflict damage on enemies or heal friendly ships."

@@ -417,7 +417,7 @@ skyboxScalars
 	diffuseScalar 0.720000
 	ambientScalar 0.800000
 requiredPlanetBonusesCount 0
-possibleRandomPlanetBonusesCount 7
+possibleRandomPlanetBonusesCount 15
 bonus "PlanetBonusThermalLift"
 bonus "PlanetBonusVacationCenter"
 bonus "PlanetBonusDustStorms"
@@ -425,6 +425,14 @@ bonus "PlanetBonusHugeGlaciers"
 bonus "PlanetBonusHighGravity"
 bonus "PlanetBonusRareMetalDeposits0"
 bonus "PlanetBonusSpiceTrade"
+bonus "PlanetBonusHugeGlaciers"
+bonus "PlanetBonusSurplusFoodstuffs"
+bonus "PlanetBonusMedicinalPlants"
+bonus "PlanetBonusLowGravity"
+bonus "PlanetBonusHighGravity"
+bonus "PlanetBonusSpiceTrade"
+bonus "PlanetBonusStrictSecurity"
+bonus "PlanetBonusToxicFallout"
 ambienceSoundID "EFFECT_PLANETAMBIENCE_LOOP"
 renderAsVolcanic FALSE
 planetRuinDef

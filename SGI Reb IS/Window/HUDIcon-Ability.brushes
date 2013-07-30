@@ -1,6 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 334
+brushCount 347
 brush
 	name "HUDIconTitanAsuranEpheusAbilityUpgrade3"
 	content "States"
@@ -1298,6 +1298,222 @@ brush
 		fileName "Buttons_Research2_Normal"
 		pixelBox [ 823 , 152 , 47 , 33 ]
 brush
+	name "HUDIconTitanWraithCarrierAbilityUpgrade3"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 670 , 411 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 670 , 411 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 670 , 411 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 670 , 411 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 670 , 411 , 47 , 33 ]
+brush
+	name "HUDIconTitanWraithCarrierAbilityUpgrade2"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 670 , 374 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 670 , 374 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 670 , 374 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 670 , 374 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 670 , 374 , 47 , 33 ]
+brush
+	name "HUDIconTitanWraithCarrierAbilityUpgrade1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 670 , 337 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 670 , 337 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 670 , 337 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 670 , 337 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 670 , 337 , 47 , 33 ]
+brush
+	name "HUDIconTitanWraithCarrierAbilityUpgrade0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 670 , 300 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 670 , 300 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 670 , 300 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 670 , 300 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 670 , 300 , 47 , 33 ]
+brush
+	name "HUDIconTitanWraithCarrierDurabilityUpgrade3"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 568 , 411 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 568 , 411 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 568 , 411 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 568 , 411 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 568 , 411 , 47 , 33 ]
+brush
+	name "HUDIconTitanWraithCarrierDurabilityUpgrade2"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 568 , 374 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 568 , 374 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 568 , 374 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 568 , 374 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 568 , 374 , 47 , 33 ]
+brush
+	name "HUDIconTitanWraithCarrierDurabilityUpgrade1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 568 , 337 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 568 , 337 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 568 , 337 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 568 , 337 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 568 , 337 , 47 , 33 ]
+brush
+	name "HUDIconTitanWraithCarrierDurabilityUpgrade0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 568 , 300 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 568 , 300 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 568 , 300 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 568 , 300 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 568 , 300 , 47 , 33 ]
+brush
+	name "HUDIconTitanWraithCarrierWeaponUpgrade3"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 619 , 411 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 619 , 411 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 619 , 411 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 619 , 411 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 619 , 411 , 47 , 33 ]
+brush
+	name "HUDIconTitanWraithCarrierWeaponUpgrade2"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 619 , 374 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 619 , 374 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 619 , 374 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 619 , 374 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 619 , 374 , 47 , 33 ]
+brush
+	name "HUDIconTitanWraithCarrierWeaponUpgrade1"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 619 , 337 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 619 , 337 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 619 , 337 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 619 , 337 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 619 , 337 , 47 , 33 ]
+brush
+	name "HUDIconTitanWraithCarrierWeaponUpgrade0"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 619 , 300 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 619 , 300 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 619 , 300 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 619 , 300 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 619 , 300 , 47 , 33 ]
+brush
 	name "HUDIconTitanWraithSuperHiveAbilityUpgrade3"
 	content "States"
 	Disabled
@@ -1749,6 +1965,24 @@ brush
 		pixelBox [ 5 , 335 , 47 , 33 ]
 brush
 	name "HUDICON_ABILITY_TAURITITANTARTARUSCANNON"
+	content "States"
+	Disabled
+		fileName "Buttons_Research2_Disabled"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research2_Pressed"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research2_CursorOver"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research2_Normal"
+		pixelBox [ 5 , 335 , 47 , 33 ]
+brush
+	name "HUDICON_ABILITY_TAURITITANDEPLOYAG3TURRETS"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
