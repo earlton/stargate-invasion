@@ -76,7 +76,7 @@ armorType "Heavy"
 hudIcon "HUDICON_FRIGATE_TAURIPHOENIX"
 smallHudIcon "HUDICONSMALL_FRIGATE_TAURIPHOENIX"
 infoCardIcon "INFOCARDICON_FRIGATE_TAURIPHOENIX"
-minZoomDistanceMult 2.500000
+minZoomDistanceMult 1.600000
 NumWeapons 3
 Weapon
 	WeaponType "Projectile"

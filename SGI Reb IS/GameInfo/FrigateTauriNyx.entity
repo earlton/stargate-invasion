@@ -44,7 +44,7 @@ armorType "VeryHeavy"
 hudIcon "HUDICON_FRIGATE_TAURINYX"
 smallHudIcon "HUDICON_FRIGATE_TAURINYX"
 infoCardIcon "INFOCARDICON_FRIGATE_TAURINYX"
-minZoomDistanceMult 2.500000
+minZoomDistanceMult 1.500000
 NumWeapons 3
 Weapon
 	WeaponType "Projectile"

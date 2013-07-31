@@ -42,7 +42,7 @@ armorType "Heavy"
 hudIcon "HUDICON_FRIGATE_TAURIZEPHYR"
 smallHudIcon "HUDICONSMALL_FRIGATE_TAURIZEPHYR"
 infoCardIcon "INFOCARDICON_FRIGATE_TAURIZEPHYR"
-minZoomDistanceMult 2.500000
+minZoomDistanceMult 1.500000
 NumWeapons 2
 Weapon
 	WeaponType "Projectile"

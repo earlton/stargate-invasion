@@ -40,7 +40,7 @@ armorType "Light"
 hudIcon "HUDICON_FRIGATE_TAURIFENRIR"
 smallHudIcon "HUDICONSMALL_FRIGATE_TAURIFENRIR"
 infoCardIcon "INFOCARDICON_FRIGATE_TAURIFENRIR"
-minZoomDistanceMult 2.500000
+minZoomDistanceMult 1.500000
 NumWeapons 1
 Weapon
 	WeaponType "Projectile"
