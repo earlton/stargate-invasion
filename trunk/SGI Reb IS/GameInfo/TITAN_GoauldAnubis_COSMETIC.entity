@@ -1,0 +1,160 @@
+﻿TXT
+entityType "Cosmetic"
+ability:0 "AbilityGoauldTitanEyeOfRa"
+ability:1 "AbilityGoauldTitanEyeOfTitamat"
+ability:2 "AbilityGoauldTitanCombatTactics"
+ability:3 "AbilityGoauldTitanCombinedEyes"
+ability:4 ""
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+mainViewIcon "MAINVIEWICON_CAPITALSHIP_GOAULDBATTLESHIP"
+basePrice
+	credits 9500.000000
+	metal 1700.000000
+	crystal 1850.000000
+slotCount 150.000000
+BuildTime 450.000000
+MaxHullPoints
+	StartValue 4802.076660
+	ValueIncreasePerLevel 459.375000
+MaxShieldPoints
+	StartValue 2567.447021
+	ValueIncreasePerLevel 532.875000
+HullPointRestoreRate
+	StartValue 2.700000
+	ValueIncreasePerLevel 0.330000
+ShieldPointRestoreRate
+	StartValue 4.300000
+	ValueIncreasePerLevel 0.950000
+ArmorPointsFromExperience
+	StartValue 10.000000
+	ValueIncreasePerLevel 0.510000
+maxMitigation
+	StartValue 0.350000
+	ValueIncreasePerLevel 0.005110
+MaxAntiMatter
+	StartValue 825.000000
+	ValueIncreasePerLevel 20.000000
+AntiMatterRestoreRate
+	StartValue 1.750000
+	ValueIncreasePerLevel 0.100000
+CultureProtectRate
+	StartValue 0.300000
+	ValueIncreasePerLevel 0.050000
+NameStringID "IDS_TITAN_GOAULDANUBIS_NAME"
+DescriptionStringID "IDS_TITAN_GOAULDANUBIS_DESCRIPTION"
+picture "TITANPICTURE_GOAULDANUBIS"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+statCountType "Titan"
+UpgradeTypeCount 7
+UpgradeType "TitanUpgrade_GoauldAnubis_AbilityA"
+UpgradeType "TitanUpgrade_GoauldAnubis_AbilityB"
+UpgradeType "TitanUpgrade_GoauldAnubis_AbilityC"
+UpgradeType "TitanUpgrade_GoauldAnubis_AbilityD"
+UpgradeType "TitanUpgrade_GoauldAnubis_Durability"
+UpgradeType "TitanUpgrade_GoauldAnubis_Weapons"
+UpgradeType "TitanUpgrade_GoauldAnubis_Abilities"
+numRandomDebrisLarge 40
+numRandomDebrisSmall 25
+numSpecificDebris 0
+armorType "Titan"
+hudIcon "HUDICON_CAPITALSHIP_GOAULDBATTLESHIP"
+smallHudIcon "HUDICONSMALL_CAPITALSHIP_GOAULDBATTLESHIP"
+infoCardIcon "INFOCARDICON_CAPITALSHIP_GOAULDBATTLESHIP"
+minZoomDistanceMult 1.500000
+NumWeapons 1
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "TITAN"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "PLASMA"
+	DamagePerBank:FRONT 650.000000
+	DamagePerBank:BACK 650.000000
+	DamagePerBank:LEFT 650.000000
+	DamagePerBank:RIGHT 650.000000
+	Range 4500.000000
+	PreBuffCooldownTime 4.000000
+	CanFireAtFighter TRUE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 1.000000
+	TravelSpeed 4000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 3
+		burstDelay 0.250000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_GoauldCapitalPlasma_Muzzle"
+		muzzleSoundMinRespawnTime 0.500000
+		muzzleSounds
+			soundCount 1
+			sound "Weapon_Goa'uld_Capital"
+		hitEffectName "Weapon_GoauldCapitalPlasma_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYMEDIUM_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICMEDIUM_HITSHIELDS"
+		projectileTravelEffectName "Weapon_GoauldCapitalPlasma_Travel"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 4
+TargetCountPerBank:BACK 2
+TargetCountPerBank:LEFT 3
+TargetCountPerBank:RIGHT 3
+canOnlyTargetStructures FALSE
+mass 3500.000000
+ShieldMeshName "Shield_CapitalShip_Goauld_Anubis"
+renderShield TRUE
+maxAccelerationLinear 150.000000
+maxAccelerationStrafe 150.000000
+maxDecelerationLinear 250.000000
+maxAccelerationAngular 5.900000
+maxDecelerationAngular 9.999996
+maxSpeedLinear 600.000000
+maxRollRate 5.000000
+maxRollAngle 30.000000
+NumSoundsFor:ONATTACKORDERISSUED 1
+SoundID "CAPITALSHIP_GOAULDBATTLESHIP_ONATTACKORDERISSUED_0"
+NumSoundsFor:ONCREATION 1
+SoundID "CAPITALSHIP_GOAULDBATTLESHIP_ONCREATION"
+NumSoundsFor:ONGENERALORDERISSUED 1
+SoundID "CAPITALSHIP_GOAULDBATTLESHIP_ONGENERALORDERISSUED_0"
+NumSoundsFor:ONSELECTED 1
+SoundID "CAPITALSHIP_GOAULDBATTLESHIP_ONSELECTED_0"
+NumSoundsFor:ONSTARTPHASEJUMP 1
+SoundID "CAPITALSHIP_GOAULDBATTLESHIP_ONSTARTPHASEJUMP_0"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Titan_GoauldAnubis"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_GoauldBattleship"
+ExplosionName "CapitalShip0"
+CommandPoints
+	StartValue 4.00000
+	ValueIncreasePerLevel 0.200000
+weaponCooldownDecreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.030000
+weaponDamageIncreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.050000
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_GOAULDCAPITALSHIP"
+formationRank 0
+minShadow 0.000000
+maxShadow 0.800000

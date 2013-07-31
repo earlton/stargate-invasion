@@ -1,5 +1,11 @@
 TXT
-NumStrings 7802
+NumStrings 7813
+StringInfo
+	ID "IDS_ABILITY_ASURANTITANDEPLOYLASERTURRET_NAME"
+	Value "Laser Turret"
+StringInfo
+	ID "IDS_ABILITY_ASURANTITANDEPLOYLASERTURRET_DESCRIPTION"
+	Value "Deploys a Laser Turret to support your surrounding fleet against the enemy."
 StringInfo
 	ID "IDS_ABILITY_WORTHYCAUSE_NAME"
 	Value "Worthy Cause"
@@ -2350,6 +2356,12 @@ StringInfo
 	ID "IDS_SQUADASURANBOMBER_DESC"
 	Value "Squadron of bombers good at taking out larger ships"
 StringInfo
+	ID "IDS_FRIGATE_ASURANLASERTURRET_NAME"
+	Value "Laser Turret"
+StringInfo
+	ID "IDS_FRIGATE_ASURANLASERTURRET_DESCRIPTION"
+	Value ""
+StringInfo
 	ID "IDS_FRIGATE_ASURANATLANTIS_NAME"
 	Value "Asuran Atlantis Class"
 StringInfo
@@ -2375,7 +2387,7 @@ StringInfo
 	Value "A large but unarmed cruiser, it acts as a mobile platform for Asuran strike craft."
 StringInfo
 	ID "IDS_FRIGATE_ASURANCOLONY_NAME"
-	Value "Asuran Destiny Class"
+	Value "Asuran Colony Ship"
 StringInfo
 	ID "IDS_FRIGATE_ASURANCOLONY_DESCRIPTION"
 	Value "A large frigate based off of the Alteran design found hidden within an Ancient Alterans mind during a probe. This ships sole purpose is to colonize and support the fleet."
@@ -2729,13 +2741,22 @@ StringInfo
 	Value "Anti Fighter Support"
 StringInfo
 	ID "IDS_ABILITY_ASURANTITANSPAWNANTIFIGHTER_DESCRIPTION"
-	Value ""
+	Value "Temporary Support from Anti-Fighter Frigates."
 StringInfo
 	ID "IDS_ABILITY_ASURANTITANWORMHOLEDRIVE_NAME"
-	Value "Anti Fighter Support"
+	Value "Wormhole Drive"
 StringInfo
 	ID "IDS_ABILITY_ASURANTITANWORMHOLEDRIVE_DESCRIPTION"
 	Value ""
+StringInfo
+	ID "IDS_ABILITY_ASURANTITANMATTERBRIDGE_NAME"
+	Value "Matter Bridge"
+StringInfo
+	ID "IDS_ABILITY_ASURANTITANMATTERBRIDGE_DESCRIPTION"
+	Value "A temporary stream of Zero-Point Energy from a parallel universe allows the Epheus Titan to power up the next used ability"
+StringInfo
+	ID "IDS_BUFFSHORTNAME_ASURANTITANMATTERBRIDGE"
+	Value "Matter Bridge"
 StringInfo
 	ID "Axeldude_PLANETACCES_Gas_Name"
 	Value "Gas Giant Colonization"
@@ -3583,7 +3604,7 @@ StringInfo
 	ID "IDSEscapeMenuScreenNetworkStatusActionCancelMigration"
 	Value "Cancel"
 StringInfo
-	ID "IDS_FIGHTER_ORI_NAME"
+	ID "IDS_FIGHTER_ORICOMBAT_NAME"
 	Value "Ori Fighter"
 StringInfo
 	ID "IDS_FRIGATE_DEADLIGHT_NAME"
@@ -20665,6 +20686,12 @@ StringInfo
 	ID "IDS_SQUADTAURIBOMBER_DESC"
 	Value "Squadron of bombers good at taking out larger ships"
 StringInfo
+	ID "IDS_FRIGATE_TAURIAG3TURRET_NAME"
+	Value "AG-3 Turret"
+StringInfo
+	ID "IDS_FRIGATE_TAURIAG3TURRET_DESCRIPTION"
+	Value "A advanced Human Turret built after the memories of Daniel Jackson"
+StringInfo
 	ID "IDS_FRIGATE_HUMANZEPHYR_NAME"
 	Value "Zephyr Class"
 StringInfo
@@ -23365,7 +23392,7 @@ StringInfo
 	ID "IDS_TITAN_WRAITHSUPERHIVE_DESCRIPTION"
 	Value "A highly adaptive warship capable of quick movements and inflicting area of effect damage to enemies."
 StringInfo
-	ID "IDS_TITAN_WRAITCARRIER_NAME"
+	ID "IDS_TITAN_WRAITHCARRIER_NAME"
 	Value "ZPM Carrier Hive"
 StringInfo
 	ID "IDS_TITAN_WRAITHCARRIER_DESCRIPTION"
@@ -23406,3 +23433,9 @@ StringInfo
 StringInfo
 	ID "IDS_TITANUPGRADE_WRAITHCARRIER_WEAPONS_DESCRIPTION"
 	Value "By adjusting the frequencies of the Eradica's weapons, greater damage can be inflicted upon the enemy."
+StringInfo
+	ID "IDS_ABILITY_WRAITHTITANSIRENCALL_NAME"
+	Value "Siren Call"
+StringInfo
+	ID "IDS_ABILITY_WRAITHTITANSIRENCALL_DESCRIPTION"
+	Value "A Wraith Queens Siren Call summons reinforcements for the Hive."
