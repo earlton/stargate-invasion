@@ -42,7 +42,7 @@ armorType "Light"
 hudIcon "HUDICON_FRIGATE_TAURITEMPEST"
 smallHudIcon "HUDICONSMALL_FRIGATE_TAURITEMPEST"
 infoCardIcon "INFOCARDICON_FRIGATE_TAURITEMPEST"
-minZoomDistanceMult 2.500000
+minZoomDistanceMult 1.500000
 NumWeapons 3
 Weapon
 	WeaponType "Projectile"

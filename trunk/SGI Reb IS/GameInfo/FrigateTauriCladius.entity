@@ -42,7 +42,7 @@ armorType "Heavy"
 hudIcon "HUDICON_FRIGATE_TAURICLAUDIUS"
 smallHudIcon "HUDICONSMALL_FRIGATE_TAURICLAUDIUS"
 infoCardIcon "INFOCARDICON_FRIGATE_TAURICLAUDIUS"
-minZoomDistanceMult 2.500000
+minZoomDistanceMult 1.500000
 NumWeapons 2
 Weapon
 	WeaponType "Projectile"
