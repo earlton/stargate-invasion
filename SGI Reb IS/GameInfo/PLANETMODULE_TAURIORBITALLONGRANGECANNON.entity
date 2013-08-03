@@ -28,7 +28,7 @@ statCountType "ModuleCannon"
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
-		Subject ""
+		Subject "RESEARCHSUBJECT_PLANETMODULEACCESS_CANNONTAURI"
 		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
