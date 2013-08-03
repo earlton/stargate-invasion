@@ -150,7 +150,7 @@ ParticleSimulation
 		PipelineEffectID "Particle_Additive.fx"
 		AreParticlesAttached TRUE
 		numTextures 2
-		textureName "Hyperspace-window.tga"
+		textureName "C:\Users\Samuel\Dropbox\SGI Diplomacy\SGI Reb v0.1.1\Textures\Hyperspace-window.tga"
 		textureName ""
 		textureAnimationName ""
 		textureAnimationSpawnType "RandomFrames"
@@ -160,11 +160,11 @@ ParticleSimulation
 		MeshParticleRotationAxis [ 0.000000 0.100000 0.000000 ]
 		RotationDirectionType 0
 		AngleVariance 0.000000
-	NumAffectors 5
+	NumAffectors 6
 	AffectorType "Fade"
 	AffectorContents
 		Name "Fade"
-		Enabled FALSE
+		Enabled TRUE
 		StartTime 0.000000
 		HasInfiniteLifeTime TRUE
 		TotalLifeTime 0.000000
@@ -248,4 +248,20 @@ ParticleSimulation
 		attachedEmitterName "blast"
 		WidthInflateRate 300.000000
 		HeightInflateRate 300.000000
+	AffectorType "LinearInflate"
+	AffectorContents
+		Name "bring in"
+		Enabled TRUE
+		StartTime 3.000000
+		HasInfiniteLifeTime TRUE
+		TotalLifeTime 0.000000
+		UseYoungParticleAffectThreshold FALSE
+		YoungParticleAffectThreshold 0.000000
+		UseOldParticleAffectThreshold FALSE
+		OldParticleAffectThreshold 0.000000
+		AffectAttachedParticles TRUE
+		numAttachedEmitters 1
+		attachedEmitterName "blast"
+		WidthInflateRate -750.000000
+		HeightInflateRate -750.000000
 	length 0.000000
