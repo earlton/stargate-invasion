@@ -38,6 +38,114 @@ brush
 		fileName "Unit_Hud2_Normal"
 		pixelBox [ 55 , 76 , 47 , 33 ]
 brush
+	name "HUDICON_RESEARCHSUBJECT_TITAN_ASURANATLANTIS"
+	content "States"
+	Disabled
+		fileName "Unit_Hud2_Disabled"
+		pixelBox [ 55 , 76 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud2_Pressed"
+		pixelBox [ 55 , 76 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud2_CursorOver"
+		pixelBox [ 55 , 76 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud2_Normal"
+		pixelBox [ 55 , 76 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud2_Normal"
+		pixelBox [ 55 , 76 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_TITAN_ASURANEPHEUS"
+	content "States"
+	Disabled
+		fileName "Unit_Hud2_Disabled"
+		pixelBox [ 153 , 76 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud2_Pressed"
+		pixelBox [ 153 , 76 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud2_CursorOver"
+		pixelBox [ 153 , 76 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud2_Normal"
+		pixelBox [ 153 , 76 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud2_Normal"
+		pixelBox [ 153 , 76 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_TITAN_WRAITHCARRIER"
+	content "States"
+	Disabled
+		fileName "Unit_Hud2_Disabled"
+		pixelBox [ 55 , 76 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud2_Pressed"
+		pixelBox [ 55 , 76 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud2_CursorOver"
+		pixelBox [ 55 , 76 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud2_Normal"
+		pixelBox [ 55 , 76 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud2_Normal"
+		pixelBox [ 55 , 76 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_TITAN_WRAITHSUPERHIVE"
+	content "States"
+	Disabled
+		fileName "Unit_Hud2_Disabled"
+		pixelBox [ 153 , 76 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud2_Pressed"
+		pixelBox [ 153 , 76 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud2_CursorOver"
+		pixelBox [ 153 , 76 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud2_Normal"
+		pixelBox [ 153 , 76 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud2_Normal"
+		pixelBox [ 153 , 76 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_TITAN_GOAULDAPOPHIS"
+	content "States"
+	Disabled
+		fileName "Unit_Hud2_Disabled"
+		pixelBox [ 55 , 76 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud2_Pressed"
+		pixelBox [ 55 , 76 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud2_CursorOver"
+		pixelBox [ 55 , 76 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud2_Normal"
+		pixelBox [ 55 , 76 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud2_Normal"
+		pixelBox [ 55 , 76 , 47 , 33 ]
+brush
+	name "HUDICON_RESEARCHSUBJECT_TITAN_GOAULDANUBIS"
+	content "States"
+	Disabled
+		fileName "Unit_Hud2_Disabled"
+		pixelBox [ 153 , 76 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud2_Pressed"
+		pixelBox [ 153 , 76 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud2_CursorOver"
+		pixelBox [ 153 , 76 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud2_Normal"
+		pixelBox [ 153 , 76 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud2_Normal"
+		pixelBox [ 153 , 76 , 47 , 33 ]
+brush
 	name "HUDICON_ABILITY_DISSEVER"
 	content "States"
 	Disabled
@@ -578,24 +686,6 @@ brush
 		fileName "Buttons_Research2_Normal"
 		pixelBox [ 823 , 484 , 47 , 33 ]
 brush
-	name "HUDICON_RESEARCHSUBJECT_TITAN_ATLANTIS"
-	content "States"
-	Disabled
-		fileName "Unit_Hud2_Disabled"
-		pixelBox [ 55 , 76 , 47 , 33 ]
-	Pressed
-		fileName "Unit_Hud2_Pressed"
-		pixelBox [ 55 , 76 , 47 , 33 ]
-	CursorOver
-		fileName "Unit_Hud2_CursorOver"
-		pixelBox [ 55 , 76 , 47 , 33 ]
-	Focused
-		fileName "Unit_Hud2_Normal"
-		pixelBox [ 55 , 76 , 47 , 33 ]
-	Normal
-		fileName "Unit_Hud2_Normal"
-		pixelBox [ 55 , 76 , 47 , 33 ]
-brush
 	name "HUDICON_RESEARCHSUBJECT_ADVANCEDNMEWARHEADS"
 	content "States"
 	Disabled
@@ -794,24 +884,6 @@ brush
 		fileName "Buttons_Research2_Normal"
 		pixelBox [ 670 , 484 , 47 , 33 ]
 brush
-	name "HUDICON_RESEARCHSUBJECT_TITAN_EPHEUS"
-	content "States"
-	Disabled
-		fileName "Unit_Hud2_Disabled"
-		pixelBox [ 153 , 76 , 47 , 33 ]
-	Pressed
-		fileName "Unit_Hud2_Pressed"
-		pixelBox [ 153 , 76 , 47 , 33 ]
-	CursorOver
-		fileName "Unit_Hud2_CursorOver"
-		pixelBox [ 153 , 76 , 47 , 33 ]
-	Focused
-		fileName "Unit_Hud2_Normal"
-		pixelBox [ 153 , 76 , 47 , 33 ]
-	Normal
-		fileName "Unit_Hud2_Normal"
-		pixelBox [ 153 , 76 , 47 , 33 ]
-brush
 	name "HUDICON_RESEARCHSUBJECT_CHARYDBISDARKFLEET"
 	content "States"
 	Disabled
@@ -919,24 +991,6 @@ brush
 	Normal
 		fileName "Buttons_Research2_Normal"
 		pixelBox [ 517 , 522 , 47 , 33 ]
-brush
-	name "HUDICON_RESEARCHSUBJECT_TITAN_PSIREBEL"
-	content "States"
-	Disabled
-		fileName "Unit_Hud2_Disabled"
-		pixelBox [ 104 , 41 , 47 , 33 ]
-	Pressed
-		fileName "Unit_Hud2_Pressed"
-		pixelBox [ 104 , 41 , 47 , 33 ]
-	CursorOver
-		fileName "Unit_Hud2_CursorOver"
-		pixelBox [ 104 , 41 , 47 , 33 ]
-	Focused
-		fileName "Unit_Hud2_Normal"
-		pixelBox [ 104 , 41 , 47 , 33 ]
-	Normal
-		fileName "Unit_Hud2_Normal"
-		pixelBox [ 104 , 41 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_EXPULSION"
 	content "States"
@@ -1226,24 +1280,6 @@ brush
 		fileName "Buttons_Research2_Normal"
 		pixelBox [ 364 , 596 , 47 , 33 ]
 brush
-	name "HUDICON_RESEARCHSUBJECT_TITAN_PSILOYALIST"
-	content "States"
-	Disabled
-		fileName "Unit_Hud2_Disabled"
-		pixelBox [ 6 , 41 , 47 , 33 ]
-	Pressed
-		fileName "Unit_Hud2_Pressed"
-		pixelBox [ 6 , 41 , 47 , 33 ]
-	CursorOver
-		fileName "Unit_Hud2_CursorOver"
-		pixelBox [ 6 , 41 , 47 , 33 ]
-	Focused
-		fileName "Unit_Hud2_Normal"
-		pixelBox [ 6 , 41 , 47 , 33 ]
-	Normal
-		fileName "Unit_Hud2_Normal"
-		pixelBox [ 6 , 41 , 47 , 33 ]
-brush
 	name "HUDICON_RESEARCHSUBJECT_FURYOFTHEUNITY"
 	content "States"
 	Disabled
@@ -1315,24 +1351,6 @@ brush
 	Normal
 		fileName "Buttons_Research2_Normal"
 		pixelBox [ 211 , 559 , 47 , 33 ]
-brush
-	name "HUDICON_RESEARCHSUBJECT_TITAN_TECHREBEL"
-	content "States"
-	Disabled
-		fileName "Unit_Hud2_Disabled"
-		pixelBox [ 104 , 6 , 47 , 33 ]
-	Pressed
-		fileName "Unit_Hud2_Pressed"
-		pixelBox [ 104 , 6 , 47 , 33 ]
-	CursorOver
-		fileName "Unit_Hud2_CursorOver"
-		pixelBox [ 104 , 6 , 47 , 33 ]
-	Focused
-		fileName "Unit_Hud2_Normal"
-		pixelBox [ 104 , 6 , 47 , 33 ]
-	Normal
-		fileName "Unit_Hud2_Normal"
-		pixelBox [ 104 , 6 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_LIBERATEDRESISTANCE"
 	content "States"
@@ -1495,24 +1513,6 @@ brush
 	Normal
 		fileName "Buttons_Research2_Normal"
 		pixelBox [ 58 , 522 , 47 , 33 ]
-brush
-	name "HUDICON_RESEARCHSUBJECT_TITAN_TECHLOYALIST"
-	content "States"
-	Disabled
-		fileName "Unit_Hud2_Disabled"
-		pixelBox [ 6 , 6 , 47 , 33 ]
-	Pressed
-		fileName "Unit_Hud2_Pressed"
-		pixelBox [ 6 , 6 , 47 , 33 ]
-	CursorOver
-		fileName "Unit_Hud2_CursorOver"
-		pixelBox [ 6 , 6 , 47 , 33 ]
-	Focused
-		fileName "Unit_Hud2_Normal"
-		pixelBox [ 6 , 6 , 47 , 33 ]
-	Normal
-		fileName "Unit_Hud2_Normal"
-		pixelBox [ 6 , 6 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_COMPARTMENTALIZATION"
 	content "States"

@@ -70,7 +70,9 @@ entities
 			entityDefName "FrigateTauriElephantCargo"
 			entityDefName "FrigateTauriElephantRefin"
 	researchInfo
-		count 153
+		count 155
+		entityDefName "RESEARCHSUBJECT_TITANACCESS_TAURITARTARUS"
+		entityDefName "RESEARCHSUBJECT_TITANACCESS_TAURICARRIER"
 		entityDefName "RESEARCHSUBJECT_HYPERSPACE_WORMHOLETRAVELTAURI"
 		entityDefName "RESEARCHSUBJECT_CAPITALSHIPACCESS_TAURISCORPION"
 		entityDefName "RESEARCHSUBJECT_STARBASEUPGRADEACCESS_STARGATETAURI"
@@ -227,7 +229,7 @@ entities
 	starBaseInfo
 		count 1
 		entityDefName "StarBaseTauri"
-	flagship "FrigateWraithScout"
+	flagship "CAPITALSHIP_TAURISCORPION"
 debrisData
 	numRandomMeshNamesLarge 8
 	randomMeshName "DebrisTechGenericLarge0"

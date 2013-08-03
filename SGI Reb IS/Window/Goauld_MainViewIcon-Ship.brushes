@@ -1,16 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 25
-brush
-	name "MAINVIEWICON_TITAN_GOAULDAPOPHIS"
-	content "Simple"
-	fileName "Unit_Main"
-	pixelBox [ 452 , 190 , 24 , 47 ]
-brush
-	name "MAINVIEWICON_TITAN_GOAULDANUBIS"
-	content "Simple"
-	fileName "Unit_Main"
-	pixelBox [ 478 , 220 , 32 , 46 ]
+brushCount 23
 brush
 	name "MAINVIEWICON_CAPITALSHIP_GOAULDCOLONY"
 	content "Simple"

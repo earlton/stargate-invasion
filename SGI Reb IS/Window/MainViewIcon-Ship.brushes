@@ -1,6 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 95
+brushCount 114
 brush
 	name "MAINVIEWICON_CORVETTE_ASURAN"
 	content "Simple"
@@ -16,6 +16,106 @@ brush
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 241 , 122 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CORVETTE_GOAULD"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 241 , 122 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CORVETTE_ASGARD"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 241 , 122 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_ASGARDCOLONY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 1 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_ASGARDCARRIER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 61 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_ASGARDBATTLESHIP"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 31 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_ASGARDSUPPORT"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 91 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_CAPITALSHIP_ASGARDSIEGE"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 121 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ASGARDANTIFIGHTER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 91 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ASGARDCARRIER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 211 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ASGARDCOLONY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 1 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ASGARDHEAVY"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 31 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ASGARDLIGHT"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 241 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ASGARDLONGRANGE"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 271 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ASGARDSCOUT"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 121 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ASGARDSIEGE"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 61 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ASGARDSTARBASECONSTRUCTOR"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 391 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ASGARDUTILITY0"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 331 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ASGARDUTILITY1"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 361 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ASGARDMODULECONSTRUCTOR"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 181 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_FRIGATE_ASGARDANTIMODULE"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 421 , 211 , 28 , 28 ]
 brush
 	name "MAINVIEWICON_FRIGATE_ASURANNANITE"
 	content "Simple"
@@ -36,36 +136,6 @@ brush
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 382 , 154 , 28 , 28 ]
-brush
-	name "MAINVIEWICON_TITAN_TAURICARRIER"
-	content "Simple"
-	fileName "Unit_Main"
-	pixelBox [ 360 , 124 , 47 , 29 ]
-brush
-	name "MAINVIEWICON_TITAN_TAURITARTARUS"
-	content "Simple"
-	fileName "Unit_Main"
-	pixelBox [ 305 , 130 , 48 , 14 ]
-brush
-	name "MAINVIEWICON_TITAN_WRAITHSUPERHIVE"
-	content "Simple"
-	fileName "Unit_Main"
-	pixelBox [ 452 , 190 , 24 , 47 ]
-brush
-	name "MAINVIEWICON_TITAN_WRAITHCARRIER"
-	content "Simple"
-	fileName "Unit_Main"
-	pixelBox [ 478 , 220 , 32 , 46 ]
-brush
-	name "MAINVIEWICON_TITAN_ATLANTIS"
-	content "Simple"
-	fileName "Unit_Main"
-	pixelBox [ 70 , 333 , 37 , 51 ]
-brush
-	name "MAINVIEWICON_TITAN_EPHEUS"
-	content "Simple"
-	fileName "Unit_Main"
-	pixelBox [ 418 , 127 , 47 , 45 ]
 brush
 	name "MAINVIEWICON_FRIGATE_TAURIFLAGSHIP"
 	content "Simple"
@@ -446,6 +516,31 @@ brush
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 151 , 151 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SQUADASGARDCOMBAT"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 181 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SQUADASGARDBOMBER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 151 , 121 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_SQUADASGARDMINELAYER"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 451 , 31 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_TRADESHIP_ASGARD"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 151 , 211 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_REFINERYSHIP_ASGARD"
+	content "Simple"
+	fileName "Races_Unit_Main"
+	pixelBox [ 301 , 211 , 28 , 28 ]
 brush
 	name "MAINVIEWICON_TRADESHIP_TAURI"
 	content "Simple"

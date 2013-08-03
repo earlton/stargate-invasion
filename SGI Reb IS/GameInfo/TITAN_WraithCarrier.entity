@@ -1,7 +1,7 @@
 ﻿TXT
 entityType "Titan"
 ability:0 ""
-ability:1 ""
+ability:1 "AbilityWraithTitanSirenCall"
 ability:2 ""
 ability:3 ""
 ability:4 ""
@@ -92,7 +92,7 @@ numRandomDebrisSmall 30
 numSpecificDebris 1
 specificDebrisMeshName "DebrisAdventLarge"
 armorType "Titan"
-hudIcon "HUDICON_TITAN_WRAITHCARRIRER"
+hudIcon "HUDICON_RESEARCHSUBJECT_TITAN_WRAITHCARRIER"
 smallHudIcon "HUDICONSMALL_TITAN_WRAITHCARRIER"
 infoCardIcon "INFOCARDICON_TITAN_WRAITHCARRIER"
 minZoomDistanceMult 1.030000

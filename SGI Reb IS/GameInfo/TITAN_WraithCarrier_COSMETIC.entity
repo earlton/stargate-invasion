@@ -61,7 +61,7 @@ numRandomDebrisSmall 30
 numSpecificDebris 1
 specificDebrisMeshName "DebrisAdventLarge"
 armorType "Titan"
-hudIcon "HUDICON_TITAN_WRAITHCARRIRER"
+hudIcon "HUDICON_RESEARCHSUBJECT_TITAN_WRAITHCARRIER"
 smallHudIcon "HUDICONSMALL_TITAN_WRAITHCARRIER"
 infoCardIcon "INFOCARDICON_TITAN_WRAITHCARRIER"
 minZoomDistanceMult 1.030000
