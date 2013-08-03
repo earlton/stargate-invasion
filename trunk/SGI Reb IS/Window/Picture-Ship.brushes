@@ -1,46 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 84
-brush
-	name "TITANPICTURE_TAURICARRIER"
-	content "Simple"
-	fileName "Unit_Picture"
-	pixelBox [ 1872 , 2 , 167 , 75 ]
-brush
-	name "TITANPICTURE_TAURITARTARUS"
-	content "Simple"
-	fileName "Unit_Picture"
-	pixelBox [ 1872 , 548 , 167 , 75 ]
-brush
-	name "TITANPICTURE_WRAITHSUPERHIVE"
-	content "Simple"
-	fileName "Unit_Picture"
-	pixelBox [ 1022 , 238 , 167 , 75 ]
-brush
-	name "TITANPICTURE_WRAITHCARRIER"
-	content "Simple"
-	fileName "Unit_Picture"
-	pixelBox [ 1532 , 236 , 167 , 75 ]
-brush
-	name "TITANPICTURE_ASURANATLANTIS"
-	content "Simple"
-	fileName "Unit_Picture"
-	pixelBox [ 1872 , 782 , 167 , 75 ]
-brush
-	name "TITANPICTURE_ASURANEPHEUS"
-	content "Simple"
-	fileName "Unit_Picture"
-	pixelBox [ 1192 , 938 , 167 , 75 ]
-brush
-	name "TITANPICTURE_GOAULDAPOPHIS"
-	content "Simple"
-	fileName "Unit_Picture"
-	pixelBox [ 1872 , 782 , 167 , 75 ]
-brush
-	name "TITANPICTURE_GOAULDANUBIS"
-	content "Simple"
-	fileName "Unit_Picture"
-	pixelBox [ 1192 , 938 , 167 , 75 ]
+brushCount 78
 brush
 	name "CAPITALSHIPPICTURE_TAURICOLONY"
 	content "Simple"
@@ -182,6 +142,11 @@ brush
 	fileName "Unit_Picture"
 	pixelBox [ 852 , 782 , 167 , 75 ]
 brush
+	name "PICTURE_TAURIAG3TURRET"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1532 , 2 , 167 , 75 ]
+brush
 	name "PICTURE_FRIGATE_TAURICLAUDIUS"
 	content "Simple"
 	fileName "Unit_Picture"
@@ -321,6 +286,11 @@ brush
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1192 , 626 , 167 , 75 ]
+brush
+	name "PICTURE_ASURANLASERTURRET"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1532 , 2 , 167 , 75 ]
 brush
 	name "PICTURE_FRIGATE_ASURANANTIFIGHTER"
 	content "Simple"

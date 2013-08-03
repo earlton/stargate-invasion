@@ -1,11 +1,5 @@
 TXT
-NumStrings 7813
-StringInfo
-	ID "IDS_ABILITY_ASURANTITANDEPLOYLASERTURRET_NAME"
-	Value "Laser Turret"
-StringInfo
-	ID "IDS_ABILITY_ASURANTITANDEPLOYLASERTURRET_DESCRIPTION"
-	Value "Deploys a Laser Turret to support your surrounding fleet against the enemy."
+NumStrings 7827
 StringInfo
 	ID "IDS_ABILITY_WORTHYCAUSE_NAME"
 	Value "Worthy Cause"
@@ -2713,6 +2707,18 @@ StringInfo
 	ID "IDS_TITANUPGRADE_ASURANEPHEUS_WEAPONS_DESCRIPTION"
 	Value ""
 StringInfo
+	ID "IDS_RESEARCHSUBJECT_TITANACCESS_ASURANATLANTIS_NAME"
+	Value "Atlantis"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_TITANACCESS_ASURANATLANTIS_DESCRIPTION"
+	Value "Grants access to Atlantis the city of the Ancients with strong shields and helpfull abilities."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_TITANACCESS_ASURANEPHEUS_NAME"
+	Value "Epheus"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_TITANACCESS_ASURANEPHEUS_DESCRIPTION"
+	Value "Grants access to Asuran City Warship Epheus, designed to fight."
+StringInfo
 	ID "IDS_ABILITY_ASURANTITANATLANTISDRONEFRENZY_NAME"
 	Value "Atlantis Drone Frenzy"
 StringInfo
@@ -2754,6 +2760,12 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_ASURANTITANMATTERBRIDGE_DESCRIPTION"
 	Value "A temporary stream of Zero-Point Energy from a parallel universe allows the Epheus Titan to power up the next used ability"
+StringInfo
+	ID "IDS_ABILITY_ASURANTITANDEPLOYLASERTURRET_NAME"
+	Value "Laser Turret"
+StringInfo
+	ID "IDS_ABILITY_ASURANTITANDEPLOYLASERTURRET_DESCRIPTION"
+	Value "Deploys a Laser Turret to support your surrounding fleet against the enemy."
 StringInfo
 	ID "IDS_BUFFSHORTNAME_ASURANTITANMATTERBRIDGE"
 	Value "Matter Bridge"
@@ -3604,7 +3616,7 @@ StringInfo
 	ID "IDSEscapeMenuScreenNetworkStatusActionCancelMigration"
 	Value "Cancel"
 StringInfo
-	ID "IDS_FIGHTER_ORICOMBAT_NAME"
+	ID "IDS_FIGHTERORICOMBAT_NAME"
 	Value "Ori Fighter"
 StringInfo
 	ID "IDS_FRIGATE_DEADLIGHT_NAME"
@@ -6300,6 +6312,18 @@ StringInfo
 StringInfo
 	ID "IDS_TITAN_GOAULDAPOPHIS_DESCRIPTION"
 	Value "A powerful support ship which can use advanced nano-technology to inflict damage on enemies or heal friendly ships."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_TITANACCESS_GOAULDANUBIS_NAME"
+	Value "Anubis Mothership"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_TITANACCESS_GOAULDANUBIS_DESCRIPTION"
+	Value "Grants access to the mighty Anubis flagship with special powers of the gods."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_TITANACCESS_GOAULDAPOPHIS_NAME"
+	Value "Apophis Mothership"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_TITANACCESS_GOAULDAPOPHIS_DESCRIPTION"
+	Value "Grants access to Anubis mothership, which supports its surrounding fleet in the battle."
 StringInfo
 	ID "IDSICOAddFriendResultDialogTitle"
 	Value "Add Friend"
@@ -21079,10 +21103,28 @@ StringInfo
 	ID "IDS_TITANUPGRADE_TAURITARTARUS_WEAPONS_DESCRIPTION"
 	Value ""
 StringInfo
+	ID "IDS_RESEARCHSUBJECT_TITANACCESS_TAURICARRIER_NAME"
+	Value "Carrier Titan"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_TITANACCESS_TAURICARRIER_DESCRIPTION"
+	Value "Grants access to the Human Carrier titan with its supportive abilities and its many strike crafts."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_TITANACCESS_TAURITARTARUS_NAME"
+	Value "Tartarus Assault Titan"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_TITANACCESS_TAURITARTARUS_DESCRIPTION"
+	Value "Grants access to the Human Tartarus titan equipped with strong weaponry and massive firepower."
+StringInfo
 	ID "IDS_ABILITY_TAURITITANADVANCEDASGARDBEAMS_NAME"
 	Value "Advanced Asgard Beam Weapons"
 StringInfo
 	ID "IDS_ABILITY_TAURITITANADVANCEDASGARDBEAMS_DESCRIPTION"
+	Value ""
+StringInfo
+	ID "IDS_ABILITY_TAURITITANDEPLOYAG3TURRETS_NAME"
+	Value "AG-3 Turrets"
+StringInfo
+	ID "IDS_ABILITY_TAURITITANDEPLOYAG3TURRETS_DESCRIPTION"
 	Value ""
 StringInfo
 	ID "IDS_ABILITY_TAURITITANASGARDBEAMS_NAME"

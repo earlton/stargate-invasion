@@ -82,7 +82,10 @@ NameStringID "IDS_TITAN_TAURITARTARUS_NAME"
 DescriptionStringID "IDS_TITAN_TAURITARTARUS_DESCRIPTION"
 picture "TITANPICTURE_TAURITARTARUS"
 Prerequisites
-	NumResearchPrerequisites 0
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_TITANACCESS_TAURITARTARUS"
+		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 statCountType "Titan"

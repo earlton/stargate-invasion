@@ -28,7 +28,7 @@ statCountType "ModuleCannon"
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
-		Subject "RESEARCHSUBJECT_PLANETMODULEACCESS_CANNONTAURI"
+		Subject ""
 		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
@@ -61,7 +61,7 @@ SoundID "PLANETMODULE_TECHORBITALCANNON_ONSELECTION_0"
 NumSoundsFor:ONSTARTPHASEJUMP 0
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "PlanetModule_TechOrbitalCannon"
+	meshName "PlanetModule_TauriMeteor"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""

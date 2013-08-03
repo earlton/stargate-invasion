@@ -103,7 +103,7 @@ numRandomDebrisSmall 30
 numSpecificDebris 1
 specificDebrisMeshName "DebrisPhaseCapitalShipBattleship"
 armorType "Titan"
-hudIcon "HUDICON_RESEARCHSUBJECT_TITAN_ATLANTIS"
+hudIcon "HUDICON_RESEARCHSUBJECT_TITAN_ASURANATLANTIS"
 smallHudIcon "HUDICONSMALL_TITAN_ATLANTIS"
 infoCardIcon "INFOCARDICON_TITAN_EPHEUS"
 minZoomDistanceMult 1.100000
