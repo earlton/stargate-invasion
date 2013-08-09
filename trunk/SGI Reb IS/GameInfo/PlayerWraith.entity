@@ -31,7 +31,7 @@ entities
 	titanInfo
 		Page:0
 			count 2
-			entityDefName "TITAN_WraithCarrier"
+			entityDefName "TITAN_WraithAssault"
 			entityDefName "TITAN_WraithSuperHive"
 	capitalShipInfo
 		Page:0
@@ -269,7 +269,7 @@ hyperspaceData
 	hyperspaceSpeedBetweenStarsMultiplier 30.000000
 	hyperspaceSpeedToFriendlyOrbitBodiesMultiplier 1.000000
 	baseHyperspaceAntiMatterCost 90.000000
-	baseHyperspaceChargeUpTime 5.000000
+	baseHyperspaceChargeUpTime 3.000000
 shieldData
 	shieldAbsorbGrowthPerDamage 0.000000
 	shieldAbsorbDecayRate 0.000000

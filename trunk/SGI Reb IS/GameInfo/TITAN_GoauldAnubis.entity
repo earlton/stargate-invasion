@@ -75,7 +75,10 @@ NameStringID "IDS_TITAN_GOAULDANUBIS_NAME"
 DescriptionStringID "IDS_TITAN_GOAULDANUBIS_DESCRIPTION"
 picture "TITANPICTURE_GOAULDANUBIS"
 Prerequisites
-	NumResearchPrerequisites 0
+	NumResearchPrerequisites 1
+	ResearchPrerequisite 
+		Subject "RESEARCHSUBJECT_TITANACCESS_GOAULDANUBIS"
+		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 statCountType "Titan"

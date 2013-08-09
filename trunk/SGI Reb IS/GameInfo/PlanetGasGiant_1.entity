@@ -1,6 +1,21 @@
 ﻿TXT
 entityType "Planet"
-meshInfoCount 4
+meshInfoCount 5
+meshInfo
+	typeNameStringID "IDS_PLANETTYPE_ICEGIANT"
+	asteroidTemplate "Empty"
+	dustCloudTemplate "Empty"
+	meshName "Planet_GasGiant_0"
+	cloudColor 0
+	nullMeshRadius 0.000000
+	nullMeshParticleEffect ""
+	hudIcon "Axeldude_PLANET_IceGiant_0"
+	smallHudIcon "Axeldude_PLANET_IceGiant_0"
+	infoCardIcon "Axeldude_PLANET_IceGiant_0"
+	mainViewIcon "Axeldude_PLANET_IceGiant_0"
+	undetectedMainViewIcon "Axeldude_PLANET_IceGiant_0_Unknown"
+	picture ""
+	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_ICEGIANT"
 	asteroidTemplate "Empty"
@@ -326,8 +341,8 @@ planetRuinDef
 dlcId 204880
 ShieldMeshName "Shield_PlanetSmall"
 renderShield TRUE
-moveAreaRadius 48000.000000
-hyperspaceExitRadius 40000.000000
+moveAreaRadius 96000.000000
+hyperspaceExitRadius 80000.000000
 isWormhole FALSE
 maxStarBaseCountPerPlayer 2
 maxSpaceMineCountPerPlayer 0

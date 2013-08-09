@@ -13,7 +13,7 @@ GameplayConstants
 	defaultGravWellColor FFFFFFFF
 	phaseLaneWidth 2.2
 	unexploredPhaseLaneWidth 0.5
-	gravWellThickness 1.0
+	gravWellThickness 2.0
 	cannonsPerGravityWellRatio 1
 	cannonGravityWellRatioDenominator 4
 	preferNewAssetsGameCountThreshold 5

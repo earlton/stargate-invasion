@@ -1,11 +1,11 @@
 ﻿TXT
 entityType "Planet"
-meshInfoCount 4
+meshInfoCount 1
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_TERRAN"
 	asteroidTemplate "Empty"
 	dustCloudTemplate "Sparse"
-	meshName "Planet_Terran_2"
+	meshName "Planet_TerranHome_0_Upscaled"
 	cloudColor ffffffff
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""
@@ -15,52 +15,7 @@ meshInfo
 	mainViewIcon "MAINVIEWICON_PLANET_TERRAN0"
 	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_PLANET_TERRAN0"
 	picture "PICTURE_PLANET_TERRAN0"
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_TERRAN"
-	asteroidTemplate "Sparse"
-	dustCloudTemplate "Sparse"
-	meshName "Planet_Terran_2"
-	cloudColor ffffffff
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "HUDICON_PLANET_TERRAN1"
-	smallHudIcon "HUDICONSMALL_PLANET_TERRAN1"
-	infoCardIcon "INFOCARDICON_PLANET_TERRAN1"
-	mainViewIcon "MAINVIEWICON_PLANET_TERRAN1"
-	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_PLANET_TERRAN1"
-	picture "PICTURE_PLANET_TERRAN1"
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_TERRAN"
-	asteroidTemplate "Dense"
-	dustCloudTemplate "Sparse"
-	meshName "Planet_Terran_2"
-	cloudColor ffffffff
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "HUDICON_PLANET_TERRAN2"
-	smallHudIcon "HUDICONSMALL_PLANET_TERRAN2"
-	infoCardIcon "INFOCARDICON_PLANET_TERRAN2"
-	mainViewIcon "MAINVIEWICON_PLANET_TERRAN2"
-	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_PLANET_TERRAN2"
-	picture "PICTURE_PLANET_TERRAN2"
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_TERRAN"
-	asteroidTemplate "Sparse"
-	dustCloudTemplate "Dense"
-	meshName "Planet_Terran_2"
-	cloudColor ffffffff
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "HUDICON_PLANET_TERRAN2"
-	smallHudIcon "HUDICONSMALL_PLANET_TERRAN2"
-	infoCardIcon "INFOCARDICON_PLANET_TERRAN2"
-	mainViewIcon "MAINVIEWICON_PLANET_TERRAN2"
-	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_PLANET_TERRAN2"
-	picture "PICTURE_PLANET_TERRAN2"
-	shouldPrefer FALSE
+	shouldPrefer TRUE
 minZoomDistanceMult 2.000000
 glowColor 8f64c1ff
 ringColor ffffffff
@@ -412,13 +367,13 @@ planetRuinDef
 dlcId 204880
 ShieldMeshName "Shield_PlanetSmall"
 renderShield TRUE
-moveAreaRadius 80000.000000
+moveAreaRadius 90000.000000
 hyperspaceExitRadius 70000.000000
 isWormhole FALSE
 maxStarBaseCountPerPlayer 1
 maxSpaceMineCountPerPlayer 150
 minShadow 0.000000
-maxShadow 0.000000
+maxShadow 1.000000
 ability:0 ""
 ability:1 ""
 ability:2 ""

@@ -7,7 +7,7 @@ NameStringID "IDS_RESEARCHSUBJECT_TITANACCESS_GOAULDAPOPHIS_NAME"
 DescriptionStringID "IDS_RESEARCHSUBJECT_TITANACCESS_GOAULDAPOPHIS_DESCRIPTION"
 researchWindowLocation
 	block 1
-	pos [ 7 , 3 ]
+	pos [ 7 , 1 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 0

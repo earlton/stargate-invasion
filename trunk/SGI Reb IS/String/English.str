@@ -1,5 +1,5 @@
 TXT
-NumStrings 7827
+NumStrings 7829
 StringInfo
 	ID "IDS_ABILITY_WORTHYCAUSE_NAME"
 	Value "Worthy Cause"
@@ -5864,13 +5864,13 @@ StringInfo
 	Value "Fleet Repairs"
 StringInfo
 	ID "IDS_ABILITY_GOAULDTITANFLEETREPAIRS_DESCRIPTION"
-	Value "External repair bays allow friendly ships to repair their hull whilst they are not in combat"
+	Value "External repair bays allow friendly ships to repair their hull whilst they are not in combat."
 StringInfo
 	ID "IDS_ABILITY_GOAULDTITANSTOLENTECHNOLOGY_NAME"
-	Value "Death Glider Reserves"
+	Value "Stolen Technology"
 StringInfo
 	ID "IDS_ABILITY_GOAULDTITANSTOLENTECHNOLOGY_DESCRIPTION"
-	Value "Unleashes the mighty power of the Eye of Ra, which deals great damage to enemy ships"
+	Value ""
 StringInfo
 	ID "IDS_ABILITY_GOAULDTITANSOKARSWRATH_NAME"
 	Value "Sokar's Wrath"
@@ -5882,31 +5882,31 @@ StringInfo
 	Value "Death Glider Reserves"
 StringInfo
 	ID "IDS_ABILITY_GOAULDTITANFIGHTERSUPPORT_DESCRIPTION"
-	Value "Unleashes the mighty power of the Eye of Ra, which deals great damage to enemy ships"
+	Value "Temporary support of Death Gliders."
 StringInfo
 	ID "IDS_ABILITY_GOAULDTITANEYEOFRA_NAME"
 	Value "Eye of Ra"
 StringInfo
 	ID "IDS_ABILITY_GOAULDTITANEYEOFRA_DESCRIPTION"
-	Value "Unleashes the mighty power of the Eye of Ra, which deals great damage to enemy ships"
+	Value "Unleashes the mighty power of the Eye of Ra, which deals great damage to enemy ships."
 StringInfo
 	ID "IDS_ABILITY_GOAULDTITANEYEOFTITAMAT_NAME"
 	Value "Eye of Titamat"
 StringInfo
 	ID "IDS_ABILITY_GOAULDTITANEYEOFTITAMAT_DESCRIPTION"
-	Value "Unleashes the mighty power of the Eye of Titamat, which deals great damage to enemy ships"
+	Value "Unleashes the mighty power of the Eye of Titamat, which deals great damage to enemy ships."
 StringInfo
 	ID "IDS_ABILITY_GOAULDTITANCOMBATTACTICS_NAME"
 	Value "Genetic Combat Experience"
 StringInfo
 	ID "IDS_ABILITY_GOAULDTITANCOMBATTACTICS_DESCRIPTION"
-	Value "The genetic memories of the Goauld give them an advantage in combat movement"
+	Value "The genetic memories of the Goauld give them an advantage in combat movement."
 StringInfo
 	ID "IDS_ABILITY_GOAULDTITANCOMBINEDEYES_NAME"
 	Value "Eyes of the Gods"
 StringInfo
 	ID "IDS_ABILITY_GOAULDTITANCOMBINEDEYES_DESCRIPTION"
-	Value "Unleashes the mighty power of the Combined Eyes of the Gods"
+	Value "Unleashes the mighty power of the Combined Eyes of the Gods."
 StringInfo
 	ID "IDS_CAPITALSHIP_GOAULDBATTLESHIP_NAME"
 	Value "Ha'tel"
@@ -23429,16 +23429,16 @@ StringInfo
 	Value "Psionic Adepts aboard the star base become able to telekinetically manipulate meteroids near this gravity well for offensive purposes."
 StringInfo
 	ID "IDS_TITAN_WRAITHSUPERHIVE_NAME"
-	Value "ZPM Super Hive"
+	Value "Wraith Super Hive"
 StringInfo
 	ID "IDS_TITAN_WRAITHSUPERHIVE_DESCRIPTION"
-	Value "A highly adaptive warship capable of quick movements and inflicting area of effect damage to enemies."
+	Value ""
 StringInfo
-	ID "IDS_TITAN_WRAITHCARRIER_NAME"
-	Value "ZPM Carrier Hive"
+	ID "IDS_TITAN_WRAITHASSAULT_NAME"
+	Value "Wraith Assault Hive"
 StringInfo
-	ID "IDS_TITAN_WRAITHCARRIER_DESCRIPTION"
-	Value "A powerful support ship which can use advanced nano-technology to inflict damage on enemies or heal friendly ships."
+	ID "IDS_TITAN_WRAITHASSAUKT_DESCRIPTION"
+	Value ""
 StringInfo
 	ID "IDS_TITANUPGRADE_WRAITHSUPERHIVE_ABILITIES_NAME"
 	Value "Psi-Containment"
@@ -23458,22 +23458,22 @@ StringInfo
 	ID "IDS_TITANUPGRADE_WRAITHSUPERHIVE_WEAPONS_DESCRIPTION"
 	Value "The Coronata's psintegrat take over the ship's weapons, giving them greater destructive power."
 StringInfo
-	ID "IDS_TITANUPGRADE_WRAITHCARRIER_ABILITIES_NAME"
+	ID "IDS_TITANUPGRADE_WRAITHASSAULT_ABILITIES_NAME"
 	Value "Reactive Containment"
 StringInfo
-	ID "IDS_TITANUPGRADE_WRAITHCARRIER_ABILITIES_DESCRIPTION"
+	ID "IDS_TITANUPGRADE_WRAITHASSAULT_ABILITIES_DESCRIPTION"
 	Value "The Eradica is upgraded with a new reactive containment system, giving it greater antimatter capacity."
 StringInfo
-	ID "IDS_TITANUPGRADE_WRAITHCARRIER_DURABILITY_NAME"
+	ID "IDS_TITANUPGRADE_WRAITHASSAULT_DURABILITY_NAME"
 	Value "Increased Hull Growth"
 StringInfo
-	ID "IDS_TITANUPGRADE_WRAITHCARRIER_DURABILITY_DESCRIPTION"
+	ID "IDS_TITANUPGRADE_WRAITHASSAULT_DURABILITY_DESCRIPTION"
 	Value "Better Integration of the Zero Point Modules allow a stronger hull and a faster hull regeneration among other advantages"
 StringInfo
-	ID "IDS_TITANUPGRADE_WRAITHCARRIER_WEAPONS_NAME"
+	ID "IDS_TITANUPGRADE_WRAITHASSAULT_WEAPONS_NAME"
 	Value "Energy Manipulation"
 StringInfo
-	ID "IDS_TITANUPGRADE_WRAITHCARRIER_WEAPONS_DESCRIPTION"
+	ID "IDS_TITANUPGRADE_WRAITHASSAULT_WEAPONS_DESCRIPTION"
 	Value "By adjusting the frequencies of the Eradica's weapons, greater damage can be inflicted upon the enemy."
 StringInfo
 	ID "IDS_ABILITY_WRAITHTITANSIRENCALL_NAME"
@@ -23481,3 +23481,9 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_WRAITHTITANSIRENCALL_DESCRIPTION"
 	Value "A Wraith Queens Siren Call summons reinforcements for the Hive."
+StringInfo
+	ID "IDS_ABILITY_WRAITHTITANSUICIDEDARTS_NAME"
+	Value "Suicide Darts"
+StringInfo
+	ID "IDS_ABILITY_WRAITHTITANSUICIDEDARTS_DESCRIPTION"
+	Value "Launches a squad of Darts on a suicide mission to damage the enemies hull and shields."

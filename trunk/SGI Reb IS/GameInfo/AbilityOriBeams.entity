@@ -6,7 +6,8 @@ buffType "BuffOriBeams"
 targetFilter
 	numOwnerships 1
 	ownership "Enemy"
-	numObjects 4
+	numObjects 5
+	object "Titan"
 	object "CapitalShip"
 	object "Frigate"
 	object "PlanetModule"
@@ -66,14 +67,14 @@ ignoreNonCombatShipsForAutoCastTarget TRUE
 onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
 useCostType "AntiMatter"
 antiMatterCost
-	Level:0 30.000000
-	Level:1 20.000000
-	Level:2 10.000000
+	Level:0 60.000000
+	Level:1 40.000000
+	Level:2 20.000000
 	Level:3 0.000000
 cooldownTime
-	Level:0 15.500000
-	Level:1 10.000000
-	Level:2 5.500000
+	Level:0 20.500000
+	Level:1 15.000000
+	Level:2 15.000000
 	Level:3 0.000000
 orderAcknowledgementType "ONATTACKORDERISSUED"
 researchPrerequisites

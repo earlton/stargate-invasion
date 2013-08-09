@@ -256,7 +256,7 @@ hyperspaceData
 	hyperspaceSpeedBetweenStarsMultiplier 24.000000
 	hyperspaceSpeedToFriendlyOrbitBodiesMultiplier 1.000000
 	baseHyperspaceAntiMatterCost 100.000000
-	baseHyperspaceChargeUpTime 2.600000
+	baseHyperspaceChargeUpTime 3.000000
 shieldData
 	shieldAbsorbGrowthPerDamage 0.001000
 	shieldAbsorbDecayRate 0.012500

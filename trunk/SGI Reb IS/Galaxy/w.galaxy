@@ -22,12 +22,12 @@ quickStartHomePlanetUpgradeLevel:ArtifactLevel 10
 quickStartHomePlanetUpgradeLevel:Infrastructure 3
 recommendedGameTypeCount 0
 metersPerGalaxyUnit 25000.000000
-pixelsPerGalaxyUnit 10.120000
+pixelsPerGalaxyUnit 7.240001
 useRandomGenerator FALSE
 galaxyWidth 1920.000000
 galaxyHeight 994.000000
 nextStarNameUniqueId 1
-nextPlanetNameUniqueId 367
+nextPlanetNameUniqueId 369
 triggerCount 0
 starCount 1
 star
@@ -38,7 +38,7 @@ star
 	radius 220.000000
 	moveAreaRadius 60000.000000
 	hyperspaceExitRadius 40000.000000
-	planetCount 103
+	planetCount 104
 	planet
 		designName "Halcyon System"
 		inGameName "Halcyon System"
@@ -202,7 +202,7 @@ star
 		entityCount 0
 		asteroidCount 0
 	planet
-		designName "Lantea System "
+		designName "Lantea System"
 		inGameName "Lantea System"
 		type "PlanetStarYellow"
 		pos [ 311 , 326 ]
@@ -229,8 +229,8 @@ star
 		entityCount 0
 		asteroidCount 0
 	planet
-		designName "Rummus System"
-		inGameName "Rummus System"
+		designName "Levana System"
+		inGameName "Levana System"
 		type "PlanetStarYellow"
 		pos [ 298 , 392 ]
 		moveAreaRadius 60000.000000
@@ -502,7 +502,7 @@ star
 		designName "Lantea"
 		inGameName "Lantea"
 		type "Oceanic"
-		pos [ 322 , 327 ]
+		pos [ 320 , 325 ]
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner "NewPlayer0"
@@ -541,7 +541,7 @@ star
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner ""
-		isHomePlanet FALSE
+		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 3
 		normalStartUpgradeLevelForCivilianModules 1
 		normalStartUpgradeLevelForTacticalModules 0
@@ -595,7 +595,7 @@ star
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner ""
-		isHomePlanet FALSE
+		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 3
 		normalStartUpgradeLevelForCivilianModules 1
 		normalStartUpgradeLevelForTacticalModules 0
@@ -649,7 +649,7 @@ star
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner ""
-		isHomePlanet FALSE
+		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 3
 		normalStartUpgradeLevelForCivilianModules 1
 		normalStartUpgradeLevelForTacticalModules 0
@@ -669,10 +669,10 @@ star
 		entityCount 0
 		asteroidCount 0
 	planet
-		designName "Rummus"
-		inGameName "Rummus"
+		designName "Pegasus Alpha Site"
+		inGameName "Pegasus Alpha Site"
 		type "TerranHome"
-		pos [ 307 , 395 ]
+		pos [ 304 , 395 ]
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner ""
@@ -753,7 +753,7 @@ star
 		designName ""
 		inGameName "Niam's faction's planet "
 		type "Oceanic"
-		pos [ 347 , 259 ]
+		pos [ 350 , 259 ]
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner "NewPlayer3"
@@ -1077,7 +1077,7 @@ star
 		designName "Virtus"
 		inGameName "Virtus"
 		type "Ice"
-		pos [ 460 , 250 ]
+		pos [ 458 , 248 ]
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner ""
@@ -1131,7 +1131,7 @@ star
 		designName "Larunda"
 		inGameName "Larunda"
 		type "Ice"
-		pos [ 308 , 315 ]
+		pos [ 306 , 314 ]
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner ""
@@ -1293,7 +1293,7 @@ star
 		designName "New Athos"
 		inGameName "New Athos"
 		type "DesertHome"
-		pos [ 291 , 392 ]
+		pos [ 290 , 391 ]
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner ""
@@ -1455,7 +1455,7 @@ star
 		designName "Edowin"
 		inGameName "Edowin"
 		type "Ice"
-		pos [ 498 , 215 ]
+		pos [ 498 , 214 ]
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner ""
@@ -1644,7 +1644,7 @@ star
 		designName "Pelion"
 		inGameName "Pelion"
 		type "Desert"
-		pos [ 322 , 456 ]
+		pos [ 324 , 456 ]
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner ""
@@ -1698,7 +1698,7 @@ star
 		designName "Aeoni"
 		inGameName "Aeoni"
 		type "Desert"
-		pos [ 359 , 118 ]
+		pos [ 358 , 118 ]
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner ""
@@ -1725,7 +1725,7 @@ star
 		designName "Tellus"
 		inGameName "Tellus"
 		type "Desert"
-		pos [ 516 , 226 ]
+		pos [ 516 , 224 ]
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner ""
@@ -1752,7 +1752,7 @@ star
 		designName "Vell"
 		inGameName "Vell"
 		type "Volcanic"
-		pos [ 355 , 329 ]
+		pos [ 355 , 328 ]
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner ""
@@ -1779,7 +1779,7 @@ star
 		designName "Cybele"
 		inGameName "Cybele"
 		type "Volcanic"
-		pos [ 306 , 328 ]
+		pos [ 305 , 324 ]
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner ""
@@ -1995,7 +1995,7 @@ star
 		designName "Jungle world"
 		inGameName "M3X-387"
 		type "JungleWorld"
-		pos [ 343 , 460 ]
+		pos [ 342 , 460 ]
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner ""
@@ -2022,7 +2022,7 @@ star
 		designName "Mettus "
 		inGameName "Mettus "
 		type "IceGiantHabitable"
-		pos [ 314 , 469 ]
+		pos [ 317 , 467 ]
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner ""
@@ -2049,7 +2049,7 @@ star
 		designName "Cura"
 		inGameName "Cura"
 		type "ParadiseWorld"
-		pos [ 151 , 358 ]
+		pos [ 154 , 355 ]
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner ""
@@ -2156,7 +2156,7 @@ star
 	planet
 		designName "Salacia waterworld"
 		inGameName "Salacia"
-		type "Oceanic"
+		type "RockGiantHabitable"
 		pos [ 360 , 104 ]
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
@@ -2246,7 +2246,7 @@ star
 		designName "Flora"
 		inGameName "Flora"
 		type "TerranHome"
-		pos [ 535 , 217 ]
+		pos [ 522 , 215 ]
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner ""
@@ -2270,10 +2270,10 @@ star
 		entityCount 0
 		asteroidCount 0
 	planet
-		designName "Sateda"
-		inGameName "Sateda"
+		designName "Romos"
+		inGameName "Romos"
 		type "Desert"
-		pos [ 316 , 333 ]
+		pos [ 314 , 330 ]
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner ""
@@ -2408,7 +2408,7 @@ star
 		designName "Balar"
 		inGameName "Balar"
 		type "Desert"
-		pos [ 368 , 324 ]
+		pos [ 367 , 324 ]
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner ""
@@ -2497,7 +2497,7 @@ star
 		designName "jungle world"
 		inGameName "Mithras"
 		type "ParadiseWorld"
-		pos [ 359 , 336 ]
+		pos [ 360 , 336 ]
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner ""
@@ -2640,7 +2640,7 @@ star
 		designName "Lapiths"
 		inGameName "Lapiths"
 		type "Forest"
-		pos [ 294 , 399 ]
+		pos [ 292 , 401 ]
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner ""
@@ -2667,7 +2667,7 @@ star
 		designName "Corythus"
 		inGameName "Corythus"
 		type "Ice"
-		pos [ 290 , 382 ]
+		pos [ 289 , 381 ]
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner ""
@@ -2721,7 +2721,7 @@ star
 		designName "Wraith world jungle"
 		inGameName "Iratus"
 		type "TerranGiantHabitable"
-		pos [ 452 , 261 ]
+		pos [ 450 , 261 ]
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner ""
@@ -2748,7 +2748,7 @@ star
 		designName "Wraith Rumina"
 		inGameName "Wraith Rumina"
 		type "Volcanic"
-		pos [ 512 , 211 ]
+		pos [ 512 , 212 ]
 		moveAreaRadius 40000.000000
 		hyperspaceExitRadius 30000.000000
 		owner ""
@@ -2868,7 +2868,34 @@ star
 		useDefaultTemplate TRUE
 		entityCount 0
 		asteroidCount 0
-	connectionCount 103
+	planet
+		designName "Cerrus"
+		inGameName "Cerrus"
+		type "SOL Titan"
+		pos [ 302 , 331 ]
+		moveAreaRadius 40000.000000
+		hyperspaceExitRadius 30000.000000
+		owner ""
+		isHomePlanet FALSE
+		normalStartUpgradeLevelForPopulation 3
+		normalStartUpgradeLevelForCivilianModules 1
+		normalStartUpgradeLevelForTacticalModules 0
+		normalStartUpgradeLevelForArtifacts 10
+		normalStartUpgradeLevelForInfrastructure 2
+		quickStartUpgradeLevelForPopulation 4
+		quickStartUpgradeLevelForCivilianModules 1
+		quickStartUpgradeLevelForTacticalModules 0
+		quickStartUpgradeLevelForArtifacts 10
+		quickStartUpgradeLevelForInfrastructure 2
+		planetItems
+			templateName ""
+			subTemplates 0
+			groups 0
+		spawnProbability 1.000000
+		useDefaultTemplate TRUE
+		entityCount 0
+		asteroidCount 0
+	connectionCount 104
 	connection
 		planetIndexA -1
 		planetIndexB 6
@@ -3381,6 +3408,11 @@ star
 		type "PhaseLane"
 	connection
 		planetIndexA 17
+		planetIndexB 6
+		spawnProbability 1.000000
+		type "PhaseLane"
+	connection
+		planetIndexA 103
 		planetIndexB 6
 		spawnProbability 1.000000
 		type "PhaseLane"

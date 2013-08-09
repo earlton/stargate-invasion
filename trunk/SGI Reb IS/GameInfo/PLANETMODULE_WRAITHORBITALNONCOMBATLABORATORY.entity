@@ -34,7 +34,7 @@ HullPointRestoreRate 2.000000
 BaseArmorPoints 6.000000
 MaxShieldPoints 0.000000
 ShieldPointRestoreRate 0.000000
-maxShieldMitigation 0.600000
+maxShieldMitigation 0.300000
 ExperiencePointsForDestroying 25.000000
 resourceExtractionType "Invalid"
 cultureSpreadRate 0.000000
@@ -44,10 +44,10 @@ nearPlacementDistOffset 0.000000
 farPlacementDistOffset 9000.000000
 spawnCount 1
 swapMineType ""
-angularSpeed 0.000000
+angularSpeed 0.200000
 rotateSoundName ""
-rotateFacingType "None"
-rotateConstantly FALSE
+rotateFacingType "TowardsOrbitBody"
+rotateConstantly TRUE
 ShieldMeshName ""
 renderShield FALSE
 NumSoundsFor:ONATTACKORDERISSUED 0
