@@ -1,7 +1,7 @@
 ﻿TXT
 entityType "Cosmetic"
 ability:0 ""
-ability:1 "AbilityWraithTitanSirenCall"
+ability:1 ""
 ability:2 ""
 ability:3 ""
 ability:4 ""
@@ -52,8 +52,9 @@ Prerequisites
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 statCountType "Titan"
-UpgradeTypeCount 3
+UpgradeTypeCount 4
 UpgradeType "TitanUpgrade_WraithSuperHive_Abilities"
+UpgradeType "TitanUpgrade_WraithSuperHive_AbilityB"
 UpgradeType "TitanUpgrade_WraithSuperHive_Durability"
 UpgradeType "TitanUpgrade_WraithSuperHive_Weapons"
 numRandomDebrisLarge 80
@@ -61,7 +62,7 @@ numRandomDebrisSmall 30
 numSpecificDebris 1
 specificDebrisMeshName "DebrisAdventLarge"
 armorType "Titan"
-hudIcon "HUDICON_TITAN_WRAITHSUPERHIVE"
+hudIcon "HUDICON_RESEARCHSUBJECT_TITAN_WRAITHSUPERHIVE"
 smallHudIcon "HUDICONSMALL_TITAN_WRAITHSUPERHIVE"
 infoCardIcon "INFOCARDICON_TITAN_WRAITHSUPERHIVE"
 minZoomDistanceMult 1.030000
@@ -74,11 +75,11 @@ Weapon
 		DamageApplyType "BACKLOADED"
 		DamageType "ENERGY"
 		WeaponClassType "PLASMA"
-	DamagePerBank:FRONT 350.000000
-	DamagePerBank:BACK 350.000000
-	DamagePerBank:LEFT 550.000000
-	DamagePerBank:RIGHT 550.000000
-	Range 5500.000000
+	DamagePerBank:FRONT 300.000000
+	DamagePerBank:BACK 300.000000
+	DamagePerBank:LEFT 500.000000
+	DamagePerBank:RIGHT 500.000000
+	Range 5000.000000
 	PreBuffCooldownTime 5.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
@@ -112,11 +113,11 @@ Weapon
 		DamageApplyType "BACKLOADED"
 		DamageType "ENERGY"
 		WeaponClassType "PLASMA"
-	DamagePerBank:FRONT 250.000000
-	DamagePerBank:BACK 250.000000
-	DamagePerBank:LEFT 350.000000
-	DamagePerBank:RIGHT 350.000000
-	Range 5500.000000
+	DamagePerBank:FRONT 200.000000
+	DamagePerBank:BACK 200.000000
+	DamagePerBank:LEFT 300.000000
+	DamagePerBank:RIGHT 300.000000
+	Range 5000.000000
 	PreBuffCooldownTime 5.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE

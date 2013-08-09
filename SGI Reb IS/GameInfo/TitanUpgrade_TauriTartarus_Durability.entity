@@ -9,8 +9,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement -1
-	hudIcon "HUDIconTitanTechRebelDurabilityUpgrade0"
-	smallHudIcon "HUDIconTitanTechRebelDurabilityUpgrade0"
+	hudIcon "HUDIconTitanTauriTartarusDurabilityUpgrade0"
+	smallHudIcon "HUDIconTitanTauriTartarusDurabilityUpgrade0"
 	infoCardIcon ""
 	upgradePropertyCount 0
 	upgradeBoolPropertyCount 0
@@ -22,8 +22,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 0
-	hudIcon "HUDIconTitanTechRebelDurabilityUpgrade0"
-	smallHudIcon "HUDIconTitanTechRebelDurabilityUpgrade0"
+	hudIcon "HUDIconTitanTauriTartarusDurabilityUpgrade0"
+	smallHudIcon "HUDIconTitanTauriTartarusDurabilityUpgrade0"
 	infoCardIcon ""
 	upgradePropertyCount 5
 	upgradeProperty
@@ -50,8 +50,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 2
-	hudIcon "HUDIconTitanTechRebelDurabilityUpgrade1"
-	smallHudIcon "HUDIconTitanTechRebelDurabilityUpgrade1"
+	hudIcon "HUDIconTitanTauriTartarusDurabilityUpgrade1"
+	smallHudIcon "HUDIconTitanTauriTartarusDurabilityUpgrade1"
 	infoCardIcon ""
 	upgradePropertyCount 5
 	upgradeProperty
@@ -78,8 +78,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 4
-	hudIcon "HUDIconTitanTechRebelDurabilityUpgrade2"
-	smallHudIcon "HUDIconTitanTechRebelDurabilityUpgrade2"
+	hudIcon "HUDIconTitanTauriTartarusDurabilityUpgrade2"
+	smallHudIcon "HUDIconTitanTauriTartarusDurabilityUpgrade2"
 	infoCardIcon ""
 	upgradePropertyCount 5
 	upgradeProperty
@@ -106,8 +106,8 @@ stage
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 6
-	hudIcon "HUDIconTitanTechRebelDurabilityUpgrade3"
-	smallHudIcon "HUDIconTitanTechRebelDurabilityUpgrade3"
+	hudIcon "HUDIconTitanTauriTartarusDurabilityUpgrade3"
+	smallHudIcon "HUDIconTitanTauriTartarusDurabilityUpgrade3"
 	infoCardIcon ""
 	upgradePropertyCount 5
 	upgradeProperty

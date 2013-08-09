@@ -9,11 +9,11 @@ meshInfo
 	cloudColor ff7f808a
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""
-	hudIcon "HUDICON_PLANET_OCEAN0"
-	smallHudIcon "HUDICONSMALL_PLANET_OCEAN0"
-	infoCardIcon "INFOCARDICON_PLANET_OCEAN0"
-	mainViewIcon "MAINVIEWICON_PLANET_OCEAN0"
-	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_PLANET_TERRAN0"
+	hudIcon "Axeldude_PLANET_Normal_Oceanic_0"
+	smallHudIcon "Axeldude_PLANET_Normal_Oceanic_0"
+	infoCardIcon "Axeldude_PLANET_Normal_Oceanic_0"
+	mainViewIcon "Axeldude_PLANET_Normal_Oceanic_0"
+	undetectedMainViewIcon "Axeldude_PLANET_Normal_Oceanic_0_Unknown"
 	picture "Axeldude_PLANET_Normal_Oceanic_0"
 	shouldPrefer FALSE
 minZoomDistanceMult 1.250000
@@ -347,8 +347,8 @@ planetRuinDef
 dlcId 204880
 ShieldMeshName "Shield_PlanetSmall"
 renderShield TRUE
-moveAreaRadius 40000.000000
-hyperspaceExitRadius 30000.000000
+moveAreaRadius 80000.000000
+hyperspaceExitRadius 60000.000000
 isWormhole FALSE
 maxStarBaseCountPerPlayer 1
 maxSpaceMineCountPerPlayer 50

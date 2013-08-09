@@ -149,10 +149,10 @@ maxCargoShipCount 5
 cargoShipRespawnTime 25.000000
 baseBuildTime 120.000000
 buildEffectName ""
-angularSpeed 0.500000
+angularSpeed 50.500000
 rotateSoundName ""
 rotateFacingType "AwayFromOrbitBody"
-rotateConstantly FALSE
+rotateConstantly TRUE
 maxAccelerationLinear 0.000000
 maxAccelerationStrafe 0.000000
 maxDecelerationLinear 500.000000

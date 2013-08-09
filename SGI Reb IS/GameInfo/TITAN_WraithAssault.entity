@@ -1,7 +1,7 @@
 ﻿TXT
 entityType "Titan"
 ability:0 ""
-ability:1 "AbilityWraithTitanSirenCall"
+ability:1 ""
 ability:2 ""
 ability:3 ""
 ability:4 ""
@@ -75,26 +75,26 @@ AntiMatterRestoreRate
 CultureProtectRate
 	StartValue 0.300000
 	ValueIncreasePerLevel 0.050000
-NameStringID "IDS_TITAN_WRAITHCARRIER_NAME"
-DescriptionStringID "IDS_TITAN_WRAITHCARRIER_DESCRIPTION"
-picture "TITANPICTURE_WRAITHCARRIER"
+NameStringID "IDS_TITAN_WRAITHASSAULT_NAME"
+DescriptionStringID "IDS_TITAN_WRAITHASSAULT_DESCRIPTION"
+picture "TITANPICTURE_WRAITHASSAULT"
 Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 statCountType "Titan"
 UpgradeTypeCount 3
-UpgradeType "TitanUpgrade_WraithCarrier_Abilities"
-UpgradeType "TitanUpgrade_WraithCarrier_Durability"
-UpgradeType "TitanUpgrade_WraithCarrier_Weapons"
+UpgradeType "TitanUpgrade_WraithAssault_Abilities"
+UpgradeType "TitanUpgrade_WraithAssault_Durability"
+UpgradeType "TitanUpgrade_WraithAssault_Weapons"
 numRandomDebrisLarge 80
 numRandomDebrisSmall 30
 numSpecificDebris 1
 specificDebrisMeshName "DebrisAdventLarge"
 armorType "Titan"
-hudIcon "HUDICON_RESEARCHSUBJECT_TITAN_WRAITHCARRIER"
-smallHudIcon "HUDICONSMALL_TITAN_WRAITHCARRIER"
-infoCardIcon "INFOCARDICON_TITAN_WRAITHCARRIER"
+hudIcon "HUDICON_RESEARCHSUBJECT_TITAN_WRAITHASSAULT"
+smallHudIcon "HUDICONSMALL_TITAN_WRAITHASSAULT"
+infoCardIcon "INFOCARDICON_TITAN_WRAITHASSAULT"
 minZoomDistanceMult 1.030000
 NumWeapons 2
 Weapon
@@ -105,11 +105,11 @@ Weapon
 		DamageApplyType "BACKLOADED"
 		DamageType "ENERGY"
 		WeaponClassType "PLASMA"
-	DamagePerBank:FRONT 300.000000
-	DamagePerBank:BACK 300.000000
-	DamagePerBank:LEFT 500.000000
-	DamagePerBank:RIGHT 500.000000
-	Range 5000.000000
+	DamagePerBank:FRONT 350.000000
+	DamagePerBank:BACK 350.000000
+	DamagePerBank:LEFT 550.000000
+	DamagePerBank:RIGHT 550.000000
+	Range 5500.000000
 	PreBuffCooldownTime 5.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
@@ -143,11 +143,11 @@ Weapon
 		DamageApplyType "BACKLOADED"
 		DamageType "ENERGY"
 		WeaponClassType "PLASMA"
-	DamagePerBank:FRONT 200.000000
-	DamagePerBank:BACK 200.000000
-	DamagePerBank:LEFT 300.000000
-	DamagePerBank:RIGHT 300.000000
-	Range 5000.000000
+	DamagePerBank:FRONT 250.000000
+	DamagePerBank:BACK 250.000000
+	DamagePerBank:LEFT 350.000000
+	DamagePerBank:RIGHT 350.000000
+	Range 5500.000000
 	PreBuffCooldownTime 5.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
@@ -180,8 +180,8 @@ TargetCountPerBank:BACK 2
 TargetCountPerBank:LEFT 3
 TargetCountPerBank:RIGHT 3
 canOnlyTargetStructures FALSE
-mass 75000.000000
-ShieldMeshName "Shield_Titan_Wraith_SuperHive"
+mass 100000.000000
+ShieldMeshName ""
 renderShield FALSE
 maxAccelerationLinear 100.000000
 maxAccelerationStrafe 10.000000
@@ -217,7 +217,7 @@ NumSoundsFor:ONSTARTPHASEJUMP 1
 SoundID "CAPITALSHIP_PSIBATTLESHIP_ONSTARTPHASEJUMP_0"
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "Titan_Wraith_SuperHive"
+	meshName "Titan_WraithAssault"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""

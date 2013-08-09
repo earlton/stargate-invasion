@@ -1,6 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 174
+brushCount 184
 brush
 	name "HUDICON_CORVETTE_ASURAN"
 	content "States"
@@ -1595,6 +1595,16 @@ brush
 	fileName "Unit_Main"
 	pixelBox [ 241 , 151 , 28 , 28 ]
 brush
+	name "HUDICONSMALL_FRIGATE_TAURIAG3TURRET"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 241 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_FRIGATE_ASURANLASERTURRET"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 241 , 151 , 28 , 28 ]
+brush
 	name "HUDICON_SQUADTAURICOMBAT"
 	content "States"
 	Disabled
@@ -2145,3 +2155,43 @@ brush
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 301 , 241 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_TITAN_TAURICARRIER"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 476 , 806 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_TITAN_TAURITARTARUS"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 445 , 806 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_TITAN_GOAULDANUBIS"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 476 , 806 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_TITAN_GOAULDAPOPHIS"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 445 , 806 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_TITAN_EPHEUS"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 476 , 740 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_TITAN_ATLANTIS"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 445 , 773 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_TITAN_WRAITHASSAULT"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 477 , 773 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_TITAN_WRAITHSUPERHIVE"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 445 , 740 , 28 , 28 ]

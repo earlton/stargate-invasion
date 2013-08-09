@@ -7,9 +7,9 @@ MeshData
 	MinBoundingExtents [ -12391.218750 -12391.218750 -12391.218750 ]
 	NumMaterials 1
 	Material
-		DiffuseTextureFileName "Axeldude_Planet_Ice_1-cl.dds"
-		SelfIlluminationTextureFileName "Axeldude_Planet_Darkside_2-da"
-		NormalTextureFileName ""
+		DiffuseTextureFileName "PlanetTerran01-cl.dds"
+		SelfIlluminationTextureFileName "PlanetTerran01-da.dds"
+		NormalTextureFileName "Black-da.dds"
 		DisplacementTextureFileName ""
 		TeamColorTextureFileName ""
 		Diffuse ffffffff
@@ -17,28 +17,7 @@ MeshData
 		Specular ffffffff
 		Emissive ffffffff
 		Glossiness 9.999999
-	NumPoints 3
-	Point
-		DataString "Above"
-		Position [ 0.000000 13529.937500 0.000000 ]
-		Orientation
-			 [ 1.000000 0.000000 0.000000 ]
-			 [ 0.000000 1.000000 0.000000 ]
-			 [ 0.000000 0.000000 1.000000 ]
-	Point
-		DataString "Aura"
-		Position [ 0.000000 -13529.937500 0.000000 ]
-		Orientation
-			 [ 1.000000 0.000000 0.000000 ]
-			 [ 0.000000 1.000000 0.000000 ]
-			 [ 0.000000 0.000000 1.000000 ]
-	Point
-		DataString "Center"
-		Position [ 0.000000 0.000000 0.000000 ]
-		Orientation
-			 [ 1.000000 0.000000 0.000000 ]
-			 [ 0.000000 1.000000 0.000000 ]
-			 [ 0.000000 0.000000 1.000000 ]
+	NumPoints 0
 	NumVertices 1255
 	Vertex
 		Position [ 202.617950 -12323.337891 -1279.287598 ]

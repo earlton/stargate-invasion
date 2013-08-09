@@ -74,7 +74,7 @@ brush
 		fileName "Unit_Hud2_Normal"
 		pixelBox [ 153 , 76 , 47 , 33 ]
 brush
-	name "HUDICON_RESEARCHSUBJECT_TITAN_WRAITHCARRIER"
+	name "HUDICON_RESEARCHSUBJECT_TITAN_WRAITHASSAULT"
 	content "States"
 	Disabled
 		fileName "Unit_Hud2_Disabled"

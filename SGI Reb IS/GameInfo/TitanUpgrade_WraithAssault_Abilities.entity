@@ -2,28 +2,28 @@
 entityType "TitanUpgrade"
 stageCount 5
 stage
-	nameStringID "IDS_TITANUPGRADE_WRAITHCARRIER_ABILITIES_NAME"
-	descStringID "IDS_TITANUPGRADE_WRAITHCARRIER_ABILITIES_DESCRIPTION"
+	nameStringID "IDS_TITANUPGRADE_WRAITHASSAULT_ABILITIES_NAME"
+	descStringID "IDS_TITANUPGRADE_WRAITHASSAULT_ABILITIES_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement -1
-	hudIcon "HUDIconTitanWraithCarrierAbilityUpgrade0"
-	smallHudIcon "HUDIconTitanWraithCarrierAbilityUpgrade0"
+	hudIcon "HUDIconTitanWraithAssaultAbilityUpgrade0"
+	smallHudIcon "HUDIconTitanWraithAssaultAbilityUpgrade0"
 	infoCardIcon ""
 	upgradePropertyCount 0
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_TITANUPGRADE_WRAITHCARRIER_ABILITIES_NAME"
-	descStringID "IDS_TITANUPGRADE_WRAITHCARRIER_ABILITIES_DESCRIPTION"
+	nameStringID "IDS_TITANUPGRADE_WRAITHASSAULT_ABILITIES_NAME"
+	descStringID "IDS_TITANUPGRADE_WRAITHASSAULT_ABILITIES_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 0
-	hudIcon "HUDIconTitanWraithCarrierAbilityUpgrade0"
-	smallHudIcon "HUDIconTitanWraithCarrierAbilityUpgrade0"
+	hudIcon "HUDIconTitanWraithAssaultAbilityUpgrade0"
+	smallHudIcon "HUDIconTitanWraithAssaultAbilityUpgrade0"
 	infoCardIcon ""
 	upgradePropertyCount 3
 	upgradeProperty
@@ -37,15 +37,15 @@ stage
 		value 0.050000
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_TITANUPGRADE_WRAITHCARRIER_ABILITIES_NAME"
-	descStringID "IDS_TITANUPGRADE_WRAITHCARRIER_ABILITIES_DESCRIPTION"
+	nameStringID "IDS_TITANUPGRADE_WRAITHASSAULT_ABILITIES_NAME"
+	descStringID "IDS_TITANUPGRADE_WRAITHASSAULT_ABILITIES_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 2
-	hudIcon "HUDIconTitanWraithCarrierAbilityUpgrade1"
-	smallHudIcon "HUDIconTitanWraithCarrierAbilityUpgrade1"
+	hudIcon "HUDIconTitanWraithAssaultAbilityUpgrade1"
+	smallHudIcon "HUDIconTitanWraithAssaultAbilityUpgrade1"
 	infoCardIcon ""
 	upgradePropertyCount 3
 	upgradeProperty
@@ -59,15 +59,15 @@ stage
 		value 0.100000
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_TITANUPGRADE_WRAITHCARRIER_ABILITIES_NAME"
-	descStringID "IDS_TITANUPGRADE_WRAITHCARRIER_ABILITIES_DESCRIPTION"
+	nameStringID "IDS_TITANUPGRADE_WRAITHASSAULT_ABILITIES_NAME"
+	descStringID "IDS_TITANUPGRADE_WRAITHASSAULT_ABILITIES_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 4
-	hudIcon "HUDIconTitanWraithCarrierAbilityUpgrade2"
-	smallHudIcon "HUDIconTitanWraithCarrierAbilityUpgrade2"
+	hudIcon "HUDIconTitanWraithAssaultAbilityUpgrade2"
+	smallHudIcon "HUDIconTitanWraithAssaultAbilityUpgrade2"
 	infoCardIcon ""
 	upgradePropertyCount 3
 	upgradeProperty
@@ -81,15 +81,15 @@ stage
 		value 0.150000
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_TITANUPGRADE_WRAITHCARRIER_ABILITIES_NAME"
-	descStringID "IDS_TITANUPGRADE_WRAITHCARRIER_ABILITIES_DESCRIPTION"
+	nameStringID "IDS_TITANUPGRADE_WRAITHASSAULT_ABILITIES_NAME"
+	descStringID "IDS_TITANUPGRADE_WRAITHASSAULT_ABILITIES_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 6
-	hudIcon "HUDIconTitanWraithCarrierAbilityUpgrade3"
-	smallHudIcon "HUDIconTitanWraithCarrierAbilityUpgrade3"
+	hudIcon "HUDIconTitanWraithAssaultAbilityUpgrade3"
+	smallHudIcon "HUDIconTitanWraithAssaultAbilityUpgrade3"
 	infoCardIcon ""
 	upgradePropertyCount 3
 	upgradeProperty

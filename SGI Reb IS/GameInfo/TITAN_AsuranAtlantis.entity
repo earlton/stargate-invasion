@@ -85,7 +85,7 @@ picture "TITANPICTURE_ASURANATLANTIS"
 Prerequisites
 	NumResearchPrerequisites 1
 		ResearchPrerequisite
-		Subject "RESEARCHSUBJECT_CAPITALSHIPACCESS_ASURAN_ATLANTIS"
+		Subject "RESEARCHSUBJECT_TITANACCESS_ASURANATLANTIS"
 		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0

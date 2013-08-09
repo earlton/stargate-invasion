@@ -2,28 +2,28 @@
 entityType "TitanUpgrade"
 stageCount 3
 stage
-	nameStringID "IDS_ABILITY_GOAULDTITANSOKARSWRATH_NAME"
-	descStringID "IDS_ABILITY_GOAULDTITANSOKARSWRATH_DESCRIPTION"
+	nameStringID "IDS_ABILITY_GOAULDTITANSTOLENTECHNOLOGY_NAME"
+	descStringID "IDS_ABILITY_GOAULDTITANSTOLENTECHNOLOGY_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement -1
-	hudIcon "HUDICON_ABILITY_GRAVITYPULSE"
-	smallHudIcon "HUDICON_ABILITY_GRAVITYPULSE"
+	hudIcon "HUDICON_ABILITY_GOAULDTITANSTOLENTECHNOLOGY"
+	smallHudIcon "HUDICON_ABILITY_GOAULDTITANSTOLENTECHNOLOGY"
 	infoCardIcon ""
 	upgradePropertyCount 0
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_ABILITY_GOAULDTITANSOKARSWRATH_NAME"
-	descStringID "IDS_ABILITY_GOAULDTITANSOKARSWRATH_DESCRIPTION"
+	nameStringID "IDS_ABILITY_GOAULDTITANSTOLENTECHNOLOGY_NAME"
+	descStringID "IDS_ABILITY_GOAULDTITANSTOLENTECHNOLOGY_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 4
-	hudIcon "HUDICON_ABILITY_GRAVITYPULSE"
-	smallHudIcon "HUDICON_ABILITY_GRAVITYPULSE"
+	hudIcon "HUDICON_ABILITY_GOAULDTITANSTOLENTECHNOLOGY"
+	smallHudIcon "HUDICON_ABILITY_GOAULDTITANSTOLENTECHNOLOGY"
 	infoCardIcon ""
 	upgradePropertyCount 1
 	upgradeProperty
@@ -31,15 +31,15 @@ stage
 		value 1.000000
 	upgradeBoolPropertyCount 0
 stage
-	nameStringID "IDS_ABILITY_GOAULDTITANSOKARSWRATH_NAME"
-	descStringID "IDS_ABILITY_GOAULDTITANSOKARSWRATH_DESCRIPTION"
+	nameStringID "IDS_ABILITY_GOAULDTITANSTOLENTECHNOLOGY_NAME"
+	descStringID "IDS_ABILITY_GOAULDTITANSTOLENTECHNOLOGY_DESCRIPTION"
 	researchPrerequisites
 		NumResearchPrerequisites 0
 		RequiredFactionNameID ""
 		RequiredCompletedResearchSubjects 0
 	levelRequirement 8
-	hudIcon "HUDICON_ABILITY_GRAVITYPULSE"
-	smallHudIcon "HUDICON_ABILITY_GRAVITYPULSE"
+	hudIcon "HUDICON_ABILITY_GOAULDTITANSTOLENTECHNOLOGY"
+	smallHudIcon "HUDICON_ABILITY_GOAULDTITANSTOLENTECHNOLOGY"
 	infoCardIcon ""
 	upgradePropertyCount 1
 	upgradeProperty

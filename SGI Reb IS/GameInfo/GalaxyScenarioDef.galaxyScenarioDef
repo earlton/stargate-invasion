@@ -1899,23 +1899,23 @@ planetItemType
 	designName "Artifact:MatterCompressor"
 	entityDefName "RESEARCHSUBJECT_ARTIFACT_TRADEINCOME"
 planetItemType
-	designName "Cosmetic:TitanTechLoyalist"	
-	entityDefName "TITAN_WraithCarrier_COSMETIC"
-planetItemType
-	designName "Cosmetic:TitanTechRebel"
-	entityDefName "TITAN_GoauldApophis_COSMETIC"
-planetItemType
 	designName "Cosmetic:TitanPsiLoyalist"
 	entityDefName "TITAN_WraithSuperHive_COSMETIC"
+planetItemType
+	designName "Cosmetic:TitanTechLoyalist"	
+	entityDefName "TITAN_WraithAssault_COSMETIC"
 planetItemType
 	designName "Cosmetic:TitanPsiRebel"
 	entityDefName "TITAN_AsuranAtlantis_COSMETIC"
 planetItemType
-	designName "Cosmetic:TitanPhaseLoyalist"
-	entityDefName "TITAN_GoauldAnubis_COSMETIC"
-planetItemType
 	designName "Cosmetic:TitanPhaseRebel"
 	entityDefName "TITAN_AsuranEpheus_COSMETIC"
+planetItemType
+	designName "Cosmetic:TitanTechRebel"
+	entityDefName "TITAN_GoauldApophis_COSMETIC"
+planetItemType
+	designName "Cosmetic:TitanPhaseLoyalist"
+	entityDefName "TITAN_GoauldAnubis_COSMETIC"
 planetItemType
 	designName "Pirate:Module:HangarDefense"
 	entityDefName "PLANETMODULE_TAURIORBITALHANGARDEFENSE"

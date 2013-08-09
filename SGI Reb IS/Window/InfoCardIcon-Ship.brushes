@@ -1,6 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 92
+brushCount 94
 brush
 	name "INFOCARDICON_CORVETTE_ASURAN"
 	content "Simple"
@@ -37,7 +37,7 @@ brush
 	fileName "Unit_Infocard"
 	pixelBox [ 318 , 93 , 22 , 22 ]
 brush
-	name "INFOCARDICON_TITAN_WRAITHCARRIER"
+	name "INFOCARDICON_TITAN_WRAITHASSAULT"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 326 , 119 , 22 , 22 ]
@@ -393,6 +393,16 @@ brush
 	pixelBox [ 185 , 70 , 22 , 22 ]
 brush
 	name "INFOCARDICON_FRIGATE_TURRETSIEGE"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 185 , 116 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_TAURIAG3TURRET"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 185 , 70 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_ASURANLASERTURRET"
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 185 , 116 , 22 , 22 ]
