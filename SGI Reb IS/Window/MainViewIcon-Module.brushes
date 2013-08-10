@@ -1,6 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 50
+brushCount 52
 brush
 	name "MAINVIEWICON_PLANETMODULE_TAURIORBITALTITANFACTORY"
 	content "Simple"
@@ -251,3 +251,13 @@ brush
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 271 , 61 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_TECHORBITALMETALEXTRACTOR"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 361 , 1 , 28 , 28 ]
+brush
+	name "MAINVIEWICON_PLANETMODULE_TECHORBITALCRYSTALEXTRACTOR"
+	content "Simple"
+	fileName "Unit_Main"
+	pixelBox [ 391 , 1 , 28 , 28 ]

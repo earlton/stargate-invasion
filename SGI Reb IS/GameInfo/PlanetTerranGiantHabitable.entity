@@ -1,56 +1,11 @@
 ﻿TXT
 entityType "Planet"
-meshInfoCount 4
+meshInfoCount 1
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_TERRANGIANT"
 	asteroidTemplate "Ring"
 	dustCloudTemplate "PuffyDense"
 	meshName "PlanetTerranGiantHabitable"
-	cloudColor ffed8b3b
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "HUDICON_PLANET_TERRANGIANT"
-	smallHudIcon "HUDICONSMALL_PLANET_TERRANGIANT"
-	infoCardIcon "INFOCARDICON_PLANET_TERRANGIANT"
-	mainViewIcon "MAINVIEWICON_PLANET_TERRANGIANT"
-	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_PLANET_TERRANGIANT"
-	picture "PICTURE_PLANET_TERRANGIANT"
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_TERRANGIANT"
-	asteroidTemplate "Ring"
-	dustCloudTemplate "PuffyDense"
-	meshName "PlanetTerranGiantHabitable_Moon1"
-	cloudColor ffed8b3b
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "HUDICON_PLANET_TERRANGIANT"
-	smallHudIcon "HUDICONSMALL_PLANET_TERRANGIANT"
-	infoCardIcon "INFOCARDICON_PLANET_TERRANGIANT"
-	mainViewIcon "MAINVIEWICON_PLANET_TERRANGIANT"
-	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_PLANET_TERRANGIANT"
-	picture "PICTURE_PLANET_TERRANGIANT"
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_TERRANGIANT"
-	asteroidTemplate "Ring"
-	dustCloudTemplate "PuffyDense"
-	meshName "PlanetTerranGiantHabitable_Moon2"
-	cloudColor ffed8b3b
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "HUDICON_PLANET_TERRANGIANT"
-	smallHudIcon "HUDICONSMALL_PLANET_TERRANGIANT"
-	infoCardIcon "INFOCARDICON_PLANET_TERRANGIANT"
-	mainViewIcon "MAINVIEWICON_PLANET_TERRANGIANT"
-	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_PLANET_TERRANGIANT"
-	picture "PICTURE_PLANET_TERRANGIANT"
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_TERRANGIANT"
-	asteroidTemplate "Ring"
-	dustCloudTemplate "PuffyDense"
-	meshName "PlanetTerranGiantHabitable_Moon3"
 	cloudColor ffed8b3b
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""

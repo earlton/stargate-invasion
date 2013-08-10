@@ -1,56 +1,11 @@
 ﻿TXT
 entityType "Planet"
-meshInfoCount 4
+meshInfoCount 1
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_ICEGIANT"
 	asteroidTemplate "Dense"
 	dustCloudTemplate "PuffyDense"
 	meshName "PlanetIceGiantHabitable"
-	cloudColor ffdafcff
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "HUDICON_PLANET_ICEGIANT"
-	smallHudIcon "HUDICONSMALL_PLANET_ICEGIANT"
-	infoCardIcon "INFOCARDICON_PLANET_ICEGIANT"
-	mainViewIcon "MAINVIEWICON_PLANET_ICEGIANT"
-	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_PLANET_ICEGIANT"
-	picture "PICTURE_PLANET_ICEGIANT"
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_ICEGIANT"
-	asteroidTemplate "Dense"
-	dustCloudTemplate "PuffyDense"
-	meshName "PlanetIceGiantHabitable_Moon1"
-	cloudColor ffdafcff
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "HUDICON_PLANET_ICEGIANT"
-	smallHudIcon "HUDICONSMALL_PLANET_ICEGIANT"
-	infoCardIcon "INFOCARDICON_PLANET_ICEGIANT"
-	mainViewIcon "MAINVIEWICON_PLANET_ICEGIANT"
-	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_PLANET_ICEGIANT"
-	picture "PICTURE_PLANET_ICEGIANT"
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_ICEGIANT"
-	asteroidTemplate "Dense"
-	dustCloudTemplate "PuffyDense"
-	meshName "PlanetIceGiantHabitable_Moon2"
-	cloudColor ffdafcff
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "HUDICON_PLANET_ICEGIANT"
-	smallHudIcon "HUDICONSMALL_PLANET_ICEGIANT"
-	infoCardIcon "INFOCARDICON_PLANET_ICEGIANT"
-	mainViewIcon "MAINVIEWICON_PLANET_ICEGIANT"
-	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_PLANET_ICEGIANT"
-	picture "PICTURE_PLANET_ICEGIANT"
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_ICEGIANT"
-	asteroidTemplate "Dense"
-	dustCloudTemplate "PuffyDense"
-	meshName "PlanetIceGiantHabitable_Moon3"
 	cloudColor ffdafcff
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""

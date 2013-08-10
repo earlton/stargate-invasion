@@ -1,6 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 99
+brushCount 101
 brush
 	name "HUDICON_ASURAN_TITAN_FOUNDRY"
 	content "States"
@@ -1133,3 +1133,39 @@ brush
 	content "Simple"
 	fileName "Unit_Main"
 	pixelBox [ 271 , 61 , 28 , 28 ]
+brush
+	name "HUDICON_PLANETMODULE_TECHORBITALMETALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 398 , 14 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed"
+		pixelBox [ 398 , 14 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver"
+		pixelBox [ 398 , 14 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 398 , 14 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 398 , 14 , 47 , 33 ]
+brush
+	name "HUDICON_PLANETMODULE_TECHORBITALCRYSTALEXTRACTOR"
+	content "States"
+	Disabled
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 447 , 14 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud_Pressed"
+		pixelBox [ 447 , 14 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud_CursorOver"
+		pixelBox [ 447 , 14 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 447 , 14 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 447 , 14 , 47 , 33 ]
