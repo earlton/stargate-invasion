@@ -1,6 +1,21 @@
 ﻿TXT
 entityType "Planet"
-meshInfoCount 4
+meshInfoCount 5
+meshInfo
+	typeNameStringID "IDS_PLANETTYPE_GASGIANT"
+	asteroidTemplate "Empty"
+	dustCloudTemplate "Empty"
+	meshName "Planet_GasGiant_1"
+	cloudColor 0
+	nullMeshRadius 0.000000
+	nullMeshParticleEffect ""
+	hudIcon "Axeldude_PLANET_GasGiant_1"
+	smallHudIcon "Axeldude_PLANET_GasGiant_1"
+	infoCardIcon "Axeldude_PLANET_GasGiant_1"
+	mainViewIcon "Axeldude_PLANET_GasGiant_1"
+	undetectedMainViewIcon "Axeldude_PLANET_GasGiant_1_Unknown"
+	picture ""
+	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_GASGIANT"
 	asteroidTemplate "Ring"
