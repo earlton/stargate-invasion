@@ -607,22 +607,22 @@ GameplayConstants
 	fleetSupplyData-Large
 		fleetSupplyScalar 2.50
 	shipPhysicsSpeedData-Slow
-		shipLinearMaxSpeedGameSpeedScalar 0.0
-		shipLinearAccelerationGameSpeedScalar 0.0
-		shipLinearDecelerationGameSpeedScalar 0.0
+		shipLinearMaxSpeedGameSpeedScalar 0.3
+		shipLinearAccelerationGameSpeedScalar 0.3
+		shipLinearDecelerationGameSpeedScalar 0.3
 	shipPhysicsSpeedData-Normal
-		shipLinearMaxSpeedGameSpeedScalar 0.30
-		shipLinearAccelerationGameSpeedScalar 0.30
-		shipLinearDecelerationGameSpeedScalar 0.30
-	shipPhysicsSpeedData-Fast
-		shipLinearMaxSpeedGameSpeedScalar 0.45
-		shipLinearAccelerationGameSpeedScalar 0.45
-		shipLinearDecelerationGameSpeedScalar 0.45
-	shipPhysicsSpeedData-Faster
 		shipLinearMaxSpeedGameSpeedScalar 0.6
 		shipLinearAccelerationGameSpeedScalar 0.6
 		shipLinearDecelerationGameSpeedScalar 0.6
-	victorySpeedData-Slow
+	shipPhysicsSpeedData-Fast
+		shipLinearMaxSpeedGameSpeedScalar 0.9
+		shipLinearAccelerationGameSpeedScalar 0.9
+		shipLinearDecelerationGameSpeedScalar 0.9
+	shipPhysicsSpeedData-Faster
+		shipLinearMaxSpeedGameSpeedScalar 1.2
+		shipLinearAccelerationGameSpeedScalar 1.2
+		shipLinearDecelerationGameSpeedScalar 1.2
+		victorySpeedData-Slow
 		diplomaticPointsRateSpeedScalar 0.66
 		occupyVictoryTimeScalar 1.5
 	victorySpeedData-Normal 
