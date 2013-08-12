@@ -333,8 +333,8 @@ planetRuinDef
 dlcId 204880
 ShieldMeshName "Shield_PlanetAsteroid"
 renderShield TRUE
-moveAreaRadius 32000.000000
-hyperspaceExitRadius 22000.000000
+moveAreaRadius 64000.000000
+hyperspaceExitRadius 52000.000000
 isWormhole FALSE
 maxStarBaseCountPerPlayer 1
 maxSpaceMineCountPerPlayer 150

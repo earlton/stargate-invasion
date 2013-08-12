@@ -44,7 +44,7 @@ cultureSpreadRate 0.000000
 isAffectedBySimilarModuleCostResearch FALSE
 placementRadius 1000.000000
 nearPlacementDistOffset 50.000000
-farPlacementDistOffset 250.000000
+farPlacementDistOffset 5250.000000
 spawnCount 1
 swapMineType ""
 angularSpeed 500.750000

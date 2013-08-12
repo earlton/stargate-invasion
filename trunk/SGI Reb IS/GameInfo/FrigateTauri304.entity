@@ -53,38 +53,38 @@ Weapon
 		DamageApplyType "BACKLOADED"
 		DamageType "PHYSICAL"
 		WeaponClassType "AUTOCANNON"
-	DamagePerBank:FRONT 20.000000
+	DamagePerBank:FRONT 40.000000
 	DamagePerBank:BACK 10.000000
-	DamagePerBank:LEFT 15.000000
-	DamagePerBank:RIGHT 15.000000
+	DamagePerBank:LEFT 20.000000
+	DamagePerBank:RIGHT 20.000000
 	Range 5500.000000
 	PreBuffCooldownTime 3.000000
 	CanFireAtFighter TRUE
 	SynchronizedTargeting FALSE
 	PointStaggerDelay 0.450000
-	TravelSpeed 1275.000000
+	TravelSpeed 4000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
 	WeaponEffects
 		weaponType "Projectile"
-		burstCount 3
-		burstDelay 2.050000
+		burstCount 6
+		burstDelay 0.500000
 		fireDelay 0.000000
-		muzzleEffectName "Weapon_Human_Muzzle"
-		muzzleSoundMinRespawnTime 1.770000
+		muzzleEffectName "Weapon_Tech_CapitalLaser_Muzzle"
+		muzzleSoundMinRespawnTime 0.500000
 		muzzleSounds
 			soundCount 3
 			sound "WEAPON_TECHCAPITALAUTOCANNONHEAVY_MUZZLE"
 			sound "WEAPON_TECHCAPITALAUTOCANNONHEAVY_MUZZLE_ALT1"
 			sound "WEAPON_TECHCAPITALAUTOCANNONHEAVY_MUZZLE_ALT2"
-		hitEffectName "Weapon_HumanRailguns_Hit"
+		hitEffectName "Weapon_Tech_AutoCannonCapShip_Hit"
 		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
 		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
-		projectileTravelEffectName "Weapon_HumanRailgunGold_Travel"
+		projectileTravelEffectName "Weapon_Tech_AutoCannonCapShip_Travel"
 Weapon
 	WeaponType "Missile"
 	damageEnums
@@ -95,20 +95,20 @@ Weapon
 		WeaponClassType "MISSILE"
 	DamagePerBank:FRONT 250.000000
 	DamagePerBank:BACK 0.000000
-	DamagePerBank:LEFT 0.000000
-	DamagePerBank:RIGHT 0.000000
+	DamagePerBank:LEFT 100.000000
+	DamagePerBank:RIGHT 100.000000
 	Range 6000.000000
-	PreBuffCooldownTime 8.000000
+	PreBuffCooldownTime 10.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
-	PointStaggerDelay 1.000000
-	TravelSpeed 1050.000000
+	PointStaggerDelay 0.500000
+	TravelSpeed 1450.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
 	WeaponEffects
 		weaponType "Missile"
 		burstCount 3
-		burstDelay 0.250000
+		burstDelay 0.500000
 		fireDelay 0.000000
 		muzzleEffectName "Weapon_TechCapitalPlanetBombing_Muzzle"
 		muzzleSoundMinRespawnTime 0.350000
@@ -127,56 +127,62 @@ Weapon
 			sound "EXPLOSION_SUB4_ALT1"
 			sound "EXPLOSION_SUB4_ALT2"
 		missileTravelEffectName "Weapon_HumanMissileHeavy_Travel"
-		missileStartTurningDistance 0.005000
-		missileSlowTurnRate 3.708997
-		missileMaxSlowTurnTime 12.000000
+		missileStartTurningDistance 0.50000
+		missileSlowTurnRate 1.500000
+		missileMaxSlowTurnTime 10.000000
 Weapon
-	WeaponType "Projectile"
+	WeaponType "Beam"
 	damageEnums
 		AttackType "ANTIHEAVY"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
 		DamageType "ENERGY"
-		WeaponClassType "PLASMA"
-	DamagePerBank:FRONT 120.000000
-	DamagePerBank:BACK 30.000000
-	DamagePerBank:LEFT 50.000000
-	DamagePerBank:RIGHT 50.000000
+		WeaponClassType "BEAM"
+	DamagePerBank:FRONT 1250.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
 	Range 6500.000000
-	PreBuffCooldownTime 8.000000
+	PreBuffCooldownTime 10.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
-	PointStaggerDelay 1.500000
-	TravelSpeed 1275.000000
-	Duration 0.000000
+	PointStaggerDelay 1.300000
+	TravelSpeed 0.000000
+	Duration 1.000000
 	fireConstraintType "Research"
 	researchPrerequisites
 		NumResearchPrerequisites 1
 		ResearchPrerequisite
-			Subject "RESEARCHSUBJECT_WEAPONACCESS_ASGARDPLASMAPULSETAURI"
+			Subject "RESEARCHSUBJECT_ABILITYACCESS_ASGARDBEAMSTAURI"
 			Level 1
-	RequiredFactionNameID ""
-	RequiredCompletedResearchSubjects 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
 	WeaponEffects
-		weaponType "Projectile"
-		burstCount 5
-		burstDelay 0.100000
+		weaponType "Beam"
+		burstCount 1
+		burstDelay 0.000000
 		fireDelay 0.000000
-		muzzleEffectName "Weapon_AsgardPulse_Muzzle"
-		muzzleSoundMinRespawnTime 0.210000
+		muzzleEffectName "Weapon_Psi_BeamCapital_Muzzle"
+		muzzleSoundMinRespawnTime 1.30000
 		muzzleSounds
-			soundCount 3
-			sound "WEAPON_PSICAPITALPLASMAMEDIUM_MUZZLE"
-			sound "WEAPON_PSICAPITALPLASMAMEDIUM_MUZZLE_ALT1"
-			sound "WEAPON_PSICAPITALPLASMAMEDIUM_MUZZLE_ALT2"
-		hitEffectName "Weapon_PsiCapitalPlasmaMedium_Hit"
+			soundCount 1
+			sound "WEAPON_ASGARDBEAMS_MUZZLE"
+		hitEffectName "Weapon_Psi_BeamCapital_Hit"
 		hitHullEffectSounds
 			soundCount 1
-			sound "WEAPONIMPACT_ENERGYMEDIUM_HITHULL"
+			sound ""
 		hitShieldsEffectSounds
 			soundCount 1
-			sound "WEAPONIMPACT_GENERICMEDIUM_HITSHIELDS"
-		projectileTravelEffectName "Weapon_AsgardPulseMedium_Travel"
+			sound ""
+		beamEffectSounds
+			soundCount 1
+			sound ""
+		beamGlowTextureName "PsiCapitalBeam_Glow"
+		beamCoreTextureName "PsiCapitalBeam_Core"
+		beamWidth 20.000000
+		beamGlowColor ffffffff
+		beamCoreColor ffffffff
+		beamTilingRate 3.000000	
 m_weaponIndexForRange 0
 firingAlignmentType "Default"
 TargetCountPerBank:FRONT 1
@@ -234,7 +240,7 @@ ExplosionName "Frigate0"
 HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
 HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_TECHCAPITALSHIP"
-ability:0 "AbilityAsgardBeamsFrigate"
+ability:0 ""
 ability:1 "AbilityBattleSystems"
 ability:2 "Ability304Nuke"
 ability:3 ""
