@@ -5,7 +5,7 @@ meshInfo
 	typeNameStringID "IDS_PLANETTYPE_TERRAN"
 	asteroidTemplate "Empty"
 	dustCloudTemplate "Sparse"
-	meshName "Planet_TerranHome_0_Upscaled"
+	meshName "Planet_TerranHome_0_IS2"
 	cloudColor ffffffff
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""
