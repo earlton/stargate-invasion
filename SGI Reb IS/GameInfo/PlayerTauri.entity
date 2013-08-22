@@ -888,22 +888,22 @@ raceRelationsModifier
 	factionRelationsModCount 0
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_WRAITH"
-	modifierMin -1.000000
+	modifierMin -1.500000
 	modifierMax -0.100000
 	factionRelationsModCount 0
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_ASURAN"
-	modifierMin -1.000000
+	modifierMin -1.500000
 	modifierMax -0.500000
 	factionRelationsModCount 0
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_ASGARD"
-	modifierMin -1.000000
-	modifierMax -0.500000
+	modifierMin -0.500000
+	modifierMax -0.100000
 	factionRelationsModCount 0
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_GOAULD"
-	modifierMin -1.000000
+	modifierMin -1.500000
 	modifierMax -0.500000
 	factionRelationsModCount 0
 defaultFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
