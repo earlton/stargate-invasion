@@ -5,7 +5,7 @@ meshInfo
 	typeNameStringID "IDS_PLANETTYPE_GASGIANT"
 	asteroidTemplate "Empty"
 	dustCloudTemplate "Empty"
-	meshName "Planet_GasGiant_1"
+	meshName "Planet_GasGiant_3"
 	cloudColor 0
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""
@@ -20,7 +20,7 @@ meshInfo
 	typeNameStringID "IDS_PLANETTYPE_GASGIANT"
 	asteroidTemplate "Ring"
 	dustCloudTemplate "PuffyDense"
-	meshName "Planet_Gas_0"
+	meshName "Planet_GasGiant_0"
 	cloudColor 0
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""
@@ -35,7 +35,7 @@ meshInfo
 	typeNameStringID "IDS_PLANETTYPE_GASGIANT"
 	asteroidTemplate "Empty"
 	dustCloudTemplate "GrittyDense"
-	meshName "Planet_Gas_1"
+	meshName "Planet_GasGiant_4"
 	cloudColor 0
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""
@@ -50,7 +50,7 @@ meshInfo
 	typeNameStringID "IDS_PLANETTYPE_GASGIANT"
 	asteroidTemplate "Empty"
 	dustCloudTemplate "Empty"
-	meshName "Planet_Gas_1"
+	meshName "Planet_GasGiant_2"
 	cloudColor 0
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""
@@ -65,7 +65,7 @@ meshInfo
 	typeNameStringID "IDS_PLANETTYPE_GASGIANT"
 	asteroidTemplate "Empty"
 	dustCloudTemplate "PuffySparse"
-	meshName "Planet_Gas_0"
+	meshName "Planet_GasGiant_0"
 	cloudColor 0
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""

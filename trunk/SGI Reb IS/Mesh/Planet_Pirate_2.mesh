@@ -7,7 +7,7 @@ MeshData
 	MinBoundingExtents [ -4957.230835 -4957.230835 -4957.230835 ]
 	NumMaterials 1
 	Material
-		DiffuseTextureFileName "Axeldude_Planet_Sol_Luna-cl"
+		DiffuseTextureFileName "Axeldude_Planet_Pirate_2-cl"
 		SelfIlluminationTextureFileName ""
 		NormalTextureFileName ""
 		DisplacementTextureFileName ""

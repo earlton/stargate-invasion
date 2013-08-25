@@ -53,3 +53,14 @@ quitButton
 	overlay "ScreenButtonOverlayLarge"			
 	icon "MainMenuScreenQuitButton"
 	text "IDSMainMenuScreenQuitButton"
+dlcButton
+	area [23, 707, 220, 46]
+	fontId "ButtonLabel"
+	iconOffsetFromLeft 32
+	textOffsetFromLeft 0
+	underlay "DLCButtonStates"
+	overlay ""			
+	icon ""
+	text "IDSMainMenuScreenDLCButton"
+dlcBack ""
+dlcBackRefArea [15, 545, 250, 213]
