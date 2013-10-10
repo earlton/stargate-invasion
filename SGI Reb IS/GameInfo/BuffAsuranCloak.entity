@@ -29,13 +29,14 @@ overTimeAction
 		Level:2 0.000000
 		Level:3 0.000000
 numEntityModifiers 0
-numEntityBoolModifiers 6
+numEntityBoolModifiers 7
 entityBoolModifier "IsIllusionShip"
 entityBoolModifier "DisableWeapons"
 entityBoolModifier "DisableWeaponsUltimate"
 entityBoolModifier "CannotBeDamaged"
 entityBoolModifier "DisableRegeneration"
 entityBoolModifier "DisableFighterLaunch"
+entityBoolModifier "DisableAbilities"
 numFinishConditions 2
 finishCondition
 	finishConditionType "AntiMatterDepleted"
