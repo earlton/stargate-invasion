@@ -2832,6 +2832,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup ""
 	themeIndex 0
 	pictureGroup ""
@@ -2848,6 +2849,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup ""
 	themeIndex 0
 	pictureGroup ""
@@ -2864,6 +2866,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup ""
 	themeIndex 0
 	pictureGroup ""
@@ -2880,6 +2883,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup ""
 	themeIndex 0
 	pictureGroup ""

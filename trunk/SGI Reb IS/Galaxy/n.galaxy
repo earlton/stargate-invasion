@@ -4882,6 +4882,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup ""
 	themeIndex 0
 	pictureGroup ""
@@ -4898,6 +4899,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup ""
 	themeIndex 0
 	pictureGroup ""
@@ -4914,6 +4916,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup ""
 	themeIndex 0
 	pictureGroup ""
@@ -4930,14 +4933,15 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup ""
 	themeIndex 0
 	pictureGroup ""
 	pictureIndex 0
 player
-	designName "Jaffa Nation "
-	inGameName "Jaffa Nation "
-	overrideRaceName "Jaffa Nation "
+	designName "Jaffa"
+	inGameName "Jaffa Nation"
+	overrideRaceName "Jaffa Nation"
 	teamIndex -1
 	startingCredits 3000
 	startingMetal 2800
@@ -4946,13 +4950,14 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup ""
 	themeIndex 0
 	pictureGroup ""
 	pictureIndex 0
 player
-	designName "Apophis "
-	inGameName "Apophis "
+	designName "Apophis"
+	inGameName "Apophis"
 	overrideRaceName ""
 	teamIndex -1
 	startingCredits 3000
@@ -4962,6 +4967,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup ""
 	themeIndex 0
 	pictureGroup ""

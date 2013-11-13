@@ -1264,7 +1264,7 @@ orbitBodyType
 	typeName "AsteroidSpaceJunkFair"
 	entityDefName "PlanetAsteroidSpaceJunkFair"
 	defaultTemplateName ""		
-orbitBodyType	
+orbitBodyType
 	typeName "GasGiant"
 	entityDefName "PlanetGasGiant"
 	defaultTemplateName "Template:DefaultStart_GasGiant"	
@@ -2964,6 +2964,7 @@ player
 	isRaidingPlayer TRUE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup "SpecialNPC"
 	themeIndex 0
 	pictureGroup "NPC"
@@ -2980,6 +2981,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer TRUE
+	isMadVasariPlayer FALSE
 	themeGroup "NPC"
 	themeIndex 0
 	pictureGroup "NPC"
@@ -2998,6 +3000,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup "NPC"
 	themeIndex 2
 	pictureGroup "NPC"
@@ -3014,6 +3017,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup "NPC"
 	themeIndex 3
 	pictureGroup "NPC"
@@ -3030,6 +3034,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup "NPC"
 	themeIndex 4
 	pictureGroup "NPC"
@@ -3046,6 +3051,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup "NPC"
 	themeIndex 5
 	pictureGroup "NPC"
@@ -3062,6 +3068,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup "NPC"
 	themeIndex 6
 	pictureGroup "NPC"
@@ -3078,6 +3085,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup "NPC"
 	themeIndex 7
 	pictureGroup "NPC"
@@ -3094,6 +3102,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup "NPC"
 	themeIndex 8
 	pictureGroup "NPC"
@@ -3110,6 +3119,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup "NPC"
 	themeIndex 9
 	pictureGroup "NPC"
@@ -3126,6 +3136,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup "NPC"
 	themeIndex 10
 	pictureGroup "NPC"
@@ -3142,6 +3153,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup "NPC"
 	themeIndex 11
 	pictureGroup "NPC"
@@ -3158,6 +3170,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup "NPC"
 	themeIndex 12
 	pictureGroup "NPC"
@@ -3174,6 +3187,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup "NPC"
 	themeIndex 13
 	pictureGroup "NPC"
@@ -3190,6 +3204,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup "NPC"
 	themeIndex 14
 	pictureGroup "NPC"
@@ -3206,6 +3221,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup "NPC"
 	themeIndex 15
 	pictureGroup "NPC"
@@ -3222,6 +3238,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup "NPC"
 	themeIndex 16
 	pictureGroup "NPC"
@@ -3238,6 +3255,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup "NPC"
 	themeIndex 17
 	pictureGroup "NPC"
@@ -3254,6 +3272,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup "NPC"
 	themeIndex 18
 	pictureGroup "NPC"
@@ -3270,6 +3289,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup "NPC"
 	themeIndex 19
 	pictureGroup "NPC"
@@ -3286,6 +3306,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup "NPC"
 	themeIndex 20
 	pictureGroup "NPC"
@@ -3302,6 +3323,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup "NPC"
 	themeIndex 21
 	pictureGroup "NPC"
